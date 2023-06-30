@@ -1,0 +1,92 @@
+[
+  {
+    "path": "E:\\Nintendo Switch\\ROM Updates\\Demon Slayer The Hinokami Chronicles [DLC Tengen Uzui Character Pack] [0100309016E7B005][v0].nsp",
+    "dlc_nca_list": [
+      {
+        "path": "/5581316fa6bf0a75af414ca3280269f2.nca",
+        "title_id": 72110989455634437,
+        "is_enabled": true
+      }
+    ]
+  },
+  {
+    "path": "E:\\Nintendo Switch\\ROM Updates\\Demon Slayer The Hinokami Chronicles [DLC Nezuko Kamado Advanced Demon Form Character Pack] [0100309016E7B006][v0].nsp",
+    "dlc_nca_list": [
+      {
+        "path": "/a801541751738b4b99ca31b779f78ee1.nca",
+        "title_id": 72110989455634438,
+        "is_enabled": true
+      }
+    ]
+  },
+  {
+    "path": "E:\\Nintendo Switch\\ROM Updates\\Demon Slayer The Hinokami Chronicles [DLC Kamamon Tanjiro You Guo Chapter Character Pack] [0100309016E7B007][v0].nsp",
+    "dlc_nca_list": [
+      {
+        "path": "/84831ca5cac756b6def3a8779c9859d9.nca",
+        "title_id": 72110989455634439,
+        "is_enabled": true
+      }
+    ]
+  },
+  {
+    "path": "E:\\Nintendo Switch\\ROM Updates\\Demon Slayer The Hinokami Chronicles [DLC Inosuke Hashibira Red Light District] [0100309016E7B009][v0].nsp",
+    "dlc_nca_list": [
+      {
+        "path": "/32200cb41a015a1a26da03b604386886.nca",
+        "title_id": 72110989455634441,
+        "is_enabled": true
+      }
+    ]
+  },
+  {
+    "path": "E:\\Nintendo Switch\\ROM Updates\\Demon Slayer The Hinokami Chronicles [DLC Gyutaro Character Pack] [0100309016E7B00B][v0].nsp",
+    "dlc_nca_list": [
+      {
+        "path": "/22bcef7fa5742f7382bc34256341eef5.nca",
+        "title_id": 72110989455634443,
+        "is_enabled": true
+      }
+    ]
+  },
+  {
+    "path": "E:\\Nintendo Switch\\ROM Updates\\Demon Slayer The Hinokami Chronicles [DLC Daki Character Pack] [0100309016E7B00A][v0].nsp",
+    "dlc_nca_list": [
+      {
+        "path": "/750c7c9d8191e622cef4eb471fb7d607.nca",
+        "title_id": 72110989455634442,
+        "is_enabled": true
+      }
+    ]
+  },
+  {
+    "path": "E:\\Nintendo Switch\\ROM Updates\\Demon Slayer The Hinokami Chronicles [DLC Character Unlock Tanjiro Kamado] [0100309016E7B001][v0].nsp",
+    "dlc_nca_list": [
+      {
+        "path": "/47301740473998966c3e960ecb905e30.nca",
+        "title_id": 72110989455634433,
+        "is_enabled": true
+      }
+    ]
+  },
+  {
+    "path": "E:\\Nintendo Switch\\ROM Updates\\Demon Slayer The Hinokami Chronicles [DLC Character Unlock Nezuko Kamado, Zenitsu Agatsuma, Inosuke Hashibira] [0100309016E7B002][v0].nsp",
+    "dlc_nca_list": [
+      {
+        "path": "/5fe5f32b22ce899fba3ed21b0f91d545.nca",
+        "title_id": 72110989455634434,
+        "is_enabled": true
+      }
+    ]
+  },
+  {
+    "path": "E:\\Nintendo Switch\\ROM Updates\\Demon Slayer The Hinokami Chronicles [DLC Azuma Zenitsu Red Light District] [0100309016E7B008][v0].nsp",
+    "dlc_nca_list": [
+      {
+        "path": "/c8ee1be0c8070678560ae78236db4db2.nca",
+        "title_id": 72110989455634440,
+        "is_enabled": true
+      }
+    ]
+  }
+]
