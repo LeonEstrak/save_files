@@ -1,0 +1,57 @@
+---
+name: Hades
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:15.966851700Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/Saved Games/Hades/Hades.log":
+        hash: 8e741c884cac329956b72dcf43c51841c26653d1
+        size: 62322
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1.sav":
+        hash: 4c6310c5220052a7eb191276d657f6120db68f2d
+        size: 469647
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1.sav.bak":
+        hash: 1b0a9a7af2450b7f52db8b0bd174535e1b9adc95
+        size: 468730
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1.sav.bak1":
+        hash: 480978908067357273382ee7d5845a2171cfc4be
+        size: 359219
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1.sav.bak2":
+        hash: dcbf2d7dc25dd6e2cc437d87c19efda3acfa3d71
+        size: 372307
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1.sav.bak3":
+        hash: 4abcd998627371cd525aa3ee345738b4bccf75ac
+        size: 438525
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1.sjson":
+        hash: 1d8a0ce59d796a6315b16a41629dca37b4361f7f
+        size: 326
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1.sjson.bak":
+        hash: 1d8a0ce59d796a6315b16a41629dca37b4361f7f
+        size: 326
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1.v.sav":
+        hash: 426d3d31ff4902ef3c926d1130ce48150f1d83f6
+        size: 9
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1.v.sav.bak":
+        hash: 426d3d31ff4902ef3c926d1130ce48150f1d83f6
+        size: 9
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1_Temp.sav":
+        hash: 88c95b6901d4f81a5f8459df2266791f24e0a362
+        size: 394876
+      "C:/Users/user/Documents/Saved Games/Hades/Profile1_Temp.sav.bak":
+        hash: b1f0bbf92e3f5c819444b0b5426f8f359d230ee7
+        size: 387165
+      "C:/Users/user/Documents/Saved Games/Hades/activeProfile":
+        hash: 459c353807cb63fcb0c79b15a0c92c338430dd0c
+        size: 16
+      "C:/Users/user/Documents/Saved Games/Hades/activeProfile.bak":
+        hash: 459c353807cb63fcb0c79b15a0c92c338430dd0c
+        size: 16
+      "C:/Users/user/Documents/Saved Games/Hades/steam_autocloud.vdf":
+        hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
+        size: 52
+    registry:
+      hash: ~
+    children: []

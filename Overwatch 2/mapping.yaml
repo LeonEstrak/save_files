@@ -1,0 +1,15 @@
+---
+name: Overwatch 2
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:10.729683200Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/Overwatch/Settings/Settings_v0.ini":
+        hash: 08381278f08aee6e836261abe9572305c0968703
+        size: 442
+    registry:
+      hash: ~
+    children: []

@@ -1,0 +1,90 @@
+---
+name: Returnal
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:12.054108300Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/CrashReportClient/UE4CC-Windows-A837EEC545FDBEA76EACE7AFEE96B768/CrashReportClient.ini":
+        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
+        size: 112
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/ApexDestruction.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/ControlRig.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/Engine.ini":
+        hash: dfbb1e63fc1e1d745be498ad0916d850cf1d8b77
+        size: 1672
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/Game.ini":
+        hash: 862d78ae5be37fc44c079a74cfb96f137d367454
+        size: 181
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
+        hash: 1c817a118c1eab8f42172efea5d03b01d9c34df6
+        size: 2113
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/GameplayAbilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/GameplayTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/HMQFlora.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/HMQGame.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/HMQTouristTech.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/LiveLink.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/NGParticles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/Config/WindowsNoEditor/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/SaveGames/SaveProfile.sav":
+        hash: 33081421a232122876189b3e6b8a88919fef8a5b
+        size: 178105
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/SaveGames/SaveProfile.susres.sav":
+        hash: 1ee73dd7aa54f8d8db40d7c1bcf5b3665e54c367
+        size: 1445931
+      "C:/Users/user/AppData/Local/Returnal/Steam/Saved/SaveGames/SaveProfile.susresvalid.sav":
+        hash: 5785b23a6ea1c2c0d6f82a792dac2ef803d797ce
+        size: 1397
+    registry:
+      hash: ~
+    children: []

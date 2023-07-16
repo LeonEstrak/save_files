@@ -1,0 +1,42 @@
+---
+name: Have a Nice Death
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:47:59.003098800Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/LocalLow/MagicDesignStudio/HaveANiceDeath/Normal_save_game_0.gd":
+        hash: 14f0e1bb4e99b10f97803d18ad7623220862763b
+        size: 512449
+      "C:/Users/user/AppData/LocalLow/MagicDesignStudio/HaveANiceDeath/Player-prev.log":
+        hash: 3751eab734b3de677dce097abe77e464904e3b82
+        size: 28585
+      "C:/Users/user/AppData/LocalLow/MagicDesignStudio/HaveANiceDeath/Player.log":
+        hash: 62487f01891c3c4c6cb01a802ac0dc3c4e37c109
+        size: 91134
+      "C:/Users/user/AppData/LocalLow/MagicDesignStudio/HaveANiceDeath/Unity/ba655d6c-ebc9-416c-a1d8-a6cf4d2197c1/Analytics/ArchivedEvents/168888881800008.a6d9e01d/c":
+        hash: 77de68daecd823babbb58edb1c8e14d7106e83bb
+        size: 1
+      "C:/Users/user/AppData/LocalLow/MagicDesignStudio/HaveANiceDeath/Unity/ba655d6c-ebc9-416c-a1d8-a6cf4d2197c1/Analytics/ArchivedEvents/168888881800008.a6d9e01d/e":
+        hash: 5cf3d2d723a3916b15c7e7e7cd36683d0830fd7a
+        size: 810
+      "C:/Users/user/AppData/LocalLow/MagicDesignStudio/HaveANiceDeath/Unity/ba655d6c-ebc9-416c-a1d8-a6cf4d2197c1/Analytics/ArchivedEvents/168888881800008.a6d9e01d/g":
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      "C:/Users/user/AppData/LocalLow/MagicDesignStudio/HaveANiceDeath/Unity/ba655d6c-ebc9-416c-a1d8-a6cf4d2197c1/Analytics/ArchivedEvents/168888881800008.a6d9e01d/s":
+        hash: f770da69eb965d16b9a2ada32fb326c5d5fcab2b
+        size: 440
+      "C:/Users/user/AppData/LocalLow/MagicDesignStudio/HaveANiceDeath/Unity/ba655d6c-ebc9-416c-a1d8-a6cf4d2197c1/Analytics/config":
+        hash: 8c500cb6373f803b2d5bce6b9cc068995be909d1
+        size: 304
+      "C:/Users/user/AppData/LocalLow/MagicDesignStudio/HaveANiceDeath/Unity/ba655d6c-ebc9-416c-a1d8-a6cf4d2197c1/Analytics/values":
+        hash: 587a1d6c8f18bf35b69228f792604804f81df2a5
+        size: 131
+      "C:/Users/user/AppData/LocalLow/MagicDesignStudio/HaveANiceDeath/desktop.ini":
+        hash: 7162ddec9468d1caa540bf90f1f662469d99f0a2
+        size: 100
+    registry:
+      hash: ~
+    children: []

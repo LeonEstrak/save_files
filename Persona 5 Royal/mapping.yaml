@@ -1,0 +1,36 @@
+---
+name: Persona 5 Royal
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:03.598566700Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Packages/SEGAofAmericaInc.F0cb6b3aer_s751p9cej88mt/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000073272DCF/B1C3C7B3885045A4AF7B76AEB4D9DF44/9EE9B1C4AC0F457EA14D13DB9B802F18":
+        hash: 80cea71011e6b3b0b16c278ce3cf43d94d070ea9
+        size: 5232
+      "C:/Users/user/AppData/Local/Packages/SEGAofAmericaInc.F0cb6b3aer_s751p9cej88mt/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000073272DCF/B1C3C7B3885045A4AF7B76AEB4D9DF44/container.8":
+        hash: 456e7aaeba507f0642e64c6e04c105a3fee96d46
+        size: 168
+      "C:/Users/user/AppData/Local/Packages/SEGAofAmericaInc.F0cb6b3aer_s751p9cej88mt/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000073272DCF/FAFA77189FD04E31B3E843AC181E948F/8019557F8CB64BBAB0216F861745BB43":
+        hash: 8c35c395fe35a6dbd25febf5a121db82c423f93f
+        size: 576
+      "C:/Users/user/AppData/Local/Packages/SEGAofAmericaInc.F0cb6b3aer_s751p9cej88mt/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000073272DCF/FAFA77189FD04E31B3E843AC181E948F/container.19":
+        hash: d27d27922c6a98c7d7cbd05b90b19b48dc27246c
+        size: 168
+      "C:/Users/user/AppData/Local/Packages/SEGAofAmericaInc.F0cb6b3aer_s751p9cej88mt/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000073272DCF/containers.index":
+        hash: 3aa408afcd181133840f86db92600a68dd3f8a5b
+        size: 440
+      "C:/Users/user/AppData/Roaming/SEGA/P5R/Microsoft/ScreenSetting.xml":
+        hash: a5ebad3ad8fd8548c80c90353c1666cd5d2fa470
+        size: 118
+      "C:/Users/user/AppData/Roaming/SEGA/P5R/Microsoft/db/metadata":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "C:/Users/user/AppData/Roaming/SEGA/P5R/Microsoft/db/settings.dat":
+        hash: 49bc1d185178926b9bd1689d6d0867ad85a28b73
+        size: 40
+    registry:
+      hash: ~
+    children: []

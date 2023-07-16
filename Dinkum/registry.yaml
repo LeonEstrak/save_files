@@ -1,0 +1,111 @@
+---
+HKEY_CURRENT_USER:
+  "SOFTWARE\\James Bendon\\Dinkum":
+    I2SourceVersion_I2Languages11J-x5-VCyyy89052xxRmm8hO4SqL65mELsd5xnLy4s8_h3998090223:
+      binary:
+        - 49
+        - 54
+        - 56
+        - 49
+        - 48
+        - 50
+        - 48
+        - 49
+        - 57
+        - 48
+        - 55
+        - 56
+        - 57
+        - 0
+    LastGoogleUpdate_I2Languages11J-x5-VCyyy89052xxRmm8hO4SqL65mELsd5xnLy4s8_h4077187265:
+      binary:
+        - 48
+        - 57
+        - 45
+        - 48
+        - 52
+        - 45
+        - 50
+        - 48
+        - 50
+        - 51
+        - 32
+        - 49
+        - 55
+        - 58
+        - 52
+        - 56
+        - 58
+        - 53
+        - 50
+        - 0
+    Screenmanager Fullscreen mode Default_h401710285:
+      dword: 1
+    Screenmanager Fullscreen mode_h3630240806:
+      dword: 1
+    Screenmanager Resolution Height Default_h1380706816:
+      dword: 768
+    Screenmanager Resolution Height_h2627697771:
+      dword: 1080
+    Screenmanager Resolution Use Native Default_h1405981789:
+      dword: 1
+    Screenmanager Resolution Use Native_h1405027254:
+      dword: 1
+    Screenmanager Resolution Width Default_h680557497:
+      dword: 1024
+    Screenmanager Resolution Width_h182942802:
+      dword: 1920
+    Screenmanager Stereo 3D_h1665754519:
+      dword: 1
+    UnitySelectMonitor_h17969598:
+      dword: 0
+    animateJournal_h801912319:
+      dword: 1
+    cameraXSpeed_h814500643:
+      dword: 0
+    cameraYSpeed_h851331714:
+      dword: 0
+    canvasScale_h1938378453:
+      dword: 1
+    chunkDistance_h33993693:
+      dword: 8
+    invertYFree_h2029638938:
+      dword: 1
+    mapFacesNorth_h2452014276:
+      dword: 1
+    masterVolume_h3359004273:
+      dword: 536870912
+    musicVolume_h2184803148:
+      dword: 0
+    refreshRate_h3924614906:
+      dword: 1
+    textSpeed_h3646882623:
+      dword: 1
+    toggleLook_h3784177776:
+      dword: 1
+    unity.player_session_count_h922449978:
+      binary:
+        - 57
+        - 0
+    unity.player_sessionid_h1351336811:
+      binary:
+        - 55
+        - 53
+        - 49
+        - 53
+        - 53
+        - 55
+        - 54
+        - 51
+        - 52
+        - 56
+        - 56
+        - 49
+        - 56
+        - 54
+        - 54
+        - 55
+        - 49
+        - 52
+        - 57
+        - 0

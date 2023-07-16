@@ -1,0 +1,2094 @@
+
+<Profiles>
+  <KeyboardProfile Version="3" Id="9371616b-1a64-4fa7-9784-199a4a9d6f26" UserFacingName="IDS_CustomKeyboardProfile_4" IsDefaultProfile="0">
+    <Context Context="INPUTCONTEXT_RACING">
+      <ButtonInput Command="INPUTCMD_SHIFTUP" IsPrimary="1" MouseButton="0" Key="69" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_SHIFTDOWN" IsPrimary="1" MouseButton="0" Key="81" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_SWITCH_CAMERA" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_MULLIGAN" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_ACTIVATE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_OPEN_MAP" IsPrimary="1" MouseButton="0" Key="77" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PAUSE_GAME" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ONLINE_ACTIVATE" IsPrimary="1" MouseButton="0" Key="78" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_GAS" MouseButton="0" Key="87" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_BRAKE" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_BRAKE" MouseButton="0" Key="83" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_GAS" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_HANDBRAKE" MouseButton="0" Key="32" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_CLUTCH" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_FORWARD" MouseButton="0" Key="38" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_BACK" MouseButton="0" Key="40" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_LEFT" MouseButton="0" Key="37" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_RIGHT" MouseButton="0" Key="39" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_HORN" MouseButton="0" Key="72" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <LinearInput Command="INPUTCMD_STEERING" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_FREECAM">
+      <AnalogInput Command="INPUTCMD_MOVE_UP" MouseButton="0" Key="33" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_DOWN" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_MOVE_DOWN" MouseButton="0" Key="34" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_UP" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <LinearInput Command="INPUTCMD_MOVE_FORWARDBACKWARD" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="39" KeyHighFlags="1" KeyLow="37" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_FOV" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="90" KeyHighFlags="1" KeyLow="67" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROLL" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="69" KeyHighFlags="1" KeyLow="81" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_OLD_FREECAM">
+      <AnalogInput Command="INPUTCMD_MOVE_UP" MouseButton="0" Key="33" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_DOWN" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_MOVE_DOWN" MouseButton="0" Key="34" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_UP" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <LinearInput Command="INPUTCMD_MOVE_FORWARDBACKWARD" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="39" KeyHighFlags="1" KeyLow="37" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_FOV" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="90" KeyHighFlags="1" KeyLow="67" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROLL" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="69" KeyHighFlags="1" KeyLow="81" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_UI">
+      <ButtonInput Command="INPUTCMD_MULLIGAN" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_PRESS" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_RELEASE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_REPEAT" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_PRESS" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_RELEASE" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_REPEAT" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_PRESS" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_RELEASE" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_REPEAT" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_START_PRESS" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_START_RELEASE" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_START_REPEAT" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_PRESS" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_PRESS" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_RELEASE" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_RELEASE" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_REPEAT" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_REPEAT" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_PRESS" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_PRESS" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_RELEASE" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_RELEASE" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_REPEAT" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_REPEAT" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_PRESS" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_PRESS" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_RELEASE" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_RELEASE" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_REPEAT" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_REPEAT" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_PRESS" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_PRESS" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_RELEASE" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_RELEASE" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_REPEAT" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_REPEAT" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_UP" IsPrimary="1" MouseButton="0" Key="73" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_DOWN" IsPrimary="1" MouseButton="0" Key="75" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_LEFT" IsPrimary="1" MouseButton="0" Key="74" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_RIGHT" IsPrimary="1" MouseButton="0" Key="76" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_UP_PRESS" IsPrimary="1" MouseButton="0" Key="38" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_UP_RELEASE" IsPrimary="1" MouseButton="0" Key="38" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_DOWN_PRESS" IsPrimary="1" MouseButton="0" Key="40" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_DOWN_RELEASE" IsPrimary="1" MouseButton="0" Key="40" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_LEFT_PRESS" IsPrimary="1" MouseButton="0" Key="37" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_LEFT_RELEASE" IsPrimary="1" MouseButton="0" Key="37" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_RIGHT_PRESS" IsPrimary="1" MouseButton="0" Key="39" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_RIGHT_RELEASE" IsPrimary="1" MouseButton="0" Key="39" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LTRIGGER_RELEASE" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LTRIGGER_REPEAT" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RTRIGGER_RELEASE" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RTRIGGER_REPEAT" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_PRESS" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_RELEASE" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_REPEAT" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_PRESS" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_RELEASE" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_REPEAT" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_X_PRESS" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_X_RELEASE" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_X_REPEAT" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_X_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_PRESS" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_RELEASE" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_REPEAT" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_PRESS" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_RELEASE" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_REPEAT" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_PRESS" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_RELEASE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_REPEAT" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_MOVE" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SIZE" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SPIN" IsPrimary="1" MouseButton="0" Key="51" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SKEW" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_TRANSPARENCY" IsPrimary="1" MouseButton="0" Key="53" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_ALT_CONTROL" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_SLOW_MOVEMENT" IsPrimary="1" MouseButton="0" Key="17" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_LEFT" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_LEFT" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_RIGHT" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_RIGHT" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_UP" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_UP" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_DOWN" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_DOWN" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="5" IsAnOnEvent="0"/>
+      <AnalogInput Command="INPUTCMD_UI_LTRIGGER_PRESS" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_RTRIGGER_PRESS" MouseButton="0" Key="9" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_REPLAY_SPEED_LEFT" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_REPLAY_SPEED_RIGHT" MouseButton="0" Key="9" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <LinearInput Command="INPUTCMD_UI_LEFT_X_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_LEFT_Y_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_RIGHT_Y_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_MAP_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_MAP_MOVE_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_RACING_UI">
+      <ButtonInput Command="INPUTCMD_TELEMETRY_TOGGLE" IsPrimary="1" MouseButton="0" Key="84" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PHOTO_MODE_TOGGLE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_LEFT" IsPrimary="1" MouseButton="0" Key="189" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_RIGHT" IsPrimary="1" MouseButton="0" Key="187" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_MINILEADERBOARD_TOGGLE" IsPrimary="1" MouseButton="0" Key="76" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ACTIVATE" IsPrimary="1" MouseButton="0" Key="67" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_QUICKCHAT_ACTIVATE" IsPrimary="1" MouseButton="0" Key="86" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_GAME_CHAT_TEXT" IsPrimary="1" MouseButton="0" Key="90" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_CONVERTIBLE_TRIGGER" IsPrimary="1" MouseButton="0" Key="71" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_TELEMETRY_UI">
+      <ButtonInput Command="INPUTCMD_TELEMETRY_TOGGLE" IsPrimary="1" MouseButton="0" Key="84" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_TELEMETRY_PREV" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_TELEMETRY_NEXT" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_RACING_CAMERA_ONLY">
+      <ButtonInput Command="INPUTCMD_SWITCH_CAMERA" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ACTIVATE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_OPEN_MAP" IsPrimary="1" MouseButton="0" Key="77" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PAUSE_GAME" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ONLINE_ACTIVATE" IsPrimary="1" MouseButton="0" Key="78" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_LOOK_FORWARD" MouseButton="0" Key="38" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_BACK" MouseButton="0" Key="40" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_LEFT" MouseButton="0" Key="37" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_RIGHT" MouseButton="0" Key="39" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_HORN" MouseButton="0" Key="72" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_COPTER">
+      <ButtonInput Command="INPUTCMD_PHOTO_MODE_TOGGLE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_LEFT" IsPrimary="1" MouseButton="0" Key="189" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_RIGHT" IsPrimary="1" MouseButton="0" Key="187" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_QUICKCHAT_ACTIVATE" IsPrimary="1" MouseButton="0" Key="86" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_COPTER_TURBO" MouseButton="0" Key="32" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_ANNA">
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_1" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_2" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_3" IsPrimary="1" MouseButton="0" Key="51" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_4" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_ELIMINATOR_UI">
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_LEFT" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_RIGHT" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_DOWN" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_PROP_PLACEMENT_UI">
+      <ButtonInput Command="INPUTCMD_PP_PLACE_EDIT_PROP" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_SAVE_AND_EXIT" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_DELETE_PROP" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_CLONE_PROP" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_LEFT" IsPrimary="1" MouseButton="0" Key="100" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_RIGHT" IsPrimary="1" MouseButton="0" Key="102" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_UP" IsPrimary="1" MouseButton="0" Key="104" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_DOWN" IsPrimary="1" MouseButton="0" Key="98" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_RESET_TRANSFORM" IsPrimary="1" MouseButton="0" Key="101" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_ROLL_LEFT" IsPrimary="1" MouseButton="0" Key="103" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_ROLL_RIGHT" IsPrimary="1" MouseButton="0" Key="105" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_PRECISION_MODE" IsPrimary="1" MouseButton="0" Key="96" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_OPEN_LIBRARY" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_OPEN_MOREOPTIONS" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="5" IsAnOnEvent="0"/>
+    </Context>
+  </KeyboardProfile>
+  <KeyboardProfile Version="3" Id="133e9bcf-68ff-4c5e-a1cc-8b1f86b4132b" UserFacingName="IDS_CustomKeyboardProfile_1" IsDefaultProfile="0">
+    <Context Context="INPUTCONTEXT_RACING">
+      <ButtonInput Command="INPUTCMD_SHIFTUP" IsPrimary="1" MouseButton="0" Key="69" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_SHIFTDOWN" IsPrimary="1" MouseButton="0" Key="81" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_SWITCH_CAMERA" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_MULLIGAN" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_ACTIVATE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_OPEN_MAP" IsPrimary="1" MouseButton="0" Key="77" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PAUSE_GAME" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ONLINE_ACTIVATE" IsPrimary="1" MouseButton="0" Key="78" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_GAS" MouseButton="0" Key="87" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_BRAKE" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_BRAKE" MouseButton="0" Key="83" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_GAS" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_HANDBRAKE" MouseButton="0" Key="32" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_CLUTCH" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_FORWARD" MouseButton="0" Key="38" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_BACK" MouseButton="0" Key="40" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_LEFT" MouseButton="0" Key="37" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_RIGHT" MouseButton="0" Key="39" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_HORN" MouseButton="0" Key="72" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <LinearInput Command="INPUTCMD_STEERING" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_FREECAM">
+      <AnalogInput Command="INPUTCMD_MOVE_UP" MouseButton="0" Key="33" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_DOWN" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_MOVE_DOWN" MouseButton="0" Key="34" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_UP" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <LinearInput Command="INPUTCMD_MOVE_FORWARDBACKWARD" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="39" KeyHighFlags="1" KeyLow="37" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_FOV" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="90" KeyHighFlags="1" KeyLow="67" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROLL" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="69" KeyHighFlags="1" KeyLow="81" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_OLD_FREECAM">
+      <AnalogInput Command="INPUTCMD_MOVE_UP" MouseButton="0" Key="33" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_DOWN" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_MOVE_DOWN" MouseButton="0" Key="34" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_UP" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <LinearInput Command="INPUTCMD_MOVE_FORWARDBACKWARD" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="39" KeyHighFlags="1" KeyLow="37" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_FOV" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="90" KeyHighFlags="1" KeyLow="67" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROLL" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="69" KeyHighFlags="1" KeyLow="81" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_UI">
+      <ButtonInput Command="INPUTCMD_MULLIGAN" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_PRESS" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_RELEASE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_REPEAT" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_PRESS" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_RELEASE" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_REPEAT" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_PRESS" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_RELEASE" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_REPEAT" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_START_PRESS" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_START_RELEASE" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_START_REPEAT" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_PRESS" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_PRESS" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_RELEASE" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_RELEASE" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_REPEAT" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_REPEAT" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_PRESS" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_PRESS" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_RELEASE" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_RELEASE" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_REPEAT" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_REPEAT" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_PRESS" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_PRESS" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_RELEASE" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_RELEASE" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_REPEAT" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_REPEAT" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_PRESS" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_PRESS" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_RELEASE" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_RELEASE" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_REPEAT" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_REPEAT" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_UP" IsPrimary="1" MouseButton="0" Key="73" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_DOWN" IsPrimary="1" MouseButton="0" Key="75" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_LEFT" IsPrimary="1" MouseButton="0" Key="74" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_RIGHT" IsPrimary="1" MouseButton="0" Key="76" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_UP_PRESS" IsPrimary="1" MouseButton="0" Key="38" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_UP_RELEASE" IsPrimary="1" MouseButton="0" Key="38" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_DOWN_PRESS" IsPrimary="1" MouseButton="0" Key="40" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_DOWN_RELEASE" IsPrimary="1" MouseButton="0" Key="40" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_LEFT_PRESS" IsPrimary="1" MouseButton="0" Key="37" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_LEFT_RELEASE" IsPrimary="1" MouseButton="0" Key="37" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_RIGHT_PRESS" IsPrimary="1" MouseButton="0" Key="39" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_RIGHT_RELEASE" IsPrimary="1" MouseButton="0" Key="39" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LTRIGGER_RELEASE" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LTRIGGER_REPEAT" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RTRIGGER_RELEASE" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RTRIGGER_REPEAT" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_PRESS" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_RELEASE" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_REPEAT" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_PRESS" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_RELEASE" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_REPEAT" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_X_PRESS" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_X_RELEASE" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_X_REPEAT" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_X_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_PRESS" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_RELEASE" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_REPEAT" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_PRESS" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_RELEASE" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_REPEAT" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_PRESS" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_RELEASE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_REPEAT" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_MOVE" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SIZE" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SPIN" IsPrimary="1" MouseButton="0" Key="51" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SKEW" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_TRANSPARENCY" IsPrimary="1" MouseButton="0" Key="53" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_ALT_CONTROL" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_SLOW_MOVEMENT" IsPrimary="1" MouseButton="0" Key="17" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_LEFT" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_LEFT" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_RIGHT" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_RIGHT" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_UP" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_UP" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_DOWN" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_DOWN" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="5" IsAnOnEvent="0"/>
+      <AnalogInput Command="INPUTCMD_UI_LTRIGGER_PRESS" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_RTRIGGER_PRESS" MouseButton="0" Key="9" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_REPLAY_SPEED_LEFT" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_REPLAY_SPEED_RIGHT" MouseButton="0" Key="9" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <LinearInput Command="INPUTCMD_UI_LEFT_X_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_LEFT_Y_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_RIGHT_Y_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_MAP_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_MAP_MOVE_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_RACING_UI">
+      <ButtonInput Command="INPUTCMD_TELEMETRY_TOGGLE" IsPrimary="1" MouseButton="0" Key="84" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PHOTO_MODE_TOGGLE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_LEFT" IsPrimary="1" MouseButton="0" Key="189" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_RIGHT" IsPrimary="1" MouseButton="0" Key="187" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_MINILEADERBOARD_TOGGLE" IsPrimary="1" MouseButton="0" Key="76" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ACTIVATE" IsPrimary="1" MouseButton="0" Key="67" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_QUICKCHAT_ACTIVATE" IsPrimary="1" MouseButton="0" Key="86" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_GAME_CHAT_TEXT" IsPrimary="1" MouseButton="0" Key="90" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_CONVERTIBLE_TRIGGER" IsPrimary="1" MouseButton="0" Key="71" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_TELEMETRY_UI">
+      <ButtonInput Command="INPUTCMD_TELEMETRY_TOGGLE" IsPrimary="1" MouseButton="0" Key="84" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_TELEMETRY_PREV" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_TELEMETRY_NEXT" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_RACING_CAMERA_ONLY">
+      <ButtonInput Command="INPUTCMD_SWITCH_CAMERA" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ACTIVATE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_OPEN_MAP" IsPrimary="1" MouseButton="0" Key="77" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PAUSE_GAME" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ONLINE_ACTIVATE" IsPrimary="1" MouseButton="0" Key="78" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_LOOK_FORWARD" MouseButton="0" Key="38" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_BACK" MouseButton="0" Key="40" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_LEFT" MouseButton="0" Key="37" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_RIGHT" MouseButton="0" Key="39" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_HORN" MouseButton="0" Key="72" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_COPTER">
+      <ButtonInput Command="INPUTCMD_PHOTO_MODE_TOGGLE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_LEFT" IsPrimary="1" MouseButton="0" Key="189" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_RIGHT" IsPrimary="1" MouseButton="0" Key="187" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_QUICKCHAT_ACTIVATE" IsPrimary="1" MouseButton="0" Key="86" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_COPTER_TURBO" MouseButton="0" Key="32" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_ANNA">
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_1" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_2" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_3" IsPrimary="1" MouseButton="0" Key="51" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_4" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_ELIMINATOR_UI">
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_LEFT" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_RIGHT" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_DOWN" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_PROP_PLACEMENT_UI">
+      <ButtonInput Command="INPUTCMD_PP_PLACE_EDIT_PROP" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_SAVE_AND_EXIT" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_DELETE_PROP" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_CLONE_PROP" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_LEFT" IsPrimary="1" MouseButton="0" Key="100" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_RIGHT" IsPrimary="1" MouseButton="0" Key="102" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_UP" IsPrimary="1" MouseButton="0" Key="104" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_DOWN" IsPrimary="1" MouseButton="0" Key="98" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_RESET_TRANSFORM" IsPrimary="1" MouseButton="0" Key="101" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_ROLL_LEFT" IsPrimary="1" MouseButton="0" Key="103" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_ROLL_RIGHT" IsPrimary="1" MouseButton="0" Key="105" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_PRECISION_MODE" IsPrimary="1" MouseButton="0" Key="96" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_OPEN_LIBRARY" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_OPEN_MOREOPTIONS" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="5" IsAnOnEvent="0"/>
+    </Context>
+  </KeyboardProfile>
+  <KeyboardProfile Version="3" Id="bb418c6b-b825-4b98-b5b7-cdf8ba3ece95" UserFacingName="IDS_CustomKeyboardProfile_5" IsDefaultProfile="0">
+    <Context Context="INPUTCONTEXT_RACING">
+      <ButtonInput Command="INPUTCMD_SHIFTUP" IsPrimary="1" MouseButton="0" Key="69" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_SHIFTDOWN" IsPrimary="1" MouseButton="0" Key="81" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_SWITCH_CAMERA" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_MULLIGAN" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_ACTIVATE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_OPEN_MAP" IsPrimary="1" MouseButton="0" Key="77" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PAUSE_GAME" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ONLINE_ACTIVATE" IsPrimary="1" MouseButton="0" Key="78" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_GAS" MouseButton="0" Key="87" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_BRAKE" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_BRAKE" MouseButton="0" Key="83" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_GAS" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_HANDBRAKE" MouseButton="0" Key="32" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_CLUTCH" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_FORWARD" MouseButton="0" Key="38" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_BACK" MouseButton="0" Key="40" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_LEFT" MouseButton="0" Key="37" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_RIGHT" MouseButton="0" Key="39" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_HORN" MouseButton="0" Key="72" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <LinearInput Command="INPUTCMD_STEERING" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_FREECAM">
+      <AnalogInput Command="INPUTCMD_MOVE_UP" MouseButton="0" Key="33" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_DOWN" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_MOVE_DOWN" MouseButton="0" Key="34" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_UP" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <LinearInput Command="INPUTCMD_MOVE_FORWARDBACKWARD" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="39" KeyHighFlags="1" KeyLow="37" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_FOV" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="90" KeyHighFlags="1" KeyLow="67" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROLL" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="69" KeyHighFlags="1" KeyLow="81" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_OLD_FREECAM">
+      <AnalogInput Command="INPUTCMD_MOVE_UP" MouseButton="0" Key="33" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_DOWN" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_MOVE_DOWN" MouseButton="0" Key="34" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_UP" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <LinearInput Command="INPUTCMD_MOVE_FORWARDBACKWARD" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="39" KeyHighFlags="1" KeyLow="37" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_FOV" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="90" KeyHighFlags="1" KeyLow="67" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROLL" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="69" KeyHighFlags="1" KeyLow="81" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_UI">
+      <ButtonInput Command="INPUTCMD_MULLIGAN" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_PRESS" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_RELEASE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_REPEAT" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_PRESS" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_RELEASE" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_REPEAT" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_PRESS" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_RELEASE" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_REPEAT" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_START_PRESS" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_START_RELEASE" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_START_REPEAT" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_PRESS" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_PRESS" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_RELEASE" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_RELEASE" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_REPEAT" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_REPEAT" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_PRESS" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_PRESS" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_RELEASE" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_RELEASE" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_REPEAT" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_REPEAT" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_PRESS" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_PRESS" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_RELEASE" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_RELEASE" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_REPEAT" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_REPEAT" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_PRESS" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_PRESS" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_RELEASE" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_RELEASE" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_REPEAT" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_REPEAT" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_UP" IsPrimary="1" MouseButton="0" Key="73" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_DOWN" IsPrimary="1" MouseButton="0" Key="75" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_LEFT" IsPrimary="1" MouseButton="0" Key="74" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_RIGHT" IsPrimary="1" MouseButton="0" Key="76" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_UP_PRESS" IsPrimary="1" MouseButton="0" Key="38" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_UP_RELEASE" IsPrimary="1" MouseButton="0" Key="38" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_DOWN_PRESS" IsPrimary="1" MouseButton="0" Key="40" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_DOWN_RELEASE" IsPrimary="1" MouseButton="0" Key="40" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_LEFT_PRESS" IsPrimary="1" MouseButton="0" Key="37" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_LEFT_RELEASE" IsPrimary="1" MouseButton="0" Key="37" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_RIGHT_PRESS" IsPrimary="1" MouseButton="0" Key="39" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_RIGHT_RELEASE" IsPrimary="1" MouseButton="0" Key="39" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LTRIGGER_RELEASE" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LTRIGGER_REPEAT" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RTRIGGER_RELEASE" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RTRIGGER_REPEAT" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_PRESS" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_RELEASE" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_REPEAT" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_PRESS" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_RELEASE" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_REPEAT" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_X_PRESS" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_X_RELEASE" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_X_REPEAT" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_X_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_PRESS" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_RELEASE" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_REPEAT" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_PRESS" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_RELEASE" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_REPEAT" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_PRESS" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_RELEASE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_REPEAT" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_MOVE" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SIZE" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SPIN" IsPrimary="1" MouseButton="0" Key="51" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SKEW" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_TRANSPARENCY" IsPrimary="1" MouseButton="0" Key="53" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_ALT_CONTROL" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_SLOW_MOVEMENT" IsPrimary="1" MouseButton="0" Key="17" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_LEFT" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_LEFT" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_RIGHT" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_RIGHT" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_UP" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_UP" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_DOWN" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_DOWN" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="5" IsAnOnEvent="0"/>
+      <AnalogInput Command="INPUTCMD_UI_LTRIGGER_PRESS" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_RTRIGGER_PRESS" MouseButton="0" Key="9" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_REPLAY_SPEED_LEFT" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_REPLAY_SPEED_RIGHT" MouseButton="0" Key="9" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <LinearInput Command="INPUTCMD_UI_LEFT_X_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_LEFT_Y_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_RIGHT_Y_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_MAP_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_MAP_MOVE_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_RACING_UI">
+      <ButtonInput Command="INPUTCMD_TELEMETRY_TOGGLE" IsPrimary="1" MouseButton="0" Key="84" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PHOTO_MODE_TOGGLE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_LEFT" IsPrimary="1" MouseButton="0" Key="189" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_RIGHT" IsPrimary="1" MouseButton="0" Key="187" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_MINILEADERBOARD_TOGGLE" IsPrimary="1" MouseButton="0" Key="76" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ACTIVATE" IsPrimary="1" MouseButton="0" Key="67" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_QUICKCHAT_ACTIVATE" IsPrimary="1" MouseButton="0" Key="86" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_GAME_CHAT_TEXT" IsPrimary="1" MouseButton="0" Key="90" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_CONVERTIBLE_TRIGGER" IsPrimary="1" MouseButton="0" Key="71" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_TELEMETRY_UI">
+      <ButtonInput Command="INPUTCMD_TELEMETRY_TOGGLE" IsPrimary="1" MouseButton="0" Key="84" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_TELEMETRY_PREV" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_TELEMETRY_NEXT" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_RACING_CAMERA_ONLY">
+      <ButtonInput Command="INPUTCMD_SWITCH_CAMERA" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ACTIVATE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_OPEN_MAP" IsPrimary="1" MouseButton="0" Key="77" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PAUSE_GAME" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ONLINE_ACTIVATE" IsPrimary="1" MouseButton="0" Key="78" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_LOOK_FORWARD" MouseButton="0" Key="38" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_BACK" MouseButton="0" Key="40" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_LEFT" MouseButton="0" Key="37" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_RIGHT" MouseButton="0" Key="39" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_HORN" MouseButton="0" Key="72" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_COPTER">
+      <ButtonInput Command="INPUTCMD_PHOTO_MODE_TOGGLE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_LEFT" IsPrimary="1" MouseButton="0" Key="189" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_RIGHT" IsPrimary="1" MouseButton="0" Key="187" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_QUICKCHAT_ACTIVATE" IsPrimary="1" MouseButton="0" Key="86" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_COPTER_TURBO" MouseButton="0" Key="32" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_ANNA">
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_1" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_2" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_3" IsPrimary="1" MouseButton="0" Key="51" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_4" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_ELIMINATOR_UI">
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_LEFT" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_RIGHT" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_DOWN" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_PROP_PLACEMENT_UI">
+      <ButtonInput Command="INPUTCMD_PP_PLACE_EDIT_PROP" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_SAVE_AND_EXIT" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_DELETE_PROP" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_CLONE_PROP" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_LEFT" IsPrimary="1" MouseButton="0" Key="100" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_RIGHT" IsPrimary="1" MouseButton="0" Key="102" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_UP" IsPrimary="1" MouseButton="0" Key="104" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_DOWN" IsPrimary="1" MouseButton="0" Key="98" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_RESET_TRANSFORM" IsPrimary="1" MouseButton="0" Key="101" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_ROLL_LEFT" IsPrimary="1" MouseButton="0" Key="103" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_ROLL_RIGHT" IsPrimary="1" MouseButton="0" Key="105" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_PRECISION_MODE" IsPrimary="1" MouseButton="0" Key="96" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_OPEN_LIBRARY" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_OPEN_MOREOPTIONS" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="5" IsAnOnEvent="0"/>
+    </Context>
+  </KeyboardProfile>
+  <KeyboardProfile Version="3" Id="64cee482-e052-49f6-92d7-2cbd573661cc" UserFacingName="IDS_CustomKeyboardProfile_2" IsDefaultProfile="0">
+    <Context Context="INPUTCONTEXT_RACING">
+      <ButtonInput Command="INPUTCMD_SHIFTUP" IsPrimary="1" MouseButton="0" Key="69" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_SHIFTDOWN" IsPrimary="1" MouseButton="0" Key="81" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_SWITCH_CAMERA" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_MULLIGAN" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_ACTIVATE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_OPEN_MAP" IsPrimary="1" MouseButton="0" Key="77" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PAUSE_GAME" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ONLINE_ACTIVATE" IsPrimary="1" MouseButton="0" Key="78" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_GAS" MouseButton="0" Key="87" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_BRAKE" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_BRAKE" MouseButton="0" Key="83" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_GAS" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_HANDBRAKE" MouseButton="0" Key="32" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_CLUTCH" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_FORWARD" MouseButton="0" Key="38" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_BACK" MouseButton="0" Key="40" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_LEFT" MouseButton="0" Key="37" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_RIGHT" MouseButton="0" Key="39" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_HORN" MouseButton="0" Key="72" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <LinearInput Command="INPUTCMD_STEERING" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_FREECAM">
+      <AnalogInput Command="INPUTCMD_MOVE_UP" MouseButton="0" Key="33" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_DOWN" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_MOVE_DOWN" MouseButton="0" Key="34" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_UP" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <LinearInput Command="INPUTCMD_MOVE_FORWARDBACKWARD" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="39" KeyHighFlags="1" KeyLow="37" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_FOV" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="90" KeyHighFlags="1" KeyLow="67" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROLL" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="69" KeyHighFlags="1" KeyLow="81" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_OLD_FREECAM">
+      <AnalogInput Command="INPUTCMD_MOVE_UP" MouseButton="0" Key="33" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_DOWN" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_MOVE_DOWN" MouseButton="0" Key="34" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_UP" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <LinearInput Command="INPUTCMD_MOVE_FORWARDBACKWARD" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="39" KeyHighFlags="1" KeyLow="37" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_FOV" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="90" KeyHighFlags="1" KeyLow="67" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROLL" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="69" KeyHighFlags="1" KeyLow="81" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_UI">
+      <ButtonInput Command="INPUTCMD_MULLIGAN" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_PRESS" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_RELEASE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_REPEAT" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_PRESS" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_RELEASE" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_REPEAT" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_PRESS" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_RELEASE" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_REPEAT" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_START_PRESS" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_START_RELEASE" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_START_REPEAT" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_PRESS" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_PRESS" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_RELEASE" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_RELEASE" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_REPEAT" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_REPEAT" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_PRESS" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_PRESS" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_RELEASE" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_RELEASE" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_REPEAT" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_REPEAT" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_PRESS" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_PRESS" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_RELEASE" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_RELEASE" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_REPEAT" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_REPEAT" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_PRESS" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_PRESS" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_RELEASE" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_RELEASE" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_REPEAT" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_REPEAT" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_UP" IsPrimary="1" MouseButton="0" Key="73" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_DOWN" IsPrimary="1" MouseButton="0" Key="75" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_LEFT" IsPrimary="1" MouseButton="0" Key="74" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_RIGHT" IsPrimary="1" MouseButton="0" Key="76" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_UP_PRESS" IsPrimary="1" MouseButton="0" Key="38" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_UP_RELEASE" IsPrimary="1" MouseButton="0" Key="38" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_DOWN_PRESS" IsPrimary="1" MouseButton="0" Key="40" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_DOWN_RELEASE" IsPrimary="1" MouseButton="0" Key="40" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_LEFT_PRESS" IsPrimary="1" MouseButton="0" Key="37" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_LEFT_RELEASE" IsPrimary="1" MouseButton="0" Key="37" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_RIGHT_PRESS" IsPrimary="1" MouseButton="0" Key="39" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_RIGHT_RELEASE" IsPrimary="1" MouseButton="0" Key="39" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LTRIGGER_RELEASE" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LTRIGGER_REPEAT" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RTRIGGER_RELEASE" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RTRIGGER_REPEAT" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_PRESS" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_RELEASE" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_REPEAT" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_PRESS" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_RELEASE" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_REPEAT" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_X_PRESS" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_X_RELEASE" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_X_REPEAT" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_X_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_PRESS" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_RELEASE" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_REPEAT" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_PRESS" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_RELEASE" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_REPEAT" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_PRESS" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_RELEASE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_REPEAT" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_MOVE" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SIZE" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SPIN" IsPrimary="1" MouseButton="0" Key="51" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SKEW" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_TRANSPARENCY" IsPrimary="1" MouseButton="0" Key="53" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_ALT_CONTROL" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_SLOW_MOVEMENT" IsPrimary="1" MouseButton="0" Key="17" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_LEFT" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_LEFT" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_RIGHT" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_RIGHT" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_UP" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_UP" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_DOWN" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_DOWN" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="5" IsAnOnEvent="0"/>
+      <AnalogInput Command="INPUTCMD_UI_LTRIGGER_PRESS" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_RTRIGGER_PRESS" MouseButton="0" Key="9" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_REPLAY_SPEED_LEFT" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_REPLAY_SPEED_RIGHT" MouseButton="0" Key="9" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <LinearInput Command="INPUTCMD_UI_LEFT_X_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_LEFT_Y_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_RIGHT_Y_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_MAP_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_MAP_MOVE_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_RACING_UI">
+      <ButtonInput Command="INPUTCMD_TELEMETRY_TOGGLE" IsPrimary="1" MouseButton="0" Key="84" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PHOTO_MODE_TOGGLE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_LEFT" IsPrimary="1" MouseButton="0" Key="189" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_RIGHT" IsPrimary="1" MouseButton="0" Key="187" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_MINILEADERBOARD_TOGGLE" IsPrimary="1" MouseButton="0" Key="76" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ACTIVATE" IsPrimary="1" MouseButton="0" Key="67" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_QUICKCHAT_ACTIVATE" IsPrimary="1" MouseButton="0" Key="86" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_GAME_CHAT_TEXT" IsPrimary="1" MouseButton="0" Key="90" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_CONVERTIBLE_TRIGGER" IsPrimary="1" MouseButton="0" Key="71" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_TELEMETRY_UI">
+      <ButtonInput Command="INPUTCMD_TELEMETRY_TOGGLE" IsPrimary="1" MouseButton="0" Key="84" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_TELEMETRY_PREV" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_TELEMETRY_NEXT" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_RACING_CAMERA_ONLY">
+      <ButtonInput Command="INPUTCMD_SWITCH_CAMERA" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ACTIVATE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_OPEN_MAP" IsPrimary="1" MouseButton="0" Key="77" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PAUSE_GAME" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ONLINE_ACTIVATE" IsPrimary="1" MouseButton="0" Key="78" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_LOOK_FORWARD" MouseButton="0" Key="38" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_BACK" MouseButton="0" Key="40" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_LEFT" MouseButton="0" Key="37" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_RIGHT" MouseButton="0" Key="39" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_HORN" MouseButton="0" Key="72" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_COPTER">
+      <ButtonInput Command="INPUTCMD_PHOTO_MODE_TOGGLE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_LEFT" IsPrimary="1" MouseButton="0" Key="189" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_RIGHT" IsPrimary="1" MouseButton="0" Key="187" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_QUICKCHAT_ACTIVATE" IsPrimary="1" MouseButton="0" Key="86" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_COPTER_TURBO" MouseButton="0" Key="32" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_ANNA">
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_1" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_2" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_3" IsPrimary="1" MouseButton="0" Key="51" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_4" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_ELIMINATOR_UI">
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_LEFT" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_RIGHT" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_DOWN" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_PROP_PLACEMENT_UI">
+      <ButtonInput Command="INPUTCMD_PP_PLACE_EDIT_PROP" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_SAVE_AND_EXIT" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_DELETE_PROP" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_CLONE_PROP" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_LEFT" IsPrimary="1" MouseButton="0" Key="100" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_RIGHT" IsPrimary="1" MouseButton="0" Key="102" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_UP" IsPrimary="1" MouseButton="0" Key="104" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_DOWN" IsPrimary="1" MouseButton="0" Key="98" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_RESET_TRANSFORM" IsPrimary="1" MouseButton="0" Key="101" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_ROLL_LEFT" IsPrimary="1" MouseButton="0" Key="103" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_ROLL_RIGHT" IsPrimary="1" MouseButton="0" Key="105" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_PRECISION_MODE" IsPrimary="1" MouseButton="0" Key="96" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_OPEN_LIBRARY" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_OPEN_MOREOPTIONS" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="5" IsAnOnEvent="0"/>
+    </Context>
+  </KeyboardProfile>
+  <KeyboardProfile Version="3" Id="d190f9e6-8afc-41ae-9d40-a4fe57bd02f2" UserFacingName="IDS_CustomKeyboardProfile_3" IsDefaultProfile="0">
+    <Context Context="INPUTCONTEXT_RACING">
+      <ButtonInput Command="INPUTCMD_SHIFTUP" IsPrimary="1" MouseButton="0" Key="69" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_SHIFTDOWN" IsPrimary="1" MouseButton="0" Key="81" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_SWITCH_CAMERA" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_MULLIGAN" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_ACTIVATE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_OPEN_MAP" IsPrimary="1" MouseButton="0" Key="77" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PAUSE_GAME" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ONLINE_ACTIVATE" IsPrimary="1" MouseButton="0" Key="78" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_GAS" MouseButton="0" Key="87" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_BRAKE" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_BRAKE" MouseButton="0" Key="83" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_GAS" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_HANDBRAKE" MouseButton="0" Key="32" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_CLUTCH" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_FORWARD" MouseButton="0" Key="38" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_BACK" MouseButton="0" Key="40" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_LEFT" MouseButton="0" Key="37" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_RIGHT" MouseButton="0" Key="39" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_HORN" MouseButton="0" Key="72" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <LinearInput Command="INPUTCMD_STEERING" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_FREECAM">
+      <AnalogInput Command="INPUTCMD_MOVE_UP" MouseButton="0" Key="33" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_DOWN" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_MOVE_DOWN" MouseButton="0" Key="34" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_UP" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <LinearInput Command="INPUTCMD_MOVE_FORWARDBACKWARD" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="39" KeyHighFlags="1" KeyLow="37" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_FOV" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="90" KeyHighFlags="1" KeyLow="67" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROLL" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="69" KeyHighFlags="1" KeyLow="81" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_OLD_FREECAM">
+      <AnalogInput Command="INPUTCMD_MOVE_UP" MouseButton="0" Key="33" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_DOWN" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <AnalogInput Command="INPUTCMD_MOVE_DOWN" MouseButton="0" Key="34" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000">
+        <Entry>
+          <DampeningOverride Command="INPUTCMD_MOVE_UP" ValueWhenTrue="0.000000"/>
+        </Entry>
+      </AnalogInput>
+      <LinearInput Command="INPUTCMD_MOVE_FORWARDBACKWARD" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="39" KeyHighFlags="1" KeyLow="37" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROT_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_FOV" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="90" KeyHighFlags="1" KeyLow="67" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_ROLL" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="69" KeyHighFlags="1" KeyLow="81" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_UI">
+      <ButtonInput Command="INPUTCMD_MULLIGAN" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_PRESS" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_RELEASE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_REPEAT" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_OK_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_PRESS" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_RELEASE" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_REPEAT" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_CANCEL_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_PRESS" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_RELEASE" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_BACK_REPEAT" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_START_PRESS" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_START_RELEASE" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_START_REPEAT" IsPrimary="1" MouseButton="0" Key="32" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_PRESS" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_PRESS" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_RELEASE" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_RELEASE" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_REPEAT" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_UP_REPEAT" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_PRESS" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_PRESS" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_RELEASE" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_RELEASE" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_REPEAT" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DOWN_REPEAT" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_PRESS" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_PRESS" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_RELEASE" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_RELEASE" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_REPEAT" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LEFT_REPEAT" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_PRESS" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_PRESS" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_RELEASE" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_RELEASE" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_REPEAT" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_REPEAT" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_UP" IsPrimary="1" MouseButton="0" Key="73" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_DOWN" IsPrimary="1" MouseButton="0" Key="75" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_LEFT" IsPrimary="1" MouseButton="0" Key="74" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RIGHT_STICK_RIGHT" IsPrimary="1" MouseButton="0" Key="76" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_UP_PRESS" IsPrimary="1" MouseButton="0" Key="38" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_UP_RELEASE" IsPrimary="1" MouseButton="0" Key="38" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_DOWN_PRESS" IsPrimary="1" MouseButton="0" Key="40" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_DOWN_RELEASE" IsPrimary="1" MouseButton="0" Key="40" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_LEFT_PRESS" IsPrimary="1" MouseButton="0" Key="37" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_LEFT_RELEASE" IsPrimary="1" MouseButton="0" Key="37" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_RIGHT_PRESS" IsPrimary="1" MouseButton="0" Key="39" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_DPAD_RIGHT_RELEASE" IsPrimary="1" MouseButton="0" Key="39" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LTRIGGER_RELEASE" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LTRIGGER_REPEAT" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RTRIGGER_RELEASE" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RTRIGGER_REPEAT" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_PRESS" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_RELEASE" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LBUMPER_REPEAT" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_PRESS" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_RELEASE" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RBUMPER_REPEAT" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_X_PRESS" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_X_RELEASE" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_X_REPEAT" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_X_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_PRESS" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_RELEASE" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_REPEAT" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_Y_WHILEDOWN" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_PRESS" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_RELEASE" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_LSTICK_REPEAT" IsPrimary="1" MouseButton="0" Key="82" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_PRESS" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_RELEASE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="2" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_UI_RSTICK_REPEAT" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_MOVE" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SIZE" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SPIN" IsPrimary="1" MouseButton="0" Key="51" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_SKEW" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_POSITION_TRANSPARENCY" IsPrimary="1" MouseButton="0" Key="53" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_ALT_CONTROL" IsPrimary="1" MouseButton="0" Key="16" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_LIVERY_SLOW_MOVEMENT" IsPrimary="1" MouseButton="0" Key="17" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_LEFT" IsPrimary="1" MouseButton="0" Key="65" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_LEFT" IsPrimary="0" MouseButton="0" Key="37" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_RIGHT" IsPrimary="1" MouseButton="0" Key="68" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_RIGHT" IsPrimary="0" MouseButton="0" Key="39" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_UP" IsPrimary="1" MouseButton="0" Key="87" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_UP" IsPrimary="0" MouseButton="0" Key="38" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_DOWN" IsPrimary="1" MouseButton="0" Key="83" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_UI_BRICKCHALLENGES_DOWN" IsPrimary="0" MouseButton="0" Key="40" KeyFlags="5" IsAnOnEvent="0"/>
+      <AnalogInput Command="INPUTCMD_UI_LTRIGGER_PRESS" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_RTRIGGER_PRESS" MouseButton="0" Key="9" KeyFlags="1" BuildUpModifier="0.500000" FallOffModifier="0.100000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_REPLAY_SPEED_LEFT" MouseButton="0" Key="16" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_UI_REPLAY_SPEED_RIGHT" MouseButton="0" Key="9" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <LinearInput Command="INPUTCMD_UI_LEFT_X_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_LEFT_Y_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_RIGHT_Y_AXIS" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="38" KeyHighFlags="1" KeyLow="40" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_MAP_MOVE_LEFTRIGHT" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="68" KeyHighFlags="1" KeyLow="65" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+      <LinearInput Command="INPUTCMD_UI_MAP_MOVE_UPDOWN" MouseButtonLow="0" MouseButtonHigh="0" KeyHigh="87" KeyHighFlags="1" KeyLow="83" KeyLowFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000" MinValue="-1.000000" FallOffModifierOnOpposingKeyDown="0.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_RACING_UI">
+      <ButtonInput Command="INPUTCMD_TELEMETRY_TOGGLE" IsPrimary="1" MouseButton="0" Key="84" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PHOTO_MODE_TOGGLE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_LEFT" IsPrimary="1" MouseButton="0" Key="189" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_RIGHT" IsPrimary="1" MouseButton="0" Key="187" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_MINILEADERBOARD_TOGGLE" IsPrimary="1" MouseButton="0" Key="76" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ACTIVATE" IsPrimary="1" MouseButton="0" Key="67" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_QUICKCHAT_ACTIVATE" IsPrimary="1" MouseButton="0" Key="86" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_GAME_CHAT_TEXT" IsPrimary="1" MouseButton="0" Key="90" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_CONVERTIBLE_TRIGGER" IsPrimary="1" MouseButton="0" Key="71" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_TELEMETRY_UI">
+      <ButtonInput Command="INPUTCMD_TELEMETRY_TOGGLE" IsPrimary="1" MouseButton="0" Key="84" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_TELEMETRY_PREV" IsPrimary="1" MouseButton="0" Key="34" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_TELEMETRY_NEXT" IsPrimary="1" MouseButton="0" Key="33" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_RACING_CAMERA_ONLY">
+      <ButtonInput Command="INPUTCMD_SWITCH_CAMERA" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ACTIVATE" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_OPEN_MAP" IsPrimary="1" MouseButton="0" Key="77" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_PAUSE_GAME" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ONLINE_ACTIVATE" IsPrimary="1" MouseButton="0" Key="78" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_LOOK_FORWARD" MouseButton="0" Key="38" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_BACK" MouseButton="0" Key="40" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_LEFT" MouseButton="0" Key="37" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_LOOK_RIGHT" MouseButton="0" Key="39" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+      <AnalogInput Command="INPUTCMD_HORN" MouseButton="0" Key="72" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_COPTER">
+      <ButtonInput Command="INPUTCMD_PHOTO_MODE_TOGGLE" IsPrimary="1" MouseButton="0" Key="80" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_LEFT" IsPrimary="1" MouseButton="0" Key="189" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_RADIO_RIGHT" IsPrimary="1" MouseButton="0" Key="187" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_QUICKCHAT_ACTIVATE" IsPrimary="1" MouseButton="0" Key="86" KeyFlags="1" IsAnOnEvent="1"/>
+      <AnalogInput Command="INPUTCMD_COPTER_TURBO" MouseButton="0" Key="32" KeyFlags="1" BuildUpModifier="0.000000" FallOffModifier="0.000000" MaxValue="1.000000"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_ANNA">
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_1" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_2" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_3" IsPrimary="1" MouseButton="0" Key="51" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ANNA_ITEM_4" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_ELIMINATOR_UI">
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_LEFT" IsPrimary="1" MouseButton="0" Key="49" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_RIGHT" IsPrimary="1" MouseButton="0" Key="50" KeyFlags="1" IsAnOnEvent="1"/>
+      <ButtonInput Command="INPUTCMD_ELIMINATOR_UPGRADECHOICE_DOWN" IsPrimary="1" MouseButton="0" Key="52" KeyFlags="1" IsAnOnEvent="1"/>
+    </Context>
+    <Context Context="INPUTCONTEXT_PROP_PLACEMENT_UI">
+      <ButtonInput Command="INPUTCMD_PP_PLACE_EDIT_PROP" IsPrimary="1" MouseButton="0" Key="13" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_SAVE_AND_EXIT" IsPrimary="1" MouseButton="0" Key="27" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_DELETE_PROP" IsPrimary="1" MouseButton="0" Key="88" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_CLONE_PROP" IsPrimary="1" MouseButton="0" Key="89" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_LEFT" IsPrimary="1" MouseButton="0" Key="100" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_RIGHT" IsPrimary="1" MouseButton="0" Key="102" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_UP" IsPrimary="1" MouseButton="0" Key="104" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_TRANSFORM_DOWN" IsPrimary="1" MouseButton="0" Key="98" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_RESET_TRANSFORM" IsPrimary="1" MouseButton="0" Key="101" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_ROLL_LEFT" IsPrimary="1" MouseButton="0" Key="103" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_ROLL_RIGHT" IsPrimary="1" MouseButton="0" Key="105" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_PRECISION_MODE" IsPrimary="1" MouseButton="0" Key="96" KeyFlags="1" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_OPEN_LIBRARY" IsPrimary="1" MouseButton="0" Key="9" KeyFlags="5" IsAnOnEvent="0"/>
+      <ButtonInput Command="INPUTCMD_PP_OPEN_MOREOPTIONS" IsPrimary="1" MouseButton="0" Key="8" KeyFlags="5" IsAnOnEvent="0"/>
+    </Context>
+  </KeyboardProfile>
+  <ControllerProfile Version="3" Id="57c01b74-e9d5-488a-b43e-804fe8352c37" UserFacingName="IDS_CustomControllerProfile_2" IsDefaultProfile="0" WheelVidPid="0">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING">
+      <Value Key="INPUTCMD_GAS">
+        <GamepadWheelInput Button="GamepadWheelInputRightTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_BRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputLeftTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_STEERING">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstick_Left" ButtonHigh="GamepadWheelInputLeftThumbstick_Right"/>
+      </Value>
+      <Value Key="INPUTCMD_HANDBRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputAButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTUP">
+        <GamepadWheelInput Button="GamepadWheelInputBButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTDOWN"/>
+      <Value Key="INPUTCMD_CLUTCH">
+        <GamepadWheelInput Button="GamepadWheelInputLeftShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_FORWARD"/>
+      <Value Key="INPUTCMD_LOOK_BACK"/>
+      <Value Key="INPUTCMD_LOOK_LEFT"/>
+      <Value Key="INPUTCMD_LOOK_RIGHT"/>
+      <Value Key="INPUTCMD_SWITCH_CAMERA">
+        <GamepadWheelInput Button="GamepadWheelInputRightShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MULLIGAN">
+        <GamepadWheelInput Button="GamepadWheelInputYButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputXButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_HORN">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstickButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI">
+      <Value Key="INPUTCMD_TELEMETRY_TOGGLE"/>
+      <Value Key="INPUTCMD_PHOTO_MODE_TOGGLE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_RADIO_LEFT"/>
+      <Value Key="INPUTCMD_RADIO_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MINILEADERBOARD_TOGGLE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_QUICKCHAT_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_CONVERTIBLE_TRIGGER">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstickButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_TELEMETRY_UI">
+      <Value Key="INPUTCMD_TELEMETRY_PREV">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_TELEMETRY_NEXT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY">
+      <Value Key="INPUTCMD_LOOK_FORWARD"/>
+      <Value Key="INPUTCMD_LOOK_BACK"/>
+      <Value Key="INPUTCMD_LOOK_LEFT"/>
+      <Value Key="INPUTCMD_LOOK_RIGHT"/>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA">
+      <Value Key="INPUTCMD_ANNA_ITEM_1">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_2">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_3">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_4">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+  </ControllerProfile>
+  <ControllerProfile Version="3" Id="dd1490a2-1e85-44e5-aba6-b5701db85491" UserFacingName="IDS_CustomControllerProfile_1" IsDefaultProfile="0" WheelVidPid="0">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING">
+      <Value Key="INPUTCMD_GAS">
+        <GamepadWheelInput Button="GamepadWheelInputRightTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_BRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputLeftTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_STEERING">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstick_Left" ButtonHigh="GamepadWheelInputLeftThumbstick_Right"/>
+      </Value>
+      <Value Key="INPUTCMD_HANDBRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputAButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTUP">
+        <GamepadWheelInput Button="GamepadWheelInputBButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTDOWN"/>
+      <Value Key="INPUTCMD_CLUTCH">
+        <GamepadWheelInput Button="GamepadWheelInputLeftShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_FORWARD">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_BACK">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_LEFT">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SWITCH_CAMERA">
+        <GamepadWheelInput Button="GamepadWheelInputRightShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MULLIGAN">
+        <GamepadWheelInput Button="GamepadWheelInputYButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputXButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_HORN">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstickButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI">
+      <Value Key="INPUTCMD_TELEMETRY_TOGGLE"/>
+      <Value Key="INPUTCMD_PHOTO_MODE_TOGGLE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_RADIO_LEFT"/>
+      <Value Key="INPUTCMD_RADIO_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MINILEADERBOARD_TOGGLE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_QUICKCHAT_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_CONVERTIBLE_TRIGGER">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstickButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_TELEMETRY_UI">
+      <Value Key="INPUTCMD_TELEMETRY_PREV">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_TELEMETRY_NEXT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY">
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA">
+      <Value Key="INPUTCMD_ANNA_ITEM_1">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_2">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_3">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_4">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+  </ControllerProfile>
+  <ControllerProfile Version="3" Id="b410b27b-b872-4e37-8d12-c635a74da890" UserFacingName="IDS_CustomControllerProfile_5" IsDefaultProfile="0" WheelVidPid="0">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING">
+      <Value Key="INPUTCMD_GAS">
+        <GamepadWheelInput Button="GamepadWheelInputRightTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_BRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputLeftTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_STEERING">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstick_Left" ButtonHigh="GamepadWheelInputLeftThumbstick_Right"/>
+      </Value>
+      <Value Key="INPUTCMD_HANDBRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputAButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTUP">
+        <GamepadWheelInput Button="GamepadWheelInputBButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTDOWN"/>
+      <Value Key="INPUTCMD_CLUTCH">
+        <GamepadWheelInput Button="GamepadWheelInputLeftShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_FORWARD">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_BACK">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_LEFT">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SWITCH_CAMERA">
+        <GamepadWheelInput Button="GamepadWheelInputRightShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MULLIGAN">
+        <GamepadWheelInput Button="GamepadWheelInputYButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputXButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_HORN">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstickButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI">
+      <Value Key="INPUTCMD_TELEMETRY_TOGGLE"/>
+      <Value Key="INPUTCMD_PHOTO_MODE_TOGGLE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_RADIO_LEFT"/>
+      <Value Key="INPUTCMD_RADIO_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MINILEADERBOARD_TOGGLE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_QUICKCHAT_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_CONVERTIBLE_TRIGGER">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstickButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_TELEMETRY_UI">
+      <Value Key="INPUTCMD_TELEMETRY_PREV">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_TELEMETRY_NEXT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY">
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA">
+      <Value Key="INPUTCMD_ANNA_ITEM_1">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_2">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_3">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_4">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+  </ControllerProfile>
+  <ControllerProfile Version="3" Id="3998bc35-160a-4669-bc08-2408e44d5b91" UserFacingName="IDS_CustomControllerProfile_4" IsDefaultProfile="0" WheelVidPid="0">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING">
+      <Value Key="INPUTCMD_GAS">
+        <GamepadWheelInput Button="GamepadWheelInputRightTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_BRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputLeftTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_STEERING">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstick_Left" ButtonHigh="GamepadWheelInputLeftThumbstick_Right"/>
+      </Value>
+      <Value Key="INPUTCMD_HANDBRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputAButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTUP">
+        <GamepadWheelInput Button="GamepadWheelInputBButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTDOWN"/>
+      <Value Key="INPUTCMD_CLUTCH">
+        <GamepadWheelInput Button="GamepadWheelInputLeftShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_FORWARD">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_BACK">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_LEFT">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SWITCH_CAMERA">
+        <GamepadWheelInput Button="GamepadWheelInputRightShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MULLIGAN">
+        <GamepadWheelInput Button="GamepadWheelInputYButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputXButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_HORN">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstickButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI">
+      <Value Key="INPUTCMD_TELEMETRY_TOGGLE"/>
+      <Value Key="INPUTCMD_PHOTO_MODE_TOGGLE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_RADIO_LEFT"/>
+      <Value Key="INPUTCMD_RADIO_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MINILEADERBOARD_TOGGLE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_QUICKCHAT_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_CONVERTIBLE_TRIGGER">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstickButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_TELEMETRY_UI">
+      <Value Key="INPUTCMD_TELEMETRY_PREV">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_TELEMETRY_NEXT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY">
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA">
+      <Value Key="INPUTCMD_ANNA_ITEM_1">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_2">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_3">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_4">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+  </ControllerProfile>
+  <ControllerProfile Version="3" Id="c29241f7-25d0-4f8d-823f-0af68bfaf2f3" UserFacingName="IDS_CustomControllerProfile_3" IsDefaultProfile="0" WheelVidPid="0">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING">
+      <Value Key="INPUTCMD_GAS">
+        <GamepadWheelInput Button="GamepadWheelInputRightTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_BRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputLeftTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_STEERING">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstick_Left" ButtonHigh="GamepadWheelInputLeftThumbstick_Right"/>
+      </Value>
+      <Value Key="INPUTCMD_HANDBRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputAButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTUP">
+        <GamepadWheelInput Button="GamepadWheelInputBButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTDOWN"/>
+      <Value Key="INPUTCMD_CLUTCH">
+        <GamepadWheelInput Button="GamepadWheelInputLeftShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_FORWARD">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_BACK">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_LEFT">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstick_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SWITCH_CAMERA">
+        <GamepadWheelInput Button="GamepadWheelInputRightShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MULLIGAN">
+        <GamepadWheelInput Button="GamepadWheelInputYButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputXButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_HORN">
+        <GamepadWheelInput Button="GamepadWheelInputRightThumbstickButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI">
+      <Value Key="INPUTCMD_TELEMETRY_TOGGLE"/>
+      <Value Key="INPUTCMD_PHOTO_MODE_TOGGLE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_RADIO_LEFT"/>
+      <Value Key="INPUTCMD_RADIO_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MINILEADERBOARD_TOGGLE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_QUICKCHAT_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_CONVERTIBLE_TRIGGER">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstickButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_TELEMETRY_UI">
+      <Value Key="INPUTCMD_TELEMETRY_PREV">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_TELEMETRY_NEXT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY">
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA">
+      <Value Key="INPUTCMD_ANNA_ITEM_1">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_2">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_3">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_4">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+  </ControllerProfile>
+  <WheelProfile Version="3" Id="7257b301-d012-4e01-b52c-ada1026ef3d1" UserFacingName="IDS_CustomWheelProfile_2" IsDefaultProfile="0" WheelVidPid="1">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING">
+      <Value Key="INPUTCMD_GAS">
+        <GamepadWheelInput Button="GamepadWheelInputRightTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_BRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputLeftTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_STEERING">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstick_Left" ButtonHigh="GamepadWheelInputLeftThumbstick_Right"/>
+      </Value>
+      <Value Key="INPUTCMD_HANDBRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputBButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTUP">
+        <GamepadWheelInput Button="GamepadWheelInputRightShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTDOWN"/>
+      <Value Key="INPUTCMD_CLUTCH">
+        <GamepadWheelInput Button="GamepadWheelInputAButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_FORWARD"/>
+      <Value Key="INPUTCMD_LOOK_BACK"/>
+      <Value Key="INPUTCMD_LOOK_LEFT"/>
+      <Value Key="INPUTCMD_LOOK_RIGHT"/>
+      <Value Key="INPUTCMD_SWITCH_CAMERA">
+        <GamepadWheelInput Button="GamepadWheelInputYButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MULLIGAN">
+        <GamepadWheelInput Button="GamepadWheelInputXButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP"/>
+      <Value Key="INPUTCMD_HORN">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI">
+      <Value Key="INPUTCMD_TELEMETRY_TOGGLE"/>
+      <Value Key="INPUTCMD_PHOTO_MODE_TOGGLE"/>
+      <Value Key="INPUTCMD_RADIO_LEFT"/>
+      <Value Key="INPUTCMD_RADIO_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MINILEADERBOARD_TOGGLE"/>
+      <Value Key="INPUTCMD_ANNA_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_QUICKCHAT_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_CONVERTIBLE_TRIGGER"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_TELEMETRY_UI">
+      <Value Key="INPUTCMD_TELEMETRY_PREV"/>
+      <Value Key="INPUTCMD_TELEMETRY_NEXT"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY"/>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA">
+      <Value Key="INPUTCMD_ANNA_ITEM_1">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_2">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_3">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_4">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+  </WheelProfile>
+  <WheelProfile Version="3" Id="41b1746d-9a87-41ba-b230-4f54e52f2b29" UserFacingName="IDS_CustomWheelProfile_4" IsDefaultProfile="0" WheelVidPid="1">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING">
+      <Value Key="INPUTCMD_GAS">
+        <GamepadWheelInput Button="GamepadWheelInputRightTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_BRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputLeftTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_STEERING">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstick_Left" ButtonHigh="GamepadWheelInputLeftThumbstick_Right"/>
+      </Value>
+      <Value Key="INPUTCMD_HANDBRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputBButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTUP">
+        <GamepadWheelInput Button="GamepadWheelInputRightShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTDOWN"/>
+      <Value Key="INPUTCMD_CLUTCH">
+        <GamepadWheelInput Button="GamepadWheelInputAButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_FORWARD"/>
+      <Value Key="INPUTCMD_LOOK_BACK"/>
+      <Value Key="INPUTCMD_LOOK_LEFT"/>
+      <Value Key="INPUTCMD_LOOK_RIGHT"/>
+      <Value Key="INPUTCMD_SWITCH_CAMERA">
+        <GamepadWheelInput Button="GamepadWheelInputYButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MULLIGAN">
+        <GamepadWheelInput Button="GamepadWheelInputXButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP"/>
+      <Value Key="INPUTCMD_HORN">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI">
+      <Value Key="INPUTCMD_TELEMETRY_TOGGLE"/>
+      <Value Key="INPUTCMD_PHOTO_MODE_TOGGLE"/>
+      <Value Key="INPUTCMD_RADIO_LEFT"/>
+      <Value Key="INPUTCMD_RADIO_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MINILEADERBOARD_TOGGLE"/>
+      <Value Key="INPUTCMD_ANNA_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_QUICKCHAT_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_CONVERTIBLE_TRIGGER"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_TELEMETRY_UI">
+      <Value Key="INPUTCMD_TELEMETRY_PREV"/>
+      <Value Key="INPUTCMD_TELEMETRY_NEXT"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY"/>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA">
+      <Value Key="INPUTCMD_ANNA_ITEM_1">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_2">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_3">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_4">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+  </WheelProfile>
+  <WheelProfile Version="3" Id="0aa37955-978c-4b11-a05b-19bdeb955400" UserFacingName="IDS_CustomWheelProfile_5" IsDefaultProfile="0" WheelVidPid="1">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING">
+      <Value Key="INPUTCMD_GAS">
+        <GamepadWheelInput Button="GamepadWheelInputRightTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_BRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputLeftTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_STEERING">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstick_Left" ButtonHigh="GamepadWheelInputLeftThumbstick_Right"/>
+      </Value>
+      <Value Key="INPUTCMD_HANDBRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputBButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTUP">
+        <GamepadWheelInput Button="GamepadWheelInputRightShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTDOWN"/>
+      <Value Key="INPUTCMD_CLUTCH">
+        <GamepadWheelInput Button="GamepadWheelInputAButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_FORWARD"/>
+      <Value Key="INPUTCMD_LOOK_BACK"/>
+      <Value Key="INPUTCMD_LOOK_LEFT"/>
+      <Value Key="INPUTCMD_LOOK_RIGHT"/>
+      <Value Key="INPUTCMD_SWITCH_CAMERA">
+        <GamepadWheelInput Button="GamepadWheelInputYButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MULLIGAN">
+        <GamepadWheelInput Button="GamepadWheelInputXButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP"/>
+      <Value Key="INPUTCMD_HORN">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI">
+      <Value Key="INPUTCMD_TELEMETRY_TOGGLE"/>
+      <Value Key="INPUTCMD_PHOTO_MODE_TOGGLE"/>
+      <Value Key="INPUTCMD_RADIO_LEFT"/>
+      <Value Key="INPUTCMD_RADIO_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MINILEADERBOARD_TOGGLE"/>
+      <Value Key="INPUTCMD_ANNA_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_QUICKCHAT_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_CONVERTIBLE_TRIGGER"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_TELEMETRY_UI">
+      <Value Key="INPUTCMD_TELEMETRY_PREV"/>
+      <Value Key="INPUTCMD_TELEMETRY_NEXT"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY"/>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA">
+      <Value Key="INPUTCMD_ANNA_ITEM_1">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_2">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_3">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_4">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+  </WheelProfile>
+  <WheelProfile Version="3" Id="ab03ddb3-b221-406c-b08b-ea7865e34e13" UserFacingName="IDS_CustomWheelProfile_3" IsDefaultProfile="0" WheelVidPid="1">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING">
+      <Value Key="INPUTCMD_GAS">
+        <GamepadWheelInput Button="GamepadWheelInputRightTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_BRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputLeftTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_STEERING">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstick_Left" ButtonHigh="GamepadWheelInputLeftThumbstick_Right"/>
+      </Value>
+      <Value Key="INPUTCMD_HANDBRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputBButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTUP">
+        <GamepadWheelInput Button="GamepadWheelInputRightShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTDOWN"/>
+      <Value Key="INPUTCMD_CLUTCH">
+        <GamepadWheelInput Button="GamepadWheelInputAButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_FORWARD"/>
+      <Value Key="INPUTCMD_LOOK_BACK"/>
+      <Value Key="INPUTCMD_LOOK_LEFT"/>
+      <Value Key="INPUTCMD_LOOK_RIGHT"/>
+      <Value Key="INPUTCMD_SWITCH_CAMERA">
+        <GamepadWheelInput Button="GamepadWheelInputYButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MULLIGAN">
+        <GamepadWheelInput Button="GamepadWheelInputXButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP"/>
+      <Value Key="INPUTCMD_HORN">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI">
+      <Value Key="INPUTCMD_TELEMETRY_TOGGLE"/>
+      <Value Key="INPUTCMD_PHOTO_MODE_TOGGLE"/>
+      <Value Key="INPUTCMD_RADIO_LEFT"/>
+      <Value Key="INPUTCMD_RADIO_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MINILEADERBOARD_TOGGLE"/>
+      <Value Key="INPUTCMD_ANNA_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_QUICKCHAT_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_CONVERTIBLE_TRIGGER"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_TELEMETRY_UI">
+      <Value Key="INPUTCMD_TELEMETRY_PREV"/>
+      <Value Key="INPUTCMD_TELEMETRY_NEXT"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY"/>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA">
+      <Value Key="INPUTCMD_ANNA_ITEM_1">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_2">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_3">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_4">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+  </WheelProfile>
+  <WheelProfile Version="3" Id="09238fb1-4c7c-4538-8481-a426b2021fff" UserFacingName="IDS_CustomWheelProfile_1" IsDefaultProfile="0" WheelVidPid="1">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING">
+      <Value Key="INPUTCMD_GAS">
+        <GamepadWheelInput Button="GamepadWheelInputRightTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_BRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputLeftTrigger" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_STEERING">
+        <GamepadWheelInput Button="GamepadWheelInputLeftThumbstick_Left" ButtonHigh="GamepadWheelInputLeftThumbstick_Right"/>
+      </Value>
+      <Value Key="INPUTCMD_HANDBRAKE">
+        <GamepadWheelInput Button="GamepadWheelInputBButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTUP">
+        <GamepadWheelInput Button="GamepadWheelInputRightShoulderButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_SHIFTDOWN"/>
+      <Value Key="INPUTCMD_CLUTCH">
+        <GamepadWheelInput Button="GamepadWheelInputAButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_LOOK_FORWARD"/>
+      <Value Key="INPUTCMD_LOOK_BACK"/>
+      <Value Key="INPUTCMD_LOOK_LEFT"/>
+      <Value Key="INPUTCMD_LOOK_RIGHT"/>
+      <Value Key="INPUTCMD_SWITCH_CAMERA">
+        <GamepadWheelInput Button="GamepadWheelInputYButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MULLIGAN">
+        <GamepadWheelInput Button="GamepadWheelInputXButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputBackButton" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_OPEN_MAP"/>
+      <Value Key="INPUTCMD_HORN">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI">
+      <Value Key="INPUTCMD_TELEMETRY_TOGGLE"/>
+      <Value Key="INPUTCMD_PHOTO_MODE_TOGGLE"/>
+      <Value Key="INPUTCMD_RADIO_LEFT"/>
+      <Value Key="INPUTCMD_RADIO_RIGHT">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_MINILEADERBOARD_TOGGLE"/>
+      <Value Key="INPUTCMD_ANNA_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_QUICKCHAT_ACTIVATE">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_CONVERTIBLE_TRIGGER"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_TELEMETRY_UI">
+      <Value Key="INPUTCMD_TELEMETRY_PREV"/>
+      <Value Key="INPUTCMD_TELEMETRY_NEXT"/>
+    </Context>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY"/>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA">
+      <Value Key="INPUTCMD_ANNA_ITEM_1">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Up" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_2">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Left" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_3">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Right" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+      <Value Key="INPUTCMD_ANNA_ITEM_4">
+        <GamepadWheelInput Button="GamepadWheelInputDPad_Down" ButtonHigh="GamepadWheelInputNone"/>
+      </Value>
+    </Context>
+  </WheelProfile>
+  <RawGameControllerInputMappingProfile Version="3" Id="712288e1-e7d4-4d47-be62-4af0e575ac97" UserFacingName="IDS_CustomWheelProfile_5" IsDefaultProfile="0" PrimaryDeviceVidPid="1" FFBDeviceVidPid="1" FFBMotorIndex="0" PrimaryDeviceVidPid="1" WheelVidPid="1">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING"/>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY"/>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA"/>
+  </RawGameControllerInputMappingProfile>
+  <RawGameControllerInputMappingProfile Version="3" Id="afc8cefb-3aeb-4f34-90c4-5287d93d7547" UserFacingName="IDS_CustomWheelProfile_2" IsDefaultProfile="0" PrimaryDeviceVidPid="1" FFBDeviceVidPid="1" FFBMotorIndex="0" PrimaryDeviceVidPid="1" WheelVidPid="1">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING"/>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY"/>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA"/>
+  </RawGameControllerInputMappingProfile>
+  <RawGameControllerInputMappingProfile Version="3" Id="9600c3da-05af-4c08-9f55-8d920f181470" UserFacingName="IDS_CustomWheelProfile_1" IsDefaultProfile="0" PrimaryDeviceVidPid="1" FFBDeviceVidPid="1" FFBMotorIndex="0" PrimaryDeviceVidPid="1" WheelVidPid="1">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING"/>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY"/>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA"/>
+  </RawGameControllerInputMappingProfile>
+  <RawGameControllerInputMappingProfile Version="3" Id="e5919b9d-8341-4b57-ad42-bd700ad1ad87" UserFacingName="IDS_CustomWheelProfile_3" IsDefaultProfile="0" PrimaryDeviceVidPid="1" FFBDeviceVidPid="1" FFBMotorIndex="0" PrimaryDeviceVidPid="1" WheelVidPid="1">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING"/>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY"/>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA"/>
+  </RawGameControllerInputMappingProfile>
+  <RawGameControllerInputMappingProfile Version="3" Id="447ce9a1-6712-4cbd-8ddb-ecad670496c5" UserFacingName="IDS_CustomWheelProfile_4" IsDefaultProfile="0" PrimaryDeviceVidPid="1" FFBDeviceVidPid="1" FFBMotorIndex="0" PrimaryDeviceVidPid="1" WheelVidPid="1">
+    <Layout/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING"/>
+    <Context Version="3" Context="INPUTCONTEXT_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_UI"/>
+    <Context Version="3" Context="INPUTCONTEXT_RACING_CAMERA_ONLY"/>
+    <Context Version="3" Context="INPUTCONTEXT_COPTER"/>
+    <Context Version="3" Context="INPUTCONTEXT_ANNA"/>
+  </RawGameControllerInputMappingProfile>
+</Profiles>

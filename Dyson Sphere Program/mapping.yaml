@@ -1,0 +1,30 @@
+---
+name: Dyson Sphere Program
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:14.629466800Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/Dyson Sphere Program/Save/Noice.dsv":
+        hash: dd9d0b7b2680b92401bdf9e3ab8ff4de60278af6
+        size: 3138921
+      "C:/Users/user/Documents/Dyson Sphere Program/Save/_autosave_0.dsv":
+        hash: 3a245f968aeac46320a656c294851103288d0167
+        size: 6237613
+      "C:/Users/user/Documents/Dyson Sphere Program/Save/_autosave_1.dsv":
+        hash: af7799c907a4eec50bb7d65926a691f1a3c12a65
+        size: 6228404
+      "C:/Users/user/Documents/Dyson Sphere Program/Save/_autosave_2.dsv":
+        hash: f728c36570de2f553f0a81ba932dac573f8d913b
+        size: 6116491
+      "C:/Users/user/Documents/Dyson Sphere Program/Save/_autosave_3.dsv":
+        hash: 2d0dd1bfdaa13579778f35ce34e0cae7f431f512
+        size: 6235759
+      "C:/Users/user/Documents/Dyson Sphere Program/Save/_lastexit_.dsv":
+        hash: 7c7f056695e75f10f1c9791eae579eb50b3ca7fc
+        size: 6243318
+    registry:
+      hash: ~
+    children: []

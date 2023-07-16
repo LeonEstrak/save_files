@@ -1,0 +1,30 @@
+---
+name: Doom Eternal
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:47:56.249320100Z"
+    os: windows
+    files:
+      "C:/Program Files (x86)/Steam/userdata/102118085/782330/remote/GAME-AUTOSAVE0/game.details":
+        hash: e153f2dba4e1fb577a4f3c4765861037ae39ea66
+        size: 268
+      "C:/Program Files (x86)/Steam/userdata/102118085/782330/remote/GAME-AUTOSAVE0/game.details-BACKUP":
+        hash: dfa5f4dbb6601718b6cc387db825235bc817f1a0
+        size: 262
+      "C:/Program Files (x86)/Steam/userdata/102118085/782330/remote/GAME-AUTOSAVE0/game_duration.dat":
+        hash: 42fbc878a914601d5c525f333b2b36d1732a3c59
+        size: 791620
+      "C:/Program Files (x86)/Steam/userdata/102118085/782330/remote/GAME-AUTOSAVE0/game_duration.dat-BACKUP":
+        hash: e552364b76055ca041492a778bac79d9282dfdda
+        size: 761468
+      "C:/Program Files (x86)/Steam/userdata/102118085/782330/remote/PROFILE/profile.bin":
+        hash: 48face8b97351a81a76575e7672b5ada6995d86e
+        size: 537710
+      "C:/Users/user/Saved Games/id Software/DOOMEternal/base/DOOMEternalConfig.local":
+        hash: 0298d2b54d392b56c9ff447c888426f26851b599
+        size: 273
+    registry:
+      hash: ~
+    children: []

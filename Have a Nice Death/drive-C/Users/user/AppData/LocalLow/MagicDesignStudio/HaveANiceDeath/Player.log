@@ -1,0 +1,1387 @@
+Mono path[0] = 'E:/Have a Nice Death/HaveaNiceDeath_Data/Managed'
+Mono config path = 'E:/Have a Nice Death/MonoBleedingEdge/etc'
+Initialize engine version: 2021.3.13f1 (9e7d58001ecf)
+[Subsystems] Discovering subsystems at path E:/Have a Nice Death/HaveaNiceDeath_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6800 XT (ID=0x73bf)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   31.0.14057.5006
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.070 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.750900 ms
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+Deserializing LevelDatabase, instance is null.
+The referenced script (SetTextToLevelLoaderName) on this Behaviour is missing!
+Serialization depth limit 10 exceeded at 'BossElevatorData.otherWorlds'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: BossElevatorData.otherWorlds
+10: BossElevatorData.otherWorlds
+9: BossElevatorData.otherWorlds
+8: BossElevatorData.otherWorlds
+7: BossElevatorData.otherWorlds
+6: BossElevatorData.otherWorlds
+5: BossElevatorData.otherWorlds
+4: BossElevatorData.otherWorlds
+3: BossElevatorData.otherWorlds
+2: BossElevatorData.otherWorlds
+1: BossElevatorData.otherWorlds
+0: BossElevatorUpgrade.data
+Serialization depth limit 10 exceeded at 'BossElevatorData.otherWorlds'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: BossElevatorData.otherWorlds
+10: BossElevatorData.otherWorlds
+9: BossElevatorData.otherWorlds
+8: BossElevatorData.otherWorlds
+7: BossElevatorData.otherWorlds
+6: BossElevatorData.otherWorlds
+5: BossElevatorData.otherWorlds
+4: BossElevatorData.otherWorlds
+3: BossElevatorData.otherWorlds
+2: BossElevatorData.otherWorlds
+1: BossElevatorData.otherWorlds
+0: BossElevatorData.otherWorlds
+The referenced script on this Behaviour (Game Object 'LoadLevelButton') is missing!
+Serialization depth limit 10 exceeded at 'BossElevatorData.otherWorlds'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: BossElevatorData.otherWorlds
+10: BossElevatorData.otherWorlds
+9: BossElevatorData.otherWorlds
+8: BossElevatorData.otherWorlds
+7: BossElevatorData.otherWorlds
+6: BossElevatorData.otherWorlds
+5: BossElevatorData.otherWorlds
+4: BossElevatorData.otherWorlds
+3: BossElevatorData.otherWorlds
+2: BossElevatorData.otherWorlds
+1: BossElevatorData.otherWorlds
+0: PermanentUpgradesManager.bossElevatorList
+Uploading Crash Report
+ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <c9d3ffd4b98649ee9989e1908eaca019>:0 
+  at MagicSlicer.EffectiveAddCustom (System.Collections.IEnumerator routine, System.Int32 prio) [0x00017] in <a2e78221d9b74e60bd2843e8a4609041>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+Magic.Helpers.MagicDebug:DebugLogException(Exception, Object)
+MagicSlicer:EffectiveAddCustom(IEnumerator, Int32)
+MagicSlicer:AddCustom(IEnumerator, Int32)
+Magic.Packages.MagicLoading.Runtime.Loading.ResourceLoader:PrePool(PrepoolData, Action, Boolean, List`1, Boolean)
+Magic.Packages.MagicLoading.Runtime.Loading.ResourceLoader:LoadMany(List`1, Boolean)
+LoadingBag:OnStart()
+MagicCustomController:Start()
+
+[4.39557 - 1] Can't retrieve type for empty string name !
+[4.413816 - 1] can't init discord, removing managerInternalError
+  at Discord.Discord..ctor (System.Int64 clientId, System.UInt64 flags) [0x00327] in <38aefb1fc091477f972b7cf8787ebaea>:0 
+  at DiscordManager.Start () [0x00000] in <935502a2047943cda0a2edb37414230e>:0 
+SpriteAtlasManager.atlasRequested wasn't listened to while Light requested.
+SpriteAtlasManager.atlasRequested wasn't listened to while Light requested.
+Achievement Balance ton boss is unlocked on platform
+Achievement Fric Pognon is unlocked on platform
+Achievement Sanction disciplinaire is unlocked on platform
+Achievement C'est en fauchant qu'on devient Faucheuse is unlocked on platform
+Achievement Un p'tit kafe is unlocked on platform
+Achievement Burnout is unlocked on platform
+Achievement Ce n'est qu'une simple formalite is unlocked on platform
+Achievement Le profit toujours le profit is unlocked on platform
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Serialization depth limit 10 exceeded at 'Handle`1.variableTags'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: Handle`1.variableTags
+Serialization depth limit 10 exceeded at 'Handle`1.variableTags'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: Handle`1.variableTags
+Serialization depth limit 10 exceeded at 'Handle`1.variableTags'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: Handle`1.variableTags
+Serialization depth limit 10 exceeded at 'Handle`1.variableTags'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: Handle`1.variableTags
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Direct audio output mode not yet supported for this VideoPlayer backend. Use the AudioSource output mode instead.
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-35b881b356ca1061acc070cf816ea460/CAB-35b881b356ca1061acc070cf816ea460.resource
+Direct audio output mode not yet supported for this VideoPlayer backend. Use the AudioSource output mode instead.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 12)
+Unloading 1269 unused Assets to reduce memory usage. Loaded Objects now: 107440.
+Total: 55.865500 ms (FindLiveObjects: 4.298900 ms CreateObjectMapping: 2.473100 ms MarkObjects: 48.572400 ms  DeleteObjects: 0.520500 ms)
+
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+[37.34338 - 4015] Can't retrieve type for empty string name !
+Seed number : 376208142 has been initialized !
+Unloading 1 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 374 unused Assets to reduce memory usage. Loaded Objects now: 101890.
+Total: 134.904200 ms (FindLiveObjects: 3.754900 ms CreateObjectMapping: 1.915000 ms MarkObjects: 128.941100 ms  DeleteObjects: 0.292600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 101890.
+Total: 152.804500 ms (FindLiveObjects: 3.744100 ms CreateObjectMapping: 1.673700 ms MarkObjects: 147.311800 ms  DeleteObjects: 0.074500 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 2 Unused Serialized files (Serialized files now loaded: 728)
+Unloading 4754 unused Assets to reduce memory usage. Loaded Objects now: 129007.
+Total: 177.100100 ms (FindLiveObjects: 4.922500 ms CreateObjectMapping: 2.162500 ms MarkObjects: 167.562000 ms  DeleteObjects: 2.452600 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 728)
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 3804 unused Assets to reduce memory usage. Loaded Objects now: 132397.
+Total: 176.449900 ms (FindLiveObjects: 5.078000 ms CreateObjectMapping: 3.173600 ms MarkObjects: 166.510100 ms  DeleteObjects: 1.687600 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+[67.89948 - 7530] There is no GPE we can spawn for money amount: 7. Abort.
+Achievement Ce n'est qu'une simple formalite is unlocked on platform
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 376208143 has been initialized !
+Unloading 5746 unused Assets to reduce memory usage. Loaded Objects now: 112467.
+Total: 174.980200 ms (FindLiveObjects: 5.816800 ms CreateObjectMapping: 2.337700 ms MarkObjects: 161.891600 ms  DeleteObjects: 4.933600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 125 unused Assets to reduce memory usage. Loaded Objects now: 112342.
+Total: 169.842800 ms (FindLiveObjects: 4.603700 ms CreateObjectMapping: 2.129200 ms MarkObjects: 158.936800 ms  DeleteObjects: 4.172700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 112146.
+Total: 157.101600 ms (FindLiveObjects: 4.332500 ms CreateObjectMapping: 1.845600 ms MarkObjects: 150.805500 ms  DeleteObjects: 0.117600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 112145.
+Total: 164.266400 ms (FindLiveObjects: 4.470500 ms CreateObjectMapping: 2.059200 ms MarkObjects: 157.661700 ms  DeleteObjects: 0.074500 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_Start_In_01_1D_R') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 5472 unused Assets to reduce memory usage. Loaded Objects now: 133591.
+Total: 185.969400 ms (FindLiveObjects: 6.315100 ms CreateObjectMapping: 2.599100 ms MarkObjects: 173.528300 ms  DeleteObjects: 3.526500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 2813 unused Assets to reduce memory usage. Loaded Objects now: 135356.
+Total: 187.184300 ms (FindLiveObjects: 5.083900 ms CreateObjectMapping: 2.174700 ms MarkObjects: 177.657800 ms  DeleteObjects: 2.267500 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_Universal_In_2D_LR') is missing!
+The referenced script (CustomRoomArt) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_End_In_03_1D') is missing!
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 376208144 has been initialized !
+Unloading 6335 unused Assets to reduce memory usage. Loaded Objects now: 112026.
+Total: 157.387100 ms (FindLiveObjects: 5.619100 ms CreateObjectMapping: 2.057400 ms MarkObjects: 144.284600 ms  DeleteObjects: 5.425400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 111905.
+Total: 168.180500 ms (FindLiveObjects: 4.664900 ms CreateObjectMapping: 1.930500 ms MarkObjects: 157.972900 ms  DeleteObjects: 3.611700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 111747.
+Total: 169.176100 ms (FindLiveObjects: 4.377600 ms CreateObjectMapping: 1.888900 ms MarkObjects: 162.829900 ms  DeleteObjects: 0.079200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 111747.
+Total: 166.185400 ms (FindLiveObjects: 4.721900 ms CreateObjectMapping: 2.523400 ms MarkObjects: 158.864700 ms  DeleteObjects: 0.074900 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 4176 unused Assets to reduce memory usage. Loaded Objects now: 138436.
+Total: 189.362500 ms (FindLiveObjects: 5.576500 ms CreateObjectMapping: 2.195600 ms MarkObjects: 178.948600 ms  DeleteObjects: 2.641000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 2817 unused Assets to reduce memory usage. Loaded Objects now: 142379.
+Total: 202.884700 ms (FindLiveObjects: 5.889400 ms CreateObjectMapping: 2.621200 ms MarkObjects: 192.160100 ms  DeleteObjects: 2.213600 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_Miniboss_B_2D_LR') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (CustomRoomArt) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_End_In_03_1D') is missing!
+[FMOD] Event not found: 
+[FMOD] Event not found: 
+Achievement Burnout is unlocked on platform
+Achievement Burnout is unlocked on platform
+[FMOD] Event not found: 
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 5892 unused Assets to reduce memory usage. Loaded Objects now: 115115.
+Total: 168.922700 ms (FindLiveObjects: 5.130800 ms CreateObjectMapping: 2.740700 ms MarkObjects: 155.946500 ms  DeleteObjects: 5.104100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 115008.
+Total: 160.633800 ms (FindLiveObjects: 4.862000 ms CreateObjectMapping: 1.893300 ms MarkObjects: 150.766900 ms  DeleteObjects: 3.111300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 114852.
+Total: 168.358900 ms (FindLiveObjects: 4.566900 ms CreateObjectMapping: 1.962500 ms MarkObjects: 161.745000 ms  DeleteObjects: 0.084200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 114852.
+Total: 167.199600 ms (FindLiveObjects: 5.502400 ms CreateObjectMapping: 1.917800 ms MarkObjects: 159.705300 ms  DeleteObjects: 0.073700 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'LA_Lobby2_Bigger') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 71)
+Unloading 9800 unused Assets to reduce memory usage. Loaded Objects now: 158084.
+Total: 246.590700 ms (FindLiveObjects: 6.612400 ms CreateObjectMapping: 3.417900 ms MarkObjects: 231.337300 ms  DeleteObjects: 5.222600 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 72)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 165056.
+Total: 239.139400 ms (FindLiveObjects: 6.419700 ms CreateObjectMapping: 2.523500 ms MarkObjects: 228.771500 ms  DeleteObjects: 1.424000 ms)
+
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 6315 unused Assets to reduce memory usage. Loaded Objects now: 113914.
+Total: 170.985500 ms (FindLiveObjects: 5.005300 ms CreateObjectMapping: 2.335400 ms MarkObjects: 158.343100 ms  DeleteObjects: 5.301000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 113822.
+Total: 170.582100 ms (FindLiveObjects: 4.472800 ms CreateObjectMapping: 2.055700 ms MarkObjects: 161.366200 ms  DeleteObjects: 2.687000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 113798.
+Total: 161.796100 ms (FindLiveObjects: 4.574800 ms CreateObjectMapping: 1.989300 ms MarkObjects: 155.153000 ms  DeleteObjects: 0.078400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 113798.
+Total: 163.940400 ms (FindLiveObjects: 5.327100 ms CreateObjectMapping: 1.991800 ms MarkObjects: 156.550200 ms  DeleteObjects: 0.070800 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 728)
+Unloading 5230 unused Assets to reduce memory usage. Loaded Objects now: 140640.
+Total: 192.126100 ms (FindLiveObjects: 6.303400 ms CreateObjectMapping: 2.616700 ms MarkObjects: 180.373500 ms  DeleteObjects: 2.832000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 729)
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 3812 unused Assets to reduce memory usage. Loaded Objects now: 143778.
+Total: 209.333700 ms (FindLiveObjects: 5.713200 ms CreateObjectMapping: 2.738000 ms MarkObjects: 198.095900 ms  DeleteObjects: 2.785800 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Achievement Ce n'est qu'une simple formalite is unlocked on platform
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 1344822143 has been initialized !
+Unloading 5594 unused Assets to reduce memory usage. Loaded Objects now: 118154.
+Total: 184.473800 ms (FindLiveObjects: 5.311900 ms CreateObjectMapping: 2.079000 ms MarkObjects: 171.516500 ms  DeleteObjects: 5.565700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 104 unused Assets to reduce memory usage. Loaded Objects now: 118050.
+Total: 190.249100 ms (FindLiveObjects: 4.912900 ms CreateObjectMapping: 1.995100 ms MarkObjects: 180.026000 ms  DeleteObjects: 3.314500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 117853.
+Total: 173.535700 ms (FindLiveObjects: 5.052500 ms CreateObjectMapping: 2.051000 ms MarkObjects: 166.274200 ms  DeleteObjects: 0.157000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 117853.
+Total: 171.471400 ms (FindLiveObjects: 5.159700 ms CreateObjectMapping: 2.191100 ms MarkObjects: 163.858400 ms  DeleteObjects: 0.261100 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 9104 unused Assets to reduce memory usage. Loaded Objects now: 133306.
+Total: 196.159900 ms (FindLiveObjects: 5.577600 ms CreateObjectMapping: 2.816600 ms MarkObjects: 183.187800 ms  DeleteObjects: 4.577300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 4656 unused Assets to reduce memory usage. Loaded Objects now: 135707.
+Total: 194.905700 ms (FindLiveObjects: 6.050000 ms CreateObjectMapping: 2.901000 ms MarkObjects: 182.440600 ms  DeleteObjects: 3.513500 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 1344822144 has been initialized !
+Unloading 5704 unused Assets to reduce memory usage. Loaded Objects now: 115552.
+Total: 176.352000 ms (FindLiveObjects: 6.311900 ms CreateObjectMapping: 2.279900 ms MarkObjects: 162.185000 ms  DeleteObjects: 5.574900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 115433.
+Total: 181.875400 ms (FindLiveObjects: 4.863000 ms CreateObjectMapping: 2.013000 ms MarkObjects: 171.478200 ms  DeleteObjects: 3.520500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 115265.
+Total: 170.370900 ms (FindLiveObjects: 4.470800 ms CreateObjectMapping: 2.003800 ms MarkObjects: 163.808000 ms  DeleteObjects: 0.087900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 115265.
+Total: 180.323800 ms (FindLiveObjects: 4.727800 ms CreateObjectMapping: 1.893500 ms MarkObjects: 173.623700 ms  DeleteObjects: 0.078100 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_Start_In_01_1D_R') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 4618 unused Assets to reduce memory usage. Loaded Objects now: 138607.
+Total: 204.924600 ms (FindLiveObjects: 8.001300 ms CreateObjectMapping: 3.135800 ms MarkObjects: 190.288500 ms  DeleteObjects: 3.498600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 2498 unused Assets to reduce memory usage. Loaded Objects now: 143589.
+Total: 214.871400 ms (FindLiveObjects: 10.092800 ms CreateObjectMapping: 3.740000 ms MarkObjects: 198.561100 ms  DeleteObjects: 2.476700 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_Miniboss_B_2D_LR') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (CustomRoomArt) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_End_In_04_1D') is missing!
+[FMOD] Event not found: 
+Achievement Burnout is unlocked on platform
+Achievement Burnout is unlocked on platform
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[FMOD] Event not found: 
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 6070 unused Assets to reduce memory usage. Loaded Objects now: 115602.
+Total: 178.951700 ms (FindLiveObjects: 5.410700 ms CreateObjectMapping: 2.517600 ms MarkObjects: 166.674900 ms  DeleteObjects: 4.348000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 120 unused Assets to reduce memory usage. Loaded Objects now: 115482.
+Total: 171.959700 ms (FindLiveObjects: 4.777900 ms CreateObjectMapping: 2.241400 ms MarkObjects: 161.129600 ms  DeleteObjects: 3.810300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 115326.
+Total: 171.947700 ms (FindLiveObjects: 4.763700 ms CreateObjectMapping: 1.928500 ms MarkObjects: 165.173400 ms  DeleteObjects: 0.081700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 115326.
+Total: 166.813300 ms (FindLiveObjects: 5.213100 ms CreateObjectMapping: 1.930600 ms MarkObjects: 159.595200 ms  DeleteObjects: 0.073900 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'LA_Lobby2_Bigger') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 71)
+Unloading 8222 unused Assets to reduce memory usage. Loaded Objects now: 161490.
+Total: 256.888400 ms (FindLiveObjects: 7.054700 ms CreateObjectMapping: 2.625700 ms MarkObjects: 242.787500 ms  DeleteObjects: 4.420100 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 72)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 166427.
+Total: 276.474500 ms (FindLiveObjects: 6.722200 ms CreateObjectMapping: 2.514400 ms MarkObjects: 265.985800 ms  DeleteObjects: 1.251500 ms)
+
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 6307 unused Assets to reduce memory usage. Loaded Objects now: 115268.
+Total: 179.025800 ms (FindLiveObjects: 5.754200 ms CreateObjectMapping: 2.175500 ms MarkObjects: 165.487100 ms  DeleteObjects: 5.608700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 115178.
+Total: 185.464100 ms (FindLiveObjects: 5.204400 ms CreateObjectMapping: 1.992900 ms MarkObjects: 175.461800 ms  DeleteObjects: 2.804500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 115154.
+Total: 174.042800 ms (FindLiveObjects: 4.536000 ms CreateObjectMapping: 1.884400 ms MarkObjects: 167.537300 ms  DeleteObjects: 0.081800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 115154.
+Total: 178.273100 ms (FindLiveObjects: 4.603500 ms CreateObjectMapping: 1.947400 ms MarkObjects: 171.649700 ms  DeleteObjects: 0.072100 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 728)
+Unloading 5201 unused Assets to reduce memory usage. Loaded Objects now: 142002.
+Total: 195.967500 ms (FindLiveObjects: 5.761600 ms CreateObjectMapping: 2.464400 ms MarkObjects: 185.115900 ms  DeleteObjects: 2.625200 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_End_Out_03_1D') is missing!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'V1') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 729)
+Unloading 4314 unused Assets to reduce memory usage. Loaded Objects now: 167748.
+Total: 222.715100 ms (FindLiveObjects: 6.479100 ms CreateObjectMapping: 3.368600 ms MarkObjects: 210.511500 ms  DeleteObjects: 2.355400 ms)
+
+Achievement C'est en fauchant qu'on devient Faucheuse is unlocked on platform
+Achievement Ce n'est qu'une simple formalite is unlocked on platform
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 1274257825 has been initialized !
+Unloading 4941 unused Assets to reduce memory usage. Loaded Objects now: 116486.
+Total: 185.563600 ms (FindLiveObjects: 5.178200 ms CreateObjectMapping: 2.503400 ms MarkObjects: 173.471200 ms  DeleteObjects: 4.410500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 116391.
+Total: 185.536000 ms (FindLiveObjects: 5.269700 ms CreateObjectMapping: 2.030400 ms MarkObjects: 175.318800 ms  DeleteObjects: 2.916600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 116195.
+Total: 192.267300 ms (FindLiveObjects: 4.521800 ms CreateObjectMapping: 1.903600 ms MarkObjects: 185.749700 ms  DeleteObjects: 0.091700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 116194.
+Total: 182.721900 ms (FindLiveObjects: 5.047800 ms CreateObjectMapping: 1.908700 ms MarkObjects: 175.681400 ms  DeleteObjects: 0.083500 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 6510 unused Assets to reduce memory usage. Loaded Objects now: 134251.
+Total: 193.625000 ms (FindLiveObjects: 5.660900 ms CreateObjectMapping: 2.544800 ms MarkObjects: 181.835800 ms  DeleteObjects: 3.583000 ms)
+
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 4546 unused Assets to reduce memory usage. Loaded Objects now: 172433.
+Total: 240.162400 ms (FindLiveObjects: 7.233000 ms CreateObjectMapping: 2.619500 ms MarkObjects: 227.596300 ms  DeleteObjects: 2.713100 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+[4143.984 - 494898] There is no GPE we can spawn for money amount: 4. Abort.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 1274257826 has been initialized !
+Unloading 5620 unused Assets to reduce memory usage. Loaded Objects now: 120593.
+Total: 190.323800 ms (FindLiveObjects: 5.306800 ms CreateObjectMapping: 2.949200 ms MarkObjects: 177.439400 ms  DeleteObjects: 4.627900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 120478.
+Total: 187.857800 ms (FindLiveObjects: 5.277400 ms CreateObjectMapping: 2.101000 ms MarkObjects: 176.495300 ms  DeleteObjects: 3.983500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 120310.
+Total: 177.732700 ms (FindLiveObjects: 4.693500 ms CreateObjectMapping: 2.049500 ms MarkObjects: 170.905900 ms  DeleteObjects: 0.083500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 120310.
+Total: 176.092900 ms (FindLiveObjects: 4.747800 ms CreateObjectMapping: 2.433800 ms MarkObjects: 168.818400 ms  DeleteObjects: 0.092400 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 8993 unused Assets to reduce memory usage. Loaded Objects now: 146841.
+Total: 203.828900 ms (FindLiveObjects: 6.261600 ms CreateObjectMapping: 2.404900 ms MarkObjects: 189.504100 ms  DeleteObjects: 5.657900 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_Miniboss_B_2D_LR') is missing!
+The referenced script (CustomRoomArt) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_End_In_02_1D') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 3392 unused Assets to reduce memory usage. Loaded Objects now: 158596.
+Total: 217.645100 ms (FindLiveObjects: 6.198500 ms CreateObjectMapping: 2.412200 ms MarkObjects: 205.178300 ms  DeleteObjects: 3.855600 ms)
+
+[FMOD] Event not found: 
+[FMOD] Event not found: 
+Achievement Sanction disciplinaire is unlocked on platform
+Achievement Ce n'est qu'une simple formalite is unlocked on platform
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 1274257827 has been initialized !
+Unloading 5295 unused Assets to reduce memory usage. Loaded Objects now: 115778.
+Total: 185.227200 ms (FindLiveObjects: 4.906300 ms CreateObjectMapping: 2.236500 ms MarkObjects: 173.522000 ms  DeleteObjects: 4.561900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 115685.
+Total: 177.822400 ms (FindLiveObjects: 4.510100 ms CreateObjectMapping: 2.037400 ms MarkObjects: 168.342900 ms  DeleteObjects: 2.931400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 115529.
+Total: 172.365600 ms (FindLiveObjects: 4.526100 ms CreateObjectMapping: 1.952300 ms MarkObjects: 165.786900 ms  DeleteObjects: 0.099700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 115529.
+Total: 172.566900 ms (FindLiveObjects: 4.663100 ms CreateObjectMapping: 1.945200 ms MarkObjects: 165.870900 ms  DeleteObjects: 0.087300 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 5221 unused Assets to reduce memory usage. Loaded Objects now: 143482.
+Total: 214.916000 ms (FindLiveObjects: 5.835200 ms CreateObjectMapping: 2.694200 ms MarkObjects: 203.717700 ms  DeleteObjects: 2.668300 ms)
+
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 4698 unused Assets to reduce memory usage. Loaded Objects now: 165336.
+Total: 229.943200 ms (FindLiveObjects: 6.743900 ms CreateObjectMapping: 2.493200 ms MarkObjects: 217.632400 ms  DeleteObjects: 3.073300 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 1274257828 has been initialized !
+Unloading 5671 unused Assets to reduce memory usage. Loaded Objects now: 116368.
+Total: 189.819500 ms (FindLiveObjects: 5.665900 ms CreateObjectMapping: 2.479200 ms MarkObjects: 176.603600 ms  DeleteObjects: 5.070200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 116260.
+Total: 178.059500 ms (FindLiveObjects: 5.378600 ms CreateObjectMapping: 2.207100 ms MarkObjects: 166.974600 ms  DeleteObjects: 3.498800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 116092.
+Total: 181.517500 ms (FindLiveObjects: 4.525300 ms CreateObjectMapping: 1.946200 ms MarkObjects: 174.960200 ms  DeleteObjects: 0.085200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 116092.
+Total: 180.050700 ms (FindLiveObjects: 4.839600 ms CreateObjectMapping: 2.329500 ms MarkObjects: 172.811200 ms  DeleteObjects: 0.070000 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 72)
+Unloading 4156 unused Assets to reduce memory usage. Loaded Objects now: 194881.
+Total: 335.259200 ms (FindLiveObjects: 9.133300 ms CreateObjectMapping: 3.390400 ms MarkObjects: 319.750800 ms  DeleteObjects: 2.984300 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 73)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 198452.
+Total: 321.635700 ms (FindLiveObjects: 7.696700 ms CreateObjectMapping: 3.013600 ms MarkObjects: 309.824200 ms  DeleteObjects: 1.100700 ms)
+
+[FMOD] Event not found: {895e446c-0e11-4958-b462-a406ba313dbb}
+[FMOD] Event not found: {895e446c-0e11-4958-b462-a406ba313dbb}
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 1274257829 has been initialized !
+Unloading 4191 unused Assets to reduce memory usage. Loaded Objects now: 145078.
+Total: 197.238500 ms (FindLiveObjects: 6.365300 ms CreateObjectMapping: 2.901300 ms MarkObjects: 184.725500 ms  DeleteObjects: 3.245900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 144985.
+Total: 196.984700 ms (FindLiveObjects: 5.591500 ms CreateObjectMapping: 3.301900 ms MarkObjects: 184.687200 ms  DeleteObjects: 3.403500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 144963.
+Total: 194.438000 ms (FindLiveObjects: 5.573400 ms CreateObjectMapping: 2.524100 ms MarkObjects: 186.228600 ms  DeleteObjects: 0.111200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 144963.
+Total: 187.872600 ms (FindLiveObjects: 5.586500 ms CreateObjectMapping: 2.532500 ms MarkObjects: 179.650800 ms  DeleteObjects: 0.102300 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_Boss_Gargoyle_1D_L_Office') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 728)
+Unloading 2835 unused Assets to reduce memory usage. Loaded Objects now: 173075.
+Total: 214.399000 ms (FindLiveObjects: 7.971000 ms CreateObjectMapping: 3.314500 ms MarkObjects: 201.241200 ms  DeleteObjects: 1.871900 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 728)
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 180502.
+Total: 229.752000 ms (FindLiveObjects: 6.856600 ms CreateObjectMapping: 3.567200 ms MarkObjects: 217.250800 ms  DeleteObjects: 2.076900 ms)
+
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Achievement Balance ton boss is unlocked on platform
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Achievement Ce n'est qu'une simple formalite is unlocked on platform
+Achievement Un p'tit kafe is unlocked on platform
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 5612 unused Assets to reduce memory usage. Loaded Objects now: 147582.
+Total: 206.334500 ms (FindLiveObjects: 6.223200 ms CreateObjectMapping: 3.408500 ms MarkObjects: 191.546500 ms  DeleteObjects: 5.156000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 147479.
+Total: 193.909100 ms (FindLiveObjects: 6.073800 ms CreateObjectMapping: 2.740300 ms MarkObjects: 180.893900 ms  DeleteObjects: 4.200700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 147457.
+Total: 184.671100 ms (FindLiveObjects: 5.550900 ms CreateObjectMapping: 2.772900 ms MarkObjects: 176.072800 ms  DeleteObjects: 0.273500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 147457.
+Total: 196.243700 ms (FindLiveObjects: 5.693400 ms CreateObjectMapping: 2.587100 ms MarkObjects: 187.854600 ms  DeleteObjects: 0.108300 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 71)
+Unloading 3612 unused Assets to reduce memory usage. Loaded Objects now: 170042.
+Total: 233.421500 ms (FindLiveObjects: 10.151900 ms CreateObjectMapping: 3.619000 ms MarkObjects: 216.845900 ms  DeleteObjects: 2.804100 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 72)
+[4498.529 - 536504] Format params is not the same size of the array. Display description with no values.
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 178112.
+Total: 251.147200 ms (FindLiveObjects: 6.698700 ms CreateObjectMapping: 2.998200 ms MarkObjects: 239.141600 ms  DeleteObjects: 2.308300 ms)
+
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Cannot release a null or unloaded asset.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 1274257829 has been initialized !
+Unloading 4167 unused Assets to reduce memory usage. Loaded Objects now: 148527.
+Total: 201.038200 ms (FindLiveObjects: 6.656700 ms CreateObjectMapping: 2.727800 ms MarkObjects: 188.108700 ms  DeleteObjects: 3.544400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 85 unused Assets to reduce memory usage. Loaded Objects now: 148442.
+Total: 193.210600 ms (FindLiveObjects: 5.536900 ms CreateObjectMapping: 2.834000 ms MarkObjects: 181.517100 ms  DeleteObjects: 3.322000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 148418.
+Total: 196.982700 ms (FindLiveObjects: 5.435100 ms CreateObjectMapping: 2.711100 ms MarkObjects: 188.724000 ms  DeleteObjects: 0.112100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 148418.
+Total: 196.835300 ms (FindLiveObjects: 6.189400 ms CreateObjectMapping: 2.687400 ms MarkObjects: 187.848500 ms  DeleteObjects: 0.109700 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 397)
+Unloading 2395 unused Assets to reduce memory usage. Loaded Objects now: 169217.
+Total: 232.807800 ms (FindLiveObjects: 6.807300 ms CreateObjectMapping: 3.557200 ms MarkObjects: 220.419700 ms  DeleteObjects: 2.022900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 397)
+Unloading 2043 unused Assets to reduce memory usage. Loaded Objects now: 217639.
+Total: 275.959800 ms (FindLiveObjects: 8.969000 ms CreateObjectMapping: 6.539200 ms MarkObjects: 256.959100 ms  DeleteObjects: 3.492100 ms)
+
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Achievement Burnout is unlocked on platform
+Achievement Burnout is unlocked on platform
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 11)
+Unloading 14427 unused Assets to reduce memory usage. Loaded Objects now: 150389.
+Total: 220.351300 ms (FindLiveObjects: 7.273200 ms CreateObjectMapping: 3.638400 ms MarkObjects: 197.125600 ms  DeleteObjects: 12.313700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 11)
+Unloading 143 unused Assets to reduce memory usage. Loaded Objects now: 150246.
+Total: 200.283400 ms (FindLiveObjects: 7.055800 ms CreateObjectMapping: 3.179200 ms MarkObjects: 183.412200 ms  DeleteObjects: 6.635600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 11)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 149959.
+Total: 200.659200 ms (FindLiveObjects: 5.943300 ms CreateObjectMapping: 2.711100 ms MarkObjects: 191.825700 ms  DeleteObjects: 0.178600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 149959.
+Total: 205.302400 ms (FindLiveObjects: 5.904700 ms CreateObjectMapping: 3.313900 ms MarkObjects: 195.938100 ms  DeleteObjects: 0.145100 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'LA_Lobby2_Bigger') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 71)
+Unloading 9499 unused Assets to reduce memory usage. Loaded Objects now: 195697.
+Total: 281.323700 ms (FindLiveObjects: 7.838200 ms CreateObjectMapping: 4.084300 ms MarkObjects: 264.436000 ms  DeleteObjects: 4.964800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 72)
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 198465.
+Total: 298.014500 ms (FindLiveObjects: 7.545000 ms CreateObjectMapping: 3.651500 ms MarkObjects: 284.280000 ms  DeleteObjects: 2.537600 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 5466 unused Assets to reduce memory usage. Loaded Objects now: 149666.
+Total: 206.474800 ms (FindLiveObjects: 6.429900 ms CreateObjectMapping: 3.337200 ms MarkObjects: 190.961200 ms  DeleteObjects: 5.745800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 149597.
+Total: 199.900500 ms (FindLiveObjects: 5.864500 ms CreateObjectMapping: 3.503900 ms MarkObjects: 186.994700 ms  DeleteObjects: 3.537000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 149573.
+Total: 197.065400 ms (FindLiveObjects: 5.849800 ms CreateObjectMapping: 2.919300 ms MarkObjects: 188.164300 ms  DeleteObjects: 0.131700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 149573.
+Total: 194.605500 ms (FindLiveObjects: 5.973700 ms CreateObjectMapping: 2.653100 ms MarkObjects: 185.870500 ms  DeleteObjects: 0.107600 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 728)
+Unloading 4990 unused Assets to reduce memory usage. Loaded Objects now: 175770.
+Total: 239.659100 ms (FindLiveObjects: 6.736100 ms CreateObjectMapping: 3.047600 ms MarkObjects: 226.904300 ms  DeleteObjects: 2.970700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 729)
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 3180 unused Assets to reduce memory usage. Loaded Objects now: 179036.
+Total: 247.377700 ms (FindLiveObjects: 6.937600 ms CreateObjectMapping: 3.677800 ms MarkObjects: 234.196500 ms  DeleteObjects: 2.565200 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_End_Out_03_1D') is missing!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'V1') is missing!
+Achievement C'est en fauchant qu'on devient Faucheuse is unlocked on platform
+Achievement Ce n'est qu'une simple formalite is unlocked on platform
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 391989164 has been initialized !
+Unloading 5003 unused Assets to reduce memory usage. Loaded Objects now: 150495.
+Total: 203.162600 ms (FindLiveObjects: 7.580500 ms CreateObjectMapping: 2.906600 ms MarkObjects: 187.925800 ms  DeleteObjects: 4.749100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 150405.
+Total: 210.323200 ms (FindLiveObjects: 5.729200 ms CreateObjectMapping: 2.699200 ms MarkObjects: 197.476500 ms  DeleteObjects: 4.417600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 150209.
+Total: 196.243300 ms (FindLiveObjects: 5.560200 ms CreateObjectMapping: 3.226700 ms MarkObjects: 187.267800 ms  DeleteObjects: 0.188000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 150208.
+Total: 196.791200 ms (FindLiveObjects: 5.464100 ms CreateObjectMapping: 2.778200 ms MarkObjects: 188.424700 ms  DeleteObjects: 0.123800 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 728)
+Unloading 3370 unused Assets to reduce memory usage. Loaded Objects now: 167849.
+Total: 231.082700 ms (FindLiveObjects: 6.876900 ms CreateObjectMapping: 3.612200 ms MarkObjects: 218.145300 ms  DeleteObjects: 2.448000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 728)
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 3698 unused Assets to reduce memory usage. Loaded Objects now: 170536.
+Total: 233.112400 ms (FindLiveObjects: 6.616900 ms CreateObjectMapping: 4.169700 ms MarkObjects: 220.754300 ms  DeleteObjects: 1.571100 ms)
+
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+The referenced script (CustomRoomArt) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_Universal_Out_2D_LR') is missing!
+The referenced script (CustomRoomArt) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Uploading Crash Report
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNextRare () [0x00013] in <c9d3ffd4b98649ee9989e1908eaca019>:0 
+  at System.Collections.Generic.List`1+Enumerator[T].MoveNext () [0x0004a] in <c9d3ffd4b98649ee9989e1908eaca019>:0 
+  at RewardManager+<LootReward>d__14.MoveNext () [0x0013e] in <935502a2047943cda0a2edb37414230e>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <561971c91c08471b9e995b582c6b3074>:0 
+
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Seed number : 391989165 has been initialized !
+Unloading 6025 unused Assets to reduce memory usage. Loaded Objects now: 151956.
+Total: 207.525300 ms (FindLiveObjects: 6.624400 ms CreateObjectMapping: 2.853500 ms MarkObjects: 192.666000 ms  DeleteObjects: 5.380800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 105 unused Assets to reduce memory usage. Loaded Objects now: 151851.
+Total: 213.655500 ms (FindLiveObjects: 5.997600 ms CreateObjectMapping: 3.894800 ms MarkObjects: 198.358200 ms  DeleteObjects: 5.404500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 151651.
+Total: 209.999000 ms (FindLiveObjects: 5.643200 ms CreateObjectMapping: 2.683500 ms MarkObjects: 201.508300 ms  DeleteObjects: 0.163500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 151650.
+Total: 206.504600 ms (FindLiveObjects: 5.851100 ms CreateObjectMapping: 3.303600 ms MarkObjects: 197.234700 ms  DeleteObjects: 0.114800 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 6555 unused Assets to reduce memory usage. Loaded Objects now: 176139.
+Total: 246.647900 ms (FindLiveObjects: 7.257600 ms CreateObjectMapping: 3.113100 ms MarkObjects: 231.337300 ms  DeleteObjects: 4.939300 ms)
+
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'S_W1_Universal_In_2D_LR') is missing!
+The referenced script (CustomRoomArt) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
+Unloading 3108 unused Assets to reduce memory usage. Loaded Objects now: 199841.
+Total: 255.147600 ms (FindLiveObjects: 8.060700 ms CreateObjectMapping: 3.268900 ms MarkObjects: 238.457800 ms  DeleteObjects: 5.359200 ms)
+
+[5415.942 - 645458] Couldn't find atkDesc for : LD_B_ShootingStar_Air_Atk (Attack)
+Achievement Burnout is unlocked on platform
+Achievement Burnout is unlocked on platform
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Cannot release a null or unloaded asset.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 6665 unused Assets to reduce memory usage. Loaded Objects now: 149351.
+Total: 211.689600 ms (FindLiveObjects: 6.799300 ms CreateObjectMapping: 3.218100 ms MarkObjects: 196.348800 ms  DeleteObjects: 5.323000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 149248.
+Total: 211.645800 ms (FindLiveObjects: 6.018100 ms CreateObjectMapping: 2.672900 ms MarkObjects: 197.642600 ms  DeleteObjects: 5.311400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 149090.
+Total: 196.798300 ms (FindLiveObjects: 5.635700 ms CreateObjectMapping: 2.858000 ms MarkObjects: 188.145400 ms  DeleteObjects: 0.158700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 149090.
+Total: 208.994100 ms (FindLiveObjects: 5.886200 ms CreateObjectMapping: 3.152900 ms MarkObjects: 199.849000 ms  DeleteObjects: 0.105300 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'LA_Lobby2_Bigger') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 71)
+Unloading 8512 unused Assets to reduce memory usage. Loaded Objects now: 192768.
+Total: 282.430600 ms (FindLiveObjects: 7.327300 ms CreateObjectMapping: 3.327100 ms MarkObjects: 267.301600 ms  DeleteObjects: 4.474200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 72)
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 194988.
+Total: 291.797000 ms (FindLiveObjects: 7.260600 ms CreateObjectMapping: 3.433400 ms MarkObjects: 278.475100 ms  DeleteObjects: 2.627500 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+[FMOD] Event not found: 
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 6098 unused Assets to reduce memory usage. Loaded Objects now: 148911.
+Total: 215.741100 ms (FindLiveObjects: 6.158400 ms CreateObjectMapping: 3.485900 ms MarkObjects: 200.406000 ms  DeleteObjects: 5.690100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 148831.
+Total: 200.742400 ms (FindLiveObjects: 5.812800 ms CreateObjectMapping: 2.849300 ms MarkObjects: 188.302100 ms  DeleteObjects: 3.777600 ms)
+
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 13)
+Unloading 1244 unused Assets to reduce memory usage. Loaded Objects now: 152653.
+Total: 229.104500 ms (FindLiveObjects: 5.699500 ms CreateObjectMapping: 2.821700 ms MarkObjects: 219.865000 ms  DeleteObjects: 0.718000 ms)
+
+Setting up 10 worker threads for Enlighten.
+Curl error 42: Callback aborted
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 193 frames, [4.0 KB-8.0 KB]: 192 frames, [8.0 KB-16.0 KB]: 3705 frames, [16.0 KB-32.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 650677 frames, [64.0 KB-128.0 KB]: 15 frames, [128.0 KB-256.0 KB]: 10 frames, [256.0 KB-0.5 MB]: 15 frames, [0.5 MB-1.0 MB]: 2 frames, [1.0 MB-2.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 130 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 8.0 MB
+      Peak Allocated Bytes 8.0 MB
+      Overflow Count 12371
+    [ALLOC_TEMP_Job.Worker 18]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 53.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 511.8 KB
+      Overflow Count 41821
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 63.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 29.3 KB
+      Overflow Count 3
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 29.3 KB
+      Overflow Count 2
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Job.Worker 16]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 29.3 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 53.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_EnlightenWorker] x 10
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 27.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 35.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 19
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 29.3 KB
+      Overflow Count 2
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 25.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 53.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 53.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 56.0 KB
+      Peak Allocated Bytes 54.1 KB
+      Overflow Count 1
+    [ALLOC_TEMP_CloudJob.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 7.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 15]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 51.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 52.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 51.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 128.0 KB
+      Peak Allocated Bytes 128.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 43544
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 21 Subsections = 21504 buckets. Failed count: 108478680
+        32B: 64 Subsections = 32768 buckets. Failed count: 44629306
+        48B: 50 Subsections = 17066 buckets. Failed count: 24529499
+        64B: 64 Subsections = 16384 buckets. Failed count: 2609481
+        80B: 30 Subsections = 6144 buckets. Failed count: 3645513
+        96B: 8 Subsections = 1365 buckets. Failed count: 550572
+        112B: 8 Subsections = 1170 buckets. Failed count: 1392106
+        128B: 11 Subsections = 1408 buckets. Failed count: 246058
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 116 frames, [32.0 MB-64.0 MB]: 16279 frames, [64.0 MB-128.0 MB]: 638547 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 7
+      Peak Allocated memory 97.3 MB
+      Peak Large allocation bytes 12.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 6 frames, [32.0 MB-64.0 MB]: 4377 frames, [64.0 MB-128.0 MB]: 650559 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 6
+      Peak Allocated memory 89.0 MB
+      Peak Large allocation bytes 16.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 7
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 17
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 10
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 21 Subsections = 21504 buckets. Failed count: 108478680
+        32B: 64 Subsections = 32768 buckets. Failed count: 44629306
+        48B: 50 Subsections = 17066 buckets. Failed count: 24529499
+        64B: 64 Subsections = 16384 buckets. Failed count: 2609481
+        80B: 30 Subsections = 6144 buckets. Failed count: 3645513
+        96B: 8 Subsections = 1365 buckets. Failed count: 550572
+        112B: 8 Subsections = 1170 buckets. Failed count: 1392106
+        128B: 11 Subsections = 1408 buckets. Failed count: 246058
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 112 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 4697 frames, [4.0 MB-8.0 MB]: 564359 frames, [8.0 MB-16.0 MB]: 85771 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 10.6 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 47 frames, [1.0 MB-2.0 MB]: 11 frames, [2.0 MB-4.0 MB]: 43 frames, [4.0 MB-8.0 MB]: 4193 frames, [8.0 MB-16.0 MB]: 558029 frames, [16.0 MB-32.0 MB]: 92619 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 18.9 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 275
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 21 Subsections = 21504 buckets. Failed count: 108478680
+        32B: 64 Subsections = 32768 buckets. Failed count: 44629306
+        48B: 50 Subsections = 17066 buckets. Failed count: 24529499
+        64B: 64 Subsections = 16384 buckets. Failed count: 2609481
+        80B: 30 Subsections = 6144 buckets. Failed count: 3645513
+        96B: 8 Subsections = 1365 buckets. Failed count: 550572
+        112B: 8 Subsections = 1170 buckets. Failed count: 1392106
+        128B: 11 Subsections = 1408 buckets. Failed count: 246058
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 654942 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 7
+      Peak Allocated memory 31.0 MB
+      Peak Large allocation bytes 12.1 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 2 frames, [8.0 MB-16.0 MB]: 1 frames, [16.0 MB-32.0 MB]: 6 frames, [32.0 MB-64.0 MB]: 17 frames, [64.0 MB-128.0 MB]: 4437 frames, [128.0 MB-256.0 MB]: 650479 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 25
+      Peak Allocated memory 196.4 MB
+      Peak Large allocation bytes 128.0 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 21 Subsections = 21504 buckets. Failed count: 108478680
+        32B: 64 Subsections = 32768 buckets. Failed count: 44629306
+        48B: 50 Subsections = 17066 buckets. Failed count: 24529499
+        64B: 64 Subsections = 16384 buckets. Failed count: 2609481
+        80B: 30 Subsections = 6144 buckets. Failed count: 3645513
+        96B: 8 Subsections = 1365 buckets. Failed count: 550572
+        112B: 8 Subsections = 1170 buckets. Failed count: 1392106
+        128B: 11 Subsections = 1408 buckets. Failed count: 246058
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 4579 frames, [64.0 KB-128.0 KB]: 650363 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 93.9 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 2 frames, [1.0 MB-2.0 MB]: 18 frames, [2.0 MB-4.0 MB]: 13 frames, [4.0 MB-8.0 MB]: 4032 frames, [8.0 MB-16.0 MB]: 37026 frames, [16.0 MB-32.0 MB]: 19395 frames, [32.0 MB-64.0 MB]: 594456 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 23
+      Peak Allocated memory 42.3 MB
+      Peak Large allocation bytes 0 B

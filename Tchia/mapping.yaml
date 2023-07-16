@@ -1,0 +1,78 @@
+---
+name: Tchia
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:06.297626200Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/Engine.ini":
+        hash: cfe7d191afe3036f366bec67234a2ca151e67e1d
+        size: 1758
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
+        hash: 28d2d8e4b58ecd9dc7e73c0406eb3e085b13c036
+        size: 1040
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/MagicLeap.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/MagicLeapLightEstimation.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/MotoSynth.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/OnlineSubsystemRedpointEOS.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/Paper2D.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Tchia/Saved/SaveGames/ConfigSaveSlot.sav":
+        hash: 9bd43362d8971d1aa879eee0b95a643712d53d18
+        size: 2979
+      "C:/Users/user/AppData/Local/Tchia/Saved/SaveGames/SaveSlot0.sav":
+        hash: f804a68ba1c46c0c358dfeeee4117bde6f932a31
+        size: 488347
+      "C:/Users/user/AppData/Local/Tchia/Saved/SaveGames/SaveSlot1.sav":
+        hash: 0726bfb3a648e9cdb50b5ea35b9a882d7bb43829
+        size: 488347
+    registry:
+      hash: ~
+    children: []

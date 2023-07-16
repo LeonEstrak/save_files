@@ -1,0 +1,36 @@
+---
+name: Starbound
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:00.926782300Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/Starbound/player/613b5a579f67247f0637336c993f168f.player":
+        hash: d1baf5a9424c5f01d65f2ca2cb0532a0b6562622
+        size: 61163
+      "C:/Users/user/Documents/Starbound/player/613b5a579f67247f0637336c993f168f.player.bak1":
+        hash: 1c5f0a38c8c4a6e9f22f7df8e82d3bb8b8365837
+        size: 61164
+      "C:/Users/user/Documents/Starbound/player/613b5a579f67247f0637336c993f168f.player.bak2":
+        hash: 5ae8db52e8926991668a4fb1986926da104a50bf
+        size: 28986
+      "C:/Users/user/Documents/Starbound/player/613b5a579f67247f0637336c993f168f.shipworld":
+        hash: a278b019431fd4101d1150063a8f86c5d5721e6e
+        size: 274944
+      "C:/Users/user/Documents/Starbound/player/613b5a579f67247f0637336c993f168f.shipworld.bak1":
+        hash: a278b019431fd4101d1150063a8f86c5d5721e6e
+        size: 274944
+      "C:/Users/user/Documents/Starbound/player/metadata":
+        hash: b8689dd1422750f18161e1a3ad4a731f68ea80ce
+        size: 46
+      "C:/Users/user/Documents/Starbound/player/statistics":
+        hash: bf186d10ef86ec57ad45030c519d8a4e4b6ce345
+        size: 6556
+      "C:/Users/user/Documents/Starbound/starbound.config":
+        hash: 1f94f4bb67309b03d23ae58452e2d6e4cba3562c
+        size: 8511
+    registry:
+      hash: ~
+    children: []

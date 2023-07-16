@@ -1,0 +1,66 @@
+---
+name: Stray
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:34.222330400Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/ApexDestruction.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/Engine.ini":
+        hash: c84267e11212455c9e2397158b8b8d89cbb5fa4c
+        size: 1491
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
+        hash: 8b340856bba3ed917f715dd4adbe64d461b6410c
+        size: 1118
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/JoyLibrary.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/MotoSynth.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Hk_project/Saved/SaveGames/76561197960267366/Slots/Slot_1/Data.sav":
+        hash: b9368a431dea8d85392a5f278661cdde8f9fee48
+        size: 797357
+    registry:
+      hash: ~
+    children: []

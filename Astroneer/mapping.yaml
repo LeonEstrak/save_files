@@ -1,0 +1,60 @@
+---
+name: Astroneer
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:22.483229900Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/AstroServerSettings.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Engine.ini":
+        hash: 08920f96707a7244a4b6e019f7de791ed75ffb70
+        size: 761
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
+        hash: 06408a3bc7d9b3556ef13e0690de44702495a020
+        size: 1849
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Paper2D.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Astro/Saved/SaveGames/OLD$2023.04.14-22.34.33.savegame":
+        hash: 6849546c35f5c77ee94edc5153a878c2df3bd989
+        size: 1798912
+      "C:/Users/user/AppData/Local/Astro/Saved/SaveGames/PersistentLocalPlayerData.savecfg":
+        hash: e175050d0993decf2cdf3fd78dbd1705509b74bf
+        size: 4904
+      "C:/Users/user/AppData/Local/Astro/Saved/SaveGames/SAVE_1$2023.04.14-22.33.22.savegame":
+        hash: 815c30df1626141967cee7663f4f44733343cfdb
+        size: 759699
+      "C:/Users/user/AppData/Local/Astro/Saved/SaveGames/steam_autocloud.vdf":
+        hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
+        size: 52
+    registry:
+      hash: ~
+    children: []

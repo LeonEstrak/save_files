@@ -1,0 +1,241 @@
+---
+HKEY_CURRENT_USER:
+  "Software\\Insomniac Games\\Marvel's Spider-Man Remastered":
+    FirstRun:
+      dword: 0
+    TextLanguage:
+      dword: 1
+  "Software\\Insomniac Games\\Marvel's Spider-Man Remastered\\Graphics":
+    AA:
+      dword: 2
+    AmbientOcclusionQuality:
+      dword: 2
+    AspectRatio:
+      dword: 0
+    AsyncCompute:
+      dword: 1
+    Bloom:
+      dword: 1
+    ChromaticAberration:
+      dword: 1
+    Contrast:
+      dword: 500
+    CrowdDetail:
+      dword: 3
+    DLSSG:
+      dword: 0
+    DOFQuality:
+      dword: 4
+    DefaultPaperWhiteSet:
+      dword: 1
+    DynamicResolutionTargetFPS:
+      dword: 60
+    ExclusiveFullscreen:
+      dword: 0
+    FOVCorrection:
+      dword: 1100
+    FilmGrainStrength:
+      dword: 1000
+    ForceHalfRefreshRate:
+      dword: 0
+    ForcedAspectRatio:
+      dword: 0
+    Fullscreen:
+      dword: 1
+    FullscreenHeight:
+      dword: 1080
+    FullscreenWidth:
+      dword: 1920
+    GameContrast:
+      dword: 501
+    HDR:
+      dword: 0
+    HDRMaxNits:
+      dword: 400000
+    HDRPaperWhite:
+      dword: 1128792064
+    HairQuality:
+      dword: 3
+    LensFlares:
+      dword: 1
+    LevelOfDetail:
+      dword: 3
+    Monitor:
+      dword: 0
+    MotionBlurScale:
+      dword: 1000
+    MultiMonitorEnabled:
+      dword: 0
+    NormalizedGammaDecodingPower:
+      dword: 751
+    ParticleLighting:
+      dword: 3
+    ProcessWorkingSetSize:
+      dword: 0
+    RTGeometryDetail:
+      dword: 0
+    RTObjectRange:
+      dword: 600
+    RTReflectionResolution:
+      dword: 0
+    RTReflections:
+      dword: 0
+    ReflexMode:
+      dword: 0
+    RefreshRate:
+      dword: 50
+    ScreenSpaceReflections:
+      dword: 1
+    ShadowQuality:
+      dword: 3
+    Sharpness:
+      dword: 1000
+    TextureFiltering:
+      dword: 3
+    TextureQuality:
+      dword: 3
+    UpscaleMethod:
+      dword: 0
+    UpscaleQuality:
+      dword: 3
+    UpscaleSharpness:
+      dword: 0
+    UserWindowHeight:
+      dword: 810
+    UserWindowWidth:
+      dword: 1440
+    VSync:
+      dword: 1
+    VehicleDetail:
+      dword: 3
+    Vignette:
+      dword: 1
+    WindowHeight:
+      dword: 810
+    WindowLeft:
+      dword: 240
+    WindowMaximized:
+      dword: 0
+    WindowTop:
+      dword: 135
+    WindowWidth:
+      dword: 1440
+  "Software\\Insomniac Games\\Marvel's Spider-Man Remastered\\Input":
+    Button_A_1:
+      dword: 57
+    Button_A_2:
+      dword: 1000
+    Button_B_1:
+      dword: 29
+    Button_B_2:
+      dword: 304
+    Button_Back_1:
+      dword: 15
+    Button_Back_2:
+      dword: 1000
+    Button_Start_1:
+      dword: 1
+    Button_Start_2:
+      dword: 1000
+    Button_X_1:
+      dword: 301
+    Button_X_2:
+      dword: 1000
+    Button_Y_1:
+      dword: 33
+    Button_Y_2:
+      dword: 1000
+    DPad_Down_1:
+      dword: 2
+    DPad_Down_2:
+      dword: 1000
+    DPad_Left_1:
+      dword: 25
+    DPad_Left_2:
+      dword: 1000
+    DPad_Right_1:
+      dword: 34
+    DPad_Right_2:
+      dword: 1000
+    DPad_Up_1:
+      dword: 19
+    DPad_Up_2:
+      dword: 1000
+    EnableLibScePad:
+      dword: 1
+    EnableMouseSmoothing:
+      dword: 1
+    EnableWindowsGamingInput:
+      dword: 1
+    LeftStick_Press_1:
+      dword: 45
+    LeftStick_Press_2:
+      dword: 1000
+    Left_Bumper_1:
+      dword: 16
+    Left_Bumper_2:
+      dword: 1000
+    Left_Trigger_1:
+      dword: 302
+    Left_Trigger_2:
+      dword: 1000
+    Mkb_Custom_00_1:
+      dword: 4
+    Mkb_Custom_00_2:
+      dword: 1000
+    Mkb_Custom_01_1:
+      dword: 305
+    Mkb_Custom_01_2:
+      dword: 1000
+    Mkb_Custom_02_1:
+      dword: 306
+    Mkb_Custom_02_2:
+      dword: 1000
+    Mkb_Custom_03_1:
+      dword: 20
+    Mkb_Custom_03_2:
+      dword: 303
+    Mkb_Custom_04_1:
+      dword: 300
+    Mkb_Custom_04_2:
+      dword: 1000
+    Mkb_Custom_05_1:
+      dword: 46
+    Mkb_Custom_05_2:
+      dword: 1000
+    Mkb_Custom_06_1:
+      dword: 3
+    Mkb_Custom_06_2:
+      dword: 1000
+    Mkb_Custom_09_1:
+      dword: 56
+    Mkb_Custom_09_2:
+      dword: 1000
+    Mkb_LeftStick_Down_1:
+      dword: 31
+    Mkb_LeftStick_Down_2:
+      dword: 1000
+    Mkb_LeftStick_Left_1:
+      dword: 30
+    Mkb_LeftStick_Left_2:
+      dword: 1000
+    Mkb_LeftStick_Right_1:
+      dword: 32
+    Mkb_LeftStick_Right_2:
+      dword: 1000
+    Mkb_LeftStick_Up_1:
+      dword: 17
+    Mkb_LeftStick_Up_2:
+      dword: 1000
+    RightStick_Press_1:
+      dword: 47
+    RightStick_Press_2:
+      dword: 1000
+    Right_Bumper_1:
+      dword: 18
+    Right_Bumper_2:
+      dword: 1000
+    Right_Trigger_1:
+      dword: 42
+    Right_Trigger_2:
+      dword: 1000

@@ -1,0 +1,11 @@
+---
+name: Genshin Impact
+drives: {}
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:19.922346600Z"
+    os: windows
+    files: {}
+    registry:
+      hash: 990b047e5df29d20890578b4b1817f9eb6fa7d1b
+    children: []

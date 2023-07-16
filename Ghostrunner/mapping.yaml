@@ -1,0 +1,126 @@
+---
+name: Ghostrunner
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:28.470939700Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Analytics/user-ANIKET-PC-2023.03.05-18.03.28.analytics":
+        hash: 778752076d9d97e0d76deddfdf07197ced93cbde
+        size: 101473
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Analytics/user-ANIKET-PC-2023.03.05-23.13.29.analytics":
+        hash: 15342dbd84cf926acf5c4116f2b3105f4e559852
+        size: 55861
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Analytics/user-ANIKET-PC-2023.03.07-21.25.10.analytics":
+        hash: 77300b9b381b0b17aa81dfd325936f21a2ab7d10
+        size: 37019
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Analytics/user-ANIKET-PC-2023.03.07-22.10.16.analytics":
+        hash: d60a2701b5f1a0bc2deedffeb2ef009c01dd1f8f
+        size: 27661
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Analytics/user-ANIKET-PC-2023.03.08-12.54.52.analytics":
+        hash: 52b4664a5cb55105b3116a138225f8a385f6f3a0
+        size: 39555
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Analytics/user-ANIKET-PC-2023.03.08-14.34.03.analytics":
+        hash: c60c7a6dbf8d217145045634087e3bc49e9025c3
+        size: 108266
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Analytics/user-ANIKET-PC-2023.03.10-22.22.38.analytics":
+        hash: 59b0b5d7371a4936ca2fb6a6e285c0256b8b1b57
+        size: 31299
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Analytics/user-ANIKET-PC-2023.03.15-21.37.29.analytics":
+        hash: f3e920d0bbcbfa5d15fdc5476a5a4bfcfe119795
+        size: 54055
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Analytics/user-ANIKET-PC-2023.03.18-16.36.54.analytics":
+        hash: bd39f81bef8126da6efb6f6914e8b62d0b8611c6
+        size: 52200
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Analytics/user-ANIKET-PC-2023.03.25-11.34.35.analytics":
+        hash: 56191247c5a8174cd20cf6910f3f77ff00c2b9f0
+        size: 42156
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/CrashReportClient/UE4CC-Windows-042EE2D74A11A0D7E8480B96B82A4272/CrashReportClient.ini":
+        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
+        size: 112
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/ApexDestruction.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/Engine.ini":
+        hash: 1f9188c31359fd4b192f7b3f10d29953b5b858b6
+        size: 1952
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
+        hash: 7ad82814d397dde5f7efc3aa73023770e4309268
+        size: 1741
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/GameplayTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/Ghostrunner.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/HairStrands.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/Input.ini":
+        hash: 04b57048c1fe2f48616b9aa8b17b5c7e8d5ec7e3
+        size: 21563
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/MagicLeap.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/MagicLeapLightEstimation.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/MotoSynth.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/OnlineSubsystemRedpointEOS.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/Paper2D.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/Config/WindowsNoEditor/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/SaveGames/76561199604718700/Ghostrunner.sav":
+        hash: 0c5b57aa21dac5efd9966feee2cb06b05c20b6e7
+        size: 38548
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/SaveGames/76561199604718700/GhostrunnerAchievements.sav":
+        hash: b65ab980fad565a4f680d902932f76ee5bdeea66
+        size: 1484
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/SaveGames/GhostrunnerSettingsGameplay.sav":
+        hash: 0683ec8a58cac41c135ca8603687946ee7378c8e
+        size: 2111
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/SaveGames/GhostrunnerSettingsGraphics.sav":
+        hash: 3be052fc85e1fa71ad13496117f42f6503b5bb75
+        size: 4968
+      "C:/Users/user/AppData/Local/Ghostrunner/Saved/save.data":
+        hash: 7d608366368f42ecb1727ee6e82618a8821cff15
+        size: 494
+    registry:
+      hash: ~
+    children: []

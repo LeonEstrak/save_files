@@ -1,0 +1,11 @@
+---
+name: Dinkum
+drives: {}
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:23.796210600Z"
+    os: windows
+    files: {}
+    registry:
+      hash: fa9360f7ea5bbdeb07c614671fd5015bc38c6de0
+    children: []

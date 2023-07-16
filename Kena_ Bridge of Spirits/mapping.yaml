@@ -1,0 +1,117 @@
+---
+name: "Kena: Bridge of Spirits"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:27.097612Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/CameraCalibrationCore.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/Composure.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/ConcertSyncCore.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/ControlRig.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
+        hash: 72f563ddb173a062c073138d56b67b2a5456be85
+        size: 9065
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/GameplayAbilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/GameplayTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/LiveLink.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/MagicLeap.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/MagicLeapLightEstimation.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/MediaFrameworkUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/MediaIOFramework.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/MotoSynth.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/OnlineSubsystemRedpointEOS.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/OpenCVLensDistortion.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/Paper2D.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/VirtualProductionUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/Autosave.sav":
+        hash: 9aebaa91987ad59a0e3e320aab43192e23d9ea1c
+        size: 58706
+      "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveA.sav":
+        hash: 189c1c9b5f92ec5e766ba0f08f841993f4ac776a
+        size: 58668
+      "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveB.sav":
+        hash: 1add6e9c96ca3ce09902c3a566528e1165f5dc66
+        size: 58668
+      "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveC.sav":
+        hash: b9655d96f90deeadb4ce1aab3d324e262c6ad8eb
+        size: 58668
+      "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveD.sav":
+        hash: 71ec56c543187307f85669ec87c017b5e0d405c3
+        size: 58677
+      "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/SaveSlot1.sav":
+        hash: 424e18ae12413627bf1e86bddc710593b2a8c8b2
+        size: 58668
+    registry:
+      hash: ~
+    children: []

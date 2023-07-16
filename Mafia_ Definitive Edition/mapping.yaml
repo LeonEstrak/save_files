@@ -1,0 +1,63 @@
+---
+name: "Mafia: Definitive Edition"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:02.274572200Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/gamesaves/default/aslot/save0.sav":
+        hash: 9ae3ede653759ea5b6e2715727e7572ecef99694
+        size: 45398
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/gamesaves/default/aslot/save1.sav":
+        hash: 02e8dbbd3d336ace5a9397989cb39cff4768d645
+        size: 45461
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/gamesaves/default/aslot/save2.sav":
+        hash: 470fae503142744a89de340d4f518cd65fe8c65c
+        size: 45452
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/aslot.pf":
+        hash: 93b2fa152d974a7354d39c8f127edb7724b93784
+        size: 1634
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/bslot.pf":
+        hash: c1827e26d2b0d612a6a8985444c174bfe9f06ea6
+        size: 1138
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/gameinputmodule.pf":
+        hash: 4a6bfa753ea48ade36da93345357949f8e52f5b1
+        size: 390794
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/gamesettings.pf":
+        hash: 701a560a852cf22e39d887b047c5e92e20779d9b
+        size: 1739
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/garage.pf":
+        hash: 79df34810bbbdd48b3bd740f207ddfbf206fde68
+        size: 31419
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/map_filter.pf":
+        hash: 29af59251d8999e6785e4d915cd364f7e54fab63
+        size: 555
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/my2k_game_stats.pf":
+        hash: 804177eec05c5311c8da227050b82ec569c842c1
+        size: 338
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/profile_audiosettings.pf":
+        hash: da3f6f84c6a0dc3378f5fcf2987edab3e2ac6b4e
+        size: 532
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/profile_data_storage_persistantdata.pf":
+        hash: cb1ddffe52f9909df871e6afeb79487e001a0e4a
+        size: 13900
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/profile_language.pf":
+        hash: b46a1662dbc2ecee22012350b5ef379863fc3944
+        size: 280
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/profiles/temporaryprofile/profile_videosettings.pf":
+        hash: d9d6df40362159939b1e2002adaac4d9737115cd
+        size: 1239
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Data/76561198062383813/steam_autocloud.vdf":
+        hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
+        size: 52
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Saves/launcconfig.cfg":
+        hash: 29a2a15cdb4c7655b89f3cd0d18c9e8d6ac1ad2f
+        size: 5
+      "C:/Users/user/Documents/My Games/Mafia Definitive Edition/Saves/videoconfig.cfg":
+        hash: 554fb59338f429aee0f6f73390279b379f66db80
+        size: 23
+    registry:
+      hash: ~
+    children: []

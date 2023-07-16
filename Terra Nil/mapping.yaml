@@ -1,0 +1,27 @@
+---
+name: Terra Nil
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:17.317158400Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/LocalLow/Free Lives/Terra Nil/1/MapTextures/0151d40c-acc1-4d8d-9416-a8d62bd514e4":
+        hash: eaa10b6dcd0ffd88a7ed88526b2c73160db76705
+        size: 2458500
+      "C:/Users/user/AppData/LocalLow/Free Lives/Terra Nil/1/MapTextures/19c30e6b-368a-4a38-a39b-54f6a26d14d8":
+        hash: d0effb3e9d436ba18737ff6cf877b2381e9e0f59
+        size: 2031344
+      "C:/Users/user/AppData/LocalLow/Free Lives/Terra Nil/1/profile.settings":
+        hash: ba1104c53733a034625a2505ec0accec5204f265
+        size: 2004
+      "C:/Users/user/AppData/LocalLow/Free Lives/Terra Nil/Player.log":
+        hash: 0177cce5fcaea7c378476718660641cd23884c56
+        size: 379211
+      "C:/Users/user/AppData/LocalLow/Free Lives/Terra Nil/desktop.ini":
+        hash: 7162ddec9468d1caa540bf90f1f662469d99f0a2
+        size: 100
+    registry:
+      hash: ~
+    children: []

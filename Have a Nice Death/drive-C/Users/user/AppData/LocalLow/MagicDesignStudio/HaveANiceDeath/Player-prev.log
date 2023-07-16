@@ -1,0 +1,584 @@
+Mono path[0] = 'E:/Have a Nice Death/HaveaNiceDeath_Data/Managed'
+Mono config path = 'E:/Have a Nice Death/MonoBleedingEdge/etc'
+Initialize engine version: 2021.3.13f1 (9e7d58001ecf)
+[Subsystems] Discovering subsystems at path E:/Have a Nice Death/HaveaNiceDeath_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6800 XT (ID=0x73bf)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   31.0.14057.5006
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.066 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.637600 ms
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+Deserializing LevelDatabase, instance is null.
+The referenced script (SetTextToLevelLoaderName) on this Behaviour is missing!
+Serialization depth limit 10 exceeded at 'BossElevatorData.otherWorlds'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: BossElevatorData.otherWorlds
+10: BossElevatorData.otherWorlds
+9: BossElevatorData.otherWorlds
+8: BossElevatorData.otherWorlds
+7: BossElevatorData.otherWorlds
+6: BossElevatorData.otherWorlds
+5: BossElevatorData.otherWorlds
+4: BossElevatorData.otherWorlds
+3: BossElevatorData.otherWorlds
+2: BossElevatorData.otherWorlds
+1: BossElevatorData.otherWorlds
+0: BossElevatorUpgrade.data
+Serialization depth limit 10 exceeded at 'BossElevatorData.otherWorlds'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: BossElevatorData.otherWorlds
+10: BossElevatorData.otherWorlds
+9: BossElevatorData.otherWorlds
+8: BossElevatorData.otherWorlds
+7: BossElevatorData.otherWorlds
+6: BossElevatorData.otherWorlds
+5: BossElevatorData.otherWorlds
+4: BossElevatorData.otherWorlds
+3: BossElevatorData.otherWorlds
+2: BossElevatorData.otherWorlds
+1: BossElevatorData.otherWorlds
+0: BossElevatorData.otherWorlds
+The referenced script on this Behaviour (Game Object 'LoadLevelButton') is missing!
+Serialization depth limit 10 exceeded at 'BossElevatorData.otherWorlds'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: BossElevatorData.otherWorlds
+10: BossElevatorData.otherWorlds
+9: BossElevatorData.otherWorlds
+8: BossElevatorData.otherWorlds
+7: BossElevatorData.otherWorlds
+6: BossElevatorData.otherWorlds
+5: BossElevatorData.otherWorlds
+4: BossElevatorData.otherWorlds
+3: BossElevatorData.otherWorlds
+2: BossElevatorData.otherWorlds
+1: BossElevatorData.otherWorlds
+0: PermanentUpgradesManager.bossElevatorList
+Uploading Crash Report
+ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <c9d3ffd4b98649ee9989e1908eaca019>:0 
+  at MagicSlicer.EffectiveAddCustom (System.Collections.IEnumerator routine, System.Int32 prio) [0x00017] in <a2e78221d9b74e60bd2843e8a4609041>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+Magic.Helpers.MagicDebug:DebugLogException(Exception, Object)
+MagicSlicer:EffectiveAddCustom(IEnumerator, Int32)
+MagicSlicer:AddCustom(IEnumerator, Int32)
+Magic.Packages.MagicLoading.Runtime.Loading.ResourceLoader:PrePool(PrepoolData, Action, Boolean, List`1, Boolean)
+Magic.Packages.MagicLoading.Runtime.Loading.ResourceLoader:LoadMany(List`1, Boolean)
+LoadingBag:OnStart()
+MagicCustomController:Start()
+
+[4.566326 - 1] Can't retrieve type for empty string name !
+[4.585225 - 1] can't init discord, removing managerInternalError
+  at Discord.Discord..ctor (System.Int64 clientId, System.UInt64 flags) [0x00327] in <38aefb1fc091477f972b7cf8787ebaea>:0 
+  at DiscordManager.Start () [0x00000] in <935502a2047943cda0a2edb37414230e>:0 
+SpriteAtlasManager.atlasRequested wasn't listened to while Light requested.
+SpriteAtlasManager.atlasRequested wasn't listened to while Light requested.
+Achievement Balance ton boss is unlocked on platform
+Achievement Fric Pognon is unlocked on platform
+Achievement Sanction disciplinaire is unlocked on platform
+Achievement C'est en fauchant qu'on devient Faucheuse is unlocked on platform
+Achievement Un p'tit kafe is unlocked on platform
+Achievement Burnout is unlocked on platform
+Achievement Ce n'est qu'une simple formalite is unlocked on platform
+Achievement Le profit toujours le profit is unlocked on platform
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Serialization depth limit 10 exceeded at 'Handle`1.variableTags'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: Handle`1.variableTags
+Serialization depth limit 10 exceeded at 'Handle`1.variableTags'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: Handle`1.variableTags
+Serialization depth limit 10 exceeded at 'Handle`1.variableTags'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: Handle`1.variableTags
+Serialization depth limit 10 exceeded at 'Handle`1.variableTags'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: Handle`1.variableTags
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Direct audio output mode not yet supported for this VideoPlayer backend. Use the AudioSource output mode instead.
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-35b881b356ca1061acc070cf816ea460/CAB-35b881b356ca1061acc070cf816ea460.resource
+Direct audio output mode not yet supported for this VideoPlayer backend. Use the AudioSource output mode instead.
+Curl error 6: Could not resolve host: config.uca.cloud.unity3d.com
+Curl error 6: Could not resolve host: script.google.com
+Language Source was up-to-date with Google Spreadsheet
+Curl error 6: Could not resolve host: perf-events.cloud.unity3d.com
+Curl error 6: Could not resolve host: userreporting.cloud.unity3d.com
+UnityUserReportingPlatform.Post: 0 Cannot resolve destination host
+Unloading 6 Unused Serialized files (Serialized files now loaded: 12)
+Unloading 1251 unused Assets to reduce memory usage. Loaded Objects now: 107458.
+Total: 164.869300 ms (FindLiveObjects: 4.213600 ms CreateObjectMapping: 2.600300 ms MarkObjects: 157.581900 ms  DeleteObjects: 0.472800 ms)
+
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+[35.90061 - 3594] Can't retrieve type for empty string name !
+Seed number : 1170016709 has been initialized !
+Unloading 1 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 101890.
+Total: 154.426200 ms (FindLiveObjects: 3.682900 ms CreateObjectMapping: 1.474600 ms MarkObjects: 148.963100 ms  DeleteObjects: 0.305100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 101890.
+Total: 141.970200 ms (FindLiveObjects: 3.700400 ms CreateObjectMapping: 1.553500 ms MarkObjects: 136.648200 ms  DeleteObjects: 0.067800 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'LA_Lobby2_Bigger') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 71)
+[37.58971 - 3719] [LOOT]No money data found for world with index -1
+Unloading 7980 unused Assets to reduce memory usage. Loaded Objects now: 147944.
+Total: 222.230700 ms (FindLiveObjects: 5.656900 ms CreateObjectMapping: 2.545900 ms MarkObjects: 210.288000 ms  DeleteObjects: 3.739500 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 72)
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 150953.
+Total: 229.397300 ms (FindLiveObjects: 5.881800 ms CreateObjectMapping: 2.507200 ms MarkObjects: 220.520600 ms  DeleteObjects: 0.487200 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Achievement Le profit toujours le profit is unlocked on platform
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Cannot release a null or unloaded asset.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 7348 unused Assets to reduce memory usage. Loaded Objects now: 104316.
+Total: 157.612200 ms (FindLiveObjects: 5.255100 ms CreateObjectMapping: 1.915900 ms MarkObjects: 144.312000 ms  DeleteObjects: 6.128800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 104226.
+Total: 163.601500 ms (FindLiveObjects: 4.080400 ms CreateObjectMapping: 1.945200 ms MarkObjects: 155.188800 ms  DeleteObjects: 2.386700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 10)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 104202.
+Total: 163.394200 ms (FindLiveObjects: 4.102300 ms CreateObjectMapping: 1.970400 ms MarkObjects: 157.227200 ms  DeleteObjects: 0.093900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 9)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 104202.
+Total: 152.559000 ms (FindLiveObjects: 4.146000 ms CreateObjectMapping: 1.705800 ms MarkObjects: 146.610000 ms  DeleteObjects: 0.096800 ms)
+
+Releasing render texture that is set to be RenderTexture.active!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Shader '_Magic/Default_NoShadow_URP': fallback shader '_Magic/Default_NoShadow_Light2D' not found
+Unloading 1 Unused Serialized files (Serialized files now loaded: 728)
+Unloading 5086 unused Assets to reduce memory usage. Loaded Objects now: 132418.
+Total: 189.132900 ms (FindLiveObjects: 5.480600 ms CreateObjectMapping: 2.182100 ms MarkObjects: 178.772300 ms  DeleteObjects: 2.697500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 728)
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+Unloading 3816 unused Assets to reduce memory usage. Loaded Objects now: 134354.
+Total: 201.874000 ms (FindLiveObjects: 7.822900 ms CreateObjectMapping: 2.156800 ms MarkObjects: 189.243300 ms  DeleteObjects: 2.650600 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+SpriteAtlasManager.atlasRequested wasn't listened to while GPE requested.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+Achievement C'est en fauchant qu'on devient Faucheuse is unlocked on platform
+[290.0734 - 33697] There is no GPE we can spawn for money amount: 7. Abort.
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Setting up 10 worker threads for Enlighten.
+Uploading Crash Report
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour.IsObjectMonoBehaviour(UnityEngine.Object)
+  at UnityEngine.MonoBehaviour.StopCoroutine (UnityEngine.Coroutine routine) [0x00014] in <561971c91c08471b9e995b582c6b3074>:0 
+  at GridOccupationBehavior.OnDisableBehavior () [0x0000d] in <b516b2bda7304e6181cb8ae758081fb9>:0 
+  at MagicCustomController.OnDisable () [0x0003f] in <b516b2bda7304e6181cb8ae758081fb9>:0 
+
+Curl error 6: Could not resolve host: perf-events.cloud.unity3d.com
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour.IsObjectMonoBehaviour(UnityEngine.Object)
+  at UnityEngine.MonoBehaviour.StopCoroutine (UnityEngine.Coroutine routine) [0x00014] in <561971c91c08471b9e995b582c6b3074>:0 
+  at GridOccupationBehavior.OnDisableBehavior () [0x0000d] in <b516b2bda7304e6181cb8ae758081fb9>:0 
+  at MagicCustomController.OnDisable () [0x0003f] in <b516b2bda7304e6181cb8ae758081fb9>:0 
+
+Cannot set the parent of the GameObject 'UI_DA_PlayerHUD' while activating or deactivating the parent GameObject 'UI_DA_InGameUI(Clone)'.
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour.IsObjectMonoBehaviour(UnityEngine.Object)
+  at UnityEngine.MonoBehaviour.StopCoroutine (UnityEngine.Coroutine routine) [0x00014] in <561971c91c08471b9e995b582c6b3074>:0 
+  at GridOccupationBehavior.OnDisableBehavior () [0x0000d] in <b516b2bda7304e6181cb8ae758081fb9>:0 
+  at MagicCustomController.OnDisable () [0x0003f] in <b516b2bda7304e6181cb8ae758081fb9>:0 
+
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 287 frames, [4.0 KB-8.0 KB]: 630 frames, [8.0 KB-16.0 KB]: 2842 frames, [16.0 KB-32.0 KB]: 2 frames, [32.0 KB-64.0 KB]: 40445 frames, [64.0 KB-128.0 KB]: 3 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 13 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 8.0 MB
+      Peak Allocated Bytes 8.0 MB
+      Overflow Count 23492
+    [ALLOC_TEMP_Job.Worker 18]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 510.5 KB
+      Overflow Count 13486
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 18.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 124.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 15.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 46.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 24.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 16]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 127.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 124.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_EnlightenWorker] x 10
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 309 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 390 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 63.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 13.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 19
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 6.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 15.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 46.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 21.5 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 27.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_CloudJob.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 40.0 KB
+      Peak Allocated Bytes 18.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 15]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 46.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 46.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 42.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 128.0 KB
+      Peak Allocated Bytes 128.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 414 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 37231
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 21 Subsections = 21504 buckets. Failed count: 7471383
+        32B: 64 Subsections = 32768 buckets. Failed count: 7041961
+        48B: 50 Subsections = 17066 buckets. Failed count: 1468050
+        64B: 64 Subsections = 16384 buckets. Failed count: 323593
+        80B: 30 Subsections = 6144 buckets. Failed count: 342001
+        96B: 8 Subsections = 1365 buckets. Failed count: 84006
+        112B: 8 Subsections = 1170 buckets. Failed count: 97543
+        128B: 11 Subsections = 1408 buckets. Failed count: 27341
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 113 frames, [32.0 MB-64.0 MB]: 16917 frames, [64.0 MB-128.0 MB]: 27195 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 5
+      Peak Allocated memory 67.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 5 frames, [32.0 MB-64.0 MB]: 3697 frames, [64.0 MB-128.0 MB]: 40523 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 5
+      Peak Allocated memory 81.1 MB
+      Peak Large allocation bytes 16.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 5
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 11
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 6
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 21 Subsections = 21504 buckets. Failed count: 7471383
+        32B: 64 Subsections = 32768 buckets. Failed count: 7041961
+        48B: 50 Subsections = 17066 buckets. Failed count: 1468050
+        64B: 64 Subsections = 16384 buckets. Failed count: 323593
+        80B: 30 Subsections = 6144 buckets. Failed count: 342001
+        96B: 8 Subsections = 1365 buckets. Failed count: 84006
+        112B: 8 Subsections = 1170 buckets. Failed count: 97543
+        128B: 11 Subsections = 1408 buckets. Failed count: 27341
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 109 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 3693 frames, [4.0 MB-8.0 MB]: 40291 frames, [8.0 MB-16.0 MB]: 129 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 8.0 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 35 frames, [1.0 MB-2.0 MB]: 10 frames, [2.0 MB-4.0 MB]: 42 frames, [4.0 MB-8.0 MB]: 3641 frames, [8.0 MB-16.0 MB]: 40497 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 13.7 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 149
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 21 Subsections = 21504 buckets. Failed count: 7471383
+        32B: 64 Subsections = 32768 buckets. Failed count: 7041961
+        48B: 50 Subsections = 17066 buckets. Failed count: 1468050
+        64B: 64 Subsections = 16384 buckets. Failed count: 323593
+        80B: 30 Subsections = 6144 buckets. Failed count: 342001
+        96B: 8 Subsections = 1365 buckets. Failed count: 84006
+        112B: 8 Subsections = 1170 buckets. Failed count: 97543
+        128B: 11 Subsections = 1408 buckets. Failed count: 27341
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 44225 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 7
+      Peak Allocated memory 31.0 MB
+      Peak Large allocation bytes 12.1 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 2 frames, [8.0 MB-16.0 MB]: 1 frames, [16.0 MB-32.0 MB]: 2 frames, [32.0 MB-64.0 MB]: 9 frames, [64.0 MB-128.0 MB]: 3711 frames, [128.0 MB-256.0 MB]: 40500 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 22
+      Peak Allocated memory 148.6 MB
+      Peak Large allocation bytes 96.0 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 21 Subsections = 21504 buckets. Failed count: 7471383
+        32B: 64 Subsections = 32768 buckets. Failed count: 7041961
+        48B: 50 Subsections = 17066 buckets. Failed count: 1468050
+        64B: 64 Subsections = 16384 buckets. Failed count: 323593
+        80B: 30 Subsections = 6144 buckets. Failed count: 342001
+        96B: 8 Subsections = 1365 buckets. Failed count: 84006
+        112B: 8 Subsections = 1170 buckets. Failed count: 97543
+        128B: 11 Subsections = 1408 buckets. Failed count: 27341
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 16407 frames, [64.0 KB-128.0 KB]: 27818 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 87.2 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 2 frames, [1.0 MB-2.0 MB]: 5 frames, [2.0 MB-4.0 MB]: 13 frames, [4.0 MB-8.0 MB]: 3615 frames, [8.0 MB-16.0 MB]: 21850 frames, [16.0 MB-32.0 MB]: 5 frames, [32.0 MB-64.0 MB]: 18735 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 23
+      Peak Allocated memory 41.9 MB
+      Peak Large allocation bytes 0 B

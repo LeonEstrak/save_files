@@ -1,0 +1,81 @@
+---
+name: Days Gone
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:25.151380700Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/autosave01.sav":
+        hash: d6aa19ea2aee5c84b6d6b5a8c9261f76b04b4f4b
+        size: 2162201
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/autosave02.sav":
+        hash: f59f6e9ba708cf2c0320429976bcc4d98977a1ea
+        size: 2180288
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/autosave03.sav":
+        hash: 5aca92fe5a1fd9327d0a44cb50b627ae2a93d6e3
+        size: 2178402
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/autosave04.sav":
+        hash: 80d1e55446d2244f82e9127937b6670192f20daa
+        size: 2048015
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/autosave05.sav":
+        hash: 8da6a5ea41b1bde4b067df897f5facd819a4e095
+        size: 2114087
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/checkpoint.sav":
+        hash: 41c2819196326d3ab777ee91252857c10d278427
+        size: 43732
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/mainmenu.sav":
+        hash: 586c11268a591b01dbaf09965588826d5e6fe49a
+        size: 168988
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/missionstart.sav":
+        hash: d5f47fb1c2044564be48b8864e2bc28e6d1ed4da
+        size: 1882116
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/profile.sav":
+        hash: 20145ce038e2188f9eeaddb3e9ff139958593703
+        size: 6480
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/slot01.sav":
+        hash: 48f6ff3f5a412136a1c80a0937f77d06efad81f9
+        size: 2191444
+      "C:/Users/user/AppData/Local/BendGame/Saved/76561199604718700/SaveGames/slot02.sav":
+        hash: 29103e8bb3b8f8d1dd3ddda99677c5733b604cc1
+        size: 1424864
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/AI.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/EditorPerProjectUserSettings.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/Engine.ini":
+        hash: 0720bef83a9e42719d35ada549676d2cd004f25f
+        size: 196
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
+        hash: c8a82decdc14a0447d696cd0fea6646dcdef9851
+        size: 2935
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/GameplayTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/Input.ini":
+        hash: b9057ed6141256c5eedf165d58886acc205857f0
+        size: 804
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/Lightmass.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/BendGame/Saved/Config/WindowsNoEditor/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/BendGame/Saved/Logs/UnrealAutoReportDump932A2DBA4999079509F9F0891BD77C93.txt":
+        hash: 6cdfca127384b91c8bc998eca46b54e44b801465
+        size: 602
+    registry:
+      hash: ~
+    children: []

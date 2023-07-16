@@ -1,0 +1,25 @@
+---
+name: Risk of Rain 2
+drives:
+  drive-C: "C:"
+  drive-D: "D:"
+backups:
+  - name: "."
+    when: "2023-07-16T18:48:07.601415400Z"
+    os: windows
+    files:
+      "C:/Program Files (x86)/Steam/userdata/102118085/632360/remote/UserProfiles/b3fea611-e950-461b-953a-17cd44925bdc.xml":
+        hash: 40b2432c1f478ef964f150ae94472c879d4ed615
+        size: 207273
+      "C:/Program Files (x86)/Steam/userdata/102118085/760/remote/632360/screenshots/20230207225849_1.jpg":
+        hash: a1f5c74ccb2965d58bd505ee60f0a426f56b4b1a
+        size: 204374
+      "D:/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/config.cfg":
+        hash: d52fcd725015ccdbe804371132e1552544b809b3
+        size: 960
+      "D:/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/server_startup.cfg":
+        hash: 300dae6624bf0a6c39633a43303e5292cc36ba78
+        size: 1410
+    registry:
+      hash: bec7d78f7ee8ae16eb4fad5b9db754f82a55f8f1
+    children: []
