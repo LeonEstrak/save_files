@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-07-17T19:01:12.897755200Z"
+    when: "2023-07-18T15:44:03.269868100Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/BANDAI NAMCO Entertainment/Tales of Arise/Config/WindowsNoEditor/ApexDestruction.ini":
@@ -47,22 +47,22 @@ backups:
         hash: 8fcbe80784269dd37f6c71014dc5459e9f13bccb
         size: 4096
       "C:/Users/user/AppData/Local/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/730558714/SaveData/SaveData_000.sav":
-        hash: 78bff14d3db37cfd2efedb37e799fccaf4f6f506
+        hash: b3cd10e5e90b0519b8872d6ea7aae58636097141
         size: 760856
       "C:/Users/user/AppData/Local/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/730558714/SaveData/SaveData_000.sav.backup":
-        hash: 78bff14d3db37cfd2efedb37e799fccaf4f6f506
+        hash: b3cd10e5e90b0519b8872d6ea7aae58636097141
         size: 760856
       "C:/Users/user/AppData/Local/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/730558714/SaveData/SaveData_001.sav":
-        hash: d6d0fe423337da58f59d26260cd34ec9eb7df6c3
+        hash: 5a9baa86d0abf8e5340649cb293240b55dfd56a6
         size: 760856
       "C:/Users/user/AppData/Local/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/730558714/SaveData/SaveData_001.sav.backup":
-        hash: d6d0fe423337da58f59d26260cd34ec9eb7df6c3
+        hash: 5a9baa86d0abf8e5340649cb293240b55dfd56a6
         size: 760856
       "C:/Users/user/AppData/Local/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/730558714/SaveData/SaveData_002.sav":
-        hash: 46446673a90e396c149c98a067aafe98429da023
+        hash: bf9df54d8f422c5009a0d2ddb1b5c49df9554c95
         size: 760856
       "C:/Users/user/AppData/Local/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/730558714/SaveData/SaveData_002.sav.backup":
-        hash: 46446673a90e396c149c98a067aafe98429da023
+        hash: bf9df54d8f422c5009a0d2ddb1b5c49df9554c95
         size: 760856
       "C:/Users/user/AppData/Local/BANDAI NAMCO Entertainment/Tales of Arise/Saved/SaveGames/730558714/SaveData/SaveData_003.sav":
         hash: 90140509091c93c887d16ccbba6ba78b5607a264
