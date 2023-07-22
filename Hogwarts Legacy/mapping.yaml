@@ -1,0 +1,132 @@
+---
+name: Hogwarts Legacy
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-07-22T08:23:34.143945400Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Phoenix/Rubbish/tmp/lock":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/CrashReportClient/UE4CC-Windows-2C1D5EF04A51CD859586549EB1EA2519/CrashReportClient.ini":
+        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
+        size: 112
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/CrashReportClient/UE4CC-Windows-2D04319B4021813DDEAFB2B8994A6D99/CrashReportClient.ini":
+        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
+        size: 112
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/CrashReportClient/UE4CC-Windows-3CDA3A8C487D0C7E1617D8A3DD55B539/CrashReportClient.ini":
+        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
+        size: 112
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/CrashReportClient/UE4CC-Windows-AA2066604AB1740AF90DBAB5D6F141AA/CrashReportClient.ini":
+        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
+        size: 112
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/AutomationTests.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/ControlRig.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/DataprepEditor.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/Engine.ini":
+        hash: 5009a8d18c59f834d90a1f87ea671d279d005750
+        size: 6850
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/GameLogic.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
+        hash: c0b998511aaa43c0d6f11492cae22837f647a49d
+        size: 4909
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/GameplayTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/HairStrands.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/IcarusConfig.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/Input.ini":
+        hash: 558be76cab22ce5bb9bd7a9e9b41c203c0053217
+        size: 70884
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/MDLImporter.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/Mastermind.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/MotoSynth.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/OdysseyConfig.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/ProjectConsoleMacros.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/RemoteControl.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/Config/WindowsNoEditor/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Phoenix/Saved/SaveGames/1655713036/HL-00-00.sav":
+        hash: ca06a9f4897798349d5ffb13621c4da57614ac8c
+        size: 3035980
+      "C:/Users/user/AppData/Local/Phoenix/Saved/SaveGames/1655713036/HL-00-10.sav":
+        hash: 078d986e1c61087bfd382abf1baa4f1f0ebab6df
+        size: 3035980
+      "C:/Users/user/AppData/Local/Phoenix/Saved/SaveGames/1655713036/HL-00-11.sav":
+        hash: 920f31c6b314ab1ec2e7ba9c6de86a6e3217dc9c
+        size: 3007304
+      "C:/Users/user/AppData/Local/Phoenix/Saved/SaveGames/1655713036/HL-00-12.sav":
+        hash: 83e7ee966fa7e2d6579479c54be80980ea8b30b2
+        size: 3007326
+      "C:/Users/user/AppData/Local/Phoenix/Saved/SaveGames/1655713036/HL-00-13.sav":
+        hash: 00b303b4abf4c315fc52aac235313aed24746052
+        size: 3019669
+      "C:/Users/user/AppData/Local/Phoenix/Saved/SaveGames/1655713036/HL-00-14.sav":
+        hash: a1141b0a863505c3b776b34078cde1b0d6920575
+        size: 3035998
+      "C:/Users/user/AppData/Local/Phoenix/Saved/SaveGames/1655713036/SaveGameList.sav":
+        hash: a4a9898105c28a01e2163a359f5162dbb47a2dbe
+        size: 51790
+      "C:/Users/user/AppData/Local/Phoenix/Saved/pc_info.json":
+        hash: 3b1f967ffe51a64eefac132c2d73637d6c49de1b
+        size: 3112
+      "C:/Users/user/AppData/Local/Phoenix/desktop.ini":
+        hash: 7162ddec9468d1caa540bf90f1f662469d99f0a2
+        size: 100
+    registry:
+      hash: ~
+    children: []
