@@ -4,51 +4,54 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-07-23T11:41:48.614511800Z"
+    when: "2023-07-24T12:31:14.107720Z"
     os: windows
     files:
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/0/settings.json":
         hash: 9fc6abbdd9000b7436a8a1d520c0be74a412ce72
         size: 731
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/CooldownList":
-        hash: 1ca95d4dd50b9d81a767aff8d7347781c7711704
+        hash: 330537b1073ae47b1f1019a86db4879562362360
         size: 86
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/PersistDeath":
-        hash: dafb7fe819b6ca8292a625355388f939c10a9c30
-        size: 265
+        hash: d8f9df15e2a074c6beb3fbea08cef947127b21aa
+        size: 297
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/achievements":
-        hash: 7c017c30b2d98b84a6b2202c3046ab3fb9a9f011
+        hash: 7386f62b2f8b536dc01792bc61b47301d18e5ac5
         size: 875
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/action_hint_data":
-        hash: 6ed7832001ecba7c1009457cf74f7c38c0936dec
+        hash: e8a0e414cba84c22992be02b5896b51c68844269
         size: 759
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/brag_scores":
-        hash: ce4c8dcf34e102fbc980cdb5692a8d9fdb3a6aec
-        size: 1565
+        hash: 060772cd8d9678ff82cda7b76a09256d1ff3f22b
+        size: 1597
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/chaos_storage":
-        hash: bcacce2f86a541009b3d0d1c0d04256f448b58f5
+        hash: 967692c124349c8024165becf0e9836a92c83287
         size: 68
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/default_property_map":
-        hash: 1e6bfdad1728eac2482d08bc6efe1302b3c3875d
+        hash: c23b4e3d58f56a0fb15c7d95dd5129480d912284
         size: 321
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/feats":
         hash: 10736ae812f3b99f4a5354535b09b4633cecc5f5
         size: 73
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/items":
-        hash: c74350049c0c52ca44bb7d5c72e8a3c0808cd2dd
-        size: 491
+        hash: 8a7351dda87b15aad4062d7f17b3934b792d61cc
+        size: 504
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/kepmap.txt":
         hash: 32e66e30fad28b6cd7175968995919041674e9a0
         size: 21038
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/last_server_time":
-        hash: 1ab845f5b9e182016ea4b467f977d7ea9435dd16
+        hash: aba65bbd5100a05e1258a661662c46483075559d
         size: 68
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/map_new_items":
-        hash: 40ff5c0ea66c80e2583513a4f2e92cc8b7c04284
-        size: 126
+        hash: 96c865fff7dbac6240ec12b408e5b854f074e0d5
+        size: 134
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/new_events":
-        hash: 8fd0890ed425be8366acc4aabb465445ed6b11ea
-        size: 659
+        hash: 23d53e19ba5f91f7381e4a4bfcee7932693d8aa5
+        size: 691
+      "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/playback_wing10":
+        hash: fc8b272650e7ea5a4e42c7f64472477017b75542
+        size: 49688
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/player_save_data":
         hash: 0bd58ebe77c615d0150209e4e362dc0b051988a2
         size: 218
@@ -71,17 +74,20 @@ backups:
         hash: 70112640d967bba68124ead62f37f2034be6af31
         size: 73
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/tasks":
-        hash: b9bad5cbd1e4e86a34ca62cc13fe8f7ede809342
-        size: 640
+        hash: 406af689223bf72366a15f670a860a646142daa2
+        size: 736
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/tutorials":
-        hash: 2236506b0620f3069c3478b47b5b4a8ba04f0d5b
+        hash: 88f2accc4d92fe627637948e4a4cd751650d4a58
         size: 82
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/unlocked_priests":
         hash: 06c20480e2f6d7fa7dd202b4e4614ba221895a0d
         size: 73
       "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/unlocked_resupply_points":
-        hash: 857d1b800d0b3018b2f3aed0a0cd21eb79feb361
-        size: 137
+        hash: 12b64c8a2717bb3dcd951b36ddd4fa71cba28a5c
+        size: 153
+      "C:/Users/user/Documents/Square Enix/Just Cause 3/Saves/76561198062383813/upgrades":
+        hash: 3cf71e7ef70214d9c455d3125b0665b486a11878
+        size: 99
     registry:
       hash: ~
     children: []
