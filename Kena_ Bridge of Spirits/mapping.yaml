@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-07-25T17:58:06.705091900Z"
+    when: "2023-07-26T13:58:53.873731700Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/CameraCalibrationCore.ini":
@@ -32,8 +32,8 @@ backups:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
       "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
-        hash: 573578c2674416a4bd8b815396b3707513304c94
-        size: 9064
+        hash: 12945315cf86456b0c6aa93b3585138b85683d75
+        size: 9061
       "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/GameplayAbilities.ini":
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
@@ -95,8 +95,8 @@ backups:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/Autosave.sav":
-        hash: 3386db1c976d0cfa084c4c9dea9accef821c24c7
-        size: 59844
+        hash: 01f41778a82c646b521056e3fcc6f6a4559ba4fb
+        size: 61323
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveA.sav":
         hash: a14439810d14ddc1f6077e089e2191afe380802e
         size: 59972
@@ -107,8 +107,8 @@ backups:
         hash: bdafcd447e7e4128e4d1b328e4cda417073bd160
         size: 60007
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveD.sav":
-        hash: 690a6d454ba3bdf9be66568bd3e558242e89f51e
-        size: 59842
+        hash: 637b64ab6fbef7d444feab58b2439827edace3d0
+        size: 60012
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/SaveSlot1.sav":
         hash: 2c5aba055799e2a20e3e725cffab5c39572ca748
         size: 60007
