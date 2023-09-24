@@ -1,0 +1,127 @@
+---
+name: Death Stranding
+drives:
+  drive-C: "C:"
+  drive-E: "E:"
+backups:
+  - name: "."
+    when: "2023-09-18T15:54:36.787638700Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave0/checkpoint.dat":
+        hash: ec82bf708c6cf6648c4c0611ff9f161bac0fbbd9
+        size: 104811
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave1/checkpoint.dat":
+        hash: 122cf5de048e52241f2cbc818595003ca4a90138
+        size: 106430
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave10/checkpoint.dat":
+        hash: bc147e67ab241afc76f09cc033718aeaa7d4d5c5
+        size: 156980
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave11/checkpoint.dat":
+        hash: 76add9b3334ff6b1ab45dcab3534e45cb1e40c53
+        size: 164922
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave12/checkpoint.dat":
+        hash: 4da5927d53930367261d50cb3a2924f7f085644a
+        size: 163034
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave2/checkpoint.dat":
+        hash: 9802b0b5605ae1a66f8c01df92cc1069e7299c56
+        size: 118223
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave3/checkpoint.dat":
+        hash: 1bc3217d763fa1fdf8404b4dc7709201c5062d02
+        size: 118156
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave4/checkpoint.dat":
+        hash: def6f249af02679bce9d0d06c708e87b6c5a373f
+        size: 128062
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave5/checkpoint.dat":
+        hash: 635db6766fa62fdac6fc489011e0a4391e21472c
+        size: 120730
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave6/checkpoint.dat":
+        hash: 95211e5ad1f5f80ed247220179c2bc19fab3becd
+        size: 128224
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave7/checkpoint.dat":
+        hash: 85d13350204d414c960ca89d8085e45a913d589e
+        size: 162058
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave8/checkpoint.dat":
+        hash: 9dc33c046a6900e20837b73fe3ccce1c823099e2
+        size: 152767
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/autosave9/checkpoint.dat":
+        hash: 2935289295cb310d40a6eabe4636ff6ef1326f5f
+        size: 150815
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/manualsave0/checkpoint.dat":
+        hash: e3b6a617f6b250894e35b1ed0f2d8b78c4bd3bc0
+        size: 109583
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/manualsave1/checkpoint.dat":
+        hash: c8996aff861816436d019e8801757d2593909375
+        size: 117780
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/manualsave2/checkpoint.dat":
+        hash: e4f68ae9f1c19379ae1dc6cf3af5c8d05744f385
+        size: 144136
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/profile/bindings.cfg":
+        hash: 771d82a4708010ecdd9489b8ce474fad34af210b
+        size: 5349
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/profile/game_settings.cfg":
+        hash: 317e35c6ec8c0fee75a71312c2bb23c39d34500d
+        size: 1951
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/profile/profile.dat":
+        hash: d357cfa7995395c3f203c202ee71916639f06436
+        size: 2624
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave0/checkpoint.dat":
+        hash: 741a03ad00084b0a1e69d6311aef5ec896075fb7
+        size: 105198
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave1/checkpoint.dat":
+        hash: 1b14234317ae7ffdd13cd9bd4401c52098def4ab
+        size: 105052
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave10/checkpoint.dat":
+        hash: 7c465bcf488bda2773e23b9512f89557fee5950e
+        size: 127402
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave11/checkpoint.dat":
+        hash: dae26aca66eb13ff3101bae6db6c62d6c6eeeaef
+        size: 128485
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave12/checkpoint.dat":
+        hash: ba16c70c0e8e3176d2485718c4b785717cffca7d
+        size: 141054
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave13/checkpoint.dat":
+        hash: a62c549dd2346c721b4c95a934fbe712ee4ef0ec
+        size: 159086
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave14/checkpoint.dat":
+        hash: d77cbe6582e584b7052e86ea30a648922bacda55
+        size: 152622
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave15/checkpoint.dat":
+        hash: 4a9338ff2aea3ae875a6791152c0d8f3f9ddd28b
+        size: 145138
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave16/checkpoint.dat":
+        hash: 9cbd27b1eb4da321fe4875f71cf40971e340c6ea
+        size: 156188
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave17/checkpoint.dat":
+        hash: 91a856127f4367ff80cd1cc45f0c13bc13746af2
+        size: 161222
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave2/checkpoint.dat":
+        hash: 73e76c8a08a6c8841fa40d4c9a76f01b47a4e125
+        size: 89375
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave3/checkpoint.dat":
+        hash: 7937b0ae4f3016b0379c1f722fd86452b8ac6a7f
+        size: 106437
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave4/checkpoint.dat":
+        hash: ea5cee90636fd9e0507e8251de37d1fd3cc8ae4f
+        size: 108858
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave5/checkpoint.dat":
+        hash: c6df07d42e3c97dc5fce3ef1633d126b496b090c
+        size: 113673
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave6/checkpoint.dat":
+        hash: d06501ed2b37dce2f8958e49e32c797406d6329c
+        size: 126984
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave7/checkpoint.dat":
+        hash: 32394c0ebc632e3fa86afc1fce47d1ad6d3bd9a1
+        size: 112864
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave8/checkpoint.dat":
+        hash: 94e4b6fd7c1a42d75a68df79024679baf8334655
+        size: 117179
+      "C:/Users/user/AppData/LocalLow/KojimaProductions/DeathStranding/69398ffa5d834f869939ebcc67b3ceb0/quicksave9/checkpoint.dat":
+        hash: d5b3d82dc02d416315e619c17667353c5df3ba37
+        size: 118467
+      "E:/DeathStranding/settings.cfg":
+        hash: 2e99a9f621ae39335f3e8c9214bebd9db25377cf
+        size: 482
+    registry:
+      hash: ~
+    children: []

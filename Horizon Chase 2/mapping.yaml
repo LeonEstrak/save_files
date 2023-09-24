@@ -1,0 +1,87 @@
+---
+name: Horizon Chase 2
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-09-20T11:39:55.512785200Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Engine.ini":
+        hash: ab65dcd9cd67271a46f15a26ff6360c2d4c5e4b0
+        size: 2474
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
+        hash: 44d8e47f7f1a355aca8064aa1f05464c2703d026
+        size: 948
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/LiveLink.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/MagicLeap.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/MagicLeapLightEstimation.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/MediaIOFramework.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/MotoSynth.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/OculusVR.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Paper2D.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/SaveGames/EulaSave.sav":
+        hash: 9e3dc7dae2c0e761e07893358ed55de1807fa8e7
+        size: 1290
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/SaveGames/PlayerConsentSave.sav":
+        hash: 666e54c09b3657be327c59bd14486b5dcedcc697
+        size: 128
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/SaveGames/PlayerSaveData_0.sav":
+        hash: 8d5b1decb05ec688cfae85b221f12a4db9ef742d
+        size: 95247
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/SaveGames/SaveMetadata.sav":
+        hash: b138ad8cd494296c9ce517cd0cf1a0e12c64ee1c
+        size: 502
+    registry:
+      hash: ~
+    children: []

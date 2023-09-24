@@ -1,0 +1,84 @@
+---
+name: Hi-Fi RUSH
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-08-27T18:46:49.317760900Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Packages/BethesdaSoftworks.Hibiki_3275kfvn8vcwc/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000076CB1B01/A505066091E34BABBC0D162650BE71BD/8BE3AFF820314FB3B3F3F84526F98C26":
+        hash: 9ce1aba835f2df854cdc2d4010296917a04e1a85
+        size: 27008
+      "C:/Users/user/AppData/Local/Packages/BethesdaSoftworks.Hibiki_3275kfvn8vcwc/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000076CB1B01/A505066091E34BABBC0D162650BE71BD/container.118":
+        hash: 1028d4b97ed6231f38833109bd3ce4b6be15183f
+        size: 168
+      "C:/Users/user/AppData/Local/Packages/BethesdaSoftworks.Hibiki_3275kfvn8vcwc/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000076CB1B01/BF0823976DE543E19B13E163371A9373/3D721B34B66D44598EFC863B74BE2780":
+        hash: 2f67e5953f21604b8ab58185d94ebf2306efefcd
+        size: 1195072
+      "C:/Users/user/AppData/Local/Packages/BethesdaSoftworks.Hibiki_3275kfvn8vcwc/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000076CB1B01/BF0823976DE543E19B13E163371A9373/container.117":
+        hash: da179e10adb7b3d978223c912109122a5471a5c6
+        size: 168
+      "C:/Users/user/AppData/Local/Packages/BethesdaSoftworks.Hibiki_3275kfvn8vcwc/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000076CB1B01/containers.index":
+        hash: 21bbaf6b912472b4c8279db6b4e4e9eba540f4f6
+        size: 498
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/DataprepEditor.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/Engine.ini":
+        hash: 5aaa36e5472e389eb4c912cba6c3562791209909
+        size: 1876
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/FaceFX.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/Game.ini":
+        hash: 4ae05538ba9f816c8a3b03ec1b84b5255b00083a
+        size: 49
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/GameUserSettings.ini":
+        hash: c246f701ade2e59eceb0dc8b59c0ce678e26f1bd
+        size: 1194
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/GameplayTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/LiveLink.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/MotoSynth.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/Paper2D.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/Saved Games/TangoGameworks/Hi-Fi RUSH (Xbox)/Saved/Config/WinGDK/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+    registry:
+      hash: ~
+    children: []

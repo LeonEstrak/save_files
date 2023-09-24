@@ -1,0 +1,15 @@
+---
+name: Thronefall
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-09-24T09:32:21.123574200Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/LocalLow/Grizzly Games/Thronefall/ThroneSave.sav":
+        hash: 21bf19692a2bd9d36dd2a981f11ad53440f48801
+        size: 1196
+    registry:
+      hash: ~
+    children: []

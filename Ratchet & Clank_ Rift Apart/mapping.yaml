@@ -1,0 +1,54 @@
+---
+name: "Ratchet & Clank: Rift Apart"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-08-10T16:53:52.765134200Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/-userprefs.save":
+        hash: 256f904438dc91d8d75b2a8057a6c4a7ce0b9a8b
+        size: 5632
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s-manual-0.save":
+        hash: 6caedb2fa085b336bad91739155cbe22b5e73534
+        size: 598552
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save":
+        hash: ebf26357410a4227a21cd852933517d75b729f29
+        size: 591848
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup01":
+        hash: ebf26357410a4227a21cd852933517d75b729f29
+        size: 591848
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup02":
+        hash: 01d188ef96a0c6c2617bc295dcbb95bcc716f4b3
+        size: 601576
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup03":
+        hash: 60171540f37b288dd0b80c74a84e97b655a086f5
+        size: 601592
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup04":
+        hash: 67ba79856f057b42df347d05e0e71cfaa8a4a4d4
+        size: 606312
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup05":
+        hash: 7bdeebde46defd82a5132e02a6ff6e630d64fff7
+        size: 606296
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup06":
+        hash: 29b70bb09deb051bc7fa9c0516d1bbe312ca180f
+        size: 606280
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup07":
+        hash: dde1b9e3cacf855986afb842d70c36b7a0d2d250
+        size: 606264
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup08":
+        hash: f7ac22570244a4daff969fcc150b8ab7c6d60f2a
+        size: 596936
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup09":
+        hash: d62c737bd9f42e754f1044df68da445c86ad146d
+        size: 598168
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup10":
+        hash: 67c964db6fbc24b39a59fffee905c80a141c2442
+        size: 598088
+      "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/Ratchet & Clank - Rift Apart.log":
+        hash: 3ce81b47fe53ab145b8b9edc5447e0931ab88a1a
+        size: 57014
+    registry:
+      hash: ~
+    children: []

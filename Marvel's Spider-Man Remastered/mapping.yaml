@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-07-25T11:14:09.565100400Z"
+    when: "2023-09-20T12:24:42.927839300Z"
     os: windows
     files:
       "C:/Users/user/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs/metadata":
@@ -17,41 +17,41 @@ backups:
         hash: ba792d0cdc8168e02336a9d9accfcc50a37d8e4a
         size: 1460
       "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s-manual-0.save":
-        hash: 0ce576dff5f6ca26b70b7561fa31a354b20af909
-        size: 104942
+        hash: 11b4407135b26621368d7ff46558afc9e179ed22
+        size: 107006
       "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save":
-        hash: aee9bb7a92344408f83af376ce2052413cecce96
-        size: 109870
+        hash: ca2fc0a9c0cab1c00df050cd3a14cdde1a2cc75c
+        size: 111966
       "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup01":
+        hash: 4cbcd1fe0ee04c0991b3792de7424f19ba12075c
+        size: 109854
+      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup02":
+        hash: 631034bbc0e91ed3215ec849d13052a8fe9cbbab
+        size: 106638
+      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup03":
+        hash: 43bc6eb81ce6b506c19ef98f66b74a4b58b56b7b
+        size: 110846
+      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup04":
+        hash: 493bee3f1070ba6f8a6900b641089b89947fbc0f
+        size: 105502
+      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup05":
+        hash: 91bc0593ab2378d0988d94ba0ea7a0fc3407d429
+        size: 106510
+      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup06":
         hash: e32b1684403715d4e3c843a7d4c19290d182bdb6
         size: 105294
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup02":
+      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup07":
         hash: bd2d2b3c232ddc8ca4daa23133b404b67bfc438b
         size: 104302
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup03":
+      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup08":
         hash: 15bb803c717c9958ac1d8d42c89c7a81ff6b4fd5
         size: 106318
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup04":
+      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup09":
         hash: 00a674828382171af47ea3c0d631269e283c4b16
         size: 104590
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup05":
+      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup10":
         hash: 2c8e1f7b966d26a67905f7f2ed67cbc3b9112f02
         size: 103774
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup06":
-        hash: 899f21ceb5093ef8d77335dd7375a1b0e16701a8
-        size: 102878
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup07":
-        hash: 6f7411886de83afacc87cbfb43030027845ba904
-        size: 108462
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup08":
-        hash: ae18e09d8887ea92077b270f626f13d4e3a7820f
-        size: 101950
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup09":
-        hash: 1aec615e5d520fbdcdd7893eb527bed481713946
-        size: 98078
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup10":
-        hash: 904fec64ca4e2ac05751e3eab66e043d18bedaf6
-        size: 95790
       "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199609290714/-userprefs.save":
         hash: ba792d0cdc8168e02336a9d9accfcc50a37d8e4a
         size: 1460
@@ -77,8 +77,8 @@ backups:
         hash: eb4529a983a13c6a298b738145060ed6bff0fb86
         size: 94862
       "C:/Users/user/Documents/Marvel's Spider-Man Remastered/Marvel's Spider-Man Remastered.log":
-        hash: ad5b293cf2860ca26900ce364ba9cc36bb38f53b
-        size: 35552
+        hash: a4cd1ced363217e5f334dbd578908398eeb3bca2
+        size: 34041
       "C:/Users/user/Documents/Marvel's Spider-Man Remastered/desktop.ini":
         hash: 7162ddec9468d1caa540bf90f1f662469d99f0a2
         size: 100

@@ -1,0 +1,2007 @@
+---
+name: Miyoo Mini Plus
+drives:
+  drive-F: "F:"
+backups:
+  - name: "."
+    when: "2023-09-21T10:47:54.595137400Z"
+    os: windows
+    files:
+      "F:/Saves/CurrentProfile/config/Atari800/Atari800.opt":
+        hash: 77ca36ff4f02f095b245913b957919ac1e98393a
+        size: 309
+      "F:/Saves/CurrentProfile/config/Beetle GBA/Beetle GBA.opt":
+        hash: d24708161bf296b29036277161121cacdcec0387
+        size: 62
+      "F:/Saves/CurrentProfile/config/Beetle NeoPop/Beetle NeoPop.cfg":
+        hash: 833a99b3430ba1999e79ae460137db368ac7ab3d
+        size: 37
+      "F:/Saves/CurrentProfile/config/Beetle NeoPop/Beetle NeoPop.opt":
+        hash: 2b953d34df9c2cdbb8d8811c11b766a246b4a68f
+        size: 82
+      "F:/Saves/CurrentProfile/config/Beetle PCE Fast/Beetle PCE Fast.cfg":
+        hash: 1bcba92622a64ce470fc04b5f92579c26c9151a8
+        size: 38
+      "F:/Saves/CurrentProfile/config/Beetle PCE Fast/Beetle PCE Fast.opt":
+        hash: 805deb817792440c54ab27a37c2c2efe2be665da
+        size: 747
+      "F:/Saves/CurrentProfile/config/Beetle SuperGrafx/Beetle SuperGrafx.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/Beetle SuperGrafx/Beetle SuperGrafx.opt":
+        hash: dcf536efb4db14377d9658118baab4020841d378
+        size: 593
+      "F:/Saves/CurrentProfile/config/Beetle VB/Beetle VB.cfg":
+        hash: 833a99b3430ba1999e79ae460137db368ac7ab3d
+        size: 37
+      "F:/Saves/CurrentProfile/config/Beetle VB/Beetle VB.opt":
+        hash: e4997d76724cfec9fe675bdd3fc6783e1c41df9d
+        size: 151
+      "F:/Saves/CurrentProfile/config/Beetle WonderSwan/Beetle WonderSwan.cfg":
+        hash: 833a99b3430ba1999e79ae460137db368ac7ab3d
+        size: 37
+      "F:/Saves/CurrentProfile/config/Beetle WonderSwan/Beetle WonderSwan.opt":
+        hash: 922be0b89f83eb8fd5d15bdac0d9a556280dbe29
+        size: 215
+      "F:/Saves/CurrentProfile/config/Cannonball/Cannonball.opt":
+        hash: 52245baa4d51b5a30aa729a38cf070d01b8ececf
+        size: 833
+      "F:/Saves/CurrentProfile/config/ChimeraSNES/ChimeraSNES.opt":
+        hash: 79ea5a29486518d524588282d9e1c95cb7edf27f
+        size: 89
+      "F:/Saves/CurrentProfile/config/DOSBox-pure/DOSBox-pure.opt":
+        hash: b28f067f4da96cb2977b607095bca2a68bf50ce5
+        size: 1040
+      "F:/Saves/CurrentProfile/config/EightyOne/EightyOne.opt":
+        hash: 31c0efab30f7b1a4c294869ecc9d128f25d6e9b7
+        size: 459
+      "F:/Saves/CurrentProfile/config/FB Alpha/FB Alpha.cfg":
+        hash: b9b4aa582a9427a4837df3190801263cb4ec782f
+        size: 55
+      "F:/Saves/CurrentProfile/config/FB Alpha/FB Alpha.opt":
+        hash: 8e56ae66fd4f0a1352e2db11f1bb1bd746e42c97
+        size: 1843
+      "F:/Saves/CurrentProfile/config/FCEUmm/FCEUmm.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/FCEUmm/FCEUmm.opt":
+        hash: d7e361c95bd75207aaa9c1b9f13e89eb28dbd842
+        size: 772
+      "F:/Saves/CurrentProfile/config/FinalBurn Neo/FinalBurn Neo.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/FinalBurn Neo/FinalBurn Neo.opt":
+        hash: 9eeca318f896f8fa2b53b5009973186dbfd207d5
+        size: 3441
+      "F:/Saves/CurrentProfile/config/FreeChaF/FreeChaF.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/FreeChaF/FreeChaF.opt":
+        hash: 1566c4c22f33603850d6cb2714b10f0490e30bf8
+        size: 33
+      "F:/Saves/CurrentProfile/config/FreeIntv/FreeIntv.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/Gambatte/Gambatte.cfg":
+        hash: 833a99b3430ba1999e79ae460137db368ac7ab3d
+        size: 37
+      "F:/Saves/CurrentProfile/config/Gambatte/Gambatte.opt":
+        hash: e19fe2456498207006e334d2e99ea218e5faf46e
+        size: 1310
+      "F:/Saves/CurrentProfile/config/Gearsystem/Gearsystem.opt":
+        hash: aa0d1f523d691f705cff17647183a2c7458f8688
+        size: 252
+      "F:/Saves/CurrentProfile/config/Genesis Plus GX/Genesis Plus GX.opt":
+        hash: c64486045f810b52e4667b4176942da6e92de7c2
+        size: 2161
+      "F:/Saves/CurrentProfile/config/Handy/Handy.cfg":
+        hash: e059dc1cf98885b1d66e2c9f2c3aa3979a6b79f9
+        size: 70
+      "F:/Saves/CurrentProfile/config/Handy/Handy.opt":
+        hash: 9fe311c6e70cfc5ed672ad6446ddb4a829b82857
+        size: 46
+      "F:/Saves/CurrentProfile/config/Hatari/Hatari.opt":
+        hash: 039c9b1c338c303d6088c535c4659b44213d90e5
+        size: 218
+      "F:/Saves/CurrentProfile/config/MAME 2003-Plus/MAME 2003-Plus.cfg":
+        hash: 4effa5200436654d9801600407cd2c1d69cbae7b
+        size: 117
+      "F:/Saves/CurrentProfile/config/MAME 2003-Plus/MAME 2003-Plus.opt":
+        hash: b4868c81e1ea6a7d3ba6af7cf48c71689eb963c9
+        size: 1114
+      "F:/Saves/CurrentProfile/config/MAME 2003-Xtreme/MAME 2003-Xtreme.cfg":
+        hash: 4effa5200436654d9801600407cd2c1d69cbae7b
+        size: 117
+      "F:/Saves/CurrentProfile/config/MAME 2003-Xtreme/MAME 2003-Xtreme.opt":
+        hash: 9a594ccb2cdba6c5815d58c71f6e39cae6540937
+        size: 506
+      "F:/Saves/CurrentProfile/config/Mesen/Mesen.opt":
+        hash: 90fa16aeda587228996de400da5287823f3dceac
+        size: 799
+      "F:/Saves/CurrentProfile/config/Mr.Boom/Mr.Boom.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/Mr.Boom/Mr.Boom.opt":
+        hash: 75c79a84452df1ef4b9e5eff4bea8c1719a81659
+        size: 157
+      "F:/Saves/CurrentProfile/config/Nestopia/Nestopia.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/Nestopia/Nestopia.opt":
+        hash: 62bb054c8e381163798c42552fdde37df26208d3
+        size: 965
+      "F:/Saves/CurrentProfile/config/Numero/Numero.opt":
+        hash: 17420e4caa725974f65ec5a4d500da9aeeaa4a78
+        size: 18
+      "F:/Saves/CurrentProfile/config/O2EM/O2EM.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/O2EM/O2EM.opt":
+        hash: 3ee27a0daf5bc045e1f87a82896bcbbc2b61a490
+        size: 246
+      "F:/Saves/CurrentProfile/config/Opera/Opera.opt":
+        hash: 567d9fca51cd3369b63a6660cd019b83ff7b578c
+        size: 580
+      "F:/Saves/CurrentProfile/config/PCSX-ReARMed/PCSX-ReARMed.cfg":
+        hash: c31ee6cb631f6694971db2a1ba12b895dc469d5c
+        size: 81
+      "F:/Saves/CurrentProfile/config/PCSX-ReARMed/PCSX-ReARMed.opt":
+        hash: 30be3a87a99edde369bbe18a2189e2168267b2b2
+        size: 1597
+      "F:/Saves/CurrentProfile/config/PUAE/PUAE.opt":
+        hash: 1824d68d71b045cb37c590e25725f15480af310d
+        size: 2581
+      "F:/Saves/CurrentProfile/config/PicoDrive/GG.cfg":
+        hash: 77a811728dbd1c1588dc73ef333bdb4872f314bd
+        size: 25
+      "F:/Saves/CurrentProfile/config/PicoDrive/PicoDrive.cfg":
+        hash: c92105ba0232b90a2eb6b87f13a8ede9a239a368
+        size: 67
+      "F:/Saves/CurrentProfile/config/PicoDrive/PicoDrive.opt":
+        hash: 400bdf7de87ba746f3fe68cafca9690b74600bcc
+        size: 593
+      "F:/Saves/CurrentProfile/config/PicoDrive/THIRTYTWOX.cfg":
+        hash: 0538a57b5865046d8ef4343891088fa9ed4eb865
+        size: 26
+      "F:/Saves/CurrentProfile/config/PokeMini/PokeMini.opt":
+        hash: 133dde1f92aac108767317ded6bc8510d8ed73cb
+        size: 357
+      "F:/Saves/CurrentProfile/config/Potator/Potator.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/Potator/Potator.opt":
+        hash: 04f81a786eba2976915b78ef438f1fdfe7810db4
+        size: 63
+      "F:/Saves/CurrentProfile/config/PrBoom/PrBoom.cfg":
+        hash: d88c0e266ba70925106155e4c2dd40e4ba322fd7
+        size: 39
+      "F:/Saves/CurrentProfile/config/PrBoom/PrBoom.opt":
+        hash: 3371cfc4ecdee07eec8c2d79b7e3bc11528ac881
+        size: 152
+      "F:/Saves/CurrentProfile/config/ProSystem/ProSystem.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/ProSystem/ProSystem.opt":
+        hash: d9353873a0f54c835b222db14b50ec5265ee53f0
+        size: 150
+      "F:/Saves/CurrentProfile/config/QuickNES/QuickNES.opt":
+        hash: 0c74957bf705a086a243eab845385463451ceb70
+        size: 345
+      "F:/Saves/CurrentProfile/config/REminiscence/retroarch_flashback.cfg":
+        hash: 62e3c212a58aee38ceed4859926f52d3a4489a0c
+        size: 33615
+      "F:/Saves/CurrentProfile/config/SameDuck/SameDuck.cfg":
+        hash: 1bcba92622a64ce470fc04b5f92579c26c9151a8
+        size: 38
+      "F:/Saves/CurrentProfile/config/SameDuck/SameDuck.opt":
+        hash: ed03a7ba741f5b8ec28636e994dc2b18cdde3429
+        size: 121
+      "F:/Saves/CurrentProfile/config/Snes9x 2005 Plus/Snes9x 2005 Plus.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/Snes9x 2005 Plus/Snes9x 2005 Plus.opt":
+        hash: 171380cbc73494dd961d477c8a9ee50b295b0199
+        size: 191
+      "F:/Saves/CurrentProfile/config/Snes9x 2005/Snes9x 2005.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/Snes9x 2005/Snes9x 2005.opt":
+        hash: d5c430d7df51200bf02a408b899a21f38a81b63e
+        size: 193
+      "F:/Saves/CurrentProfile/config/Snes9x 2010/Snes9x 2010.opt":
+        hash: 522b0a119509bc722a9b4c9bdc0552f9c7564f4f
+        size: 378
+      "F:/Saves/CurrentProfile/config/Snes9x/Snes9x.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/Snes9x/Snes9x.opt":
+        hash: 3456cc2352255c5493819228ca68da94c57d0c94
+        size: 1324
+      "F:/Saves/CurrentProfile/config/Stella 2014/Stella 2014.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/Supafaust/Supafaust.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/Supafaust/Supafaust.opt":
+        hash: fedab645b966cd2cfdd6a229c59e4adedd573cf2
+        size: 626
+      "F:/Saves/CurrentProfile/config/TGB Dual/TGB Dual.cfg":
+        hash: 833a99b3430ba1999e79ae460137db368ac7ab3d
+        size: 37
+      "F:/Saves/CurrentProfile/config/TGB Dual/TGB Dual.opt":
+        hash: 5e52e982f34dae3721a03786e5aa3ae1b014e417
+        size: 34
+      "F:/Saves/CurrentProfile/config/TyrQuake/TyrQuake.opt":
+        hash: ce2557c62476da284142a34209e40aef920946c8
+        size: 196
+      "F:/Saves/CurrentProfile/config/VBA-M/VBA-M.opt":
+        hash: 061c6c1b4ac23211f947e8f744e8f6dc56a2c86d
+        size: 925
+      "F:/Saves/CurrentProfile/config/VICE Xtreme x64/VICE Xtreme x64.opt":
+        hash: 4acfcc9baec55cb1ae0597cdf6a6c61de5f04be0
+        size: 3226
+      "F:/Saves/CurrentProfile/config/VecX/VecX.opt":
+        hash: a6eaa8de2ba1fe3ee5a113a29159710395fda8e3
+        size: 97
+      "F:/Saves/CurrentProfile/config/a5200/a5200.opt":
+        hash: 0c10f2664264c98c6595671a9e0498969b5b5356
+        size: 278
+      "F:/Saves/CurrentProfile/config/blueMSX/COLECO.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/blueMSX/COLECO.opt":
+        hash: f34abe078a8982a2a6d1ccb78a69f8e9edf561ff
+        size: 216
+      "F:/Saves/CurrentProfile/config/blueMSX/MSX.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/blueMSX/blueMSX.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/blueMSX/blueMSX.opt":
+        hash: 56b03d43d2ad940eb462aee24ae5490c5c539099
+        size: 208
+      "F:/Saves/CurrentProfile/config/crocods/crocods.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/ecwolf/ecwolf.opt":
+        hash: 4a2fa80c9e388fee3b46adf651c9b6cec401db1d
+        size: 803
+      "F:/Saves/CurrentProfile/config/fake-08/fake-08.cfg":
+        hash: 8b9a5c9effa680d0a6645209383aa7b875aedab4
+        size: 177
+      "F:/Saves/CurrentProfile/config/fuse/fuse.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/fuse/fuse.opt":
+        hash: 4ded51c6d77bda02b6a8e33c694400393da9cf30
+        size: 640
+      "F:/Saves/CurrentProfile/config/gpSP/gpSP.cfg":
+        hash: b83ca9acd40e7111405878882c39d34d6a865d44
+        size: 65
+      "F:/Saves/CurrentProfile/config/gpSP/gpSP.opt":
+        hash: e84b0f2b66ce7d61f593342dd71bde6e89bbdcef
+        size: 269
+      "F:/Saves/CurrentProfile/config/mGBA/SGB.cfg":
+        hash: a7b21d037cddef9e1fd725096d10c96d01710d5c
+        size: 60
+      "F:/Saves/CurrentProfile/config/mGBA/SGB.opt":
+        hash: 4c91768364bc4c30fb1f19f18c9d73f9f4615862
+        size: 515
+      "F:/Saves/CurrentProfile/config/mGBA/mGBA.cfg":
+        hash: b076d966b3ac0edb315075dd57e648c4271ccc6f
+        size: 89
+      "F:/Saves/CurrentProfile/config/mGBA/mGBA.opt":
+        hash: f8d4c73af9a5935c2d54b67d13a5c35ace93f0ae
+        size: 510
+      "F:/Saves/CurrentProfile/config/remaps/Atari800/Atari800.rmp":
+        hash: 2efe0070c506448655ba2721d1331142cc73083b
+        size: 472
+      "F:/Saves/CurrentProfile/config/remaps/FB Alpha 2012 CPS-2/FB Alpha 2012 CPS-2.rmp":
+        hash: e37edc8118adf9f03ac5b3294a8db37ceedc7953
+        size: 122
+      "F:/Saves/CurrentProfile/config/remaps/FCEUmm/FCEUmm.rmp":
+        hash: c3d2d410288624476acda9d1f7ab80085a9b00dc
+        size: 150
+      "F:/Saves/CurrentProfile/config/remaps/Gambatte/Gambatte.rmp":
+        hash: 4590466939295f46f0b2826ba15cf81ffc3bb084
+        size: 204
+      "F:/Saves/CurrentProfile/config/remaps/PCSX-ReARMed/PCSX-ReARMed.rmp":
+        hash: c3d2d410288624476acda9d1f7ab80085a9b00dc
+        size: 150
+      "F:/Saves/CurrentProfile/config/remaps/PrBoom/Doom (PrBoom).rmp":
+        hash: b244532e7bbad2ffe670fc00d5f8b808d59c5116
+        size: 199
+      "F:/Saves/CurrentProfile/config/remaps/ecwolf/ecwolf.rmp":
+        hash: 11e30913d4a0cd52ab710b99d621cb5f6ecce743
+        size: 198
+      "F:/Saves/CurrentProfile/config/remaps/fuse/fuse.rmp":
+        hash: 302b86945e18af17f95957883b8cd97c64c7e69f
+        size: 96
+      "F:/Saves/CurrentProfile/config/remaps/gpSP/gpSP.rmp":
+        hash: 80a8e5afac2a70d455aa4bde30282278f4b11119
+        size: 122
+      "F:/Saves/CurrentProfile/config/remaps/mGBA/mGBA.rmp":
+        hash: c3d2d410288624476acda9d1f7ab80085a9b00dc
+        size: 150
+      "F:/Saves/CurrentProfile/config/remaps/scummvm/Grim Fandango (Windows English).rmp":
+        hash: f4e185fe991654852fd4e093ccb5dc4747440e58
+        size: 411
+      "F:/Saves/CurrentProfile/config/retro-8 (alpha)/retro-8 (alpha).cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/config/scummvm/scummvm.cfg":
+        hash: 6e2e47f3be251b14e2b93fb5a28591ff639eb79c
+        size: 212
+      "F:/Saves/CurrentProfile/config/scummvm/scummvm.opt":
+        hash: b88d4657ebf1817ee4bb708d84c7d7b97bab6c05
+        size: 211
+      "F:/Saves/CurrentProfile/config/scummvm_standalone/.scummvmrc":
+        hash: 8eb68ba0cff4a5e91f85dae03f8b379e8830e7ab
+        size: 728
+      "F:/Saves/CurrentProfile/config/uae4arm_chips-rtype_version/uae4arm_chips-rtype_version.opt":
+        hash: c95d785477455aa45161f4bfb9d12775c72ceed3
+        size: 138
+      "F:/Saves/CurrentProfile/config/x1/x1.opt":
+        hash: 7d63fd970f980d1f4d4c5ed2913f35211c51f124
+        size: 323
+      "F:/Saves/CurrentProfile/lists/content_history.lpl":
+        hash: 0af2665e77eb0cb0ebdecc89a0d424d6c8ac3995
+        size: 3328
+      "F:/Saves/CurrentProfile/lists/content_music_history.lpl":
+        hash: 978a80769e0bd6997bffe4bc5c01cc9d5cbd9e68
+        size: 197
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Chrono Trigger (USA).lrtl":
+        hash: 36b136c76f7c7f8f128030588efdc456cc04731d
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Contra III - The Alien Wars (USA).lrtl":
+        hash: 132b45c0165c8a710d2443799a84bb838a320a93
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/F-Zero (USA).lrtl":
+        hash: c5a220e6a08121e7e9f7b8618fde3142acf9a15f
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/First Samurai (USA).lrtl":
+        hash: 734ca5883505869c517e698219a092eb2f4e74ab
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Kirby's Dream Course (USA).lrtl":
+        hash: b3b81c39754ed93499ce804ecbb9d14f138dfb42
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Speed Racer (USA).lrtl":
+        hash: 7838dcb1c9c3dfcac140b70fddee1d0ec1b78de3
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Star Fox (USA) (Rev 2).lrtl":
+        hash: b35132bd59b7b14098243c2426385d281781d372
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Super Mario World (USA).lrtl":
+        hash: 36dcb2ae9a4b530515e311c512e8621ecffa77ca
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Ultima - The Black Gate (USA).lrtl":
+        hash: 78506ffdb8aeea82a8ff82c4945c827e3796a0d8
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Wizardry V - Heart of the Maelstrom (USA).lrtl":
+        hash: f5fd3a57d03d44a8bffce8dff1ee0ef3bd150a36
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/MAME 2003-Plus/dstlku.lrtl":
+        hash: 600b958e575aa01e5c866985c4d2ca30cc7d9c49
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Bushido Blade (USA).lrtl":
+        hash: 100e1951357957db62aaa6a978fc004e1bcff153
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Crash Bandicoot (USA).lrtl":
+        hash: 8bba5f06b0c6ee929f6e660ddba650085f055a58
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Gran Turismo (USA) (Rev 1).lrtl":
+        hash: 03b133d39b5be91971a1040a2da35586fcaf5e95
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Silent Bomber (USA).lrtl":
+        hash: 8a6db6bef0016530fcd3fd176b830416df792760
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Spider-Man (USA).lrtl":
+        hash: 865247a835657360aadef101ab021a89357554b8
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Aladdin (USA).lrtl":
+        hash: f06423b58226da5cd59f42938f16192fb0acff49
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Dark Wizard (USA).lrtl":
+        hash: 6200f82d93e6f0c4bd26e869b8c3b7ebecc51c19
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Mega Bomberman (USA).lrtl":
+        hash: 943f45e1eabd1dea0d6b9b32e1970721a5f407b5
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Punisher, The (USA).lrtl":
+        hash: 54c7113afc4952d28a3d4b65c8f1a85791810957
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Sonic CD (USA) (RE125).lrtl":
+        hash: e63039c57d2f41b28c1a13c5b891eba2fdf46cac
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Sonic The Hedgehog (USA, Europe).lrtl":
+        hash: 66003b79db0805253635c2911b5b131924341a5e
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Streets of Rage (World) (Rev A).lrtl":
+        hash: 73afecc01b90aedc51dbd510b26eb93d0fd4bb0c
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Streets of Rage 2 (USA).lrtl":
+        hash: b28b4edf2357d5abfe9765f7d3536c11bb6bc867
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Streets of Rage 2 (World).lrtl":
+        hash: bd768d076f7972f73fe57f41b2b52cf9aaedb5c6
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/Snes9x 2010/Kirby's Dream Course (USA).lrtl":
+        hash: c665035fe9fd3a624ee5e8b06d87848029bacb1f
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).lrtl":
+        hash: 84988e11837f7e6fc4037111ceb9733dd28e083d
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Castlevania - Circle of the Moon (USA).lrtl":
+        hash: d0d1b5d1c3608e497b129384df78892c95e91592
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/DK - King of Swing (USA).lrtl":
+        hash: 9e2cafa777de5dc83501d40c7f943859d6cc393e
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/F-Zero - GP Legend (USA).lrtl":
+        hash: 52a9d74cd4d0d1840ed805737e78224620dfba7e
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Final Fantasy IV Advance (USA).lrtl":
+        hash: 516c35b0534de2532783615e0b6a5df8cde2db3c
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Kirby & The Amazing Mirror (USA).lrtl":
+        hash: 60f48f571df2b94c2d36fdcb0589d1df2e6a861b
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Kirby - Nightmare in Dream Land (USA).lrtl":
+        hash: 5496b4ec83ea1d1c195a084daee3433ddd7cde2f
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Mario Kart - Super Circuit (USA).lrtl":
+        hash: bde59acae6af79764d60b92f0a29e92b0bb89c9d
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).lrtl":
+        hash: ccff26ce76e217e70fb7f354afe03c699a9f5dff
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Mega Man Zero (USA, Europe).lrtl":
+        hash: 0745607f7b98b2adbf9c34d6afa7a9d820a6e492
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Metroid - Zero Mission (USA).lrtl":
+        hash: 8afb99a49dc4cdfcda0a3daeeaeec59c3225c387
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Metroid Fusion (USA).lrtl":
+        hash: ce0b107aaec77ea2a99fcc4c5bbf6d233bfddec5
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Pokemon - Emerald Version (USA, Europe).lrtl":
+        hash: cfab2b05854ad9bb67712ec485b98e5bd6ba89bc
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).lrtl":
+        hash: 6e4a3d19830e662d51f07bf996e347e838dd8711
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Pokemon Unbound.lrtl":
+        hash: 1d1891a68c094453691a51c5fb460b282adc4d4e
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/TMNT (USA) (En,Fr,Es).lrtl":
+        hash: f4eb8734a1c7f75163fc90498130148f0a4aa179
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Tony Hawk's Pro Skater 4 (USA, Europe).lrtl":
+        hash: 101aaf102d5fa677a60b00500d36c11925b74ec4
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/WarioWare, Inc. - Mega Microgame$! (USA).lrtl":
+        hash: 859aac6e105e042f1d3d16c6e978367ca3b79068
+        size: 87
+      "F:/Saves/CurrentProfile/play_activity/play_activity_db.sqlite":
+        hash: e89d62e4b161234155ecf6d9e6d2114dd451a4bb
+        size: 40960
+      "F:/Saves/CurrentProfile/romScreens/1056437263_mgba.png":
+        hash: d91079fcdf8d1ada1eeb35ecced2c70def77d6c3
+        size: 102022
+      "F:/Saves/CurrentProfile/romScreens/1418322812_mgba.png":
+        hash: d9ec72ee33a3140b8cd6ccfe474f13f97fc79ff3
+        size: 102538
+      "F:/Saves/CurrentProfile/romScreens/1558902532_pcsx_rearmed.png":
+        hash: 710905e2f7e6fd9b77fa9655f01f4c94bd41a1a2
+        size: 105654
+      "F:/Saves/CurrentProfile/romScreens/1570014278_mgba.png":
+        hash: 6255145dd3a119c8f23b09fbce0d36796003ab23
+        size: 83690
+      "F:/Saves/CurrentProfile/romScreens/1603067477_picodrive.png":
+        hash: ef05e2b200e40fbd55279d510ffc2485aa399bf5
+        size: 7910
+      "F:/Saves/CurrentProfile/romScreens/1987026212_mednafen_supafaust.png":
+        hash: 2ac7a395a7ce84fb32cccd74c073cbb7becc5b6b
+        size: 73894
+      "F:/Saves/CurrentProfile/romScreens/2092561063_pcsx_rearmed.png":
+        hash: 1f1d9996c0811e9ff22025536ba0ddc25c8b9936
+        size: 119331
+      "F:/Saves/CurrentProfile/romScreens/2492149093_mgba.png":
+        hash: 01a4d298e5280325b3540bc2370f1424ea69c929
+        size: 40943
+      "F:/Saves/CurrentProfile/romScreens/2503807735_mgba.png":
+        hash: d6163e43bd8fc985c7f692e9f4613e05f2abe273
+        size: 176836
+      "F:/Saves/CurrentProfile/romScreens/2669695514_picodrive.png":
+        hash: e9948682b3e9f30e5e3fb98aa0b6d99ac7e7d7e8
+        size: 13646
+      "F:/Saves/CurrentProfile/romScreens/3124804422_mgba.png":
+        hash: 209542c52936df0dfacb31e63cfd5c4ee5e39852
+        size: 70879
+      "F:/Saves/CurrentProfile/romScreens/3210271187_mgba.png":
+        hash: ffbd0b7ef82723a9f900b20ae65591e8ebc6d1ba
+        size: 88908
+      "F:/Saves/CurrentProfile/romScreens/3223155079_picodrive.png":
+        hash: d80b3b3c77d9b74459ca3a6cfee19b5231e6b5cb
+        size: 201607
+      "F:/Saves/CurrentProfile/romScreens/3227650247_mednafen_supafaust.png":
+        hash: 0db9ba52a2b0be1d04c6560981983073d72dcd97
+        size: 51286
+      "F:/Saves/CurrentProfile/romScreens/3245661969_pcsx_rearmed.png":
+        hash: bec10641753de7e05f8da7e3cd51c8a5cc3b42fa
+        size: 149186
+      "F:/Saves/CurrentProfile/romScreens/3257851716_mgba.png":
+        hash: 770bdffa5cb956dfbf3b19760d1f4ed684e6aab2
+        size: 48396
+      "F:/Saves/CurrentProfile/romScreens/345031406_mednafen_supafaust.png":
+        hash: e761dd33e82d3cd8f5cf1fc2d78cc60b05538eac
+        size: 62307
+      "F:/Saves/CurrentProfile/romScreens/3549702582_pcsx_rearmed.png":
+        hash: c58769e7c55ab8138610d7e863023e4cb8bd6571
+        size: 37573
+      "F:/Saves/CurrentProfile/romScreens/3722292502_mgba.png":
+        hash: 6e4be75105d2953819a54313651b82c36b173c6d
+        size: 111757
+      "F:/Saves/CurrentProfile/romScreens/4048765808_mgba.png":
+        hash: a8c7d68dc48b198b887942c1477d0a12f3f11550
+        size: 94141
+      "F:/Saves/CurrentProfile/romScreens/4083236677_mgba.png":
+        hash: 148c0435da27ad4e1fdd8cde3fafdda56ed50e5b
+        size: 85744
+      "F:/Saves/CurrentProfile/romScreens/422512979_mgba.png":
+        hash: 44dfb398b6c101f479a0ec97e9f046d7a110092c
+        size: 142000
+      "F:/Saves/CurrentProfile/romScreens/4226613107_mgba.png":
+        hash: f86b47d3878936ec312d3e73abeb928b47611670
+        size: 73531
+      "F:/Saves/CurrentProfile/romScreens/4283278661_mgba.png":
+        hash: b12235151dde28d1e10de1f80eb07038a4b3cd1b
+        size: 84492
+      "F:/Saves/CurrentProfile/romScreens/475433826_mgba.png":
+        hash: b88b88d8faf3c1f091f77ab5a66c3b4192c7e3ff
+        size: 61446
+      "F:/Saves/CurrentProfile/romScreens/528755701_mgba.png":
+        hash: 0e58e74d3f643b9d0e27f3a4e8a24343cbb494db
+        size: 85827
+      "F:/Saves/CurrentProfile/romScreens/738078391_pcsx_rearmed.png":
+        hash: 06422063134d55a236335666668163376b0500ac
+        size: 44621
+      "F:/Saves/CurrentProfile/romScreens/813872756_mgba.png":
+        hash: a431bf82fcd7b3bdbb0a27fef1cfd97bf8a297f3
+        size: 100790
+      "F:/Saves/CurrentProfile/romScreens/857502398_picodrive.png":
+        hash: 5450abce9deda81c9d1958457d5f0b4959dc2456
+        size: 37435
+      "F:/Saves/CurrentProfile/romScreens/908085595_mednafen_supafaust.png":
+        hash: e7b017b0cfc7800d8145c8b72ed7a8a0dfd580a4
+        size: 118171
+      "F:/Saves/CurrentProfile/romScreens/96145462_picodrive.png":
+        hash: 8b7a04b30bfc0ea56c3ac2b741d54b67f78331a3
+        size: 49216
+      "F:/Saves/CurrentProfile/saves/MAME 2003-Plus/.mame2003plusTutorialDone":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/saves/MAME 2003-Plus/mame2003-plus/cfg/default.cfg":
+        hash: d5ee3d5b26b1e144f6b6eabbb9052834fe3417eb
+        size: 8168
+      "F:/Saves/CurrentProfile/saves/MAME 2003-Plus/mame2003-plus/cfg/dstlku.cfg":
+        hash: 836f2132cc3ac5df94bb14e4be594b24a848e962
+        size: 1176
+      "F:/Saves/CurrentProfile/saves/MAME 2003-Plus/mame2003-plus/hi/dstlku.hi":
+        hash: ce4cc4984ff8dc3a2604bd1799ef52d14f53b3d0
+        size: 64
+      "F:/Saves/CurrentProfile/saves/MAME 2003-Plus/mame2003-plus/nvram/dstlku.nv":
+        hash: 80fee57c3f16517df33d0a5e032974d3a6698ea3
+        size: 128
+      "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Bushido Blade (USA).srm":
+        hash: ec2d2493fa3b5f0a546b7b224ddef5b143771219
+        size: 131072
+      "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Crash Bandicoot (USA).srm":
+        hash: 1b3c99be55273085e14b30983b636529b6dd7f46
+        size: 131072
+      "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Gran Turismo (USA) (Rev 1).srm":
+        hash: 1b3c99be55273085e14b30983b636529b6dd7f46
+        size: 131072
+      "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Silent Bomber (USA).srm":
+        hash: 1b3c99be55273085e14b30983b636529b6dd7f46
+        size: 131072
+      "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Spider-Man (USA).srm":
+        hash: 506988ab99c873499900919c168e2b5edb2f887e
+        size: 131072
+      "F:/Saves/CurrentProfile/saves/PicoDrive/Dark Wizard (USA).srm":
+        hash: fd8527c2ffb6d75929f2155bd61073979a530c8f
+        size: 8192
+      "F:/Saves/CurrentProfile/saves/PicoDrive/Sonic CD (USA) (RE125).srm":
+        hash: 080e6361b0c628f8866566dcfff8c3b9079e6671
+        size: 8192
+      "F:/Saves/CurrentProfile/saves/PrBoom/DoomPlutonia/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/CurrentProfile/saves/PrBoom/SIGIL_v1_21/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/CurrentProfile/saves/PrBoom/TNT_Evilution/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/CurrentProfile/saves/PrBoom/doomI/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/CurrentProfile/saves/PrBoom/doomII/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/CurrentProfile/saves/PrBoom/doomu/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/CurrentProfile/saves/README.txt":
+        hash: ea249290a90a6423d625d8b94fe15a3ec46d5f5e
+        size: 1113
+      "F:/Saves/CurrentProfile/saves/Snes9x 2010/Kirby's Dream Course (USA).srm":
+        hash: 625e0fad9f8b783b800bea035b3b1e4ae1b85ab3
+        size: 8192
+      "F:/Saves/CurrentProfile/saves/Supafaust/Chrono Trigger (USA).srm":
+        hash: 0631457264ff7f8d5fb1edc2c0211992a67c73e6
+        size: 8192
+      "F:/Saves/CurrentProfile/saves/Supafaust/F-Zero (USA).srm":
+        hash: 0a980b0d97f488bb7ccef2783ddec10fa47b5b5c
+        size: 2048
+      "F:/Saves/CurrentProfile/saves/Supafaust/Kirby's Dream Course (USA).srm":
+        hash: 548aed9feda8640a58d062fca09c6e754d16edc8
+        size: 8192
+      "F:/Saves/CurrentProfile/saves/Supafaust/Star Fox (USA) (Rev 2).srm":
+        hash: ef64a18e5a7843c6ace92e30b37356efb4bae535
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/Supafaust/Super Mario World (USA).srm":
+        hash: 5151d28e0fd47092dd03a7ee74f5e0b5987fde0c
+        size: 2048
+      "F:/Saves/CurrentProfile/saves/Supafaust/Ultima - The Black Gate (USA).srm":
+        hash: 0631457264ff7f8d5fb1edc2c0211992a67c73e6
+        size: 8192
+      "F:/Saves/CurrentProfile/saves/Supafaust/Wizardry V - Heart of the Maelstrom (USA).srm":
+        hash: f8b146974655c09a0affeda805d3b07c1e444045
+        size: 8192
+      "F:/Saves/CurrentProfile/saves/TyrQuake/dopa/config.cfg":
+        hash: 6f002a3ecb527624c5a30a0d5ce3506b9b234cc0
+        size: 2291
+      "F:/Saves/CurrentProfile/saves/TyrQuake/hipnotic/config.cfg":
+        hash: 6f002a3ecb527624c5a30a0d5ce3506b9b234cc0
+        size: 2291
+      "F:/Saves/CurrentProfile/saves/TyrQuake/id1/config.cfg":
+        hash: 6f002a3ecb527624c5a30a0d5ce3506b9b234cc0
+        size: 2291
+      "F:/Saves/CurrentProfile/saves/TyrQuake/rogue/config.cfg":
+        hash: 6f002a3ecb527624c5a30a0d5ce3506b9b234cc0
+        size: 2291
+      "F:/Saves/CurrentProfile/saves/currentTime.txt":
+        hash: d530dee9570357f80a5990b29a41d36b962ed7ca
+        size: 10
+      "F:/Saves/CurrentProfile/saves/mGBA/.gpspImportDone":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/CurrentProfile/saves/mGBA/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).srm":
+        hash: 5a2c27bae894d916a08cc68ab1a4b0c4767837d2
+        size: 8192
+      "F:/Saves/CurrentProfile/saves/mGBA/Castlevania - Aria of Sorrow (USA).srm":
+        hash: 7a978f7941ddf5517414dd400b0d60dac819db12
+        size: 65536
+      "F:/Saves/CurrentProfile/saves/mGBA/Castlevania - Circle of the Moon (USA).srm":
+        hash: c96a260cd16df31907055c5154411bebe45770a1
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/DK - King of Swing (USA).srm":
+        hash: f278a0b5581e8abada5e6df3d420e5ad37529c9e
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/F-Zero - GP Legend (USA).srm":
+        hash: ed40c3d5b0fe0c42192043cc3bafc7d2c811126a
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Final Fantasy IV Advance (USA).srm":
+        hash: ca711c69165e1fa5be72993b9a7870ef6d485249
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Kirby & The Amazing Mirror (USA).srm":
+        hash: 67c020def8816887db60c7a7ab6b03f4e1545fdc
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Kirby - Nightmare in Dream Land (USA).srm":
+        hash: 81352df0500b1e4cdf4df0a9f06576adbfb55603
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Legend of Zelda, The - A Link to the Past & Four Swords (USA).srm":
+        hash: a7eef535916339b698ec1b9d1686624c16e6ee8d
+        size: 8192
+      "F:/Saves/CurrentProfile/saves/mGBA/Mario Kart - Super Circuit (USA).srm":
+        hash: 9f3b37344dc16f8a6b49ea021e6d69dba7d72b89
+        size: 65536
+      "F:/Saves/CurrentProfile/saves/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).srm":
+        hash: d5dcd4bcb3abd94434684f9c33130bc25033c514
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Mega Man Battle Network 3 - Blue Version (USA).srm":
+        hash: fa1cb2a4b8d21a6ec141afb86fe536be0856f4ce
+        size: 65536
+      "F:/Saves/CurrentProfile/saves/mGBA/Mega Man Zero (USA, Europe).srm":
+        hash: ca711c69165e1fa5be72993b9a7870ef6d485249
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Metroid - Zero Mission (USA).srm":
+        hash: cdb29731aec4cbb7905fd6671ea54fbf9386b44b
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Metroid Fusion (USA).srm":
+        hash: 6ec24b9592a47ff6872d3bfe39f621033a48cc36
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Pokemon - Emerald Version (USA, Europe).srm":
+        hash: 794227fd02221d4db8917b85ae3248eb2a876839
+        size: 131072
+      "F:/Saves/CurrentProfile/saves/mGBA/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).srm":
+        hash: 8aaae7bba9862cf95ad546a7a70b635ecb7e01c5
+        size: 131072
+      "F:/Saves/CurrentProfile/saves/mGBA/Pokemon Unbound.srm":
+        hash: 95af145b20e2464365c901f83038126c60e7544f
+        size: 131072
+      "F:/Saves/CurrentProfile/saves/mGBA/TMNT (USA) (En,Fr,Es).srm":
+        hash: 3e9a6b8bfd9b98ea08bdb873a95e335ab5a24b86
+        size: 512
+      "F:/Saves/CurrentProfile/saves/mGBA/Tony Hawk's Pro Skater 4 (USA, Europe).srm":
+        hash: cc7b123d559540c37c5b2c06b8c830777351d85e
+        size: 8192
+      "F:/Saves/CurrentProfile/saves/mGBA/WarioWare, Inc. - Mega Microgame$! (USA).srm":
+        hash: 2eb0073ecd2f2abe88179d2c1ffb7d3bb6f8a8d9
+        size: 32768
+      "F:/Saves/CurrentProfile/saves/playActivity.db":
+        hash: f7b34272abc14d51164cf81e95b900cfbe5b9737
+        size: 104000
+      "F:/Saves/CurrentProfile/states/MAME 2003-Plus/dstlku.state.auto":
+        hash: 54f16947794cb5f892e1c4420b35ace6a627ee83
+        size: 14755
+      "F:/Saves/CurrentProfile/states/MAME 2003-Plus/dstlku.state.auto.png":
+        hash: 8a53ff0a1551129eb032f56ef6f0e62be715c459
+        size: 63339
+      "F:/Saves/CurrentProfile/states/MAME 2003-Plus/dstlku.state1":
+        hash: d76075f893c59ddd6605ee0b245d63b23fc18ab1
+        size: 14295
+      "F:/Saves/CurrentProfile/states/MAME 2003-Plus/dstlku.state1.png":
+        hash: e0a63c38d6849bc9b4b48dc0a5d5575d9a34dfc2
+        size: 61081
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Bushido Blade (USA).state.auto":
+        hash: b760d12cb99eeec3bc98a1d1faa7904cd4347934
+        size: 4459896
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Bushido Blade (USA).state.auto.png":
+        hash: 7d37e3a79eb04d60cd5b3d7976d5256acd55d8b4
+        size: 30445
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Crash Bandicoot (USA).state.auto":
+        hash: be4cf8892f300dba2a69d693d745016e85f4bd25
+        size: 4464336
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Crash Bandicoot (USA).state.auto.png":
+        hash: 9aa12f33c38df2aa6775802eae2d215f9b0fc3e7
+        size: 59510
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Gran Turismo (USA) (Rev 1).state.auto":
+        hash: 635d90fe0ee756e8c9e65ca44923b09ffc7abe88
+        size: 4469824
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Gran Turismo (USA) (Rev 1).state.auto.png":
+        hash: 20f0979b649124cdbdd46dc187e76bd00219bf5b
+        size: 34421
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Silent Bomber (USA).state.auto":
+        hash: aa74723f34e4e2677372bb367d58f8ba4acab9e5
+        size: 1566265
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Silent Bomber (USA).state.auto.png":
+        hash: a1de82468dbae93598dcd620967417b9e92ad53f
+        size: 27690
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Silent Bomber (USA).state1":
+        hash: 12fdec7e8ec323272b884fab82e32d4a373a514a
+        size: 1842112
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Silent Bomber (USA).state1.png":
+        hash: 1724241e0a5a203b9431e6659322adf252f29cc9
+        size: 41138
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Silent Bomber (USA).state2":
+        hash: 82c6c8edeebff89a70a411cf3daac9b4496eff51
+        size: 1574581
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Silent Bomber (USA).state2.png":
+        hash: a1de82468dbae93598dcd620967417b9e92ad53f
+        size: 27690
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Spider-Man (USA).state.auto":
+        hash: 6ea490edd106ed9b74d5539796e18aef1185d700
+        size: 4469008
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Spider-Man (USA).state.auto.png":
+        hash: 06ac3117a6f58eef4e8ea49bc41962b4fe73bdd2
+        size: 61412
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Spider-Man (USA).state1":
+        hash: d591c7dd3c711f2e3164914822bd93440ab8697d
+        size: 4469008
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Spider-Man (USA).state1.png":
+        hash: 5dc245a07e011f89eb0d301a663716013ecb4a45
+        size: 60779
+      "F:/Saves/CurrentProfile/states/PicoDrive/Aladdin (USA).state.auto":
+        hash: 29cfbe2187292d6f133501118343c5dae81b46db
+        size: 45689
+      "F:/Saves/CurrentProfile/states/PicoDrive/Aladdin (USA).state.auto.png":
+        hash: cdec16c4edc53abab929b01ec081aaf8c3a4bbcb
+        size: 10058
+      "F:/Saves/CurrentProfile/states/PicoDrive/Dark Wizard (USA).state.auto":
+        hash: aefb448883ea1d2531072d81d7f48da590a52285
+        size: 229626
+      "F:/Saves/CurrentProfile/states/PicoDrive/Dark Wizard (USA).state.auto.png":
+        hash: e73b0b31923c9686c773bf2902c7ab9f140c15c9
+        size: 247
+      "F:/Saves/CurrentProfile/states/PicoDrive/Mega Bomberman (USA).state.auto":
+        hash: 4b7f18e338667f9e0082a4e51a297750d85c4c75
+        size: 142800
+      "F:/Saves/CurrentProfile/states/PicoDrive/Mega Bomberman (USA).state.auto.png":
+        hash: 517e10d960e0028cc9e5b3e067e2f3a9e9f427fc
+        size: 12953
+      "F:/Saves/CurrentProfile/states/PicoDrive/Punisher, The (USA).state.auto":
+        hash: 8163dad157166499fbbb646f4977a548362e40c3
+        size: 39502
+      "F:/Saves/CurrentProfile/states/PicoDrive/Punisher, The (USA).state.auto.png":
+        hash: df09996c5a6ba7095834a7135502b29d82f6cfd1
+        size: 3046
+      "F:/Saves/CurrentProfile/states/PicoDrive/Punisher, The (USA).state1":
+        hash: c30ba60493d852306a6da29dbdd42042ebd5cfb6
+        size: 37006
+      "F:/Saves/CurrentProfile/states/PicoDrive/Punisher, The (USA).state1.png":
+        hash: 3df76c798569d5994a61455f4d12310942754ff5
+        size: 7787
+      "F:/Saves/CurrentProfile/states/PicoDrive/Punisher, The (USA).state2":
+        hash: 7683172d6292fb917df927534bc80a465823bda9
+        size: 40412
+      "F:/Saves/CurrentProfile/states/PicoDrive/Punisher, The (USA).state2.png":
+        hash: 03de4895988eecaf4706615d82782ce7400c87d1
+        size: 2638
+      "F:/Saves/CurrentProfile/states/PicoDrive/Sonic CD (USA) (RE125).state.auto":
+        hash: a1a5b65f296e2f39028c4f07e46e4698435b0694
+        size: 1038760
+      "F:/Saves/CurrentProfile/states/PicoDrive/Sonic CD (USA) (RE125).state.auto.png":
+        hash: 3aad4d19b18a6ba5188c70fccef090d6d512d961
+        size: 12431
+      "F:/Saves/CurrentProfile/states/PicoDrive/Sonic The Hedgehog (USA, Europe).state.auto":
+        hash: 53cfd75ae11426f2f54617635ed064af3477014f
+        size: 38504
+      "F:/Saves/CurrentProfile/states/PicoDrive/Sonic The Hedgehog (USA, Europe).state.auto.png":
+        hash: a6f2bdb0c104450056a1539c905bc1568869084f
+        size: 1800
+      "F:/Saves/CurrentProfile/states/PicoDrive/Streets of Rage (World) (Rev A).state.auto":
+        hash: 9a269692ee5468a196a74dfc23603f3758c33229
+        size: 26428
+      "F:/Saves/CurrentProfile/states/PicoDrive/Streets of Rage (World) (Rev A).state.auto.png":
+        hash: 9b9a0557535d06882b6a8f47b7e75b76f8acf649
+        size: 1764
+      "F:/Saves/CurrentProfile/states/PicoDrive/Streets of Rage 2 (USA).state.auto":
+        hash: 0970f734343ad3abeeae4fb535ca8ed4d7bf9ab9
+        size: 29953
+      "F:/Saves/CurrentProfile/states/PicoDrive/Streets of Rage 2 (USA).state.auto.png":
+        hash: 908c17c986fd47a25979a585e274256152544454
+        size: 12661
+      "F:/Saves/CurrentProfile/states/PicoDrive/Streets of Rage 2 (World).state.auto":
+        hash: f0246c0239a21be80df3d9be6d99f1cfe9f2ec34
+        size: 9041
+      "F:/Saves/CurrentProfile/states/PicoDrive/Streets of Rage 2 (World).state.auto.png":
+        hash: d6d7bd922bf303f550dd90586fc8c1e235f2dfa3
+        size: 147
+      "F:/Saves/CurrentProfile/states/PicoDrive/Streets of Rage 2 (World).state1":
+        hash: f4cf3d5a705c8ea9c8a55a49280be02723c9f925
+        size: 9058
+      "F:/Saves/CurrentProfile/states/PicoDrive/Streets of Rage 2 (World).state1.png":
+        hash: ba004990ef79504fed44e1057148e85f741b30e1
+        size: 3383
+      "F:/Saves/CurrentProfile/states/PicoDrive/Streets of Rage 2 (World).state2":
+        hash: bf4d6665488ee3da119233ad426f20bf684324a5
+        size: 10728
+      "F:/Saves/CurrentProfile/states/PicoDrive/Streets of Rage 2 (World).state2.png":
+        hash: 4f4c501ca7b2b6a26c0e81a39a3d3ae59488080a
+        size: 5524
+      "F:/Saves/CurrentProfile/states/README.txt":
+        hash: ea249290a90a6423d625d8b94fe15a3ec46d5f5e
+        size: 1113
+      "F:/Saves/CurrentProfile/states/Snes9x 2010/Kirby's Dream Course (USA).state.auto":
+        hash: 3678ef5f370feaf99104fa836c1521bda651d12d
+        size: 89881
+      "F:/Saves/CurrentProfile/states/Snes9x 2010/Kirby's Dream Course (USA).state.auto.png":
+        hash: beed136ffc4a69630ead077bbdc2b50d2315bbd0
+        size: 6732
+      "F:/Saves/CurrentProfile/states/Supafaust/Chrono Trigger (USA).state.auto":
+        hash: 908714847ae608d112e337cf5768dcf461c9acad
+        size: 125010
+      "F:/Saves/CurrentProfile/states/Supafaust/Chrono Trigger (USA).state.auto.png":
+        hash: 726a078b8b3acb561adaf86b147f889bfd8202d3
+        size: 20651
+      "F:/Saves/CurrentProfile/states/Supafaust/Chrono Trigger (USA).state1":
+        hash: 3b5c2f4a58e220b77d8c9f55b659628bd441620e
+        size: 127857
+      "F:/Saves/CurrentProfile/states/Supafaust/Chrono Trigger (USA).state1.png":
+        hash: 0c44c01562ee3320fb5a9accc483e1fd434b09d2
+        size: 36216
+      "F:/Saves/CurrentProfile/states/Supafaust/Chrono Trigger (USA).state2":
+        hash: 88769c14e9949726e54cc6e5c5b8c10316bb1086
+        size: 121461
+      "F:/Saves/CurrentProfile/states/Supafaust/Chrono Trigger (USA).state2.png":
+        hash: 2f5c7507ea9d74755c9f2467002eed95dca65773
+        size: 15564
+      "F:/Saves/CurrentProfile/states/Supafaust/Chrono Trigger (USA).state3":
+        hash: 9772461b276b85ad92a31bbc1fbef710e8c01dfe
+        size: 134061
+      "F:/Saves/CurrentProfile/states/Supafaust/Chrono Trigger (USA).state3.png":
+        hash: 1678afdb13d10ac0cd4b0ab3712fc877c52b7b80
+        size: 65793
+      "F:/Saves/CurrentProfile/states/Supafaust/Contra III - The Alien Wars (USA).state.auto":
+        hash: ba5ddfeded29d89bce3712e8273151ab1e1a6aaa
+        size: 75969
+      "F:/Saves/CurrentProfile/states/Supafaust/Contra III - The Alien Wars (USA).state.auto.png":
+        hash: 3c1f95db861393bedb934ee19c36ea1ef616a870
+        size: 7592
+      "F:/Saves/CurrentProfile/states/Supafaust/F-Zero (USA).state.auto":
+        hash: 88b1aee2f4ec7e2f4cb6de3de4ae2de9623b99c8
+        size: 149071
+      "F:/Saves/CurrentProfile/states/Supafaust/F-Zero (USA).state.auto.png":
+        hash: ceb29a6ad9c3de25ff5ee3aadfc66a9fce282fb2
+        size: 13518
+      "F:/Saves/CurrentProfile/states/Supafaust/First Samurai (USA).state.auto":
+        hash: 0c382c0b0c45fcc205cab7b5004ab66fe812e6be
+        size: 109214
+      "F:/Saves/CurrentProfile/states/Supafaust/First Samurai (USA).state.auto.png":
+        hash: 961525233b0e42e3ec4d4976db2d42782abc435f
+        size: 15848
+      "F:/Saves/CurrentProfile/states/Supafaust/Kirby's Dream Course (USA).state.auto":
+        hash: 3aaf18539c5936de344ec020fe48ed44703dc7eb
+        size: 111425
+      "F:/Saves/CurrentProfile/states/Supafaust/Kirby's Dream Course (USA).state.auto.png":
+        hash: b69aa9e1e55baa3abd29346072d66d8462504267
+        size: 14088
+      "F:/Saves/CurrentProfile/states/Supafaust/Speed Racer (USA).state.auto":
+        hash: 8903013d567a759c64b5c3a4ff94a6c8388da13e
+        size: 149809
+      "F:/Saves/CurrentProfile/states/Supafaust/Speed Racer (USA).state.auto.png":
+        hash: 35dd0dc93fc37bb36426ed0e3c6df8b97667f0f3
+        size: 15923
+      "F:/Saves/CurrentProfile/states/Supafaust/Star Fox (USA) (Rev 2).state.auto":
+        hash: bb24e4596e2ca9ca1ce8f29b93c571b5c3a87044
+        size: 79599
+      "F:/Saves/CurrentProfile/states/Supafaust/Star Fox (USA) (Rev 2).state.auto.png":
+        hash: 0897778d0a5a78f3f5923cda4ea5f83bc00cea0a
+        size: 7087
+      "F:/Saves/CurrentProfile/states/Supafaust/Super Mario World (USA).state.auto":
+        hash: c2b8e7c6565f79f3083012c8c9bfd8c48d2d9d13
+        size: 124965
+      "F:/Saves/CurrentProfile/states/Supafaust/Super Mario World (USA).state.auto.png":
+        hash: 73ac0fe59e91e4da400f9c858922efe05cf66c6b
+        size: 9532
+      "F:/Saves/CurrentProfile/states/Supafaust/Super Mario World (USA).state1":
+        hash: c61f520295bb4760d1914eddc4c4abbb043afaf1
+        size: 123027
+      "F:/Saves/CurrentProfile/states/Supafaust/Super Mario World (USA).state1.png":
+        hash: b12d745699cf644d9dbe906b2d70bbd2b9bde2b2
+        size: 5975
+      "F:/Saves/CurrentProfile/states/Supafaust/Super Mario World (USA).state2":
+        hash: b0a4790ac5cdfe10d9372b332c462f1b90715c6b
+        size: 123807
+      "F:/Saves/CurrentProfile/states/Supafaust/Super Mario World (USA).state2.png":
+        hash: b833bb3b3ce8304fc2eeb107429a44ac7dc8a62e
+        size: 6666
+      "F:/Saves/CurrentProfile/states/Supafaust/Super Mario World (USA).state3":
+        hash: 47ed658344c45fde7579f9ae1dcd4e06c08c4581
+        size: 124901
+      "F:/Saves/CurrentProfile/states/Supafaust/Super Mario World (USA).state3.png":
+        hash: a2f8edd4b65ab712a1969ce77a2b2254ef4ed239
+        size: 9650
+      "F:/Saves/CurrentProfile/states/Supafaust/Ultima - The Black Gate (USA).state.auto":
+        hash: 976910cdcad8af5bd60ff6427a2fc8eca4cca7d9
+        size: 92950
+      "F:/Saves/CurrentProfile/states/Supafaust/Ultima - The Black Gate (USA).state.auto.png":
+        hash: 6d890da20a090a4c7c15542317015958ccc9313f
+        size: 7828
+      "F:/Saves/CurrentProfile/states/Supafaust/Wizardry V - Heart of the Maelstrom (USA).state.auto":
+        hash: 983b9eea1e6d8e301aef81030be101cf50b8a547
+        size: 274784
+      "F:/Saves/CurrentProfile/states/Supafaust/Wizardry V - Heart of the Maelstrom (USA).state.auto.png":
+        hash: 156560ee6de7855bfbf2efa3eff5371d81a615f4
+        size: 13193
+      "F:/Saves/CurrentProfile/states/mGBA/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).state.auto":
+        hash: d107e7b376b5ff04dd569131ccda03285ccb6637
+        size: 80416
+      "F:/Saves/CurrentProfile/states/mGBA/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).state.auto.png":
+        hash: 02ed8649a178aa62a7ce7b2f5ae3bdc66d863239
+        size: 13737
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state.auto":
+        hash: 935bf02fdb366d5ca3b56d84bff2e467b171ca41
+        size: 59788
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state.auto.png":
+        hash: 58866215e95325795df16e568577aaf6abc695e7
+        size: 13731
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state10":
+        hash: 02c9b06fd2a44092b8f639d7f10f2ec6c7722eb1
+        size: 61967
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state10.png":
+        hash: 29893a82b4fc555116d316ee12c2345e98cf990b
+        size: 11409
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state11":
+        hash: f28088a29421ed12edfb55e191d06dec588a57fa
+        size: 59768
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state11.png":
+        hash: ca4d9fd959529fa8793a5f8bcb4594a06089d1bc
+        size: 14161
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state2":
+        hash: b8255438441e4c8551f3c609cc20041797d7a757
+        size: 59725
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state2.png":
+        hash: 252803bab6f8fc64dcf2a1ceaa03f126e648d06f
+        size: 13741
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state3":
+        hash: 5c555961ab78f65f3386a543cd8c107d98919fb4
+        size: 63718
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state3.png":
+        hash: 9a570c465687b428c4ddca5db42b5f81a700a3c6
+        size: 14103
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state4":
+        hash: dec44f173590b9872175f0723fcf2d345547ba20
+        size: 64989
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state4.png":
+        hash: bfde74a7227ab95f7b2d41bc038083f655aaa207
+        size: 11332
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state5":
+        hash: d1d738523ea385d1d78db69ed9ca2dd49e33fbfe
+        size: 61952
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state5.png":
+        hash: 7ac8b5439828e25b770f915be00605b86354a21c
+        size: 17011
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state6":
+        hash: 72779e1897e09ee905edeb19f4bda8aa1aad5add
+        size: 61533
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state6.png":
+        hash: 16eca30cb95c5754b25fe9cc7672d0b6cf81aa2c
+        size: 11558
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state7":
+        hash: 7dd5ec0adb13ab8355cf6e59b39328d2434ec5d3
+        size: 62219
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state7.png":
+        hash: 90cb334be48dcc9f8eb1c3f99a153be7eb41076a
+        size: 12234
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state8":
+        hash: bc1faeb9c8ecaa75e4aee2c0f751f18fb9e43bb1
+        size: 60127
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state8.png":
+        hash: c3ca3e86fc07b23976cacc9b419dd97fa82e39f9
+        size: 14675
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state9":
+        hash: dd2e43772d3d7fc686fe5b486e3e042daffc2e4e
+        size: 59896
+      "F:/Saves/CurrentProfile/states/mGBA/Castlevania - Circle of the Moon (USA).state9.png":
+        hash: 7d0d86d14cd6a4bf8aafdd5239a3bd0d095cf755
+        size: 11729
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state.auto":
+        hash: e2bb3fafc4c4b1e960b84c55ee59b73f66f721fb
+        size: 39222
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state.auto.png":
+        hash: bc549a59ad33e7c9b5fc21fd3e34d08f9d3e7033
+        size: 15392
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state1":
+        hash: db8931a1f60dc1a3896701a5a3891a36fc4f5ad2
+        size: 38032
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state1.png":
+        hash: 2f86e888244f9e5208fdefe070744cc3159db519
+        size: 19845
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state2":
+        hash: e94be49d4dab9c8a91bcb1bb9811d65f36d37ce0
+        size: 37923
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state2.png":
+        hash: 54dcb8a90e8e263cdef85ad9b5af8ff8637b2c36
+        size: 11916
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state3":
+        hash: 53ed9b9e7380cbb4e4427f0a8166dedc9d52214b
+        size: 38133
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state3.png":
+        hash: b74e2458af4052a727d728d7aebe45437f0ed5a9
+        size: 20211
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state4":
+        hash: 9093abcd84eb45881892ffdf8d561ac777dc6b4f
+        size: 39797
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state4.png":
+        hash: cdb9b839a0078dfe88b1a9eb5ec72703f484ce3c
+        size: 17311
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state5":
+        hash: 71298c860930fe746541fb3ffc3c685bd1409089
+        size: 40950
+      "F:/Saves/CurrentProfile/states/mGBA/DK - King of Swing (USA).state5.png":
+        hash: 28cbcf935b14f0024cac3f0c3e7910fe8a8c74a0
+        size: 17178
+      "F:/Saves/CurrentProfile/states/mGBA/F-Zero - GP Legend (USA).state.auto":
+        hash: 8897ca7ef280531a4959f4cef99f44f69c0abc65
+        size: 60663
+      "F:/Saves/CurrentProfile/states/mGBA/F-Zero - GP Legend (USA).state.auto.png":
+        hash: 9036ddbbdef3331440fb25e6ff9f48f0d19c6027
+        size: 39074
+      "F:/Saves/CurrentProfile/states/mGBA/F-Zero - GP Legend (USA).state1":
+        hash: e53691a07951b4c93b3cb45c28764f835d8906d1
+        size: 60587
+      "F:/Saves/CurrentProfile/states/mGBA/F-Zero - GP Legend (USA).state1.png":
+        hash: 9036ddbbdef3331440fb25e6ff9f48f0d19c6027
+        size: 39074
+      "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state.auto":
+        hash: 55eef5c16c7c02223b8c3a450c2b96f7a9a03079
+        size: 33298
+      "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state.auto.png":
+        hash: b766319122bc2502616e3c64207dea31d5d525d9
+        size: 8719
+      "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state1":
+        hash: cb6eb65a350170b6da0c0ce0bb330addbf1e3f99
+        size: 82739
+      "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state1.png":
+        hash: 55e6242a4fc573d1bec18c356d10f050b19024eb
+        size: 10328
+      "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state2":
+        hash: 45f58674f01f1fe20da0d34d7d9b0a1fdc258807
+        size: 33395
+      "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state2.png":
+        hash: 4db5aaae175b6aaf98c7f3ca99f9924992f3f7f2
+        size: 8719
+      "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state3":
+        hash: ff0416c6915f3ea31d1b116ded19e51aadb8323b
+        size: 33271
+      "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state3.png":
+        hash: 8dd1401b5172bba9b11fc32a616e2f529d545746
+        size: 8712
+      "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state4":
+        hash: 61e2a4333420160582f712290af7e34e7522cfa6
+        size: 33515
+      "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state4.png":
+        hash: b766319122bc2502616e3c64207dea31d5d525d9
+        size: 8719
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state.auto":
+        hash: d3f55442ebf6607af1cfbda063992b71c322bd51
+        size: 52866
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state.auto.png":
+        hash: a149be9bb82a76c038a3730dd73a5dd6e81c30fd
+        size: 16561
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state17":
+        hash: d790dbef19bf1b05a98c6ab1623b27510ac32d61
+        size: 67353
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state17.png":
+        hash: dccc820198ced324de849a6044b469aa726d5d5f
+        size: 26022
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state18":
+        hash: 1c3a6f54aaf7d3a4faa55a7757e841870ded95ce
+        size: 67836
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state18.png":
+        hash: dd819ae043324ef9eed25617ee99bc78f75908b6
+        size: 23079
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state19":
+        hash: 6971017cbc8fe1651b35a05c91455598cedfc404
+        size: 69500
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state19.png":
+        hash: 02fb84fff209737c6f848a79d3d2490e0443b99d
+        size: 18956
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state20":
+        hash: 43863b08c3ede34b0fa522d91d0fa8b91cec7edc
+        size: 67555
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state20.png":
+        hash: 8b506a86e17b80bd181b30ea40176bdc8ef3f3c5
+        size: 27948
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state21":
+        hash: f70f3ca43e1088c7df0f148cd9fff0bb4477f049
+        size: 69077
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state21.png":
+        hash: fb2a32c937b734c2592806f1c87a8f59bf977703
+        size: 9394
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state22":
+        hash: f843e911f1242f14d6f0a27c1eab425b42f6954f
+        size: 68982
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state22.png":
+        hash: e669a1e0b925a604681be61e5554f9be79912cca
+        size: 25495
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state23":
+        hash: db0b751e797acc8574c4d467fe4ebee26f56ddaa
+        size: 69587
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state23.png":
+        hash: 58b33955555b64f7b12fe160605ba083d7189e1a
+        size: 10193
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state24":
+        hash: bcba55d845c9b8597c85553cdad145c4a9368b27
+        size: 68607
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state24.png":
+        hash: 8e4e3c6b49bb60e9bd1ac45494aa54cc2dbf7987
+        size: 9985
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state25":
+        hash: 95c94659aeb23740672a76a4a237d12d5d3b6cdb
+        size: 64658
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state25.png":
+        hash: e758e9fd9f955ef4a5ad86354aaccf0085092dcf
+        size: 12012
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state26":
+        hash: 04eac866a0020dace34ff137d1c78e9accc2bc08
+        size: 64853
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state26.png":
+        hash: 5b6ad277ab4f990b703e260cc97cbc391637628a
+        size: 12126
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state27":
+        hash: f3af7a105f4c9ff6b9826f52ee21dc5d8eaf6918
+        size: 74302
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state27.png":
+        hash: 1a233fec4f667cc6d6e59a5c8c18ae13630e7979
+        size: 30797
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state.auto":
+        hash: d5fb3326a5836f0edb3d353cd203cdde0609b891
+        size: 77267
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state.auto.png":
+        hash: b8d3068f21a2f09a69b2bcbcd344f11c1d23d913
+        size: 7920
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state23":
+        hash: afdcc526d5a1f60453057a1a83d66682f0ee3682
+        size: 90325
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state23.png":
+        hash: e26fd62ee6d26a3b23f767306deba10e480a356a
+        size: 32402
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state24":
+        hash: bc3a28312bb494fa2f9eaa47745afe07f18dede1
+        size: 90131
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state24.png":
+        hash: 2168a8c9c3f09a0898539414164897481c59e273
+        size: 31156
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state25":
+        hash: 134a0b3b4510c598c003e610cbfb8ec68a06cfa4
+        size: 90873
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state25.png":
+        hash: b4df3466f8cd249f4c45b513371371b31421ec9f
+        size: 31873
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state26":
+        hash: 2ba858430f84fb00961cc6c92fb6b2465cd3a5dd
+        size: 89730
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state26.png":
+        hash: 8d4d21e3575a35e1d19ecf2997ac8456df5d1bbb
+        size: 27439
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state27":
+        hash: faff72e2821b2d199e780280cc88ad4113735643
+        size: 89135
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state27.png":
+        hash: 4954a8d6faf3e5666eaeb00941f2f8114aea1f61
+        size: 26293
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state28":
+        hash: 07ee5b0635298790e1d5821e417100a7ca3813a4
+        size: 91205
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state28.png":
+        hash: fb3c6ed0bcc269505da46a7341c74fe58ded7ac3
+        size: 26102
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state29":
+        hash: b82b8f935593e07c09a124c3afb0d85802f7aac2
+        size: 73818
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state29.png":
+        hash: 739ff022a2f96b2d0114ef10e542bfbef2313aab
+        size: 11775
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state30":
+        hash: adb8b8a0bcceb779716815192e1118258bd62c84
+        size: 87766
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state30.png":
+        hash: aefb35b77dd11f58d82b943f675d1f77de554a50
+        size: 29717
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state31":
+        hash: dcd5cfaceae4c89661f4bb81382bf9177e644d71
+        size: 89214
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state31.png":
+        hash: 33f6843868adcd49280d24a88aeffb23c86eb0ca
+        size: 32077
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state32":
+        hash: dbcf681d718b92ac4ce1f3bea4ad99ded001a9ca
+        size: 88993
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state32.png":
+        hash: d51b3818249810ad53eefbfeb594113e97eeb5df
+        size: 25125
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state33":
+        hash: 4823f7a5eec736ec728f17a8c39a8f0a7360b2ea
+        size: 76298
+      "F:/Saves/CurrentProfile/states/mGBA/Kirby - Nightmare in Dream Land (USA).state33.png":
+        hash: b8d3068f21a2f09a69b2bcbcd344f11c1d23d913
+        size: 7920
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Kart - Super Circuit (USA).state.auto":
+        hash: 0e65856f3dc568a559dfc642c5321c903dfbb2e3
+        size: 45892
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Kart - Super Circuit (USA).state.auto.png":
+        hash: 6972e26250a8b2c4b81a86f7d285cfe97f040605
+        size: 13748
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state":
+        hash: c44bdb5a9cec03d6ee9ff61bed557a1276e3cb96
+        size: 75028
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state.auto":
+        hash: 078b1509820806346d6b3765a6bc735f64e4f356
+        size: 435800
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state.auto.png":
+        hash: dcd1439c2c2192b063f75f6d9c9cb28646f42a92
+        size: 13434
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state.png":
+        hash: 13e68ec39ce17d1289c85a7170edb8b610a48945
+        size: 18307
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state1":
+        hash: 66ea2ecff39d7935f23a7466ac54860d95e33c91
+        size: 75222
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state1.png":
+        hash: 54703aebfd6e9ecc6cd5bfe4d38e7eaaf47311fc
+        size: 18689
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state2":
+        hash: 9278b98eff4954c555f652036d873e242f4a0d53
+        size: 74728
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state2.png":
+        hash: cf5c092990bf1ded84a4a97efb57f15453867389
+        size: 19933
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state3":
+        hash: 92dc9b78cb98aae32e39d0b4ae7c08aa224e40d2
+        size: 435800
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state3.png":
+        hash: c1e4c81eac2f339d8495a5cd6f29c58bfa384619
+        size: 9397
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state4":
+        hash: 2c58d5a72f1b7635211194e6fecefdd084da08d3
+        size: 435800
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state4.png":
+        hash: 4786be435648d354fa4ffb39779d50d6b26f3004
+        size: 9178
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state5":
+        hash: ffd8d085bcdc5e3853170c5bf11d51ea5afe5d3b
+        size: 435800
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state5.png":
+        hash: f4d2003fe99f2979b6dc40eb3723324d9f38d512
+        size: 9371
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state6":
+        hash: 35df1dd82b35cdfb55d13c175da6d97098f728f1
+        size: 435800
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state6.png":
+        hash: a1d085b1871c5781b08d1f07dd65cd67b71c0e9e
+        size: 9466
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state7":
+        hash: 026cd75d007122b1496d895cbb85e4a9d69bb968
+        size: 435800
+      "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state7.png":
+        hash: c24495b4c0f27b1554479dbce2d10b82e9e86eaf
+        size: 13324
+      "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state.auto":
+        hash: eb168578b66c8a7fec5c8b44427d133a00b8f395
+        size: 77214
+      "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state.auto.png":
+        hash: d761ea594fe9faf9c274d0abdaa73dc787341aea
+        size: 11769
+      "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state1":
+        hash: 048d164a6f2b8a1d0264f060270d91a5794025e3
+        size: 62053
+      "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state1.png":
+        hash: 846d08b50f18a558f0ff9548b4941288912d655b
+        size: 19372
+      "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state2":
+        hash: 677ff6be625e5257088fee6b2badad94364ae5ff
+        size: 75566
+      "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state2.png":
+        hash: 937245f36f65e8bcddebf9d794df8f4a58b30889
+        size: 17307
+      "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state3":
+        hash: 2ade83a2692ab68713f37cfdea5d68be64208dfa
+        size: 75002
+      "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state3.png":
+        hash: ae4193b190f4f28a5ed0f28b8f97454cca7bca0b
+        size: 20251
+      "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state4":
+        hash: c1ede72434cc78b3a4a494ddd4ed717fdd3ad70f
+        size: 75033
+      "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state4.png":
+        hash: f8621322a265371a5ec6bb22878e354ae63524d6
+        size: 14524
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state.auto":
+        hash: 6376c29d424a31c2547fd33fa5b0e9188eda8510
+        size: 74417
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state.auto.png":
+        hash: 7a2259ede14f6499e308b7a4d125bbce8bf4b379
+        size: 16952
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state1":
+        hash: 0355583b001c6b3f2994524b1832cdb397dded7d
+        size: 68027
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state1.png":
+        hash: 628b995ba6092cfd8406ca67978460e7a51cc311
+        size: 12270
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state2":
+        hash: 91c1f4e11c3a191a7efe2187535cc727ab6f15fb
+        size: 68225
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state2.png":
+        hash: 034cc42d7d88b19922918b4770be055cab8cd511
+        size: 14503
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state3":
+        hash: a17a724fa89bcdb839e661ef15290677b3cb8a24
+        size: 71546
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state3.png":
+        hash: 07521823a33a3b8020e3fa56b7d6ac62d9b0c059
+        size: 14614
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state4":
+        hash: 7fe15e1c8918b0ec0f624f57d33ffbc545fc3dcf
+        size: 71750
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state4.png":
+        hash: 13fe4fb4e6c38b954ead09db9bcbd77956a22666
+        size: 14983
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state5":
+        hash: 2ac38de3a8d7f490d804db83ee73f57643ac2edc
+        size: 66929
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state5.png":
+        hash: aa209afc83c0e89918cc0799309bf4bcb66806ca
+        size: 13179
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state6":
+        hash: 7e8ef4c6af83477613592b990e5dbb99e1e732fa
+        size: 75441
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid - Zero Mission (USA).state6.png":
+        hash: 15038d2bfcb500be49100139b91c9592113fc883
+        size: 10791
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state.auto":
+        hash: 52865d5e23361ee566c08f73fa374357df47f3d4
+        size: 434544
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state.auto.png":
+        hash: d0560e111865f482a8e4752d6a013cdfc809e7f5
+        size: 13406
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state14":
+        hash: 7050b77e167b0c04e9c6de8e4328716dbfce2b48
+        size: 434880
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state14.png":
+        hash: 91b4059381968684ad36d8b10a154d29cd10809b
+        size: 16238
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state15":
+        hash: 1e7a033f1a7faa90799d1304a2ed1008bd5663b7
+        size: 434880
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state15.png":
+        hash: c639831d516fbf55fbb0280de8a685987400ceef
+        size: 11425
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state16":
+        hash: 687ec477ae8fe906045d1a4848260e5181325ef1
+        size: 434656
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state16.png":
+        hash: 6966dc97dbf8e154af4adb8acd1decbb037c0fe9
+        size: 9541
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state17":
+        hash: b9160a347f903c38b9ebf1b342ac2a83e3c33d6d
+        size: 434656
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state17.png":
+        hash: f21e6fcd33bd9bf5d819fd93b3b3bfac3a75aa3b
+        size: 14136
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state18":
+        hash: 8f13947270498558a2eb93129c59a362e436d66b
+        size: 434656
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state18.png":
+        hash: a97b1c66b896256a27d51c5a5236f58b15364031
+        size: 24289
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state19":
+        hash: 80d750ba9c59172bc00fa5528a1aa027041644e8
+        size: 434544
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state19.png":
+        hash: b738e48ab7ac7df04c51a161d1f745358c22d65c
+        size: 21391
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state20":
+        hash: 511023222f602449af4ff474ecb2d6dde8ab8e05
+        size: 434544
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state20.png":
+        hash: 222f2b459b5daa452896aa1b48b2f5664c93c219
+        size: 20539
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state21":
+        hash: 408a7ce3e6faa48a05c0772709ed2a7027bf3da2
+        size: 434544
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state21.png":
+        hash: 00a293621fb9e77bd5a80eeedd403469d4f4727c
+        size: 14194
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state22":
+        hash: b6c5ec3c99aa4dbf195ace3395ca664dc299c71d
+        size: 434544
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state22.png":
+        hash: 822e1df4881a7167bcb4dd1122067117f88356d7
+        size: 18630
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state23":
+        hash: 77506ddf39210f0c80400d5e1e94cf13e59a9990
+        size: 434544
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state23.png":
+        hash: 932f1a6579e53f7488f28f52bf14f2c67da4f757
+        size: 17041
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state24":
+        hash: d001c39931c06b44f01da08d9624f4d81c606699
+        size: 434544
+      "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state24.png":
+        hash: c582cf8fcf1bbfe8cf9a4f1facfae5b5e860a53b
+        size: 13386
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon - Emerald Version (USA, Europe).state.auto":
+        hash: 27534d03506ac68db3ad420b4679dc253eff8888
+        size: 28919
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon - Emerald Version (USA, Europe).state.auto.png":
+        hash: 1fd351c67f3c52c347d764a4816c3f3c90073ddf
+        size: 3318
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).state.auto":
+        hash: e964ff3a9f4b113d6d2364b3c60896ffc15117e6
+        size: 46625
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).state.auto.png":
+        hash: d51b7620ef0b8f507e572573b42302ea203fef34
+        size: 12391
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).state1":
+        hash: 257bacd78f1debf16d669977cb0e78a35615902b
+        size: 54582
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).state1.png":
+        hash: 774258d227df4bd6c8616c5096ed0c41f14dbd3c
+        size: 16156
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).state2":
+        hash: 14667301ce092bb58407bc779d5017419c35b21a
+        size: 48074
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).state2.png":
+        hash: aaf42865acf827b4cdf42c3502b1b58953fabd00
+        size: 12368
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state.auto":
+        hash: 4f09a217dc64abfbc337d3b9a9ee3c16280ef29b
+        size: 554128
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state.auto.png":
+        hash: 30a6b3eb3a523d909592dc583b9098bde6e0aa0b
+        size: 9200
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state15":
+        hash: ff71b19d206ee4fa3d6b6d5a295f2ee2e6ed39b8
+        size: 56511
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state15.png":
+        hash: 4b5a2ea6c477b99f702ffcde77bee3232db962da
+        size: 6054
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state16":
+        hash: 6b5c9660698f442231034910eff4603b4d370698
+        size: 74558
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state16.png":
+        hash: d61c754f3b8ef473d96b47881414ec7ce04bd7db
+        size: 13600
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state17":
+        hash: 9d518f3889e82530f1fae61347a27a54783b7854
+        size: 63516
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state17.png":
+        hash: c6c64e560c4a37dbb2477875c2bb06bff875fc5c
+        size: 7241
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state18":
+        hash: 5f588de9bb5c7820654e272ad7fbbe0cc0c3ee23
+        size: 70328
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state18.png":
+        hash: babb92dc27b9859b47e45f1550f5ed00a536fb25
+        size: 11303
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state19":
+        hash: 3983b9ab273bfcdbb17f5c83910021bf6bcc5cd5
+        size: 70200
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state19.png":
+        hash: 1612fe5272709f74baa16fae850a52b498c60dcb
+        size: 8631
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state20":
+        hash: fadd17701e8ffa0c2e90c40245c3988cb7e39b38
+        size: 65390
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state20.png":
+        hash: 1d838b510a4119fbf794ffce73ad590495773734
+        size: 8659
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state21":
+        hash: d627a352148bb55108f94beaa27f69e5e64cc1ff
+        size: 65426
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state21.png":
+        hash: d77c78a56cb1cd7ed8caba1612ead13eb26ef4a4
+        size: 5100
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state22":
+        hash: bbf8e1057fb90c6bd61526dff3f526b9fdae3732
+        size: 55715
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state22.png":
+        hash: f249ecee24c482989882702abe7235a4e4aee2ed
+        size: 7776
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state23":
+        hash: 292fb469a95f9d3e6f02b1a54d99c8488a22463c
+        size: 58507
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state23.png":
+        hash: 022eaa41f36ef9355b3809bdef7d5f344f91038d
+        size: 4632
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state24":
+        hash: 5b247923a7eb9e0ba59bc68102e2a6ead1407a22
+        size: 554128
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state24.png":
+        hash: ae5c2c55cd72422a81b8d7a70af7fa9d0148541c
+        size: 13733
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state25":
+        hash: e8a30f8d9b130686ab1ff94d63a6b4e95042de3f
+        size: 554128
+      "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state25.png":
+        hash: dccdd2640f0dfba840d4398a93421c17607fa935
+        size: 8889
+      "F:/Saves/CurrentProfile/states/mGBA/TMNT (USA) (En,Fr,Es).state":
+        hash: b2811e56611b879b5ee2496a4f79bc4ce729de35
+        size: 46000
+      "F:/Saves/CurrentProfile/states/mGBA/TMNT (USA) (En,Fr,Es).state.auto":
+        hash: b444fc334b45ff47d8b9ffe597e62c316e36d806
+        size: 400648
+      "F:/Saves/CurrentProfile/states/mGBA/TMNT (USA) (En,Fr,Es).state.auto.png":
+        hash: 086236bdeebb61f13a3c2258a19deace6cf47fa0
+        size: 20063
+      "F:/Saves/CurrentProfile/states/mGBA/TMNT (USA) (En,Fr,Es).state.png":
+        hash: c00dd1be9c577d76100c4b0522e2aa89dbd59bdc
+        size: 9804
+      "F:/Saves/CurrentProfile/states/mGBA/TMNT (USA) (En,Fr,Es).state1":
+        hash: eafac81482c870bddef6f7ec84048b45f9dafbe8
+        size: 51541
+      "F:/Saves/CurrentProfile/states/mGBA/TMNT (USA) (En,Fr,Es).state1.png":
+        hash: 0724d4da008bdaea205fd0c292a0f25cfd89d050
+        size: 17718
+      "F:/Saves/CurrentProfile/states/mGBA/Tony Hawk's Pro Skater 4 (USA, Europe).state.auto":
+        hash: d11af56b4b9496a74e39faa8e340c2173a600737
+        size: 405592
+      "F:/Saves/CurrentProfile/states/mGBA/Tony Hawk's Pro Skater 4 (USA, Europe).state.auto.png":
+        hash: 1726c7b919c11ba45fea624dc72bafddc728e647
+        size: 24556
+      "F:/Saves/CurrentProfile/states/mGBA/WarioWare, Inc. - Mega Microgame$! (USA).state.auto":
+        hash: acf4e96412ffd5142a57377fcbcd5f96d2189f69
+        size: 71456
+      "F:/Saves/CurrentProfile/states/mGBA/WarioWare, Inc. - Mega Microgame$! (USA).state.auto.png":
+        hash: 0c2d1686169ed8b026510f722ebe1cead2091cf2
+        size: 7302
+      "F:/Saves/CurrentProfile/theme/config.json":
+        hash: 0aaf7868e7402d79a254c8927145cf5028868a32
+        size: 137
+      "F:/Saves/GuestProfile/config/Atari800/Atari800.opt":
+        hash: 77ca36ff4f02f095b245913b957919ac1e98393a
+        size: 309
+      "F:/Saves/GuestProfile/config/Beetle GBA/Beetle GBA.opt":
+        hash: d24708161bf296b29036277161121cacdcec0387
+        size: 62
+      "F:/Saves/GuestProfile/config/Beetle NeoPop/Beetle NeoPop.cfg":
+        hash: 833a99b3430ba1999e79ae460137db368ac7ab3d
+        size: 37
+      "F:/Saves/GuestProfile/config/Beetle NeoPop/Beetle NeoPop.opt":
+        hash: 2b953d34df9c2cdbb8d8811c11b766a246b4a68f
+        size: 82
+      "F:/Saves/GuestProfile/config/Beetle PCE Fast/Beetle PCE Fast.cfg":
+        hash: 1bcba92622a64ce470fc04b5f92579c26c9151a8
+        size: 38
+      "F:/Saves/GuestProfile/config/Beetle PCE Fast/Beetle PCE Fast.opt":
+        hash: 805deb817792440c54ab27a37c2c2efe2be665da
+        size: 747
+      "F:/Saves/GuestProfile/config/Beetle SuperGrafx/Beetle SuperGrafx.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/Beetle SuperGrafx/Beetle SuperGrafx.opt":
+        hash: dcf536efb4db14377d9658118baab4020841d378
+        size: 593
+      "F:/Saves/GuestProfile/config/Beetle VB/Beetle VB.cfg":
+        hash: 833a99b3430ba1999e79ae460137db368ac7ab3d
+        size: 37
+      "F:/Saves/GuestProfile/config/Beetle VB/Beetle VB.opt":
+        hash: e4997d76724cfec9fe675bdd3fc6783e1c41df9d
+        size: 151
+      "F:/Saves/GuestProfile/config/Beetle WonderSwan/Beetle WonderSwan.cfg":
+        hash: 833a99b3430ba1999e79ae460137db368ac7ab3d
+        size: 37
+      "F:/Saves/GuestProfile/config/Beetle WonderSwan/Beetle WonderSwan.opt":
+        hash: 922be0b89f83eb8fd5d15bdac0d9a556280dbe29
+        size: 215
+      "F:/Saves/GuestProfile/config/Cannonball/Cannonball.opt":
+        hash: 52245baa4d51b5a30aa729a38cf070d01b8ececf
+        size: 833
+      "F:/Saves/GuestProfile/config/ChimeraSNES/ChimeraSNES.opt":
+        hash: 79ea5a29486518d524588282d9e1c95cb7edf27f
+        size: 89
+      "F:/Saves/GuestProfile/config/DOSBox-pure/DOSBox-pure.opt":
+        hash: b28f067f4da96cb2977b607095bca2a68bf50ce5
+        size: 1040
+      "F:/Saves/GuestProfile/config/EightyOne/EightyOne.opt":
+        hash: 31c0efab30f7b1a4c294869ecc9d128f25d6e9b7
+        size: 459
+      "F:/Saves/GuestProfile/config/FB Alpha/FB Alpha.cfg":
+        hash: b9b4aa582a9427a4837df3190801263cb4ec782f
+        size: 55
+      "F:/Saves/GuestProfile/config/FB Alpha/FB Alpha.opt":
+        hash: 8e56ae66fd4f0a1352e2db11f1bb1bd746e42c97
+        size: 1843
+      "F:/Saves/GuestProfile/config/FCEUmm/FCEUmm.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/FCEUmm/FCEUmm.opt":
+        hash: d7e361c95bd75207aaa9c1b9f13e89eb28dbd842
+        size: 772
+      "F:/Saves/GuestProfile/config/FinalBurn Neo/FinalBurn Neo.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/FinalBurn Neo/FinalBurn Neo.opt":
+        hash: 9eeca318f896f8fa2b53b5009973186dbfd207d5
+        size: 3441
+      "F:/Saves/GuestProfile/config/FreeChaF/FreeChaF.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/FreeChaF/FreeChaF.opt":
+        hash: 1566c4c22f33603850d6cb2714b10f0490e30bf8
+        size: 33
+      "F:/Saves/GuestProfile/config/FreeIntv/FreeIntv.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/Gambatte/Gambatte.cfg":
+        hash: 833a99b3430ba1999e79ae460137db368ac7ab3d
+        size: 37
+      "F:/Saves/GuestProfile/config/Gambatte/Gambatte.opt":
+        hash: e19fe2456498207006e334d2e99ea218e5faf46e
+        size: 1310
+      "F:/Saves/GuestProfile/config/Gearsystem/Gearsystem.opt":
+        hash: aa0d1f523d691f705cff17647183a2c7458f8688
+        size: 252
+      "F:/Saves/GuestProfile/config/Genesis Plus GX/Genesis Plus GX.opt":
+        hash: c64486045f810b52e4667b4176942da6e92de7c2
+        size: 2161
+      "F:/Saves/GuestProfile/config/Handy/Handy.cfg":
+        hash: e059dc1cf98885b1d66e2c9f2c3aa3979a6b79f9
+        size: 70
+      "F:/Saves/GuestProfile/config/Handy/Handy.opt":
+        hash: 9fe311c6e70cfc5ed672ad6446ddb4a829b82857
+        size: 46
+      "F:/Saves/GuestProfile/config/Hatari/Hatari.opt":
+        hash: 039c9b1c338c303d6088c535c4659b44213d90e5
+        size: 218
+      "F:/Saves/GuestProfile/config/MAME 2003-Plus/MAME 2003-Plus.cfg":
+        hash: 4effa5200436654d9801600407cd2c1d69cbae7b
+        size: 117
+      "F:/Saves/GuestProfile/config/MAME 2003-Plus/MAME 2003-Plus.opt":
+        hash: b4868c81e1ea6a7d3ba6af7cf48c71689eb963c9
+        size: 1114
+      "F:/Saves/GuestProfile/config/MAME 2003-Xtreme/MAME 2003-Xtreme.cfg":
+        hash: 4effa5200436654d9801600407cd2c1d69cbae7b
+        size: 117
+      "F:/Saves/GuestProfile/config/MAME 2003-Xtreme/MAME 2003-Xtreme.opt":
+        hash: 9a594ccb2cdba6c5815d58c71f6e39cae6540937
+        size: 506
+      "F:/Saves/GuestProfile/config/Mesen/Mesen.opt":
+        hash: 90fa16aeda587228996de400da5287823f3dceac
+        size: 799
+      "F:/Saves/GuestProfile/config/Mr.Boom/Mr.Boom.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/Mr.Boom/Mr.Boom.opt":
+        hash: 75c79a84452df1ef4b9e5eff4bea8c1719a81659
+        size: 157
+      "F:/Saves/GuestProfile/config/Nestopia/Nestopia.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/Nestopia/Nestopia.opt":
+        hash: 62bb054c8e381163798c42552fdde37df26208d3
+        size: 965
+      "F:/Saves/GuestProfile/config/Numero/Numero.opt":
+        hash: 17420e4caa725974f65ec5a4d500da9aeeaa4a78
+        size: 18
+      "F:/Saves/GuestProfile/config/O2EM/O2EM.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/O2EM/O2EM.opt":
+        hash: 3ee27a0daf5bc045e1f87a82896bcbbc2b61a490
+        size: 246
+      "F:/Saves/GuestProfile/config/Opera/Opera.opt":
+        hash: 567d9fca51cd3369b63a6660cd019b83ff7b578c
+        size: 580
+      "F:/Saves/GuestProfile/config/PCSX-ReARMed/PCSX-ReARMed.cfg":
+        hash: c31ee6cb631f6694971db2a1ba12b895dc469d5c
+        size: 81
+      "F:/Saves/GuestProfile/config/PCSX-ReARMed/PCSX-ReARMed.opt":
+        hash: 30be3a87a99edde369bbe18a2189e2168267b2b2
+        size: 1597
+      "F:/Saves/GuestProfile/config/PUAE/PUAE.opt":
+        hash: 1824d68d71b045cb37c590e25725f15480af310d
+        size: 2581
+      "F:/Saves/GuestProfile/config/PicoDrive/GG.cfg":
+        hash: 77a811728dbd1c1588dc73ef333bdb4872f314bd
+        size: 25
+      "F:/Saves/GuestProfile/config/PicoDrive/PicoDrive.cfg":
+        hash: c92105ba0232b90a2eb6b87f13a8ede9a239a368
+        size: 67
+      "F:/Saves/GuestProfile/config/PicoDrive/PicoDrive.opt":
+        hash: 400bdf7de87ba746f3fe68cafca9690b74600bcc
+        size: 593
+      "F:/Saves/GuestProfile/config/PicoDrive/THIRTYTWOX.cfg":
+        hash: 0538a57b5865046d8ef4343891088fa9ed4eb865
+        size: 26
+      "F:/Saves/GuestProfile/config/PokeMini/PokeMini.opt":
+        hash: 133dde1f92aac108767317ded6bc8510d8ed73cb
+        size: 357
+      "F:/Saves/GuestProfile/config/Potator/Potator.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/Potator/Potator.opt":
+        hash: 04f81a786eba2976915b78ef438f1fdfe7810db4
+        size: 63
+      "F:/Saves/GuestProfile/config/PrBoom/PrBoom.cfg":
+        hash: d88c0e266ba70925106155e4c2dd40e4ba322fd7
+        size: 39
+      "F:/Saves/GuestProfile/config/PrBoom/PrBoom.opt":
+        hash: 3371cfc4ecdee07eec8c2d79b7e3bc11528ac881
+        size: 152
+      "F:/Saves/GuestProfile/config/ProSystem/ProSystem.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/ProSystem/ProSystem.opt":
+        hash: d9353873a0f54c835b222db14b50ec5265ee53f0
+        size: 150
+      "F:/Saves/GuestProfile/config/QuickNES/QuickNES.opt":
+        hash: 0c74957bf705a086a243eab845385463451ceb70
+        size: 345
+      "F:/Saves/GuestProfile/config/REminiscence/retroarch_flashback.cfg":
+        hash: 62e3c212a58aee38ceed4859926f52d3a4489a0c
+        size: 33615
+      "F:/Saves/GuestProfile/config/SameDuck/SameDuck.cfg":
+        hash: 1bcba92622a64ce470fc04b5f92579c26c9151a8
+        size: 38
+      "F:/Saves/GuestProfile/config/SameDuck/SameDuck.opt":
+        hash: ed03a7ba741f5b8ec28636e994dc2b18cdde3429
+        size: 121
+      "F:/Saves/GuestProfile/config/Snes9x 2005 Plus/Snes9x 2005 Plus.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/Snes9x 2005 Plus/Snes9x 2005 Plus.opt":
+        hash: 171380cbc73494dd961d477c8a9ee50b295b0199
+        size: 191
+      "F:/Saves/GuestProfile/config/Snes9x 2005/Snes9x 2005.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/Snes9x 2005/Snes9x 2005.opt":
+        hash: d5c430d7df51200bf02a408b899a21f38a81b63e
+        size: 193
+      "F:/Saves/GuestProfile/config/Snes9x 2010/Snes9x 2010.opt":
+        hash: 522b0a119509bc722a9b4c9bdc0552f9c7564f4f
+        size: 378
+      "F:/Saves/GuestProfile/config/Snes9x/Snes9x.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/Snes9x/Snes9x.opt":
+        hash: 3456cc2352255c5493819228ca68da94c57d0c94
+        size: 1324
+      "F:/Saves/GuestProfile/config/Stella 2014/Stella 2014.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/Supafaust/Supafaust.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/Supafaust/Supafaust.opt":
+        hash: fedab645b966cd2cfdd6a229c59e4adedd573cf2
+        size: 626
+      "F:/Saves/GuestProfile/config/TGB Dual/TGB Dual.cfg":
+        hash: 833a99b3430ba1999e79ae460137db368ac7ab3d
+        size: 37
+      "F:/Saves/GuestProfile/config/TGB Dual/TGB Dual.opt":
+        hash: 5e52e982f34dae3721a03786e5aa3ae1b014e417
+        size: 34
+      "F:/Saves/GuestProfile/config/TyrQuake/TyrQuake.opt":
+        hash: ce2557c62476da284142a34209e40aef920946c8
+        size: 196
+      "F:/Saves/GuestProfile/config/VBA-M/VBA-M.opt":
+        hash: 061c6c1b4ac23211f947e8f744e8f6dc56a2c86d
+        size: 925
+      "F:/Saves/GuestProfile/config/VICE Xtreme x64/VICE Xtreme x64.opt":
+        hash: 4acfcc9baec55cb1ae0597cdf6a6c61de5f04be0
+        size: 3226
+      "F:/Saves/GuestProfile/config/VecX/VecX.opt":
+        hash: a6eaa8de2ba1fe3ee5a113a29159710395fda8e3
+        size: 97
+      "F:/Saves/GuestProfile/config/a5200/a5200.opt":
+        hash: 0c10f2664264c98c6595671a9e0498969b5b5356
+        size: 278
+      "F:/Saves/GuestProfile/config/blueMSX/COLECO.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/blueMSX/COLECO.opt":
+        hash: f34abe078a8982a2a6d1ccb78a69f8e9edf561ff
+        size: 216
+      "F:/Saves/GuestProfile/config/blueMSX/MSX.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/blueMSX/blueMSX.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/blueMSX/blueMSX.opt":
+        hash: 56b03d43d2ad940eb462aee24ae5490c5c539099
+        size: 208
+      "F:/Saves/GuestProfile/config/crocods/crocods.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/ecwolf/ecwolf.opt":
+        hash: 4a2fa80c9e388fee3b46adf651c9b6cec401db1d
+        size: 803
+      "F:/Saves/GuestProfile/config/fake-08/fake-08.cfg":
+        hash: 8b9a5c9effa680d0a6645209383aa7b875aedab4
+        size: 177
+      "F:/Saves/GuestProfile/config/fuse/fuse.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/fuse/fuse.opt":
+        hash: 4ded51c6d77bda02b6a8e33c694400393da9cf30
+        size: 640
+      "F:/Saves/GuestProfile/config/gpSP/gpSP.cfg":
+        hash: b83ca9acd40e7111405878882c39d34d6a865d44
+        size: 65
+      "F:/Saves/GuestProfile/config/gpSP/gpSP.opt":
+        hash: e84b0f2b66ce7d61f593342dd71bde6e89bbdcef
+        size: 269
+      "F:/Saves/GuestProfile/config/mGBA/SGB.cfg":
+        hash: a7b21d037cddef9e1fd725096d10c96d01710d5c
+        size: 60
+      "F:/Saves/GuestProfile/config/mGBA/SGB.opt":
+        hash: 4c91768364bc4c30fb1f19f18c9d73f9f4615862
+        size: 515
+      "F:/Saves/GuestProfile/config/mGBA/mGBA.cfg":
+        hash: b076d966b3ac0edb315075dd57e648c4271ccc6f
+        size: 89
+      "F:/Saves/GuestProfile/config/mGBA/mGBA.opt":
+        hash: f8d4c73af9a5935c2d54b67d13a5c35ace93f0ae
+        size: 510
+      "F:/Saves/GuestProfile/config/remaps/Atari800/Atari800.rmp":
+        hash: 2efe0070c506448655ba2721d1331142cc73083b
+        size: 472
+      "F:/Saves/GuestProfile/config/remaps/FB Alpha 2012 CPS-2/FB Alpha 2012 CPS-2.rmp":
+        hash: e37edc8118adf9f03ac5b3294a8db37ceedc7953
+        size: 122
+      "F:/Saves/GuestProfile/config/remaps/FCEUmm/FCEUmm.rmp":
+        hash: c3d2d410288624476acda9d1f7ab80085a9b00dc
+        size: 150
+      "F:/Saves/GuestProfile/config/remaps/Gambatte/Gambatte.rmp":
+        hash: 4590466939295f46f0b2826ba15cf81ffc3bb084
+        size: 204
+      "F:/Saves/GuestProfile/config/remaps/PCSX-ReARMed/PCSX-ReARMed.rmp":
+        hash: c3d2d410288624476acda9d1f7ab80085a9b00dc
+        size: 150
+      "F:/Saves/GuestProfile/config/remaps/PrBoom/Doom (PrBoom).rmp":
+        hash: b244532e7bbad2ffe670fc00d5f8b808d59c5116
+        size: 199
+      "F:/Saves/GuestProfile/config/remaps/ecwolf/ecwolf.rmp":
+        hash: 11e30913d4a0cd52ab710b99d621cb5f6ecce743
+        size: 198
+      "F:/Saves/GuestProfile/config/remaps/fuse/fuse.rmp":
+        hash: 302b86945e18af17f95957883b8cd97c64c7e69f
+        size: 96
+      "F:/Saves/GuestProfile/config/remaps/gpSP/gpSP.rmp":
+        hash: 80a8e5afac2a70d455aa4bde30282278f4b11119
+        size: 122
+      "F:/Saves/GuestProfile/config/remaps/mGBA/mGBA.rmp":
+        hash: c3d2d410288624476acda9d1f7ab80085a9b00dc
+        size: 150
+      "F:/Saves/GuestProfile/config/remaps/scummvm/Grim Fandango (Windows English).rmp":
+        hash: f4e185fe991654852fd4e093ccb5dc4747440e58
+        size: 411
+      "F:/Saves/GuestProfile/config/retro-8 (alpha)/retro-8 (alpha).cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "F:/Saves/GuestProfile/config/scummvm/scummvm.cfg":
+        hash: 6e2e47f3be251b14e2b93fb5a28591ff639eb79c
+        size: 212
+      "F:/Saves/GuestProfile/config/scummvm/scummvm.opt":
+        hash: b88d4657ebf1817ee4bb708d84c7d7b97bab6c05
+        size: 211
+      "F:/Saves/GuestProfile/config/scummvm_standalone/.scummvmrc":
+        hash: 8eb68ba0cff4a5e91f85dae03f8b379e8830e7ab
+        size: 728
+      "F:/Saves/GuestProfile/config/uae4arm_chips-rtype_version/uae4arm_chips-rtype_version.opt":
+        hash: c95d785477455aa45161f4bfb9d12775c72ceed3
+        size: 138
+      "F:/Saves/GuestProfile/config/x1/x1.opt":
+        hash: 7d63fd970f980d1f4d4c5ed2913f35211c51f124
+        size: 323
+      "F:/Saves/GuestProfile/lists/content_history.lpl":
+        hash: 978a80769e0bd6997bffe4bc5c01cc9d5cbd9e68
+        size: 197
+      "F:/Saves/GuestProfile/lists/content_music_history.lpl":
+        hash: 978a80769e0bd6997bffe4bc5c01cc9d5cbd9e68
+        size: 197
+      "F:/Saves/GuestProfile/saves/MAME 2003-Plus/mame2003-plus/cfg/default.cfg":
+        hash: d5ee3d5b26b1e144f6b6eabbb9052834fe3417eb
+        size: 8168
+      "F:/Saves/GuestProfile/saves/PrBoom/DoomPlutonia/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/GuestProfile/saves/PrBoom/SIGIL_v1_21/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/GuestProfile/saves/PrBoom/TNT_Evilution/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/GuestProfile/saves/PrBoom/doomI/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/GuestProfile/saves/PrBoom/doomII/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/GuestProfile/saves/PrBoom/doomu/prboom.cfg":
+        hash: 0facffb956341c581f925fbe826e43282e06495d
+        size: 10976
+      "F:/Saves/GuestProfile/saves/README.txt":
+        hash: ea249290a90a6423d625d8b94fe15a3ec46d5f5e
+        size: 1113
+      "F:/Saves/GuestProfile/saves/TyrQuake/dopa/config.cfg":
+        hash: 6f002a3ecb527624c5a30a0d5ce3506b9b234cc0
+        size: 2291
+      "F:/Saves/GuestProfile/saves/TyrQuake/hipnotic/config.cfg":
+        hash: 6f002a3ecb527624c5a30a0d5ce3506b9b234cc0
+        size: 2291
+      "F:/Saves/GuestProfile/saves/TyrQuake/id1/config.cfg":
+        hash: 6f002a3ecb527624c5a30a0d5ce3506b9b234cc0
+        size: 2291
+      "F:/Saves/GuestProfile/saves/TyrQuake/rogue/config.cfg":
+        hash: 6f002a3ecb527624c5a30a0d5ce3506b9b234cc0
+        size: 2291
+      "F:/Saves/GuestProfile/saves/playActivity.db":
+        hash: f7b34272abc14d51164cf81e95b900cfbe5b9737
+        size: 104000
+      "F:/Saves/GuestProfile/states/README.txt":
+        hash: ea249290a90a6423d625d8b94fe15a3ec46d5f5e
+        size: 1113
+    registry:
+      hash: ~
+    children: []

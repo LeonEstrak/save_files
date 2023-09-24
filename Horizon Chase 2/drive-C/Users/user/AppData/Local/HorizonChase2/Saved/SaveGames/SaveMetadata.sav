@@ -1,0 +1,22 @@
+{
+	"guid": "E96807524F29FE0C65525AA38DC2E9E0",
+	"payload":
+	{
+		"selectedSlot": 0,
+		"playerSavesMetadata": [
+			{
+				"superTrophyCount": 4,
+				"firstPlaceCount": 0,
+				"secondPlaceCount": 0,
+				"thirdPlaceCount": 1,
+				"lastPlayed": 6.3830826282700006e+17,
+				"completedPercentage": 6,
+				"isValid": true,
+				"totalTimePlayed": 4454.431640625,
+				"lastSavedTime": 109.58769989013672,
+				"lastPlayedText": "20/09/2023",
+				"totalTimePlayedText": "01:14:14"
+			}
+		]
+	}
+}

@@ -1,0 +1,18 @@
+---
+name: "One Piece: Pirate Warriors 4"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-09-19T16:13:46.192424400Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/BANDAI NAMCO Entertainment/One Piece Pirate Warriors 4/Saved/SaveGames/6144/OP4WINSLOT0000.dat":
+        hash: 9abc5baac3575d90b6c2183d815e1949bd88a99e
+        size: 2561564
+      "C:/Users/user/AppData/Local/BANDAI NAMCO Entertainment/One Piece Pirate Warriors 4/Saved/SaveGames/6144/OP4WINUSER.dat":
+        hash: 018f1b62cf020a6b1569291dcfd2a942616fc0e5
+        size: 10244
+    registry:
+      hash: 1fd180a9147591f51bc196045e0cdf5c9742cc41
+    children: []

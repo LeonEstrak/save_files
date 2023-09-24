@@ -1,0 +1,37 @@
+---
+name: Control
+drives:
+  drive-C: "C:"
+  drive-E: "E:"
+backups:
+  - name: "."
+    when: "2023-09-03T12:44:56.174145100Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Remedy/Control/Default-Epic-User/preferences/--containerDisplayName.chunk":
+        hash: dcedb31db6d5f9007871784bf93c6b56b3be1f04
+        size: 11
+      "C:/Users/user/AppData/Local/Remedy/Control/Default-Epic-User/preferences/data.chunk":
+        hash: 1dc94fb16b81b6542dc3f065b1c0a97742a97a85
+        size: 762
+      "C:/Users/user/AppData/Local/Remedy/Control/Default-Epic-User/savegame-slot-00/--containerDisplayName.chunk":
+        hash: 0af1545fa04dfa483cbc80a5c48d465aeab77643
+        size: 16
+      "C:/Users/user/AppData/Local/Remedy/Control/Default-Epic-User/savegame-slot-00/global.chunk":
+        hash: 0be0c59b60e2ab19dbecf17f5c1059b78e60ec3e
+        size: 494
+      "C:/Users/user/AppData/Local/Remedy/Control/Default-Epic-User/savegame-slot-00/hub.chunk":
+        hash: ed1de51c99fabb17b9b50e8727d574e74e7513d1
+        size: 28177
+      "C:/Users/user/AppData/Local/Remedy/Control/Default-Epic-User/savegame-slot-00/meta.chunk":
+        hash: e9034d8768b8cc2b695ab046b7ef0c0fa3666153
+        size: 16
+      "C:/Users/user/AppData/Local/Remedy/Control/Default-Epic-User/savegame-slot-00/persistent.chunk":
+        hash: d09b9d1015148eef5980317c76f6172249f54c9e
+        size: 55654
+      "E:/Control/renderer.ini":
+        hash: c27120fb1bc306e78c6c3996c200464fd5c999c7
+        size: 877
+    registry:
+      hash: ~
+    children: []

@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-07-16T18:48:06.297626200Z"
+    when: "2023-08-05T08:37:16.578309700Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/Tchia/Saved/Config/WindowsNoEditor/Compat.ini":
@@ -68,8 +68,8 @@ backups:
         hash: 9bd43362d8971d1aa879eee0b95a643712d53d18
         size: 2979
       "C:/Users/user/AppData/Local/Tchia/Saved/SaveGames/SaveSlot0.sav":
-        hash: f804a68ba1c46c0c358dfeeee4117bde6f932a31
-        size: 488347
+        hash: 0e6b49c410d1dc9917ad3e4078ec854a8f85374b
+        size: 489183
       "C:/Users/user/AppData/Local/Tchia/Saved/SaveGames/SaveSlot1.sav":
         hash: 0726bfb3a648e9cdb50b5ea35b9a882d7bb43829
         size: 488347

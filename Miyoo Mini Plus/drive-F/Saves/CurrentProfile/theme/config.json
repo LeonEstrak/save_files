@@ -1,0 +1,10 @@
+{
+	"batteryPercentage":	{
+		"visible":	true,
+		"textAlign":	"center",
+		"fixed":	true,
+		"offsetX":	2,
+		"offsetY":	20,
+		"size":	13
+	}
+}

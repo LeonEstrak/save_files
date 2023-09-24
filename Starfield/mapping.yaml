@@ -1,0 +1,36 @@
+---
+name: Starfield
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-09-08T13:29:47.165954500Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/My Games/Starfield/Data/Textures/Motd_Media/MOTDImage.png":
+        hash: e36bc199593e46f3f6527af68b9d4191d9c70859
+        size: 132713
+      "C:/Users/user/Documents/My Games/Starfield/Saves/Autosave1_B3756EC0_476F6A697261_000030_20230908125436_1_0_4.sfs":
+        hash: 62faf433f07bd115309e9862fb4dc7910abdcad5
+        size: 741952
+      "C:/Users/user/Documents/My Games/Starfield/Saves/Autosave2_B3756EC0_476F6A697261_000105_20230908132854_1_0_4.sfs":
+        hash: 6ee6942a8fbae1fa1c11c8f695a864174f89f19b
+        size: 822688
+      "C:/Users/user/Documents/My Games/Starfield/Saves/Autosave3_B3756EC0_476F6A697261_000030_20230908125343_1_0_4.sfs":
+        hash: 63c4d5a84e618442e18ae8fffb779fd9435d9c66
+        size: 854304
+      "C:/Users/user/Documents/My Games/Starfield/Saves/Exitsave0_B3756EC0_476F6A697261_000105_20230908132919_1_0_4.sfs":
+        hash: fe5de2a87d1ab235719567ff55350e6a1cacf1e6
+        size: 764560
+      "C:/Users/user/Documents/My Games/Starfield/Saves/Save1_B3756EC0_506C61796572_000008_20230908123125_1_0_4.sfs":
+        hash: 99ffa553c3d2505fd6d7114314b43463318caba7
+        size: 763856
+      "C:/Users/user/Documents/My Games/Starfield/Saves/Save2_B3756EC0_476F6A697261_000105_20230908132912_1_0_4.sfs":
+        hash: 4918f6354afaf7252949cc16ba09ea783475ddc8
+        size: 764784
+      "C:/Users/user/Documents/My Games/Starfield/StarfieldPrefs.ini":
+        hash: fbfac2d6d3a66490f71441d3d9f163fee7374363
+        size: 445
+    registry:
+      hash: ~
+    children: []

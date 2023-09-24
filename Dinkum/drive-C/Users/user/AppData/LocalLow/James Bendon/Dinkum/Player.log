@@ -1,0 +1,97 @@
+Mono path[0] = 'D:/SteamLibrary/steamapps/common/Dinkum/Dinkum_Data/Managed'
+Mono config path = 'D:/SteamLibrary/steamapps/common/Dinkum/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path D:/SteamLibrary/steamapps/common/Dinkum/Dinkum_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6800 XT (ID=0x73bf)
+    Vendor:   
+    VRAM:     16337 MB
+    Driver:   31.0.22011.1008
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.077 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.763000 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at CharacterCreatorScript.OnEnable () [0x0000d] in <b56eb1854d9c43a2afc9c03601a8ffd7>:0 
+
+TelepathyTransport initialized!
+
+Language Source was up-to-date with Google Spreadsheet
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Lasted version saved 6
+
+Starting server [SteamSockets].
+
+Server started listening
+
+PostOnBoard
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+
+Null
+
+NullReferenceException: Object reference not set to an instance of an object
+  at FishingRodCastAndReel.castLine () [0x0008c] in <b56eb1854d9c43a2afc9c03601a8ffd7>:0 
+  at NetworkFishingRod+<controllRod>d__48.MoveNext () [0x001a9] in <b56eb1854d9c43a2afc9c03601a8ffd7>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <cd921286721b4b2b848c201e3629379f>:0 
+
+Disconnecting connId=0 to prevent exploits from an Exception in MessageHandler: NullReferenceException Object reference not set to an instance of an object
+  at NetworkFishingRod.UserCode_RpcDoCast () [0x00007] in <b56eb1854d9c43a2afc9c03601a8ffd7>:0 
+  at NetworkFishingRod.InvokeUserCode_RpcDoCast (Mirror.NetworkBehaviour obj, Mirror.NetworkReader reader, Mirror.NetworkConnectionToClient senderConnection) [0x00016] in <b56eb1854d9c43a2afc9c03601a8ffd7>:0 
+  at Mirror.RemoteCalls.RemoteCallHelper.InvokeHandlerDelegate (System.Int32 cmdHash, Mirror.MirrorInvokeType invokeType, Mirror.NetworkReader reader, Mirror.NetworkBehaviour invokingType, Mirror.NetworkConnectionToClient senderConnection) [0x00019] in <7a4f7ca9f2cb447c93e7b86f8941e6ca>:0 
+  at Mirror.NetworkIdentity.HandleRemoteCall (System.Int32 componentIndex, System.Int32 functionHash, Mirror.MirrorInvokeType invokeType, Mirror.NetworkReader reader, Mirror.NetworkConnectionToClient senderConnection) [0x00069] in <7a4f7ca9f2cb447c93e7b86f8941e6ca>:0 
+  at Mirror.NetworkClient.OnRPCMessage (Mirror.RpcMessage message) [0x00020] in <7a4f7ca9f2cb447c93e7b86f8941e6ca>:0 
+  at (wrapper delegate-invoke) System.Action`1[Mirror.RpcMessage].invoke_void_T(Mirror.RpcMessage)
+  at Mirror.NetworkClient+<>c__DisplayClass51_0`1[T].<RegisterHandler>g__HandlerWrapped|0 (Mirror.NetworkConnection _, T value) [0x00000] in <7a4f7ca9f2cb447c93e7b86f8941e6ca>:0 
+  at Mirror.MessagePacking+<>c__DisplayClass6_0`2[T,C].<WrapHandler>b__0 (Mirror.NetworkConnection conn, Mirror.NetworkReader reader, System.Int32 channelId) [0x0007a] in <7a4f7ca9f2cb447c93e7b86f8941e6ca>:0 
+
+RenderTexture's (512 x 512) anti-aliasing changed from 3 to 2 due hardware limitations.
+
+RenderTexture's (512 x 512) anti-aliasing changed from 3 to 2 due hardware limitations.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+
+Command Function CmdGetUp called without an active client.
+
+STEAM - Leaving lobby 0
+
+STEAM - Disconnected
+
+Transport shut down - was server.
+
+TelepathyTransport Shutdown()
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at ParticleManager.emitParticleAtPosition (UnityEngine.ParticleSystem partToMove, UnityEngine.Vector3 position, System.Int32 emitAmount) [0x00000] in <b56eb1854d9c43a2afc9c03601a8ffd7>:0 
+  at ControlVehicle.OnDestroy () [0x00022] in <b56eb1854d9c43a2afc9c03601a8ffd7>:0 
+
+UnloadTime: 320.363700 ms
+
+Unloading 31868 unused Assets to reduce memory usage. Loaded Objects now: 152719.
+Total: 123.159100 ms (FindLiveObjects: 7.383700 ms CreateObjectMapping: 6.022600 ms MarkObjects: 62.305400 ms  DeleteObjects: 47.447100 ms)
+
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 3a98 -> priority: 1 
+  Thread -> id: 2340 -> priority: 1 
+  Thread -> id: a30 -> priority: 1 
+  Thread -> id: 6534 -> priority: 1 
+  Thread -> id: 5f38 -> priority: 1 
+  Thread -> id: 18d4 -> priority: 1 
+  Thread -> id: 10cc -> priority: 1 
+  Thread -> id: 39f0 -> priority: 1 
+  Thread -> id: 6260 -> priority: 1 
+  Thread -> id: 66b4 -> priority: 1 

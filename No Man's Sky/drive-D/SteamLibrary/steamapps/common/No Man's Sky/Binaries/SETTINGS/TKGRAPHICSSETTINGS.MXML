@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data template="TkGraphicsSettings">
+	<Property name="Version" value="4" />
+	<Property name="FullScreen" value="false" />
+	<Property name="Borderless" value="true" />
+	<Property name="Monitor" value="0" />
+	<Property name="MonitorNames">
+		<Property name="MonitorNames" value="0|AMD Radeon RX 6800 XT|Generic PnP Monitor" />
+	</Property>
+	<Property name="ResolutionWidth" value="1920" />
+	<Property name="ResolutionHeight" value="1080" />
+	<Property name="ResolutionScale" value="1.000000" />
+	<Property name="VsyncEx" value="Triple" />
+	<Property name="GraphicsDetail" value="TkGraphicsDetailPreset.xml">
+		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="VolumetricsQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="TerrainTessellation" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="PlanetQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="BaseQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="AmbientOcclusion" value="GTAO_Ultra" />
+		<Property name="AnisotropyLevel" value="8" />
+		<Property name="DynamicResScalingSettings" value="TkDynamicResScalingSettings.xml" />
+	</Property>
+	<Property name="MotionBlurStrength" value="180.000000" />
+	<Property name="VignetteAndScanlines" value="true" />
+	<Property name="FoVOnFoot" value="100.000000" />
+	<Property name="FoVInShip" value="100.000000" />
+	<Property name="Brightness" value="50" />
+	<Property name="MaxframeRate" value="120" />
+	<Property name="NumHighThreads" value="12" />
+	<Property name="NumLowThreads" value="13" />
+	<Property name="TextureStreamingVk" value="Auto" />
+	<Property name="ShowRequirementsWarnings" value="true" />
+	<Property name="RemoveBaseBuildingRestrictions" value="false" />
+	<Property name="MouseClickSpeedMultiplier" value="0.500000" />
+	<Property name="UseTerrainTextureCache" value="false" />
+	<Property name="UseArbSparseTexture" value="false" />
+	<Property name="HDRMode" value="Off" />
+	<Property name="AdapterName" value="AMD Radeon RX 6800 XT" />
+	<Property name="AdapterIndex" value="0" />
+	<Property name="NumGraphicsThreadsBeta" value="0" />
+</Data>

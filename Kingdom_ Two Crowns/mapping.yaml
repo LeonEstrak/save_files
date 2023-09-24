@@ -1,0 +1,27 @@
+---
+name: "Kingdom: Two Crowns"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-09-15T11:58:07.958173300Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/LocalLow/noio/KingdomTwoCrowns/Release/global-v35":
+        hash: 82e7a0ea6acd74a1127c3ce04714ab6ff5c8dda2
+        size: 25289
+      "C:/Users/user/AppData/LocalLow/noio/KingdomTwoCrowns/Release/island-v35-c0-l0":
+        hash: 97e9f03ac3dc01f932566154a89558a9a1567d6f
+        size: 48378
+      "C:/Users/user/AppData/LocalLow/noio/KingdomTwoCrowns/Release/island-v35-c0-l1":
+        hash: f88c1b0872a24ea2b21174290c8f130186d4b0a9
+        size: 49523
+      "C:/Users/user/AppData/LocalLow/noio/KingdomTwoCrowns/Release/island-v35-c0-l2":
+        hash: b46b6e1c5d7cbc9703cad81b1194e9036d8431de
+        size: 54327
+      "C:/Users/user/AppData/LocalLow/noio/KingdomTwoCrowns/Release/island-v35-c0-l3":
+        hash: 417f012190ee4c9d1017ab2bb069edfa03cfb7be
+        size: 52625
+    registry:
+      hash: ~
+    children: []

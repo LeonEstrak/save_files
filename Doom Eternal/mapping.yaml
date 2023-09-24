@@ -4,24 +4,24 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-07-16T18:47:56.249320100Z"
+    when: "2023-08-22T19:13:54.135261600Z"
     os: windows
     files:
       "C:/Program Files (x86)/Steam/userdata/102118085/782330/remote/GAME-AUTOSAVE0/game.details":
-        hash: e153f2dba4e1fb577a4f3c4765861037ae39ea66
-        size: 268
+        hash: bdbdac78f10f925f3671c2055119d53a7a65b691
+        size: 287
       "C:/Program Files (x86)/Steam/userdata/102118085/782330/remote/GAME-AUTOSAVE0/game.details-BACKUP":
-        hash: dfa5f4dbb6601718b6cc387db825235bc817f1a0
-        size: 262
+        hash: a0b69c96fc6ed695e31ad974ecd107eb58eab7dd
+        size: 268
       "C:/Program Files (x86)/Steam/userdata/102118085/782330/remote/GAME-AUTOSAVE0/game_duration.dat":
-        hash: 42fbc878a914601d5c525f333b2b36d1732a3c59
-        size: 791620
+        hash: d34fcc1aa5b9d9170c6f491ed626ee4d45ac4067
+        size: 832584
       "C:/Program Files (x86)/Steam/userdata/102118085/782330/remote/GAME-AUTOSAVE0/game_duration.dat-BACKUP":
-        hash: e552364b76055ca041492a778bac79d9282dfdda
-        size: 761468
+        hash: dc902e9fc20092bf670c79ee09587f83d22c1372
+        size: 811066
       "C:/Program Files (x86)/Steam/userdata/102118085/782330/remote/PROFILE/profile.bin":
-        hash: 48face8b97351a81a76575e7672b5ada6995d86e
-        size: 537710
+        hash: 4f470fa41df769d5e4c197697c3fc78fcb9ce9d3
+        size: 539183
       "C:/Users/user/Saved Games/id Software/DOOMEternal/base/DOOMEternalConfig.local":
         hash: 0298d2b54d392b56c9ff447c888426f26851b599
         size: 273

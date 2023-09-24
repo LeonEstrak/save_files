@@ -4,11 +4,11 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-07-16T18:48:18.643694800Z"
+    when: "2023-08-10T17:30:41.596716700Z"
     os: windows
     files:
       "C:/Users/user/Documents/Klei/OxygenNotIncluded/kplayerprefs.yaml":
-        hash: 58258fa88c0a1dd92979a13d1c1b829c8866775f
+        hash: 3639476bea5d74e9fa2cbedc5a29246722be9859
         size: 1145
     registry:
       hash: ~

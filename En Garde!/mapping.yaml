@@ -1,0 +1,24 @@
+---
+name: En Garde!
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-08-21T17:02:29.760858500Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/EnGarde/Saved/SaveGames/BarkLogs.sav":
+        hash: 0c2533ef972b3df56238811c6f495597cc66f9ac
+        size: 174082
+      "C:/Users/user/AppData/Local/EnGarde/Saved/SaveGames/Challenges.sav":
+        hash: 37fba7b81aeb4e142e7a4f286aeb5a95cc358abe
+        size: 28641
+      "C:/Users/user/AppData/Local/EnGarde/Saved/SaveGames/Mission.sav":
+        hash: 33ab22c0f24470b5cbdad6ccac5d980a6de5f836
+        size: 1729
+      "C:/Users/user/AppData/Local/EnGarde/Saved/SaveGames/Progression.sav":
+        hash: 7d38f6afd874ee70e383b431565c12761bbaf8d4
+        size: 4675
+    registry:
+      hash: ~
+    children: []

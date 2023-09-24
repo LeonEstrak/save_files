@@ -1,0 +1,61 @@
+---
+HKEY_CURRENT_USER:
+  "Software\\BNE\\OPPW4": {}
+  "Software\\BNE\\OPPW4\\6144": {}
+  "Software\\BNE\\OPPW4\\6144\\System":
+    30FPSLimit:
+      dword: 1
+    AO:
+      dword: 0
+    AntiAlias:
+      dword: 0
+    Bloom:
+      dword: 0
+    DOF:
+      dword: 0
+    EffectQuality:
+      dword: 0
+    GrassSmallObj:
+      dword: 0
+    HeightFog:
+      dword: 0
+    Language:
+      dword: 0
+    MovieMode:
+      dword: 0
+    QualityPreset:
+      dword: 0
+    RadialBlur:
+      dword: 0
+    Region:
+      dword: 0
+    Resolution:
+      dword: 3
+    S4:
+      dword: 0
+    SaveDataSlot:
+      dword: 0
+    ScreenMode:
+      dword: 1
+    Shadow:
+      dword: 0
+    SoundChannel:
+      dword: 0
+    StageDispDistance:
+      dword: 0
+    TerrainQuality:
+      dword: 0
+    Tessellation:
+      dword: 0
+    TextureQuality:
+      dword: 0
+    UnitDispDistance:
+      dword: 0
+    UnitDispNum:
+      dword: 0
+    VSync:
+      dword: 0
+    VoiceChat:
+      dword: 0
+    VolumetricFog:
+      dword: 0

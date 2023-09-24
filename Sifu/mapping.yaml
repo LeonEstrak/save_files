@@ -1,0 +1,30 @@
+---
+name: Sifu
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-09-24T09:40:20.478526800Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Sifu/Saved/SaveGames/76561197960271872/SifuProfile-1.sav":
+        hash: cd04f2ad3b627a9b5a5787b575726fdf75445d5f
+        size: 15840
+      "C:/Users/user/AppData/Local/Sifu/Saved/SaveGames/76561197960271872/SifuProfile.sav":
+        hash: 3d292136b616cdf276bfd65cc108a4f64b8b92ef
+        size: 15648
+      "C:/Users/user/AppData/Local/Sifu/Saved/SaveGames/76561197960271872/SifuSaveGame0-1.sav":
+        hash: 4063d55b34a71f439d365eb2c4880697b9661b65
+        size: 75696
+      "C:/Users/user/AppData/Local/Sifu/Saved/SaveGames/76561197960271872/SifuSaveGame0.sav":
+        hash: 89a807a7f1861ce7613b03c31fc5f46a42369000
+        size: 77056
+      "C:/Users/user/AppData/Local/Sifu/Saved/SaveGames/76561197960271872/SifuSaveGame1-1.sav":
+        hash: 9d511a62454041d1c19052305d46fcd761480557
+        size: 8864
+      "C:/Users/user/AppData/Local/Sifu/Saved/SaveGames/76561197960271872/SifuSaveGame1.sav":
+        hash: 6aa355e81db9b93248e1aad63f6f34e1ea353f9d
+        size: 66752
+    registry:
+      hash: ~
+    children: []

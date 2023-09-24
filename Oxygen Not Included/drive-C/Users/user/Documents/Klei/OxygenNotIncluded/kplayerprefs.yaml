@@ -5,7 +5,7 @@ strings:
   SandboxTools.SelectedEntity: MushBar
   SandboxTools.SelectedDisease: FoodPoisoning
 ints:
-  SESSION_ID: 26
+  SESSION_ID: 27
   LowResTextures: 0
   ResolutionWidth: 1920
   ResolutionHeight: 1080
