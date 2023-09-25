@@ -2,10 +2,10 @@ Save File Version
 1
 
 Perk Level
-21
+33
 
 Perk XP
-1915
+1146
 
 Level
 Neuland(Tutorial)
@@ -49,48 +49,56 @@ Level
 Nordfels
 
 QuestsCompleteWhenLastOnMap
-11
+14
 
 Beaten
 1
 
 HighscoreV2
-7464
+9228
 
 NetworthV2 / Day
 13
 13
-19
-28
-41
-52
-68
-87
-115
-153
-197
-255
-314
-357
+21
+32
+46
+57
+74
+94
+124
+167
+205
+242
+282
+313
 
 ScoreV2 / Day
 13
-571
-1101
-1643
-2238
-2799
-3323
-3920
-4411
-4934
-5477
-6043
-6643
-7014
+546
+1049
+1450
+1989
+2530
+3026
+3563
+4075
+4599
+4986
+5459
+6059
+6431
 
 Beaten With
 2
+Light Spear
+Arcane Towers
+
+Beaten With
+5
+Taunt The Turtle God
+Castle Blueprints
+Architect's Council
 Light Spear
 Arcane Towers
 
@@ -104,37 +112,38 @@ Beaten
 1
 
 HighscoreV2
-6474
+7249
 
 NetworthV2 / Day
 12
-29
-48
-64
-79
-95
-119
-144
-171
-199
-224
-251
-290
+27
+39
+56
+71
+87
+107
+130
+156
+185
+216
+242
+256
 
 ScoreV2 / Day
-12
-460
-990
-1528
-2059
-2595
-3095
-3560
-3953
-4553
-5115
-5699
-6234
+13
+0
+491
+1009
+1495
+2039
+2542
+3003
+3478
+3851
+4382
+4869
+5065
+5346
 
 Beaten With
 3
@@ -142,46 +151,61 @@ Light Spear
 Heavy Armor
 Arcane Towers
 
+Beaten With
+5
+Heavy Sword
+Taunt The Rat God
+Heavy Armor
+Castle Blueprints
+Architect's Council
+
 Level
 Frostsee
 
 QuestsCompleteWhenLastOnMap
-0
+2
 
 Beaten
-0
+1
 
 HighscoreV2
-5825
+6851
 
 NetworthV2 / Day
-12
+13
 11
 15
-19
-26
-38
-56
-76
-95
-117
-140
-168
-213
+21
+33
+48
+74
+102
+137
+172
+218
+264
+325
+354
 
 ScoreV2 / Day
 13
-0
-537
-1067
-1640
-2146
-2705
-3289
-3682
-4189
-4692
-5070
-5482
-5825
+540
+1093
+1671
+2192
+2783
+3383
+3859
+4405
+4964
+5365
+5885
+6289
+6571
+
+Beaten With
+3
+Heavy Armor
+Arcane Towers
+Heavy Sword
 
