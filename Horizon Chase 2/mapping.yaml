@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-09-20T11:39:55.512785200Z"
+    when: "2023-09-26T17:42:46.113380200Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Compat.ini":
@@ -23,8 +23,8 @@ backups:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
       "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
-        hash: 44d8e47f7f1a355aca8064aa1f05464c2703d026
-        size: 948
+        hash: 4fddaddd00e0feee0c6c5e3fef610af95caee34e
+        size: 903
       "C:/Users/user/AppData/Local/HorizonChase2/Saved/Config/WindowsNoEditor/Hardware.ini":
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
@@ -74,14 +74,17 @@ backups:
         hash: 9e3dc7dae2c0e761e07893358ed55de1807fa8e7
         size: 1290
       "C:/Users/user/AppData/Local/HorizonChase2/Saved/SaveGames/PlayerConsentSave.sav":
-        hash: 666e54c09b3657be327c59bd14486b5dcedcc697
+        hash: 6dde101d95da67cb1790de4284f249bb8d47f3cb
         size: 128
       "C:/Users/user/AppData/Local/HorizonChase2/Saved/SaveGames/PlayerSaveData_0.sav":
-        hash: 8d5b1decb05ec688cfae85b221f12a4db9ef742d
-        size: 95247
+        hash: d5bb611a4b8d02fd6bd79aaf2d0923eb32fad163
+        size: 96048
       "C:/Users/user/AppData/Local/HorizonChase2/Saved/SaveGames/SaveMetadata.sav":
-        hash: b138ad8cd494296c9ce517cd0cf1a0e12c64ee1c
-        size: 502
+        hash: aaf0b114a9ef329317ed2bacecff202c8b42df50
+        size: 504
+      "C:/Users/user/AppData/Local/HorizonChase2/Saved/SaveGames/SettingsSaveData.sav":
+        hash: 2be4206ced8ff5880d1940596aa897a20746287b
+        size: 534
     registry:
       hash: ~
     children: []

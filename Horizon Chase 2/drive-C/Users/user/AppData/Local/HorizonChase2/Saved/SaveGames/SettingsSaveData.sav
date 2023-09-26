@@ -1,0 +1,21 @@
+{
+	"guid": "B309215648A53FFD938939B6CAE089E5",
+	"payload":
+	{
+		"windowMode": "WindowedFullscreen",
+		"resolutionWidth": 1920,
+		"resolutionHeight": 1080,
+		"isVSyncEnabled": true,
+		"musicVolume": 0,
+		"sFXVolume": 1,
+		"masterVolume": 0.40450018644332886,
+		"stingerVolume": 1,
+		"cultureCode": "en-IN",
+		"inputOption": "Gamepad",
+		"batterySaveOption": false,
+		"isSpeechBubblesEnabled": true,
+		"graphicQualityLevel": "High",
+		"isForceFeedbackEnabled": true,
+		"crossplayFeatureState": "SettingsEnabled"
+	}
+}

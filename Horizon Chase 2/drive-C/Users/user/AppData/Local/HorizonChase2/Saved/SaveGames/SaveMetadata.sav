@@ -5,17 +5,17 @@
 		"selectedSlot": 0,
 		"playerSavesMetadata": [
 			{
-				"superTrophyCount": 4,
+				"superTrophyCount": 6,
 				"firstPlaceCount": 0,
 				"secondPlaceCount": 0,
 				"thirdPlaceCount": 1,
-				"lastPlayed": 6.3830826282700006e+17,
-				"completedPercentage": 6,
+				"lastPlayed": 6.3831366703582003e+17,
+				"completedPercentage": 8,
 				"isValid": true,
-				"totalTimePlayed": 4454.431640625,
-				"lastSavedTime": 109.58769989013672,
-				"lastPlayedText": "20/09/2023",
-				"totalTimePlayedText": "01:14:14"
+				"totalTimePlayed": 5918.59521484375,
+				"lastSavedTime": 134.75297546386719,
+				"lastPlayedText": "26/09/2023",
+				"totalTimePlayedText": "01:38:38"
 			}
 		]
 	}

@@ -3,19 +3,19 @@
 	"payload":
 	{
 		"playerUniqueId": "B2A625064B2295AB2EEA14AB267D9A33",
-		"totalTimePlayed": 4454.431640625,
+		"totalTimePlayed": 5918.59521484375,
 		"playerGame":
 		{
-			"blueCoinsGeneralCounter": 55,
-			"creditsCounter": 650,
+			"blueCoinsGeneralCounter": 70,
+			"creditsCounter": 800,
 			"carsData":
 			{
 				"CarItem_E_Sport_02":
 				{
-					"skillPoints": 0,
-					"carLevel": 2,
-					"carTotalXp": 105,
-					"levelProgressXp": 60,
+					"skillPoints": 1,
+					"carLevel": 3,
+					"carTotalXp": 150,
+					"levelProgressXp": 30,
 					"physicalPartsAndLevel":
 					{
 						"Gearbox":
@@ -631,6 +631,22 @@
 					"collectiblesCollected": 10,
 					"hasSuperTrophy": false,
 					"isBeaten": true
+				},
+				"USA_VT_LakeElmore_TimeTrials_Race":
+				{
+					"placement": 0,
+					"bestTime": 39.968002319335938,
+					"collectiblesCollected": 42,
+					"hasSuperTrophy": true,
+					"isBeaten": true
+				},
+				"USA_VT_Montpelier_Race":
+				{
+					"placement": 0,
+					"bestTime": 120.25600433349609,
+					"collectiblesCollected": 15,
+					"hasSuperTrophy": true,
+					"isBeaten": true
 				}
 			}
 		},
@@ -639,13 +655,13 @@
 			"carsGlobalStatistics":
 			{
 				"racesInFirstCounter": 0,
-				"racesFinishedCounter": 13,
-				"superTrophyCounter": 4,
+				"racesFinishedCounter": 16,
+				"superTrophyCounter": 6,
 				"onlineRacesCounter": 0,
-				"kmTravelled": 195,
-				"nitrosUsed": 26,
-				"worldTourRacesFinishedCounter": 13,
-				"breakTheBoxRacesFinishedCounter": 0,
+				"kmTravelled": 240,
+				"nitrosUsed": 33,
+				"worldTourRacesFinishedCounter": 16,
+				"breakTheBoxRacesFinishedCounter": 2,
 				"upgradesInstalled": 1,
 				"paintsCollectedByPlayer": 0,
 				"bodiesCollectedByPlayer": 0
@@ -655,13 +671,13 @@
 				"CarItem_E_Sport_02":
 				{
 					"racesInFirstCounter": 0,
-					"racesFinishedCounter": 7,
-					"superTrophyCounter": 3,
+					"racesFinishedCounter": 10,
+					"superTrophyCounter": 5,
 					"onlineRacesCounter": 0,
-					"kmTravelled": 105,
-					"nitrosUsed": 12,
-					"worldTourRacesFinishedCounter": 7,
-					"breakTheBoxRacesFinishedCounter": 0,
+					"kmTravelled": 150,
+					"nitrosUsed": 19,
+					"worldTourRacesFinishedCounter": 10,
+					"breakTheBoxRacesFinishedCounter": 2,
 					"upgradesInstalled": 1,
 					"paintsCollectedByPlayer": 0,
 					"bodiesCollectedByPlayer": 0
@@ -825,20 +841,20 @@
 			{
 				"maxedLevelCars": 0,
 				"carsCollectedByPlayer": 0,
-				"rimsCollectedByPlayer": 0,
+				"rimsCollectedByPlayer": 1,
 				"bodiesCollectedByPlayer": 0,
 				"paintsCollectedByPlayer": 0,
-				"consecutiveRacesWon": 0,
+				"consecutiveRacesWon": 1,
 				"racesPlacementCounter":
 				{
-					"0": 5,
+					"0": 6,
 					"3": 1,
 					"2": 5,
 					"1": 2
 				},
 				"racesWonWithSmallDifference": 0,
 				"racesFinishedWithoutUsingNitro": 2,
-				"racesFinishedWithNoNitrosLeft": 6
+				"racesFinishedWithNoNitrosLeft": 8
 			},
 			"completionStatistics":
 			{
@@ -846,21 +862,23 @@
 				{
 				},
 				"tournamentsFinished": 0,
-				"breakTheBoxesRacesWon": 0,
+				"breakTheBoxesRacesWon": 2,
 				"breakTheBoxesRacesFinished": 0,
-				"breakTheBoxesRacesAllBoxesBroken": 0,
+				"breakTheBoxesRacesAllBoxesBroken": 2,
 				"wTRacesFinished": [
 					"USA_FL_SaintAugustine_Race",
 					"USA_FL_FloridaCaverns_Race",
 					"USA_FL_FloridaKeys_Race",
 					"USA_VT_Montpelier_2_Race",
-					"USA_VT_LakeElmore_Race"
+					"USA_VT_LakeElmore_Race",
+					"USA_VT_LakeElmore_TimeTrials_Race",
+					"USA_VT_Montpelier_Race"
 				],
 				"wTCountriesCompletion":
 				{
-					"unitedstatesofamerica": 44
+					"unitedstatesofamerica": 60
 				},
-				"wTTotalCompletion": 6,
+				"wTTotalCompletion": 8,
 				"wTWasBeaten": false,
 				"carsThatCompletedRace":
 				{
@@ -892,6 +910,18 @@
 						]
 					},
 					"lakeelmore":
+					{
+						"idsArray": [
+							"CarItem_E_Sport_02"
+						]
+					},
+					"lakeelmore_extrastage":
+					{
+						"idsArray": [
+							"CarItem_E_Sport_02"
+						]
+					},
+					"montpelier01":
 					{
 						"idsArray": [
 							"CarItem_E_Sport_02"
@@ -1022,7 +1052,7 @@
 					"parentItemId": "CarItem_E_Sport_02",
 					"itemId": "CarBody_E_Sport_02_03",
 					"itemType": "Body",
-					"itemStatus": "MisteryLockedAndBuyable",
+					"itemStatus": "UnlockedAndBuyable",
 					"collected": false,
 					"currentStoreStatus": "LockedToBuy"
 				},
@@ -1202,7 +1232,7 @@
 					"parentItemId": "None",
 					"itemId": "CarRim_Sedan_01",
 					"itemType": "Rim",
-					"itemStatus": "LockedByReward",
+					"itemStatus": "UnlockedAndEquippable",
 					"collected": false,
 					"currentStoreStatus": "NotApplicable"
 				},
@@ -3286,8 +3316,8 @@
 			"notificationPopupStack": [],
 			"notificationBadgeStrings":
 			{
-				"ItemsCollected": "| ",
-				"ItemsAvailableToBuy": "Cars CarItem_E_Sport_02 Bodies CarBody_E_Sport_02_02 | | | | | ",
+				"ItemsCollected": "Rims CarRim_Sedan_01 | | | ",
+				"ItemsAvailableToBuy": "Cars CarItem_E_Sport_02 Bodies CarBody_E_Sport_02_02 | CarBody_E_Sport_02_03 | | | | | ",
 				"CarsAvailable": "| "
 			}
 		},
@@ -3314,9 +3344,12 @@
 						"CarSelectOnboarding",
 						"EndRaceOnboarding1",
 						"EndRaceOnboarding2",
-						"CarUpgradesOnboarding1"
+						"CarUpgradesOnboarding1",
+						"GameplayOnboardingBreakBoxes"
 					],
-					"activatedTriggers": []
+					"activatedTriggers": [
+						"Break Boxes"
+					]
 				}
 			}
 		},
@@ -3331,7 +3364,7 @@
 				"achievement_01_03": 0,
 				"achievement_01_04": 1,
 				"achievement_01_05": 0,
-				"achievement_01_06": 0,
+				"achievement_01_06": 1,
 				"achievement_01_07": 0,
 				"achievement_01_08": 1,
 				"achievement_01_10": 0,
@@ -3343,18 +3376,18 @@
 				"achievement_02_06": 0,
 				"achievement_02_07": 0,
 				"achievement_02_08": 0,
-				"achievement_03_01": 0.43999999761581421,
+				"achievement_03_01": 0.60000002384185791,
 				"achievement_03_02": 0,
 				"achievement_03_03": 0,
 				"achievement_03_04": 0,
 				"achievement_03_05": 0,
-				"achievement_03_06": 0.059999998658895493,
+				"achievement_03_06": 0.079999998211860657,
 				"achievement_03_07": 0,
 				"achievement_03_08": 0,
 				"achievement_03_09": 0,
 				"achievement_03_10": 0,
-				"achievement_04_01": 0.064999997615814209,
-				"achievement_04_02": 0.25999999046325684,
+				"achievement_04_01": 0.079999998211860657,
+				"achievement_04_02": 0.33000001311302185,
 				"achievement_04_03": 1,
 				"achievement_04_04": 0.10000000149011612,
 				"achievement_04_05": 0,
@@ -3376,16 +3409,13 @@
 						"achievement_01_02",
 						"achievement_01_03",
 						"achievement_01_05",
-						"achievement_01_06",
 						"achievement_01_07",
-						"achievement_01_10",
 						"achievement_02_01",
 						"achievement_02_02",
 						"achievement_02_03",
 						"achievement_02_04",
 						"achievement_02_05",
 						"achievement_02_06",
-						"achievement_02_07",
 						"achievement_02_08",
 						"achievement_03_01",
 						"achievement_03_02",
@@ -3416,7 +3446,10 @@
 						"achievement_04_03",
 						"achievement_04_07",
 						"achievement_01_08",
-						"achievement_01_04"
+						"achievement_01_04",
+						"achievement_01_06",
+						"achievement_01_10",
+						"achievement_02_07"
 					]
 				},
 				"Gameplay":
