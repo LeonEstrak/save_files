@@ -2,10 +2,10 @@ Save File Version
 1
 
 Perk Level
-33
+36
 
 Perk XP
-1146
+2500
 
 Level
 Neuland(Tutorial)
@@ -55,39 +55,39 @@ Beaten
 1
 
 HighscoreV2
-9228
+9344
 
 NetworthV2 / Day
 13
-13
-21
-32
-46
-57
-74
-94
-124
-167
-205
-242
-282
-313
+10
+15
+20
+28
+37
+52
+75
+99
+129
+165
+204
+240
+270
 
 ScoreV2 / Day
 13
-546
-1049
-1450
-1989
-2530
-3026
-3563
-4075
-4599
-4986
-5459
-6059
-6431
+582
+1113
+1507
+2085
+2624
+3199
+3774
+4361
+4905
+5444
+5991
+6591
+7017
 
 Beaten With
 2
@@ -102,11 +102,19 @@ Architect's Council
 Light Spear
 Arcane Towers
 
+Beaten With
+5
+Light Spear
+Taunt The Rat God
+Castle Blueprints
+Heavy Armor
+Architect's Council
+
 Level
 Durststein
 
 QuestsCompleteWhenLastOnMap
-3
+9
 
 Beaten
 1
