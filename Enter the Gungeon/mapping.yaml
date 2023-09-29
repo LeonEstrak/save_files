@@ -1,0 +1,18 @@
+---
+name: Enter the Gungeon
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-09-27T19:12:38.127928500Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/LocalLow/Dodge Roll/Enter the Gungeon/SlotA.options":
+        hash: 137e1a1a4949dfc78f946b5fbe05dee066fcc1ca
+        size: 5103
+      "C:/Users/user/AppData/LocalLow/Dodge Roll/Enter the Gungeon/SlotA.save":
+        hash: aaa4a1c22ec429ff202746310307ad2a2eee961a
+        size: 40404
+    registry:
+      hash: ~
+    children: []
