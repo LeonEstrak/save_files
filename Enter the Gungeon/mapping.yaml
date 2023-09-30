@@ -4,15 +4,15 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-09-29T15:10:40.537727800Z"
+    when: "2023-09-29T18:24:20.692178100Z"
     os: windows
     files:
       "C:/Users/user/AppData/LocalLow/Dodge Roll/Enter the Gungeon/SlotA.options":
-        hash: 25bbaa374a4722f1e5bd6ce8ef80b4a338616375
-        size: 5104
+        hash: f03cf57ce07b483d10d80bcb6ee09009714f1ccf
+        size: 5131
       "C:/Users/user/AppData/LocalLow/Dodge Roll/Enter the Gungeon/SlotA.save":
-        hash: 09876ba90acdad9e8d0d657b39f5df7741b5bf83
-        size: 45739
+        hash: f277b2ba7290fe14d9bb4e165d712670eb7a359c
+        size: 55103
     registry:
       hash: ~
     children: []
