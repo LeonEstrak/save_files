@@ -52,7 +52,7 @@ version: 0
     "m_playerTwoControllerCursor": false,
     "m_preferredScalingMode": "FORCE_PIXEL_PERFECT",
     "m_preferredFullscreenMode": "FULLSCREEN",
-    "PreferredMapZoom": 9.0,
+    "PreferredMapZoom": 4.25,
     "PreferredMinimapZoom": 2.0,
     "m_minimapDisplayMode": "FADE_ON_ROOM_SEAL",
     "m_audioHardware": "HEADPHONES",
