@@ -4,7 +4,7 @@ HKEY_CURRENT_USER:
     CurArm_h2729657343:
       dword: 0
     CurSlo_h2729672369:
-      dword: 4
+      dword: 1
     CurVar_h2729683780:
       dword: 0
     DisCha_h2599490353:
@@ -14,7 +14,7 @@ HKEY_CURRENT_USER:
     FullIntro_h659272888:
       dword: 0
     LasSlo_h2903068843:
-      dword: 1
+      dword: 4
     LasVar_h2903072350:
       dword: 0
     LevStaOpe_h3741271750:
@@ -76,27 +76,27 @@ HKEY_CURRENT_USER:
         - 0
     unity.player_session_count_h922449978:
       binary:
-        - 52
+        - 53
         - 0
     unity.player_sessionid_h1351336811:
       binary:
+        - 54
         - 50
-        - 53
-        - 48
-        - 51
-        - 57
-        - 48
-        - 57
         - 55
-        - 49
-        - 50
         - 54
-        - 57
+        - 55
+        - 54
         - 48
         - 54
-        - 57
-        - 57
-        - 49
+        - 51
+        - 55
+        - 52
+        - 50
+        - 54
+        - 54
         - 50
         - 56
+        - 48
+        - 51
+        - 48
         - 0
