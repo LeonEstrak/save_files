@@ -4,12 +4,12 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-09-27T17:52:23.616755200Z"
+    when: "2023-09-30T12:54:04.015083600Z"
     os: windows
     files:
       "C:/Users/user/AppData/LocalLow/Grizzly Games/Thronefall/ThroneSave.sav":
-        hash: 0d4b7a4d6ce6ea969c6cad10a329d0a2424e3298
-        size: 1582
+        hash: c8a281e31499d9d6874da52dfa7ab99372865786
+        size: 1711
     registry:
       hash: ~
     children: []

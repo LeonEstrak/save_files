@@ -2,10 +2,10 @@ Save File Version
 1
 
 Perk Level
-36
+41
 
 Perk XP
-2500
+625
 
 Level
 Neuland(Tutorial)
@@ -49,45 +49,46 @@ Level
 Nordfels
 
 QuestsCompleteWhenLastOnMap
-18
+22
 
 Beaten
 1
 
 HighscoreV2
-9344
+9807
 
 NetworthV2 / Day
 13
-10
-15
-20
-28
+13
+24
 37
 52
-75
-99
-129
-165
-204
-240
-270
+71
+96
+125
+163
+207
+243
+282
+323
+361
 
 ScoreV2 / Day
-13
-582
-1113
-1507
-2085
-2624
-3199
-3774
-4361
-4905
-5444
-5991
-6591
-7017
+14
+0
+512
+883
+1282
+1793
+2341
+2740
+3301
+3783
+4256
+4543
+4990
+5590
+5777
 
 Beaten With
 2
@@ -109,6 +110,15 @@ Taunt The Rat God
 Castle Blueprints
 Heavy Armor
 Architect's Council
+
+Beaten With
+6
+Taunt The Turtle God
+Taunt The Tiger God
+Heavy Armor
+Architect's Council
+Fortified Houses
+Light Spear
 
 Level
 Durststein
