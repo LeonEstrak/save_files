@@ -4,7 +4,7 @@ HKEY_CURRENT_USER:
     CurArm_h2729657343:
       dword: 0
     CurSlo_h2729672369:
-      dword: 1
+      dword: 3
     CurVar_h2729683780:
       dword: 0
     DisCha_h2599490353:
@@ -19,6 +19,8 @@ HKEY_CURRENT_USER:
       dword: 0
     LevStaOpe_h3741271750:
       dword: 0
+    LevStaTut_h3741258793:
+      dword: 1
     Screenmanager Fullscreen mode Default_h401710285:
       dword: 2
     Screenmanager Fullscreen mode_h3630240806:
@@ -76,27 +78,27 @@ HKEY_CURRENT_USER:
         - 0
     unity.player_session_count_h922449978:
       binary:
-        - 54
+        - 56
         - 0
     unity.player_sessionid_h1351336811:
       binary:
+        - 49
         - 54
+        - 54
+        - 51
+        - 57
+        - 56
+        - 56
+        - 53
+        - 53
+        - 54
+        - 52
         - 48
-        - 54
-        - 54
         - 56
         - 51
+        - 49
         - 50
-        - 57
-        - 49
         - 51
-        - 49
-        - 48
-        - 49
-        - 53
         - 57
-        - 49
-        - 49
-        - 51
-        - 49
+        - 56
         - 0
