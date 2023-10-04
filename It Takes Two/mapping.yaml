@@ -1,0 +1,99 @@
+---
+name: It Takes Two
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-10-04T17:38:13.961081700Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/ItTakesTwo/LocalSettings.Nuts":
+        hash: 52058b89d520c6a6720a900ddc419f582c2c8a85
+        size: 65
+      "C:/Users/user/AppData/Local/ItTakesTwo/SaveData.Nuts":
+        hash: 5d5d77e44c76ee0605c566ce12c3f9cb9f368986
+        size: 585
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/ChapterSelect.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/Engine.ini":
+        hash: df559bc747612582d5624b756779743c83c68a4b
+        size: 1450
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/FeatureAnimationNames.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/HazeAchievements.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/HazeComponentTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/HazeTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/LiveLink.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/MagicLeap.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/MagicLeapLightEstimation.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/MotoSynth.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/OculusVR.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/Paper2D.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/ProgressPoints.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ItTakesTwo/Settings.Nuts":
+        hash: 785bade9777f1509e9ae3acd7530e5fcc27db908
+        size: 53
+    registry:
+      hash: ~
+    children: []

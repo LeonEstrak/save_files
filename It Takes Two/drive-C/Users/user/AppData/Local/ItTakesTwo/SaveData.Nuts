@@ -1,0 +1,12 @@
+{
+	"EULA_Accepted": "true",
+	"FurthestUnlockedChapter": "/Game/Maps/Shed/Main/Main_Hammernails_BP##WhackACody",
+	"LastSaveProgressPoint": "/Game/Maps/Shed/Main/Main_Hammernails_BP##WhackACody Machine Room Intro",
+	"LastSaveChapter": "/Game/Maps/Shed/Main/Main_Hammernails_BP##MineIntro",
+	"ProfileFlag.IsVacuumBagPlayerCody": "True",
+	"Minigame.Whack-A-Cody": "true",
+	"MinigameFlag.Whack-A-Cody_HaveDiscovered": "True",
+	"MinigameFlag.Whack-A-Cody_HavePlayed": "True",
+	"MinigameCounter.Whack-A-Cody_CodyHighScore": "1",
+	"MinigameCounter.Whack-A-Cody_CodyWinsData": "1"
+}
