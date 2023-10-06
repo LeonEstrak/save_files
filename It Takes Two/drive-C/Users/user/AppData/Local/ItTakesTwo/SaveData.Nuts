@@ -1,12 +1,17 @@
 {
 	"EULA_Accepted": "true",
-	"FurthestUnlockedChapter": "/Game/Maps/Shed/Main/Main_Hammernails_BP##WhackACody",
-	"LastSaveProgressPoint": "/Game/Maps/Shed/Main/Main_Hammernails_BP##WhackACody Machine Room Intro",
-	"LastSaveChapter": "/Game/Maps/Shed/Main/Main_Hammernails_BP##MineIntro",
+	"FurthestUnlockedChapter": "/Game/Maps/Tree/SquirrelHome/SquirrelHome_BP_Mech##Entry",
+	"LastSaveProgressPoint": "/Game/Maps/Tree/SquirrelHome/SquirrelHome_BP_Mech##Entry (No cutscene)",
+	"LastSaveChapter": "/Game/Maps/Tree/SquirrelHome/SquirrelHome_BP_Mech##Entry",
 	"ProfileFlag.IsVacuumBagPlayerCody": "True",
 	"Minigame.Whack-A-Cody": "true",
 	"MinigameFlag.Whack-A-Cody_HaveDiscovered": "True",
 	"MinigameFlag.Whack-A-Cody_HavePlayed": "True",
 	"MinigameCounter.Whack-A-Cody_CodyHighScore": "1",
-	"MinigameCounter.Whack-A-Cody_CodyWinsData": "1"
+	"MinigameCounter.Whack-A-Cody_CodyWinsData": "1",
+	"Minigame.The Nail Wheel": "true",
+	"MinigameFlag.The Nail Wheel_HaveDiscovered": "True",
+	"MinigameFlag.The Nail Wheel_HavePlayed": "True",
+	"MinigameCounter.The Nail Wheel_CodyHighScore": "1",
+	"MinigameCounter.The Nail Wheel_CodyWinsData": "1"
 }

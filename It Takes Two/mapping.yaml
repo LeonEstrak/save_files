@@ -4,15 +4,15 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-10-04T17:38:13.961081700Z"
+    when: "2023-10-05T20:32:23.124282400Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/ItTakesTwo/LocalSettings.Nuts":
         hash: 52058b89d520c6a6720a900ddc419f582c2c8a85
         size: 65
       "C:/Users/user/AppData/Local/ItTakesTwo/SaveData.Nuts":
-        hash: 5d5d77e44c76ee0605c566ce12c3f9cb9f368986
-        size: 585
+        hash: 5eeb69502c863c4788888c9bfe6d3031e302bec3
+        size: 847
       "C:/Users/user/AppData/Local/ItTakesTwo/Saved/Config/WindowsNoEditor/ChapterSelect.ini":
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
