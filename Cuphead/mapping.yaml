@@ -1,0 +1,21 @@
+---
+name: Cuphead
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-10-07T20:12:40.280469800Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Roaming/Cuphead/cuphead_player_data_v1_slot_0.sav":
+        hash: 895d241862188b11f135149ab0cc2d961127d24b
+        size: 29576
+      "C:/Users/user/AppData/Roaming/Cuphead/cuphead_player_data_v1_slot_1.sav":
+        hash: be3213749bc467c55c555bbe26ee46ddeecea84b
+        size: 29575
+      "C:/Users/user/AppData/Roaming/Cuphead/cuphead_player_data_v1_slot_2.sav":
+        hash: be3213749bc467c55c555bbe26ee46ddeecea84b
+        size: 29575
+    registry:
+      hash: f673d2434ecc3b8d39ebd3c87b216b4e6a833f8b
+    children: []
