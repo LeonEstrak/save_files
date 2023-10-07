@@ -1,0 +1,15 @@
+---
+name: Forza Motorsport
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-10-07T11:23:32.361644100Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Microsoft.ForzaMotorsport/User_SteamLocalStorageDirectory/ConnectedStorage/ForzaUserConfigSelections/UserConfigSelections":
+        hash: bf39768a80a03faf7fe6b6233fd8691bceefa8d5
+        size: 2085
+    registry:
+      hash: ~
+    children: []

@@ -1,0 +1,44 @@
+
+<UserConfig Version="2">
+  <privatesettings>
+    <IsBelowMinSpec value="0"/>
+  </privatesettings>
+  <settings>
+    <DynamicRenderQuality value="4"/>
+    <DynamicOptimization value="0"/>
+    <HardwareHash value="3312859874"/>
+    <UIScale value="1.000000"/>
+    <HDRBrightness value="400.000000"/>
+    <Gamma value="0.500000"/>
+    <Fullscreen value="1"/>
+    <ShowFramerate value="0"/>
+    <DLSSGEnabled value="0.000000"/>
+    <FSR2Sharpness value="0.000000"/>
+  </settings>
+  <selections Version="4">
+    <option id="IDS_DynamicRenderQuality_Label" value="IDS_Ultra"/>
+    <option id="IDS_DynamicOptimization_Label" value="IDS_Default"/>
+    <option id="IDS_Fullscreen_Label" value="IDS_On"/>
+    <option id="IDS_Resolution_Label" value="1920x1080"/>
+    <option id="IDS_ShowFramerate_Label" value="IDS_Off"/>
+    <option id="IDS_DLSSMode_Label" value="IDS_DLSS_Off"/>
+    <option id="IDS_FSR2Mode_Label" value="IDS_FSR2_Off"/>
+    <option id="IDS_Framerate_Label" value="IDS_Dynamic"/>
+    <option id="IDS_ResolutionScale_Label" value="IDS_Dynamic"/>
+    <option id="IDS_Anisotropic_Label" value="IDS_Dynamic"/>
+    <option id="IDS_RaytracingQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_RTAOQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_ShadowQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_CubemapReflectionQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_CarModelQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_CarLiveryQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_WindshieldReflectionQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_MirrorQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_TrackTextureQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_ParticleQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_MotionBlurQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_LensFlareQuality_Label" value="IDS_Dynamic"/>
+    <option id="IDS_EnableHDR_Label" value="IDS_Off"/>
+    <option id="" value="IDS_Dynamic"/>
+  </selections>
+</UserConfig>
