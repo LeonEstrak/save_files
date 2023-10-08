@@ -4,12 +4,12 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-08-20T10:18:59.398749900Z"
+    when: "2023-10-08T18:01:53.853605500Z"
     os: windows
     files:
       "C:/Users/user/Documents/Saved Games/Hades/Hades.log":
-        hash: d3bec65cf405f6a6d6c6b9279cbcc2b484e7bfe3
-        size: 108253
+        hash: 7a4c5f113d5e54ef6a5ce4ce557cb13cc4489740
+        size: 70404
       "C:/Users/user/Documents/Saved Games/Hades/Profile1.sav":
         hash: 8a4ba4e8b51d6106bddf911d9fbfdfaf3c281e1c
         size: 447083
@@ -29,16 +29,16 @@ backups:
         hash: 4c6310c5220052a7eb191276d657f6120db68f2d
         size: 469647
       "C:/Users/user/Documents/Saved Games/Hades/Profile1.sjson":
-        hash: 351ea68a82e0373be434bd5c541f369c7cad1478
-        size: 318
+        hash: 42f6485c033ae806daa3717e263526c677915302
+        size: 326
       "C:/Users/user/Documents/Saved Games/Hades/Profile1.sjson.bak":
-        hash: 26d3f9e8ad39b915610d24e0ab27d1b35d3abeec
+        hash: 42f6485c033ae806daa3717e263526c677915302
         size: 326
       "C:/Users/user/Documents/Saved Games/Hades/Profile1.v.sav":
         hash: 426d3d31ff4902ef3c926d1130ce48150f1d83f6
         size: 9
       "C:/Users/user/Documents/Saved Games/Hades/Profile1.v.sav.bak":
-        hash: fbcb39a7c79b235b3d04b9a783214e5c8e01c187
+        hash: 426d3d31ff4902ef3c926d1130ce48150f1d83f6
         size: 9
       "C:/Users/user/Documents/Saved Games/Hades/Profile1_Temp.sav":
         hash: 1bbfc7c4e02f85c46aed2dee435b2acaacc65d48
