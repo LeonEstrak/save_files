@@ -1,0 +1,27 @@
+---
+name: Halo Infinite
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-10-10T12:32:37.354941900Z"
+    os: windows
+    files:
+      "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/PersonalizationCoreItems.gs":
+        hash: 83ce00837786c3178b4b20643634cff9235c3c6b
+        size: 2052
+      "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/PersonalizationItems.gs":
+        hash: eb9a86f827628ce7062ff0afb143c3446eb895dd
+        size: 19546
+      "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/PlayerCustomization.gs":
+        hash: d5e0c12216e86aeec4056b922339cae2953d682f
+        size: 5772
+      "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/preferences.cb2":
+        hash: 049a8166374617610b4f6a4dd85586d20b3adc53
+        size: 448
+      "C:/Users/user/AppData/Local/HaloInfinite/Settings/SpecControlSettings.json":
+        hash: 1c1aea7f1e0cc85243e16f632a28ae894c99335e
+        size: 14330
+    registry:
+      hash: ~
+    children: []
