@@ -4,21 +4,21 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-10-12T05:54:36.654690500Z"
+    when: "2023-10-12T13:07:51.610648200Z"
     os: windows
     files:
       "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/ControlsComponent.gs":
         hash: ab4cbcb6d3f1db0fae2c72d48b758a48f546fbaa
         size: 4500
       "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/PersonalizationCoreItems.gs":
-        hash: 50808b72ff3f058c4293e913247e7f0b0c2bacdc
+        hash: fa3236b003083eec0794e5344b9218bd2ac3166d
         size: 2861
       "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/PersonalizationItems.gs":
-        hash: 821accac6e5747fbd0435724ca44209440ad2eb8
+        hash: c5398533a196288e8dcd38b7845b242db3a5b327
         size: 46271
       "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/PlayerCustomization.gs":
-        hash: 3fc1526888a9b07765b01e12fbb970c32b958f32
-        size: 10051
+        hash: 0db7746c082fba0c5213c878925e190c961ccfd1
+        size: 10162
       "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/preferences.cb2":
         hash: a6ec03a5a9e0ed17dd9521c416a6b95061174225
         size: 1770
