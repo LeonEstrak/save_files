@@ -45,11 +45,11 @@
     },
     "spec_control_minimum_framerate": {
         "version": 2,
-        "value": 30
+        "value": 60
     },
     "spec_control_target_framerate": {
         "version": 1,
-        "value": 60
+        "value": 120
     },
     "spec_control_vsync": {
         "version": 1,
@@ -365,7 +365,7 @@
     },
     "network_statistics_enabled": {
         "version": 0,
-        "value": 0
+        "value": 1
     },
     "text_chat_enabled": {
         "version": 0,
@@ -441,7 +441,7 @@
     },
     "search_region": {
         "version": 0,
-        "value": 0
+        "value": 1
     },
     "observer_camera_type": {
         "version": 0,
@@ -517,19 +517,19 @@
     },
     "spec_control_first_person_melee_weapon_offset": {
         "version": 0,
-        "value": 0
+        "value": 1023410176
     },
     "spec_control_first_person_pistols_weapon_offset": {
         "version": 0,
-        "value": 0
+        "value": 1023410176
     },
     "spec_control_first_person_rifles_weapon_offset": {
         "version": 0,
-        "value": 0
+        "value": 1023410176
     },
     "spec_control_first_person_heavy_weapon_offset": {
         "version": 0,
-        "value": 0
+        "value": 1023410176
     },
     "spec_control_basic": {
         "version": 0,
@@ -537,19 +537,19 @@
     },
     "spec_control_device_preset_version": {
         "version": 0,
-        "value": 0
+        "value": 6
     },
     "spec_control_graphics_overrides_version": {
         "version": 0,
-        "value": 0
+        "value": 2
     },
     "spec_control_recommended_drivers_version": {
         "version": 0,
-        "value": 0
+        "value": 7
     },
     "spec_control_field_of_view": {
         "version": 0,
-        "value": 78
+        "value": 84
     },
     "spec_control_aniso": {
         "version": 0,

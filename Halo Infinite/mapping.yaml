@@ -4,24 +4,27 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-10-10T12:32:37.354941900Z"
+    when: "2023-10-12T05:54:36.654690500Z"
     os: windows
     files:
+      "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/ControlsComponent.gs":
+        hash: ab4cbcb6d3f1db0fae2c72d48b758a48f546fbaa
+        size: 4500
       "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/PersonalizationCoreItems.gs":
-        hash: 83ce00837786c3178b4b20643634cff9235c3c6b
-        size: 2052
+        hash: 50808b72ff3f058c4293e913247e7f0b0c2bacdc
+        size: 2861
       "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/PersonalizationItems.gs":
-        hash: eb9a86f827628ce7062ff0afb143c3446eb895dd
-        size: 19546
+        hash: 821accac6e5747fbd0435724ca44209440ad2eb8
+        size: 46271
       "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/PlayerCustomization.gs":
-        hash: d5e0c12216e86aeec4056b922339cae2953d682f
-        size: 5772
+        hash: 3fc1526888a9b07765b01e12fbb970c32b958f32
+        size: 10051
       "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/preferences.cb2":
-        hash: 049a8166374617610b4f6a4dd85586d20b3adc53
-        size: 448
+        hash: a6ec03a5a9e0ed17dd9521c416a6b95061174225
+        size: 1770
       "C:/Users/user/AppData/Local/HaloInfinite/Settings/SpecControlSettings.json":
-        hash: 1c1aea7f1e0cc85243e16f632a28ae894c99335e
-        size: 14330
+        hash: 33e259db6ae48e70f4dcacc0f52241eea7f6147c
+        size: 14367
     registry:
       hash: ~
     children: []
