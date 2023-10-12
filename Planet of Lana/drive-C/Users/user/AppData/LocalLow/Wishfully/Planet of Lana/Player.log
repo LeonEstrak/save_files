@@ -1,0 +1,108 @@
+Initialize engine version: 2020.3.41f1 (7c19dc9acfda)
+[Subsystems] Discovering subsystems at path D:/Planet of Lana/Planet of Lana_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6800 XT (ID=0x73bf)
+    Vendor:   
+    VRAM:     16337 MB
+    Driver:   31.0.22011.1008
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Initialized touch support.
+UnloadTime: 0.236800 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4321.
+Total: 1.044900 ms (FindLiveObjects: 0.132700 ms CreateObjectMapping: 0.081100 ms MarkObjects: 0.806100 ms  DeleteObjects: 0.024800 ms)
+
+[Load] settings - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Settings.<Load>d__22:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[MigrateVersion]  -> 1.1.0.0
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Settings.SettingsData:MigrateVersion(String, String)
+PoL.Settings.SettingsData:ApplyChanges(Boolean)
+PoL.Settings.<Load>d__22:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[OnLoad] slot_0.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[OnLoad] slot_1.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[OnLoad] slot_2.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Southgrove.LiveNavMeshes.LiveNavMeshDynamicBuilder:OnEnable()
+
+[ line -1307252904]
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 111138.
+Total: 49.748400 ms (FindLiveObjects: 3.642000 ms CreateObjectMapping: 1.216200 ms MarkObjects: 44.736200 ms  DeleteObjects: 0.153900 ms)
+
+Calculate Path: Failed, AgentTargetIsLink: False
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Actors.NavMeshActor:UpdateState(Vector3, Single)
+PoL.Characters.Elo.EloWaypointBehaviour:OnUpdate()
+Southgrove.BehaviourMachines.BehaviourMachine`1:Update()
+
+Calculate Path: Failed, AgentTargetIsLink: True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Actors.NavMeshActor:UpdateState(Vector3, Single)
+PoL.Characters.Elo.EloWaypointBehaviour:OnUpdate()
+Southgrove.BehaviourMachines.BehaviourMachine`1:Update()
+
+Unloading 16 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 6582 unused Assets to reduce memory usage. Loaded Objects now: 50730.
+Total: 45.981200 ms (FindLiveObjects: 2.079500 ms CreateObjectMapping: 0.609800 ms MarkObjects: 38.231100 ms  DeleteObjects: 5.060700 ms)
+
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 21f8 -> priority: 1 
+  Thread -> id: 6354 -> priority: 1 
+  Thread -> id: 6c4 -> priority: 1 
+  Thread -> id: 1c48 -> priority: 1 
+  Thread -> id: a60 -> priority: 1 
+  Thread -> id: 4390 -> priority: 1 
+  Thread -> id: ff4 -> priority: 1 
+  Thread -> id: 3b64 -> priority: 1 
+  Thread -> id: 4d74 -> priority: 1 
+  Thread -> id: 58fc -> priority: 1 
+Curl error 42: Callback aborted
