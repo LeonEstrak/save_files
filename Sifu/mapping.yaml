@@ -4,15 +4,15 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-09-30T11:12:42.506031700Z"
+    when: "2023-10-15T12:40:52.010901500Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/Sifu/Saved/SaveGames/76561197960271872/SifuProfile-1.sav":
-        hash: 1a0723b0b6cb4d33c0fa507bc34d1bbad84c2eca
-        size: 16208
+        hash: 0098de3baedc46c35b9021782904dc541d2eabe3
+        size: 16960
       "C:/Users/user/AppData/Local/Sifu/Saved/SaveGames/76561197960271872/SifuProfile.sav":
-        hash: 8dc2de939ede0eef42c7818533ef049e2f2d502f
-        size: 16016
+        hash: c2d34a126fb064cff0f679a91a703a34932430e7
+        size: 16784
       "C:/Users/user/AppData/Local/Sifu/Saved/SaveGames/76561197960271872/SifuSaveGame0-1.sav":
         hash: 4063d55b34a71f439d365eb2c4880697b9661b65
         size: 75696
