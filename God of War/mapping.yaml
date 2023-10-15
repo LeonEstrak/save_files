@@ -1,0 +1,22 @@
+---
+name: God of War
+drives:
+  drive-C: "C:"
+  drive-E: "E:"
+backups:
+  - name: "."
+    when: "2023-10-14T16:58:51.961197200Z"
+    os: windows
+    files:
+      "C:/Users/user/Saved Games/God of War/6300451/game.sav":
+        hash: 8cc125eef8e3d289ff0a2383f447a980d8f4c8f1
+        size: 33554400
+      "C:/Users/user/Saved Games/God of War/desktop.ini":
+        hash: 7162ddec9468d1caa540bf90f1f662469d99f0a2
+        size: 100
+      "E:/God of War/settings.ini":
+        hash: 91bfc466d0a801a872e5846410f6f13c711edd96
+        size: 2162
+    registry:
+      hash: ~
+    children: []
