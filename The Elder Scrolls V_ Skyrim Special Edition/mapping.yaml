@@ -1,0 +1,204 @@
+---
+name: "The Elder Scrolls V: Skyrim Special Edition"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-10-16T16:12:40.977769900Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/AnimatedStaticReload.log":
+        hash: 86280826ea3a2b7c66806b621632976cfe456dca
+        size: 72
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/AnimationQueueFix.log":
+        hash: 5005ab96062a0c59fc8fa36a01d3d733d808d02a
+        size: 209
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/AutoParallax.log":
+        hash: 8816577962e60746403fcbfb9dbfab349f1abd1e
+        size: 67
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/BetterJumpingSE.log":
+        hash: f8b73e50caa041ed8382bbafecff87863766b914
+        size: 82
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/CrashLogger.log":
+        hash: 4e9c930c4e29315ee75f0301730f99bc56b07e7f
+        size: 462
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/CustomWindow.log":
+        hash: b3abee62b1fa216fc4473dfa4159f2768d5fa849
+        size: 83
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/DPIScalingFix.log":
+        hash: 1c03e65b45676a12e0745033dd45e6e3ba56d716
+        size: 39
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/DiscordRichPresence.log":
+        hash: 36c447c0aaf2f50339acb21686af01439248abde
+        size: 125
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/DynDOLOD.log":
+        hash: fa50eca43a126dcfa785dc15f8427306a009a20c
+        size: 289
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/ELIF.log":
+        hash: 975f880e6cebc0772d357eb3bfb5ed330a336728
+        size: 128
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/ENBHelperPlus.log":
+        hash: a29c03702b8dd8168feb273779bf6a3859372840
+        size: 50
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/ENBHelperSE.log":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/ENBInputDisabler.log":
+        hash: 187526c3c86b03f8c433d650ffcbb78d4e7ac122
+        size: 46
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/EVLaS.log":
+        hash: abd12c4858ff98e374ac08ac51ccb348ba39a8f6
+        size: 483
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/EngineFixes.log":
+        hash: 44a2d1e28e7f44b393151da59af1efa1dc3fb6b4
+        size: 1784
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/EquipEnchantmentFix.log":
+        hash: 130a60b130f08dc2a0e14968764eb691cfee3e0a
+        size: 135
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/FaceGenFixes.log":
+        hash: 611dd2ddf21d3cc4234afac07c4da818238a2749
+        size: 119
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/FixNotesForSkyUI.log":
+        hash: 60bdc2ac1813dc4ed147e90a39ddd2c5510ea3bb
+        size: 99
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/FormListManipulator.log":
+        hash: 5bd9b27b51e99cabe501adf28b67f59df9d1e492
+        size: 4015
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/HDT-SMP Force Fields.ini":
+        hash: c7d0957147f096e6416aee66da34654afc97ddf3
+        size: 111
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/HDT-SMP Force Fields.log":
+        hash: f1699a2292e1dd66554113760c815116546c3799
+        size: 1777
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/JContainers64.log":
+        hash: d79ea6930e0ab5515cbab6a4ada0c54ad758dee7
+        size: 16839
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/MCMHelper.log":
+        hash: b8babfbe37f48e1d68593d62869052ec536e8f94
+        size: 359
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/MaxsuAIProcessFix.log":
+        hash: d96a1516bfe342b84d0125a366b88273a31ffd8d
+        size: 716
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/MoreInformativeConsole.log":
+        hash: 3e32a55770606ed683d6bc2fe7f5fe6544c0de19
+        size: 1143
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/OpenAnimationReplacer.log":
+        hash: 1d29b62b2eb32639247619f7bb31fdabb52004fd
+        size: 14676
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/PapyrusTweaks.log":
+        hash: b4603410cc8d7dfd0d45f190929141cba9ff2667
+        size: 1902
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/PapyrusUtilDev.log":
+        hash: b898c660ec4aa9754722b719e6d3b298886c04b7
+        size: 102
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/PlayerBlink.log":
+        hash: 8fdcef83ea4e043b0e06ae7c9667041aac5142b8
+        size: 6
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/RaceMenuPlayerRotation.log":
+        hash: 8a827dfa632903ad48075edd6955e35b9782481e
+        size: 634
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/SMP Wind.ini":
+        hash: a9f665725776bfc33de1560beafadf2b50e6eb2e
+        size: 238
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/SMP Wind.log":
+        hash: 58d5d42b0b5735bbe501b8cce4f36f8575a23140
+        size: 272
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/SSEDisplayTweaks.log":
+        hash: 3f8e0beab6addb2f7b8d8588befcfc25c7b766ae
+        size: 3036
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/SSMT_Fix.log":
+        hash: 760e4db2abf31302cfec4991b962a2f8f5ce4ad8
+        size: 160
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/ScaleformTranslationPP.log":
+        hash: f6a864045a050f5486d99da42ed6e8a2977a774e
+        size: 220
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/StayAtSystemPageSE.log":
+        hash: 3aebe58b4768a9ad427ec28877e7f5fa1e5d2393
+        size: 293
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/TrueDirectionalMovement.log":
+        hash: 9e8f900a7130142fd57c93d50dca03f92cc5145a
+        size: 5825
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/WhoseQuestIsItAnyway.log":
+        hash: 6a94a274b517857247db318535716ba7f0f2c053
+        size: 216
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/_SplashScreen.log":
+        hash: 2a4b0d6f4d9b6fec2af6febff6a5fcf53bc2924e
+        size: 52
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/hdtSMP64.log":
+        hash: d36607b8959d36b6bd3ef77564fdeb2f9bd29f3f
+        size: 17
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/log":
+        hash: 512b6798924bf0c7cd759914dcef1c753b693c7a
+        size: 201
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/mfgfix.log":
+        hash: 509f9198fe031091fc1b63e5b96e5c674272df70
+        size: 51
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_BaseObjectSwapper.log":
+        hash: ed2776b108758ff4350c78adaab8d3235fe59795
+        size: 2418673
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_CameraPersistenceFixes.log":
+        hash: 1c2488cc68c656f3bf19dfb6dc41408a20a51f60
+        size: 85
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_ConsolePlusPlus.log":
+        hash: 6a2ed703fdf8a3bd7f685b1b1d277c436180a32b
+        size: 166
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_DualCastingFix.log":
+        hash: ddcd9613f0e6ef00575bacd1edb9b8f0dfa4c9ec
+        size: 77
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_ENBLightForEffectShaders.log":
+        hash: 27271adeddefc8424920ad04dee331a31de88fa1
+        size: 458
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_EnhancedInvisibility.log":
+        hash: b2eff3afb5d426e8f94c83adf4091261a318651b
+        size: 390
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_EnhancedReanimation.log":
+        hash: f4920f50f1353eb9a1e8b39502fd11b0bd86fa2c
+        size: 290
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_KeywordItemDistributor.log":
+        hash: eee22c74b892da0b5fddc942e9cda884abe2dfcb
+        size: 427
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_LockVariations.log":
+        hash: ff4f663c7221f3ce977273d16e7c82e7341dceb9
+        size: 545
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_PhotoMode.log":
+        hash: da20e33970623b8a223598f00d999daf47d66679
+        size: 647
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_SimpleActivateSKSE.log":
+        hash: cd986918c26fff4c7a3d6f688381c24a19f65840
+        size: 73
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_SpellPerkItemDistributor.log":
+        hash: f253a3caaa075d48a7315abca90c622fc31c857d
+        size: 2105
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_SplashesOfSkyrim.log":
+        hash: f827fa7a32121fb1e1bd04630009700c25b3e590
+        size: 581
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_SplashesOfStorms.log":
+        hash: ec094e5f415c170cdaa6a1f64d890d0085701bcf
+        size: 287
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_Tweaks.log":
+        hash: 4a97876fc1f254a23281cb1ab3dd9b945cb0bacd
+        size: 1693
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/po3_papyrusextender64.log":
+        hash: 41eb058a90e38dc3d37bde99346f46e7cb410e09
+        size: 4128
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/skee64.log":
+        hash: 75e81acc85e4866f30284fd81027d780ec8fea0f
+        size: 96
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/skse64.log":
+        hash: d4ef518b0c79754903394a87a473fc1a0bebbf42
+        size: 24947
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/skse64_loader.log":
+        hash: 5ae87853c1e9125af063ad4baa3d734750cbe11b
+        size: 914
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SKSE/to_your_face.log":
+        hash: 0ceeb8596004dfe34fa6e3fe3dfa0f07bbad7f78
+        size: 35
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/Skyrim.INI":
+        hash: 71142431f6d1913d589cfb09b86de1c2e3affd2b
+        size: 1859
+      "C:/Users/user/Documents/My Games/Skyrim Special Edition/SkyrimPrefs.ini":
+        hash: 02fe2cda30d633931b2ece1ae1dbf4641ee0f1a1
+        size: 3803
+    registry:
+      hash: ~
+    children: []

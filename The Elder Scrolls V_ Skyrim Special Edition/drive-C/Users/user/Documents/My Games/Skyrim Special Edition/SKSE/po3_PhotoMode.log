@@ -1,0 +1,16 @@
+[21:38:07] po3_PhotoMode v1.1.6.1
+[21:38:07] Game version : 1-6-640-0
+[21:38:07] **********POST LOAD***********
+[21:38:07] Obtained ENB API
+[21:38:15] Initializing ImGui...
+[21:38:15] ImGui initialized.
+[21:38:16] *********INPUT LOADED*********
+[21:38:16] Registered for hotkey event
+[21:38:16] Registered for menu open/close event
+[21:38:41] Registered PhotoMode_MCM class
+[21:38:46] *********DATA LOADED**********
+[21:38:46] Reading translations from Data\Interface\Translations\PhotoMode_ENGLISH.txt...
+[21:38:46] Loading screenshot textures...
+[21:38:46] 	0 screenshots
+[21:38:46] 	0 paintings
+[21:38:46] 	screenshot index : 0

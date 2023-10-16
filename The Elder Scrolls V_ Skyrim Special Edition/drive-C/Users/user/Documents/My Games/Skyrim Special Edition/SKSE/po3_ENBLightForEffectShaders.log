@@ -1,0 +1,12 @@
+[info] po3_ENBLightForEffectShaders v2.1.0.1
+[info] Game version : 1-6-640-0
+[info] 1 matching inis found
+[info] 	INI : Data\Overrides_ENBL.ini
+[info] loading blacklist
+[warning] 	mod (FleshFX.esp) not found
+[warning] 	mod (NAT-ENB.esp) not found
+[warning] 	mod (RASS - Visual Effects.esl) not found
+[warning] 	mod (RASS - Visual Effects.esp) not found
+[info] blacklist count : 3/7
+[info] loading override list
+[info] override shader count : 0/0

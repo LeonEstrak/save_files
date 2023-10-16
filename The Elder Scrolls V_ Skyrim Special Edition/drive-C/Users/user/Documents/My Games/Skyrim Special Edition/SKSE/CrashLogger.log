@@ -1,0 +1,4 @@
+[2023-10-16 21:38:06.467] [Global] [info] [47448] [main.cpp:184] NOTE: This is not a crashlog. Crashlogs have the name crash-[TIMESTAMP].log
+[2023-10-16 21:38:06.467] [Global] [info] [47448] [main.cpp:185] CrashLogger 1.8.0.0 Feb  1 2023 00:20:05 is loading...
+[2023-10-16 21:38:06.467] [Global] [info] [47448] [CrashHandler.cpp:553] installed crash handlers
+[2023-10-16 21:38:06.467] [Global] [info] [47448] [main.cpp:192] CrashLogger has finished loading.

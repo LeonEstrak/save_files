@@ -1,0 +1,60 @@
+Game version 1.6.640
+SKSE version 2.2.3
+Plugin version 0.9.1
+
+Initialising plugin...
+	Determining object layout...
+		sizeof(ObjectReference) = 0xa0
+		offsetof(Explosion, age) = 0xa8
+		offsetof(Explosion, duration) = 0xac
+		offsetof(Explosion, radius) = 0xb4
+		offsetof(Hazard, age) = 0xac
+		offsetof(Hazard, duration) = 0xb0
+		offsetof(Hazard, radius) = 0xb8
+		offsetof(Projectile, speedMult) = 0x194
+		offsetof(Projectile, age) = 0x19c
+		offsetof(Projectile, scale) = 0x1d0
+		sizeof(Projectile) = 0x1e0
+		offsetof(ConeProjectile, tanSpread) = 0x1e8
+		offsetof(ConeProjectile, initialRadius) = 0x1ec
+	Object layout determined.
+
+	Creating address table...
+		LookupRefByHandle: 0x13ae30
+		ObjectReference__Load3D: 0x2a3ce0
+		ObjectReference__Release3D: 0x2a46c0
+		NiRTTI_NiStringsExtraData: 0x30ad480
+		ModelReferenceEffect__DetachImpl: 0x57b890
+		ModelReferenceEffect__Unk57bcc0: 0x57bcc0
+		MemoryManager__Allocate: 0xc39940
+		MemoryManager__Free: 0xc39d90
+		MemoryManager__Get: 0x1089e0
+		BSFixedString__ctor: 0xc61360
+		BSFixedString__ctor_copy: 0xc61410
+		BSFixedString__assign: 0xc614f0
+		BSFixedString__assign_copy: 0xc615b0
+		BSFixedString__Release: 0xc62730
+	Address table created.
+
+	Attaching engine hooks...
+		Attaching detour to ModelReferenceEffect__DetachImpl...
+		Attaching detour to ModelReferenceEffect__Unk57bcc0...
+		Attaching detour to ObjectReference__Load3D...
+		Attaching detour to ObjectReference__Release3D...
+	Engine hooks attached.
+
+	Connecting to HDT-SMP...
+	Connection established.
+
+	Starting ForceFieldManager...
+		8 worker threads started.
+		Field types:
+			VORTEX
+			SPHERICAL
+			PLANAR_SPH
+			PLANAR_CYL
+			PLANAR_BOX
+			CYLINDRICAL
+	ForceFieldManager started.
+Initialisation complete.
+

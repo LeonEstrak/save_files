@@ -1,0 +1,34 @@
+[21:38:07:312] po3_Tweaks v1.8.0.1
+[21:38:07:312] Game version : 1-6-640-0
+[21:38:07:313] ******************PRELOAD PATCH*******************
+[21:38:07:522] *****************POST LOAD PATCH******************
+[21:38:07:522] 	[FIXES]
+[21:38:07:522] 		Installed distant ref load crash fix
+[21:38:07:522] 		Installed map marker placement fix
+[21:38:07:523] 		Installed 'Can't Be Taken' book flag fix
+[21:38:07:523] 		Installed projectile range fix
+[21:38:07:523] 		Installed combat dialogue fix
+[21:38:07:523] 		Installed IsFurnitureAnimType fix
+[21:38:07:523] 		Installed light attach crash fix
+[21:38:07:523] 		Installed effect shader z buffer fix
+[21:38:07:523] 		Installed toggle collision fix
+[21:38:07:523] 		Installed skinned decal delete fix
+[21:38:07:523] 		Installed jumping bonus fix
+[21:38:07:523] 		Installed toggle global AI fix
+[21:38:07:523] 		Installed use furniture in combat fix
+[21:38:07:523] 		Installed offensive spell AI fix
+[21:38:07:524] 		Installed editorID cache
+[21:38:07:524] 	[TWEAKS]
+[21:38:07:524] 		Installed dynamic snow material tweak
+[21:38:07:524] 	[EXPERIMENTAL]
+[21:38:07:590] ************PLUGIN COMPATIBILITY CHECK************
+[21:38:07:590] Scrambled Bugs : AttachHitEffect patch not enabled or found
+[21:38:07:590] ***************POST POST LOAD PATCH***************
+[21:38:07:590] 	[FIXES]
+[21:38:07:590] 		Installed no death dispel spell reapply fix
+[21:38:41:515] ********************FUNCTIONS*********************
+[21:38:41:516] Registered IsTweakInstalled
+[21:38:46:589] ****************DATA LOADED PATCH*****************
+[21:38:46:589] 	[FIXES]
+[21:38:46:589] 		Installed breathing sound fix
+[21:38:46:589] 	[TWEAKS]

@@ -1,0 +1,8 @@
+16.10.2023 21:38:07 [main.cpp:40] RaceMenuPlayerRotation version 1.2.0.0 is loading into 1.6.640.0
+16.10.2023 21:38:07 [main.cpp:24] Initializing message listener...
+16.10.2023 21:38:07 [main.cpp:27] Message listener successfully initialized
+16.10.2023 21:38:07 [config.hpp:30] Float value [General]fRotationAmount is 0.05
+16.10.2023 21:38:07 [config.hpp:22] Int value [Regular]iRegularButton is 257
+16.10.2023 21:38:07 [config.hpp:22] Int value [Gamepad]iGamepadButtonL is 276
+16.10.2023 21:38:07 [config.hpp:22] Int value [Gamepad]iGamepadButtonR is 279
+16.10.2023 21:38:07 [main.cpp:48] RaceMenuPlayerRotation loading done

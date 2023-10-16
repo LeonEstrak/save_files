@@ -1,0 +1,80 @@
+[21:38:07] [info] po3_PapyrusExtender v5.6.1.1
+[21:38:07] [info] Game version : 1-6-640-0
+[21:38:41] [info] **********FUNCTIONS***********
+[21:38:41] [info] Registered object types
+[21:38:41] [info] 	FootstepSet true
+[21:38:41] [info] 	LightingTemplate true
+[21:38:41] [info] 	Debris true
+[21:38:41] [info] 	MaterialObject true
+[21:38:41] [info] Registered activemagiceffect events
+[21:38:41] [info] Registered activemagiceffect functions
+[21:38:41] [info] Registered actor functions
+[21:38:41] [info] Registered actorbase functions
+[21:38:41] [info] Registered ammo functions
+[21:38:41] [info] Registered armor addon functions
+[21:38:41] [info] Registered alias events
+[21:38:41] [info] Registered alias functions
+[21:38:41] [info] Registered array functions
+[21:38:41] [info] Registered book functions
+[21:38:41] [info] Registered cell functions
+[21:38:41] [info] Registered debug functions
+[21:38:41] [info] Registered detection functions
+[21:38:41] [info] Registered effect shader functions
+[21:38:41] [info] Registered enchantment functions
+[21:38:41] [info] Registered form events
+[21:38:41] [info] Registered form functions
+[21:38:41] [info] Registered faction functions
+[21:38:41] [info] Registered furniture functions
+[21:38:41] [info] Registered game functions
+[21:38:41] [info] Registered graphic functions
+[21:38:41] [info] Registered hazard functions
+[21:38:41] [info] Registered leveled item functions
+[21:38:41] [info] Registered light functions
+[21:38:41] [info] Registered location functions
+[21:38:41] [info] Registered magiceffect functions
+[21:38:41] [info] Registered object reference functions
+[21:38:41] [info] Registered package functions
+[21:38:41] [info] Registered potion functions
+[21:38:41] [info] Registered projectile functions
+[21:38:41] [info] Registered quest functions
+[21:38:41] [info] Registered scroll functions
+[21:38:41] [info] Registered sound functions
+[21:38:41] [info] Registered spell functions
+[21:38:41] [info] Registered string functions
+[21:38:41] [info] Registered UI functions
+[21:38:41] [info] Registered utility functions
+[21:38:41] [info] Registered visual effect functions
+[21:38:41] [info] Registered weather functions
+[21:38:46] [info] ********SCRIPT EVENTS*********
+[21:38:46] [info] Registered struct RE::TESCellFullyLoadedEvent handler
+[21:38:46] [info] Registered struct RE::TESQuestStartStopEvent handler
+[21:38:46] [info] Registered struct RE::TESQuestStageEvent handler
+[21:38:46] [info] Registered struct RE::TESObjectLoadedEvent handler
+[21:38:46] [info] Registered struct RE::TESGrabReleaseEvent handler
+[21:38:46] [info] Registered struct RE::TESFurnitureEvent handler
+[21:38:46] [info] *********STORY EVENTS*********
+[21:38:46] [info] Registered struct RE::ActorKill::Event handler
+[21:38:46] [info] Registered struct RE::CriticalHit::Event handler
+[21:38:46] [info] Registered struct RE::DisarmedEvent::Event handler
+[21:38:46] [info] Registered struct RE::DragonSoulsGained::Event handler
+[21:38:46] [info] Registered struct RE::TESHarvestedEvent::ItemHarvested handler
+[21:38:46] [info] Registered struct RE::LevelIncrease::Event handler
+[21:38:46] [info] Registered struct RE::LocationDiscovery::Event handler
+[21:38:46] [info] Registered struct RE::ShoutAttack::Event handler
+[21:38:46] [info] Registered struct RE::SkillIncrease::Event handler
+[21:38:46] [info] Registered struct RE::SoulsTrapped::Event handler
+[21:38:46] [info] Registered struct RE::SpellsLearned::Event handler
+[21:38:46] [info] ********HOOKED EVENTS*********
+[21:38:46] [info] Hooked Fall Damage
+[21:38:46] [info] Hooked Item Crafted
+[21:38:46] [info] Hooked Book Read
+[21:38:46] [info] Hooked Actor Resurrect
+[21:38:46] [info] Hooked Actor Reanimate Start
+[21:38:46] [info] Hooked Actor Reanimate Stop
+[21:38:46] [info] Hooked Weather Change
+[21:38:46] [info] Hooked Magic Effect Apply
+[21:38:46] [info] Hooked Magic Hit
+[21:38:46] [info] Hooked Weapon Hit
+[21:38:46] [info] Hooked Fast Travel Start
+[21:38:46] [info] Installing detection hook
+[21:38:46] [info] Registered form deletion event handler

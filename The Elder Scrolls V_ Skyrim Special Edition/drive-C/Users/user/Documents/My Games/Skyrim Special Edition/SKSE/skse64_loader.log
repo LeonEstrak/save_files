@@ -1,0 +1,28 @@
+skse64 loader 02020030 01DA004AF217BDF8 6.2 (9200)
+config path = D:\Wabbajack\Ascensio\Stock Game\Data\SKSE\skse.ini
+procPath = D:\Wabbajack\Ascensio\Stock Game\\SkyrimSE.exe
+launching: SkyrimSE.exe (D:\Wabbajack\Ascensio\Stock Game\\SkyrimSE.exe)
+dwSignature = FEEF04BD
+dwStrucVersion = 00010000
+dwFileVersionMS = 00010006
+dwFileVersionLS = 02800000
+dwProductVersionMS = 00010006
+dwProductVersionLS = 02800000
+dwFileFlagsMask = 00000017
+dwFileFlags = 00000000
+dwFileOS = 00000004
+dwFileType = 00000001
+dwFileSubtype = 00000000
+dwFileDateMS = 00000000
+dwFileDateLS = 00000000
+productVersionStr = 1.6.640.0
+version = 0001000602800000
+product name = TESV: Skyrim
+steam exe
+dll = D:\Wabbajack\Ascensio\Stock Game\\skse64_1_6_640.dll
+main thread id = 47448
+hookBase = 00000186D76A0000
+loadLibraryAAddr = 00007FFC3B0192C0
+getProcAddressAddr = 00007FFC3B013C10
+hook thread complete
+launching

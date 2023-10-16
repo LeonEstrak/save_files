@@ -1,0 +1,27 @@
+[21:38:07:298] po3_SpellPerkItemDistributor v6.6.1.1
+[21:38:07:299] Game version : 1-6-640-0
+[21:38:07:503] *******************DEPENDENCIES*******************
+[21:38:07:503] powerofthree's Tweaks (po3_tweaks) detected : true
+[21:38:07:503] ***********************INI************************
+[21:38:07:518] 3 matching inis found
+[21:38:07:518] 	INI : Data\Elytra ENB Light_DISTR.ini
+[21:38:07:519] 	INI : Data\RealRabbitsHD_DISTR.ini
+[21:38:07:519] 	INI : Data\Sprites or Specters ENB Light_DISTR.ini
+[21:38:07:519] **********************HOOKS***********************
+[21:38:07:520] Installed actor load hooks
+[21:38:07:590] **********************MERGES**********************
+[21:38:07:590] Failed to dispatch message to MergeMapper
+[21:38:07:590] INFO - MergeMapper not detected
+[21:38:46:587] **********************LOOKUP**********************
+[21:38:46:588] Starting Spell lookup
+[21:38:46:588] 	[Elytra ENB Light_DISTR.ini] elytraGlowSpell1 FAIL - editorID doesn't exist
+[21:38:46:588] 	[Elytra ENB Light_DISTR.ini] elytraGlowSpell2 FAIL - editorID doesn't exist
+[21:38:46:588] 	[RealRabbitsHD_DISTR.ini] FSSkinChangerRabbitAbilitySpell FAIL - editorID doesn't exist
+[21:38:46:588] 	[Sprites or Specters ENB Light_DISTR.ini] wSkeever_spectralDraugrSpell FAIL - editorID doesn't exist
+[21:38:46:588] 	[Sprites or Specters ENB Light_DISTR.ini] wSkeever_spectralDogSpell FAIL - editorID doesn't exist
+[21:38:46:588] 	[Sprites or Specters ENB Light_DISTR.ini] wSkeever_anomalySpell FAIL - editorID doesn't exist
+[21:38:46:588] 	[Sprites or Specters ENB Light_DISTR.ini] wSkeever_wispSpell FAIL - editorID doesn't exist
+[21:38:46:588] 	[Sprites or Specters ENB Light_DISTR.ini] wSkeever_wispMotherSpell FAIL - editorID doesn't exist
+[21:38:46:588] 	[Sprites or Specters ENB Light_DISTR.ini] wSkeever_soulCairnWispSpell FAIL - editorID doesn't exist
+[21:38:46:588] 	[Sprites or Specters ENB Light_DISTR.ini] wSkeever_stormAtronachSpell FAIL - editorID doesn't exist
+[21:38:46:588] 	[Sprites or Specters ENB Light_DISTR.ini] wSkeever_flameAtronachSpell FAIL - editorID doesn't exist

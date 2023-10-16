@@ -1,0 +1,9 @@
+[info] po3_SplashesOfSkyrim v1.4.0.1
+[info] Game version : 1-6-640-0
+[info] Installed class Splashes::ProjectileManager<class RE::MissileProjectile,0>
+[info] Installed class Splashes::ProjectileManager<class RE::FlameProjectile,1>
+[info] Installed class Splashes::ProjectileManager<class RE::ConeProjectile,2>
+[info] Installed class Splashes::ProjectileManager<class RE::ArrowProjectile,3>
+[info] Installed class Splashes::ProjectileManager<class RE::BeamProjectile,4>
+[info] Installed class Splashes::ExplosionManager
+[info] Patching 81 water records to use displacement
