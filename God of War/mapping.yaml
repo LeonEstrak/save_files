@@ -5,11 +5,11 @@ drives:
   drive-E: "E:"
 backups:
   - name: "."
-    when: "2023-10-15T11:45:39.358491900Z"
+    when: "2023-10-15T17:58:15.224276600Z"
     os: windows
     files:
       "C:/Users/user/Saved Games/God of War/6300451/game.sav":
-        hash: 220bca546015ea8660f144dcf9e230c24baefec8
+        hash: b9e5face2e4a768bb8c108bac7dc1385f1ca4822
         size: 33554400
       "C:/Users/user/Saved Games/God of War/desktop.ini":
         hash: 7162ddec9468d1caa540bf90f1f662469d99f0a2
