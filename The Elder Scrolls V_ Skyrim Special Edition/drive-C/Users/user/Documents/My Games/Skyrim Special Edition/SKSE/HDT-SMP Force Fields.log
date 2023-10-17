@@ -44,17 +44,3 @@ Initialising plugin...
 	Engine hooks attached.
 
 	Connecting to HDT-SMP...
-	Connection established.
-
-	Starting ForceFieldManager...
-		8 worker threads started.
-		Field types:
-			VORTEX
-			SPHERICAL
-			PLANAR_SPH
-			PLANAR_CYL
-			PLANAR_BOX
-			CYLINDRICAL
-	ForceFieldManager started.
-Initialisation complete.
-

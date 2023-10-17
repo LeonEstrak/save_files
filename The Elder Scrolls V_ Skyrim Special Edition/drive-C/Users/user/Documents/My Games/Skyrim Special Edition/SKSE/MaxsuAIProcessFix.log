@@ -1,18 +1,2 @@
 [info] Loaded plugin
 [info] Register Event Call Back!
-[info] Data Load CallBack Trigger!
-[info] Call AI Process Data Handler Constructor!
-[info] Set Minimum Trigger Hours to 2 from INI
-[info] Set UpdateAfterWaiting to true
-[info] Set UpdateAfterSleeping to true
-[info] Set UpdateAfterFastTravel to true
-[info] Set UpdateModAddNPCs to true
-[info] Get AI Overhaul Mod Name is : AI Overhaul.esp
-[info] Init AI Process Data Handler!
-[info] Register MapMenu OpenClose Event
-[info] Register WaitStart Event Sink!
-[info] Register WaitStop Event Sink!
-[info] Register Wait Start Stop Event
-[info] Register SleepStart Event Sink!
-[info] Register SleepStop Event Sink!
-[info] Register Sleep Start Stop Event
