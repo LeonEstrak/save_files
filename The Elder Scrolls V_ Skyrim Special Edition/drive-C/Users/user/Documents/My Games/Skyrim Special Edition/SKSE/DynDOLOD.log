@@ -4,3 +4,7 @@ Trampoline initialized.
 Default Trampoline => 14B / 32B (43.75%)
 DynDOLOD Patch installed.
 DynDOLOD Events installed.
+DynDOLOD Papyrus functions installed.
+Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_worlds.txt
+Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_tamriel.txt
+Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_tamriel_objects.txt

@@ -1,5 +1,8 @@
 main.cpp(82): [info] MCMHelper v1-4-0-0
 SettingStore.cpp(7): [info] ModSettingStore initializing.
 SettingStore.cpp(337): [info] Number of mod setting files: 3
-SettingStore.cpp(34): [info] Registered 200 mod settings in 1 ms.
+SettingStore.cpp(34): [info] Registered 200 mod settings in 3 ms.
 KeybindManager.cpp(49): [info] Loaded keybind registrations in 0 ms.
+RegisterFuncs.cpp(10): [info] Registered Papyrus functions
+ConfigStore.cpp(13): [info] ModConfigStore initializing.
+ConfigStore.cpp(85): [info] Registered 4 mod configs in 2 ms.

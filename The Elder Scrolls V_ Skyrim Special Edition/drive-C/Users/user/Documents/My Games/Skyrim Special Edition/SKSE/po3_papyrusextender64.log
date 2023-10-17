@@ -1,2 +1,83 @@
-[21:44:22] [info] po3_PapyrusExtender v5.6.1.1
-[21:44:22] [info] Game version : 1-6-640-0
+[19:34:06] [info] po3_PapyrusExtender v5.6.1.1
+[19:34:06] [info] Game version : 1-6-640-0
+[19:34:36] [info] **********FUNCTIONS***********
+[19:34:36] [info] Registered object types
+[19:34:36] [info] 	FootstepSet true
+[19:34:36] [info] 	LightingTemplate true
+[19:34:36] [info] 	Debris true
+[19:34:36] [info] 	MaterialObject true
+[19:34:36] [info] Registered activemagiceffect events
+[19:34:36] [info] Registered activemagiceffect functions
+[19:34:36] [info] Registered actor functions
+[19:34:36] [info] Registered actorbase functions
+[19:34:36] [info] Registered ammo functions
+[19:34:36] [info] Registered armor addon functions
+[19:34:36] [info] Registered alias events
+[19:34:36] [info] Registered alias functions
+[19:34:36] [info] Registered array functions
+[19:34:36] [info] Registered book functions
+[19:34:36] [info] Registered cell functions
+[19:34:36] [info] Registered debug functions
+[19:34:36] [info] Registered detection functions
+[19:34:36] [info] Registered effect shader functions
+[19:34:36] [info] Registered enchantment functions
+[19:34:36] [info] Registered form events
+[19:34:36] [info] Registered form functions
+[19:34:36] [info] Registered faction functions
+[19:34:36] [info] Registered furniture functions
+[19:34:36] [info] Registered game functions
+[19:34:36] [info] Registered graphic functions
+[19:34:36] [info] Registered hazard functions
+[19:34:36] [info] Registered leveled item functions
+[19:34:36] [info] Registered light functions
+[19:34:36] [info] Registered location functions
+[19:34:36] [info] Registered magiceffect functions
+[19:34:36] [info] Registered object reference functions
+[19:34:36] [info] Registered package functions
+[19:34:36] [info] Registered potion functions
+[19:34:36] [info] Registered projectile functions
+[19:34:36] [info] Registered quest functions
+[19:34:36] [info] Registered scroll functions
+[19:34:36] [info] Registered sound functions
+[19:34:36] [info] Registered spell functions
+[19:34:36] [info] Registered string functions
+[19:34:36] [info] Registered UI functions
+[19:34:36] [info] Registered utility functions
+[19:34:36] [info] Registered visual effect functions
+[19:34:36] [info] Registered weather functions
+[19:34:46] [info] ********SCRIPT EVENTS*********
+[19:34:46] [info] Registered struct RE::TESCellFullyLoadedEvent handler
+[19:34:46] [info] Registered struct RE::TESQuestStartStopEvent handler
+[19:34:46] [info] Registered struct RE::TESQuestStageEvent handler
+[19:34:46] [info] Registered struct RE::TESObjectLoadedEvent handler
+[19:34:46] [info] Registered struct RE::TESGrabReleaseEvent handler
+[19:34:46] [info] Registered struct RE::TESFurnitureEvent handler
+[19:34:46] [info] *********STORY EVENTS*********
+[19:34:46] [info] Registered struct RE::ActorKill::Event handler
+[19:34:46] [info] Registered struct RE::CriticalHit::Event handler
+[19:34:46] [info] Registered struct RE::DisarmedEvent::Event handler
+[19:34:46] [info] Registered struct RE::DragonSoulsGained::Event handler
+[19:34:46] [info] Registered struct RE::TESHarvestedEvent::ItemHarvested handler
+[19:34:46] [info] Registered struct RE::LevelIncrease::Event handler
+[19:34:46] [info] Registered struct RE::LocationDiscovery::Event handler
+[19:34:46] [info] Registered struct RE::ShoutAttack::Event handler
+[19:34:46] [info] Registered struct RE::SkillIncrease::Event handler
+[19:34:46] [info] Registered struct RE::SoulsTrapped::Event handler
+[19:34:46] [info] Registered struct RE::SpellsLearned::Event handler
+[19:34:46] [info] ********HOOKED EVENTS*********
+[19:34:46] [info] Hooked Fall Damage
+[19:34:46] [info] Hooked Item Crafted
+[19:34:46] [info] Hooked Book Read
+[19:34:46] [info] Hooked Actor Resurrect
+[19:34:46] [info] Hooked Actor Reanimate Start
+[19:34:46] [info] Hooked Actor Reanimate Stop
+[19:34:46] [info] Hooked Weather Change
+[19:34:46] [info] Hooked Magic Effect Apply
+[19:34:46] [info] Hooked Magic Hit
+[19:34:46] [info] Hooked Weapon Hit
+[19:34:46] [info] Hooked Fast Travel Start
+[19:34:46] [info] Installing detection hook
+[19:34:46] [info] Registered form deletion event handler
+[19:34:51] [info] Finished reverting data
+[19:35:03] [info] Finished loading data
+[19:38:55] [info] Finished reverting data

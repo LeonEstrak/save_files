@@ -6,3 +6,4 @@
 [info] Installed class Splashes::ProjectileManager<class RE::ArrowProjectile,3>
 [info] Installed class Splashes::ProjectileManager<class RE::BeamProjectile,4>
 [info] Installed class Splashes::ExplosionManager
+[info] Patching 121 water records to use displacement

@@ -2,3 +2,45 @@ Loading EVLaS in AE mode.
 Loaded addresses from database.
 All hooks injected.
 Plugin loaded successfully.
+
+
+
+Doing climate update (15f)...
+Masser  active: 1
+Secunda active: 1
+
+Timings:
+ClimateRecord - SunriseStart: 5.5 (36)
+ClimateRecord - SunriseEnd:   7 (42)
+ClimateRecord - SunsetStart:  18 (108)
+ClimateRecord - SunsetEnd:    19.5 (114)
+
+DawnBegin: 5.5
+Dawn:      5.875
+Sunrise:   6.25
+Noon:      12.5
+Sunset:    18.75
+Dusk:      19.125
+DuskEnd:   19.5
+
+
+
+
+Doing climate update (812)...
+Masser  active: 1
+Secunda active: 1
+
+Timings:
+ClimateRecord - SunriseStart: 4.5 (30)
+ClimateRecord - SunriseEnd:   9 (54)
+ClimateRecord - SunsetStart:  17 (102)
+ClimateRecord - SunsetEnd:    21.5 (126)
+
+DawnBegin: 4.5
+Dawn:      5.625
+Sunrise:   6.75
+Noon:      13
+Sunset:    19.25
+Dusk:      20.375
+DuskEnd:   21.5
+

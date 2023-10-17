@@ -1,4 +1,58 @@
-[2023-10-16 21-44-21.964] [ info  ] FormListManipulator v1-7-0-0
-[2023-10-16 21-44-21.964] [ info  ] Runtime: Anniversary Edition
-[2023-10-16 21-44-22.475] [ error ] Failed to dispatch message to MergeMapper
-[2023-10-16 21-44-22.475] [ info  ] MergeMapper not detected
+[2023-10-17 19-34-05.706] [ info  ] FormListManipulator v1-7-0-0
+[2023-10-17 19-34-05.706] [ info  ] Runtime: Anniversary Edition
+[2023-10-17 19-34-06.372] [ error ] Failed to dispatch message to MergeMapper
+[2023-10-17 19-34-06.372] [ info  ] MergeMapper not detected
+[2023-10-17 19-34-45.744] [ info  ] KID is installed, waiting for KID to finish distribution...
+[2023-10-17 19-34-46.336] [ info  ] Starting FLM distribution since KID is done...
+[2023-10-17 19-34-46.336] [ info  ] --------------Looking for configs--------------
+[2023-10-17 19-34-46.349] [warning] Configs not found!
+[2023-10-17 19-34-46.349] [ info  ] --------------------PLANTS---------------------
+[2023-10-17 19-34-46.349] [ info  ] Total 0 new Plant added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] -----------------------------------------------
+[2023-10-17 19-34-46.349] [ info  ] ------------------BOY'S TOYS-------------------
+[2023-10-17 19-34-46.349] [ info  ] Total 0 new Boy's Toy added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] -----------------------------------------------
+[2023-10-17 19-34-46.349] [ info  ] ------------------GIRL'S TOYS------------------
+[2023-10-17 19-34-46.349] [ info  ] Total 0 new Girls's Toy added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] -----------------------------------------------
+[2023-10-17 19-34-46.349] [ info  ] ------------------HAIR COLORS------------------
+[2023-10-17 19-34-46.349] [ info  ] Total 0 new Hair Color added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] -----------------------------------------------
+[2023-10-17 19-34-46.349] [ info  ] ----------------ATRONACH FORGE-----------------
+[2023-10-17 19-34-46.349] [ info  ] Total 0 new Result added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] -----------------------------------------------
+[2023-10-17 19-34-46.349] [ info  ] --------ATRONACH FORGE WITH SIGIL STONE--------
+[2023-10-17 19-34-46.349] [ info  ] Total 0 new Result added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] -----------------------------------------------
+[2023-10-17 19-34-46.349] [ info  ] -------------------FORMLISTS-------------------
+[2023-10-17 19-34-46.349] [ info  ] Total 0 new Forms added to 0 FormLists, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] -----------------------------------------------
+[2023-10-17 19-34-46.349] [ info  ] --------------------SUMMARY--------------------
+[2023-10-17 19-34-46.349] [ info  ] 0 valid configs, 0 invalid. 0 total entries, 0 valid, 0 invalid, 0 filtered out.
+[2023-10-17 19-34-46.349] [ info  ] 0 FormLists, 0 valid, 0 invalid. 0 total Forms, 0 unique, 0 missing, 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] 0 Filters added, 0 duplicates, 0 not existing/invalid.
+[2023-10-17 19-34-46.349] [ info  ] 0 Forms Collections added, 0 duplicates, 0 not existing/invalid.
+[2023-10-17 19-34-46.349] [ info  ] 0 FromLists Aliases added, 0 duplicates, 0 not existing.
+[2023-10-17 19-34-46.349] [ info  ] 0 Forms Groups added, 0 duplicates, 0 not existing/invalid.
+[2023-10-17 19-34-46.349] [ info  ] 0 new Mod Events added, skipped 0 invalid.
+[2023-10-17 19-34-46.349] [ info  ] 0 new plants added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] 0 new Boy's Toys added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] 0 new Girl's Toys added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] 0 new Hair Colors added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] 0 new Atronach Forge recipes added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] 0 new Atronach Forge recipes with Sigil Stone added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] 0 new Dragonborn Spider Crafting recipes added, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] 0 new Forms added to 0 FormLists, skipped 0 duplicates.
+[2023-10-17 19-34-46.349] [ info  ] --------------------- ^_^ ---------------------
+[2023-10-17 19-35-03.941] [ info  ] -----------------------------------------------
+[2023-10-17 19-35-03.941] [ info  ] -----GAME LOADED - SYNCHRONIZES FORM LISTS-----
+[2023-10-17 19-35-03.941] [ info  ] 0 new plants added, skipped 0 duplicates.
+[2023-10-17 19-35-03.941] [ info  ] 0 new Boy's Toys added, skipped 0 duplicates.
+[2023-10-17 19-35-03.941] [ info  ] 0 new Girl's Toys added, skipped 0 duplicates.
+[2023-10-17 19-35-03.941] [ info  ] 0 new Hair Colors added, skipped 0 duplicates.
+[2023-10-17 19-35-03.941] [ info  ] 0 new Atronach Forge recipes added, skipped 0 duplicates.
+[2023-10-17 19-35-03.941] [ info  ] 0 new Atronach Forge recipes with Sigil Stone added, skipped 0 duplicates.
+[2023-10-17 19-35-03.941] [ info  ] 0 new Dragonborn Spider Crafting recipes added, skipped 0 duplicates.
+[2023-10-17 19-35-03.941] [ info  ] 0 new Forms added to 0 FormLists, skipped 0 duplicates.
+[2023-10-17 19-35-03.941] [ info  ] Total 0 new Forms added, skipped 0 duplicates.
+[2023-10-17 19-35-03.941] [ info  ] --------------------- ^_^ ---------------------
