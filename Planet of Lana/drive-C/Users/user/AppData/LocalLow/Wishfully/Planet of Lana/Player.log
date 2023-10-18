@@ -11,11 +11,11 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 New input system (experimental) initialized
 <RI> Initialized touch support.
-UnloadTime: 4.141400 ms
+UnloadTime: 0.709100 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4321.
-Total: 1.801100 ms (FindLiveObjects: 0.135300 ms CreateObjectMapping: 0.059400 ms MarkObjects: 1.587600 ms  DeleteObjects: 0.018700 ms)
+Total: 0.918600 ms (FindLiveObjects: 0.108800 ms CreateObjectMapping: 0.060900 ms MarkObjects: 0.733500 ms  DeleteObjects: 0.015200 ms)
 
 [OnLoad] slot_1.sav - LoadFail
 UnityEngine.Logger:Log(LogType, Object)
@@ -43,188 +43,17 @@ Failed to create agent because there is no valid NavMesh
 Failed to create agent because it is not close enough to the NavMesh
 Southgrove.LiveNavMeshes.LiveNavMeshDynamicBuilder:OnEnable()
 
-[ line -1892161704]
-
-Unloading 17 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 74849.
-Total: 43.828100 ms (FindLiveObjects: 2.493600 ms CreateObjectMapping: 0.576800 ms MarkObjects: 40.638100 ms  DeleteObjects: 0.119400 ms)
-
-Bonk!
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-PoL.Characters.Lana.<Enumerator>d__4:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Unloading 26 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 4870 unused Assets to reduce memory usage. Loaded Objects now: 113400.
-Total: 55.639800 ms (FindLiveObjects: 4.043500 ms CreateObjectMapping: 1.107500 ms MarkObjects: 46.921800 ms  DeleteObjects: 3.566500 ms)
-
-Unloading 25 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 340 unused Assets to reduce memory usage. Loaded Objects now: 141942.
-Total: 58.549700 ms (FindLiveObjects: 5.315100 ms CreateObjectMapping: 0.806300 ms MarkObjects: 52.029700 ms  DeleteObjects: 0.398600 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 129301.
-Total: 54.775300 ms (FindLiveObjects: 5.208100 ms CreateObjectMapping: 0.591300 ms MarkObjects: 48.826300 ms  DeleteObjects: 0.149400 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 129301.
-Total: 55.163600 ms (FindLiveObjects: 4.515100 ms CreateObjectMapping: 0.593500 ms MarkObjects: 50.006500 ms  DeleteObjects: 0.048500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 129301.
-Total: 56.609800 ms (FindLiveObjects: 4.756300 ms CreateObjectMapping: 0.570500 ms MarkObjects: 51.227600 ms  DeleteObjects: 0.055300 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 129301.
-Total: 55.296700 ms (FindLiveObjects: 4.730900 ms CreateObjectMapping: 0.604500 ms MarkObjects: 49.912500 ms  DeleteObjects: 0.048600 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 129301.
-Total: 55.372000 ms (FindLiveObjects: 4.975500 ms CreateObjectMapping: 0.560900 ms MarkObjects: 49.777600 ms  DeleteObjects: 0.057700 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 129301.
-Total: 55.467400 ms (FindLiveObjects: 4.605100 ms CreateObjectMapping: 0.592900 ms MarkObjects: 50.221700 ms  DeleteObjects: 0.047500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 129301.
-Total: 54.839600 ms (FindLiveObjects: 4.514500 ms CreateObjectMapping: 0.562600 ms MarkObjects: 49.692800 ms  DeleteObjects: 0.069600 ms)
-
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because it is not close enough to the NavMesh
-Southgrove.LiveNavMeshes.LiveNavMeshDynamicBuilder:OnEnable()
-
-[ line -1892161704]
-
-Unloading 27 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 129285.
-Total: 55.564700 ms (FindLiveObjects: 4.060300 ms CreateObjectMapping: 0.581700 ms MarkObjects: 50.749300 ms  DeleteObjects: 0.173200 ms)
-
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because it is not close enough to the NavMesh
-Southgrove.LiveNavMeshes.LiveNavMeshDynamicBuilder:OnEnable()
-
-[ line -1892161704]
-
-Unloading 27 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 142 unused Assets to reduce memory usage. Loaded Objects now: 129285.
-Total: 55.571200 ms (FindLiveObjects: 4.015000 ms CreateObjectMapping: 0.579900 ms MarkObjects: 50.654700 ms  DeleteObjects: 0.321500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 129289.
-Total: 55.479400 ms (FindLiveObjects: 3.996100 ms CreateObjectMapping: 0.583000 ms MarkObjects: 50.850500 ms  DeleteObjects: 0.049700 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 129289.
-Total: 55.888800 ms (FindLiveObjects: 4.201300 ms CreateObjectMapping: 0.600900 ms MarkObjects: 51.036800 ms  DeleteObjects: 0.049700 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 129289.
-Total: 55.726300 ms (FindLiveObjects: 4.326800 ms CreateObjectMapping: 0.612700 ms MarkObjects: 50.729400 ms  DeleteObjects: 0.057400 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 129289.
-Total: 57.697600 ms (FindLiveObjects: 5.305100 ms CreateObjectMapping: 0.723700 ms MarkObjects: 51.607600 ms  DeleteObjects: 0.061100 ms)
-
-[Markup not searchable] Interactable Mui Push Vine (1) (PoL.Gameplay.Markup.MuiPushVineInteractionMarkup) @ [Gameplay] PoL.Gameplay.TriggerActionActivateInteraction /// Trigger Mui Push [Actions:1] (1) ///
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-PoL.Gameplay.ActionTrigger:ExecuteState(ActionStates, Collider)
-PoL.Gameplay.AbstractTrigger:OnTriggerEnter(Collider)
-
-Unloading 31 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 1129 unused Assets to reduce memory usage. Loaded Objects now: 156637.
-Total: 66.914800 ms (FindLiveObjects: 5.996600 ms CreateObjectMapping: 0.864000 ms MarkObjects: 58.029100 ms  DeleteObjects: 2.025000 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 156637.
-Total: 64.090400 ms (FindLiveObjects: 5.602200 ms CreateObjectMapping: 0.560700 ms MarkObjects: 57.863000 ms  DeleteObjects: 0.064500 ms)
-
-Scout Robot/ScoutRobotJumpBehaviour@0: [Up] Jump Start
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-Southgrove.BehaviourMachines.Behaviour:Log(String, Boolean, GameObject)
-PoL.Robots.ScoutRobot.<Enumerator>d__4:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-Southgrove.BehaviourMachines.BehaviourMachine`1:ActivateBehaviour(Behaviour)
-PoL.Robots.ScoutRobot.ScoutRobotAttackingBehaviour:OnUpdate()
-Southgrove.BehaviourMachines.BehaviourMachine`1:Update()
-
-Scout Robot/ScoutRobotJumpBehaviour@0: [Up] <color=yellow>Waiting for Transition</color>
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-Southgrove.BehaviourMachines.Behaviour:Log(String, Boolean, GameObject)
-PoL.Robots.ScoutRobot.<Enumerator>d__4:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-Southgrove.BehaviourMachines.BehaviourMachine`1:ActivateBehaviour(Behaviour)
-PoL.Robots.ScoutRobot.ScoutRobotAttackingBehaviour:OnUpdate()
-Southgrove.BehaviourMachines.BehaviourMachine`1:Update()
-
-Scout Robot/ScoutRobotJumpBehaviour@1: [Up] Jump Anticipation
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-Southgrove.BehaviourMachines.Behaviour:Log(String, Boolean, GameObject)
-PoL.Robots.ScoutRobot.<Enumerator>d__4:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Scout Robot/ScoutRobotJumpBehaviour@40: [Up] Pre Transition
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-Southgrove.BehaviourMachines.Behaviour:Log(String, Boolean, GameObject)
-PoL.Robots.ScoutRobot.<Enumerator>d__4:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Scout Robot/ScoutRobotJumpBehaviour@97: [Up] Post Transition
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-Southgrove.BehaviourMachines.Behaviour:Log(String, Boolean, GameObject)
-PoL.Robots.ScoutRobot.<Enumerator>d__4:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Scout Robot/ScoutRobotJumpBehaviour@97: [Up] Waiting for Animation & Ground
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-Southgrove.BehaviourMachines.Behaviour:Log(String, Boolean, GameObject)
-PoL.Robots.ScoutRobot.<Enumerator>d__4:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Scout Robot/ScoutRobotJumpBehaviour@100: [Up] Jump Completed - Velocity: (-0.4, -3.8, 0.0)
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-Southgrove.BehaviourMachines.Behaviour:Log(String, Boolean, GameObject)
-PoL.Robots.ScoutRobot.<Enumerator>d__4:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-Scout Robot/ScoutRobotJumpBehaviour@100: Activating previous behaviour: PoL.Robots.ScoutRobot.ScoutRobotAttackingBehaviour
-UnityEngine.Logger:Log(LogType, Object, Object)
-UnityEngine.Debug:Log(Object, Object)
-Southgrove.BehaviourMachines.Behaviour:Log(String, Boolean, GameObject)
-PoL.Robots.ScoutRobot.<Enumerator>d__4:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+[ line -651237048]
 
 Unloading 14 Unused Serialized files (Serialized files now loaded: 4)
 
-Unloading 593 unused Assets to reduce memory usage. Loaded Objects now: 68789.
-Total: 44.595100 ms (FindLiveObjects: 2.459600 ms CreateObjectMapping: 0.429100 ms MarkObjects: 40.528500 ms  DeleteObjects: 1.177500 ms)
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 68772.
+Total: 41.755000 ms (FindLiveObjects: 2.141900 ms CreateObjectMapping: 0.543700 ms MarkObjects: 38.923900 ms  DeleteObjects: 0.145200 ms)
+
+Unloading 32 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 386 unused Assets to reduce memory usage. Loaded Objects now: 155842.
+Total: 59.190100 ms (FindLiveObjects: 4.949500 ms CreateObjectMapping: 1.246200 ms MarkObjects: 52.534900 ms  DeleteObjects: 0.459300 ms)
 
 [Not implemented yet] @ FMOD Audio Service (PoL.Audio.FMODAudioService)
 UnityEngine.Logger:Log(LogType, Object)
@@ -234,8 +63,8 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
 
-Unloading 1724 unused Assets to reduce memory usage. Loaded Objects now: 10484.
-Total: 26.047300 ms (FindLiveObjects: 0.428500 ms CreateObjectMapping: 0.145800 ms MarkObjects: 22.907500 ms  DeleteObjects: 2.565100 ms)
+Unloading 1920 unused Assets to reduce memory usage. Loaded Objects now: 10423.
+Total: 27.090500 ms (FindLiveObjects: 0.459800 ms CreateObjectMapping: 0.228400 ms MarkObjects: 22.364000 ms  DeleteObjects: 4.037900 ms)
 
 [OnLoad] slot_1.sav - LoadFail
 UnityEngine.Logger:Log(LogType, Object)
@@ -260,14 +89,14 @@ PoL.Core.<Enumerator>d__4:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Setting up 10 worker threads for Enlighten.
-  Thread -> id: 21fc -> priority: 1 
-  Thread -> id: 34ec -> priority: 1 
-  Thread -> id: 2094 -> priority: 1 
-  Thread -> id: 2fb4 -> priority: 1 
-  Thread -> id: 6438 -> priority: 1 
-  Thread -> id: 2d68 -> priority: 1 
-  Thread -> id: 44f8 -> priority: 1 
-  Thread -> id: 1364 -> priority: 1 
-  Thread -> id: 6dac -> priority: 1 
-  Thread -> id: 58a8 -> priority: 1 
+  Thread -> id: 5fac -> priority: 1 
+  Thread -> id: 548c -> priority: 1 
+  Thread -> id: 70dc -> priority: 1 
+  Thread -> id: 70cc -> priority: 1 
+  Thread -> id: 258c -> priority: 1 
+  Thread -> id: 5f20 -> priority: 1 
+  Thread -> id: 163c -> priority: 1 
+  Thread -> id: 6fc0 -> priority: 1 
+  Thread -> id: 6140 -> priority: 1 
+  Thread -> id: 7ec8 -> priority: 1 
 Curl error 42: Callback aborted
