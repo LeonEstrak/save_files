@@ -1,0 +1,15 @@
+---
+name: Townscaper
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-10-18T11:54:28.818180500Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/LocalLow/Oskar Stalberg/Townscaper/Saves/Town5kP2Y0RZ5cRyZZtk.scape":
+        hash: 3d713576573c5c029349b79dd6c79a531ae814a8
+        size: 55806
+    registry:
+      hash: ~
+    children: []
