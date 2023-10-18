@@ -17,16 +17,150 @@
 [info] Register SleepStop Event Sink!
 [info] Register Sleep Start Stop Event
 [info] Start Loading into the Game
-[debug] Last Record Time is 0.68232554
-[debug] Last Record Time is 0.73718256
-[debug] Map Menu Close!
-[debug] Last Record Time is 0.7504128
-[debug] Map Menu Close!
-[debug] Last Record Time is 0.7515155
+[debug] Last Record Time is 1.3370247
+[info] Saving the Game!
+[info] Saving the Game!
+[debug] Wait Start
+[debug] Last Record Time is 1.7331226
+[debug] High Process Actor Nums = 24
+[debug] ActorMap Size is 1
+[debug] Add a Loaded actor ID 78780, Name Whiterun Guard
+[debug] ActorMap Size is 2
+[debug] Add a Loaded actor ID 2c928, Name Nimriel
+[debug] ActorMap Size is 3
+[debug] Add a Loaded actor ID 13698, Name Bjorlam
+[debug] ActorMap Size is 4
+[debug] Add a Loaded actor ID 2c927, Name Severio Pelagia
+[debug] ActorMap Size is 5
+[debug] Add a Loaded actor ID 1a69c, Name Skulvar Sable-Hilt
+[debug] ActorMap Size is 6
+[debug] Add a Loaded actor ID 1a69e, Name Jervar
+[debug] ActorMap Size is 7
+[debug] Add a Loaded actor ID dc9e4, Name Whiterun Guard
+[debug] ActorMap Size is 8
+[debug] Add a Loaded actor ID dc9e5, Name Whiterun Guard
+[debug] ActorMap Size is 9
+[debug] Add a Loaded actor ID 78782, Name Whiterun Guard
+[debug] ActorMap Size is 10
+[debug] Add a Loaded actor ID 78781, Name Whiterun Guard
+[debug] ActorMap Size is 11
+[debug] Add a Loaded actor ID 1b744, Name Whiterun Guard
+[debug] ActorMap Size is 12
+[debug] Add a Loaded actor ID 1b747, Name Whiterun Guard
+[debug] ActorMap Size is 13
+[debug] Add a Loaded actor ID 1b743, Name Whiterun Guard
+[debug] ActorMap Size is 14
+[debug] Add a Loaded actor ID 2c929, Name Gloth
+[debug] ActorMap Size is 15
+[debug] Add a Loaded actor ID 1b5f0, Name Whiterun Guard
+[debug] ActorMap Size is 16
+[debug] Add a Loaded actor ID 10e2b6, Name Lillith Maiden-Loom
+[debug] Find 16 Loaded actors to update in total
+[debug] ActorMap Size is 17
+[debug] Add a LaterIn actor ID 1a68b, Name Alfhild Battle-Born
+[debug] Wait Finish
+[info] Last Record Time is 1.7331226, Current Game Time is 1.9831226
+[info] Wait Lasting Time is 0.25
+[info] Update Actor Pos Trigger!
+[debug] Start Updating Actor
+[debug] Find a actor ID 2c927, Name Severio Pelagia
+[debug] current AI Package ID is 947146, Last AI Pakcage ID is 1041065
+[debug] Actor is in Exterior! Skip MoveToEditorLocation!
+[debug] Move Actor To Nearest Navemesh Position!
+[debug] Updating a Actor!
+[debug] Update Actor To Pos!
+[debug] Update actor ID 2c927, Name Severio Pelagia
+[debug] Find a actor ID 78780, Name Whiterun Guard
+[debug] current AI Package ID is 362465, Last AI Pakcage ID is 362465
+[debug] Actor AI Package remain the same, Skip Position Update!
+[debug] Fail to Update actor ID 78780, Name Whiterun Guard
+[debug] Find a actor ID 2c928, Name Nimriel
+[debug] current AI Package ID is 182570, Last AI Pakcage ID is 1041065
+[debug] Actor is in Exterior! Skip MoveToEditorLocation!
+[debug] Move Actor To Nearest Navemesh Position!
+[debug] Updating a Actor!
+[debug] Update Actor To Pos!
+[debug] Update actor ID 2c928, Name Nimriel
+[debug] Find a actor ID 13698, Name Bjorlam
+[debug] current AI Package ID is 469513, Last AI Pakcage ID is 469513
+[debug] Actor AI Package remain the same, Skip Position Update!
+[debug] Fail to Update actor ID 13698, Name Bjorlam
+[debug] Find a actor ID dc9e5, Name Whiterun Guard
+[debug] current AI Package ID is 888587, Last AI Pakcage ID is 888587
+[debug] Actor AI Package remain the same, Skip Position Update!
+[debug] Fail to Update actor ID dc9e5, Name Whiterun Guard
+[debug] Find a actor ID 1a69c, Name Skulvar Sable-Hilt
+[debug] current AI Package ID is 182560, Last AI Pakcage ID is 182558
+[debug] Actor is in Exterior! Skip MoveToEditorLocation!
+[debug] Move Actor To Nearest Navemesh Position!
+[debug] Updating a Actor!
+[debug] Update Actor To Pos!
+[debug] Update actor ID 1a69c, Name Skulvar Sable-Hilt
+[debug] Find a actor ID 1a69e, Name Jervar
+[debug] current AI Package ID is 182562, Last AI Pakcage ID is 182561
+[debug] Actor is in Exterior! Skip MoveToEditorLocation!
+[debug] Move Actor To Nearest Navemesh Position!
+[debug] Updating a Actor!
+[debug] Update Actor To Pos!
+[debug] Update actor ID 1a69e, Name Jervar
+[debug] Find a actor ID dc9e4, Name Whiterun Guard
+[debug] current AI Package ID is 858506, Last AI Pakcage ID is 858506
+[debug] Actor AI Package remain the same, Skip Position Update!
+[debug] Fail to Update actor ID dc9e4, Name Whiterun Guard
+[debug] Find a actor ID 78782, Name Whiterun Guard
+[debug] current AI Package ID is 362465, Last AI Pakcage ID is 362465
+[debug] Actor AI Package remain the same, Skip Position Update!
+[debug] Fail to Update actor ID 78782, Name Whiterun Guard
+[debug] Find a actor ID 78781, Name Whiterun Guard
+[debug] current AI Package ID is 362465, Last AI Pakcage ID is 362465
+[debug] Actor AI Package remain the same, Skip Position Update!
+[debug] Fail to Update actor ID 78781, Name Whiterun Guard
+[debug] Find a actor ID 1b744, Name Whiterun Guard
+[debug] Actor not Loaded 3D!
+[debug] Fail to Update actor ID 1b744, Name Whiterun Guard
+[debug] Find a actor ID 1b747, Name Whiterun Guard
+[debug] Actor not Loaded 3D!
+[debug] Fail to Update actor ID 1b747, Name Whiterun Guard
+[debug] Find a actor ID 1b743, Name Whiterun Guard
+[debug] Actor not Loaded 3D!
+[debug] Fail to Update actor ID 1b743, Name Whiterun Guard
+[debug] Find a actor ID 2c929, Name Gloth
+[debug] current AI Package ID is 182572, Last AI Pakcage ID is 182571
+[debug] Actor is in Exterior! Skip MoveToEditorLocation!
+[debug] Move Actor To Nearest Navemesh Position!
+[debug] Updating a Actor!
+[debug] Update Actor To Pos!
+[debug] Update actor ID 2c929, Name Gloth
+[debug] Find a actor ID 1b5f0, Name Whiterun Guard
+[debug] current AI Package ID is 362465, Last AI Pakcage ID is 362465
+[debug] Actor AI Package remain the same, Skip Position Update!
+[debug] Fail to Update actor ID 1b5f0, Name Whiterun Guard
+[debug] Find a actor ID 10e2b6, Name Lillith Maiden-Loom
+[debug] Actor not Loaded 3D!
+[debug] Fail to Update actor ID 10e2b6, Name Lillith Maiden-Loom
+[debug] Find a actor ID 1a68b, Name Alfhild Battle-Born
+[debug] Actor Current AI is Not in High Level! Skip Update!
+[debug] Fail to Update actor ID 1a68b, Name Alfhild Battle-Born
+[debug] Successfully Update a actor ID 2c927, Name Severio Pelagia
+[debug] Successfully Update a actor ID 2c928, Name Nimriel
+[debug] Successfully Update a actor ID 1a69c, Name Skulvar Sable-Hilt
+[debug] Successfully Update a actor ID 1a69e, Name Jervar
+[debug] Successfully Update a actor ID 2c929, Name Gloth
+[debug] Update 5 actors in total
+[debug] Last Record Time is 2.0053456
 [debug] Map Menu Close!
 [info] Saving the Game!
 [info] Start Loading into the Game
-[debug] Last Record Time is 0.85901976
-[info] Start Loading into the Game
-[debug] Last Record Time is 0.85901976
+[debug] Last Record Time is 2.077043
+[info] Saving the Game!
+[info] Saving the Game!
+[info] Saving the Game!
+[info] Saving the Game!
+[info] Saving the Game!
+[info] Saving the Game!
+[info] Saving the Game!
+[info] Saving the Game!
+[debug] Last Record Time is 2.3884838
+[debug] Map Menu Close!
+[info] Saving the Game!
 [info] Saving the Game!

@@ -50,8 +50,8 @@ SSEDisplayTweaks version 0.5.12 (runtime 1.6.640.0)
 [Trampoline] branch: 234/512, codegen: 791/1536
 [Controls] [Patch] [SlowTimeCameraMovement] Writing..
 [Controls] [Patch] [SlowTimeCameraMovement] OK
-[Window] [0x170954] Message hook installed
-[Window] [0x170954] Window created [Skyrim Special Edition] (0,0,1920,1080)
+[Window] [0x707EA] Message hook installed
+[Window] [0x707EA] Window created [Skyrim Special Edition] (0,0,1920,1080)
 [Render] Adapter: AMD Radeon RX 6800 XT
 [Render] [D3D] Requesting mode: 1920x1080@0 | VSync: 1 | Windowed: 1
 [Render] [D3D] SwapEffect: flip_discard | SwapBufferCount: 3 | Tearing: 0 | Flags: 0x00000002

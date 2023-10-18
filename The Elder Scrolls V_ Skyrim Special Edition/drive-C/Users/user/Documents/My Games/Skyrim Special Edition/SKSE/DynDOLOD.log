@@ -6,5 +6,9 @@ DynDOLOD Patch installed.
 DynDOLOD Events installed.
 DynDOLOD Papyrus functions installed.
 Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_worlds.txt
-Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_tamriel.txt
 Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_tamriel_objects.txt
+Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_tamriel.txt
+Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_deepwoodredoubtworld.txt
+Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_skuldafnworld.txt
+Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_deepwoodredoubtworld_objects.txt
+Reading file Data/SKSE/Plugins/DynDOLOD_Data/DynDOLOD_skuldafnworld_objects.txt

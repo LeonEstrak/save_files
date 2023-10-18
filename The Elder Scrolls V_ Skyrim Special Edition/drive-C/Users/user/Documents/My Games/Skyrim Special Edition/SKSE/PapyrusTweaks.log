@@ -1,32 +1,32 @@
-[19:40:14:048] PapyrusTweaks v4.1.0
-[19:40:14:048] loaded plugin
-[19:40:14:048] PapyrusOpsPerFrameHook hooked at address 7ff60e9fd311
-[19:40:14:048] PapyrusOpsPerFrameHook hooked at offset 139d311
-[19:40:14:048] FixToggleScriptsSaveHook for saves hooked at address 7ff60dfcb726
-[19:40:14:048] FixToggleScriptsSaveHook hooked at offset 96b726
-[19:40:14:048] FixToggleScriptsDumpHook for stack dumps hooked at address 7ff60dfcb9cc
-[19:40:14:048] FixToggleScriptsDumpHook hooked at offset 96b9cc
-[19:40:14:048] FixScriptPageAllocation set!
-[19:40:14:048] FixIsHostileToActorCrash hooked at address 7ff60dff058b
-[19:40:14:048] FixIsHostileToActorCrash hooked at offset 99058b
-[19:40:14:048] StackDumpTimeoutModifier hooked at address 7ff60dfca931
-[19:40:14:048] StackDumpTimeoutModifier hooked at offset 96a931
-[19:40:14:048] FixDelayedTypeCast hooked at address 7ff60ea0dafd
-[19:40:14:048] FixDelayedTypeCast hooked at offset 13adafd
-[19:40:14:048] FixDelayedTypeCast hooked at address 7ff60ea0e327
-[19:40:14:048] FixDelayedTypeCast hooked at offset 13ae327
-[19:40:14:048] FixDelayedTypeCastVFunc hook set!
-[19:40:14:048] EnableLoadDocStrings hooked at address 7ff60dfbfd44
-[19:40:14:048] EnableLoadDocStrings hooked at offset 95fd44
-[19:40:14:048] EnableLoadDebugInformation hooked at address 7ff60dfbfd44
-[19:40:14:048] EnableLoadDebugInformation hooked at offset 95fd44
-[19:40:14:048] ValidationSignaturesHook hooked at address 7ff60e9e8bd0
-[19:40:14:049] ValidationSignaturesHook at offset 1388bd0
-[19:40:14:049] BaseTypeMismatch hooked at address 7ff60dfa7d0c
-[19:40:14:049] BaseTypeMismatch at offset 947d0c
-[19:40:14:049] SummarizeStackDumpHook placed!
-[19:40:41:212] Binding functions...
-[19:40:41:212] Registered GetPapyrusTweaksVersion
-[19:40:41:212] Registed IsMainThreadTweakActive
-[19:40:41:212] Registed DisableFastMode
-[19:40:41:212] Registed EnableFastMode
+[13:52:06:003] PapyrusTweaks v4.1.0
+[13:52:06:003] loaded plugin
+[13:52:06:004] PapyrusOpsPerFrameHook hooked at address 7ff64558d311
+[13:52:06:004] PapyrusOpsPerFrameHook hooked at offset 139d311
+[13:52:06:004] FixToggleScriptsSaveHook for saves hooked at address 7ff644b5b726
+[13:52:06:004] FixToggleScriptsSaveHook hooked at offset 96b726
+[13:52:06:004] FixToggleScriptsDumpHook for stack dumps hooked at address 7ff644b5b9cc
+[13:52:06:004] FixToggleScriptsDumpHook hooked at offset 96b9cc
+[13:52:06:004] FixScriptPageAllocation set!
+[13:52:06:004] FixIsHostileToActorCrash hooked at address 7ff644b8058b
+[13:52:06:004] FixIsHostileToActorCrash hooked at offset 99058b
+[13:52:06:004] StackDumpTimeoutModifier hooked at address 7ff644b5a931
+[13:52:06:004] StackDumpTimeoutModifier hooked at offset 96a931
+[13:52:06:004] FixDelayedTypeCast hooked at address 7ff64559dafd
+[13:52:06:004] FixDelayedTypeCast hooked at offset 13adafd
+[13:52:06:004] FixDelayedTypeCast hooked at address 7ff64559e327
+[13:52:06:004] FixDelayedTypeCast hooked at offset 13ae327
+[13:52:06:004] FixDelayedTypeCastVFunc hook set!
+[13:52:06:004] EnableLoadDocStrings hooked at address 7ff644b4fd44
+[13:52:06:004] EnableLoadDocStrings hooked at offset 95fd44
+[13:52:06:004] EnableLoadDebugInformation hooked at address 7ff644b4fd44
+[13:52:06:004] EnableLoadDebugInformation hooked at offset 95fd44
+[13:52:06:004] ValidationSignaturesHook hooked at address 7ff645578bd0
+[13:52:06:005] ValidationSignaturesHook at offset 1388bd0
+[13:52:06:005] BaseTypeMismatch hooked at address 7ff644b37d0c
+[13:52:06:005] BaseTypeMismatch at offset 947d0c
+[13:52:06:005] SummarizeStackDumpHook placed!
+[13:52:35:305] Binding functions...
+[13:52:35:305] Registered GetPapyrusTweaksVersion
+[13:52:35:305] Registed IsMainThreadTweakActive
+[13:52:35:305] Registed DisableFastMode
+[13:52:35:305] Registed EnableFastMode

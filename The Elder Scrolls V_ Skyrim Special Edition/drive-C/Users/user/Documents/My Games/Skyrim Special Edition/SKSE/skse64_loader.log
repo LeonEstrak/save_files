@@ -1,4 +1,4 @@
-skse64 loader 02020030 01DA0103A4BD0B70 6.2 (9200)
+skse64 loader 02020030 01DA019C2CC16D38 6.2 (9200)
 config path = D:\Wabbajack\Ascensio\Stock Game\Data\SKSE\skse.ini
 procPath = D:\Wabbajack\Ascensio\Stock Game\\SkyrimSE.exe
 launching: SkyrimSE.exe (D:\Wabbajack\Ascensio\Stock Game\\SkyrimSE.exe)
@@ -20,9 +20,9 @@ version = 0001000602800000
 product name = TESV: Skyrim
 steam exe
 dll = D:\Wabbajack\Ascensio\Stock Game\\skse64_1_6_640.dll
-main thread id = 29736
-hookBase = 00000278BCF90000
-loadLibraryAAddr = 00007FFC3B0192C0
-getProcAddressAddr = 00007FFC3B013C10
+main thread id = 17592
+hookBase = 0000021C3D320000
+loadLibraryAAddr = 00007FFDC0D192C0
+getProcAddressAddr = 00007FFDC0D13C10
 hook thread complete
 launching

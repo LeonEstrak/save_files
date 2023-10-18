@@ -1,22 +1,22 @@
-[19:40:14:194] po3_SpellPerkItemDistributor v6.6.1.1
-[19:40:14:194] Game version : 1-6-640-0
-[19:40:14:396] *******************DEPENDENCIES*******************
-[19:40:14:396] powerofthree's Tweaks (po3_tweaks) detected : true
-[19:40:14:396] ***********************INI************************
-[19:40:14:410] 3 matching inis found
-[19:40:14:410] 	INI : Data\Elytra ENB Light_DISTR.ini
-[19:40:14:410] 	INI : Data\RealRabbitsHD_DISTR.ini
-[19:40:14:410] 	INI : Data\Sprites or Specters ENB Light_DISTR.ini
-[19:40:14:410] **********************HOOKS***********************
-[19:40:14:410] Installed actor load hooks
-[19:40:14:414] **********************MERGES**********************
-[19:40:14:414] Failed to dispatch message to MergeMapper
-[19:40:14:414] INFO - MergeMapper not detected
-[19:40:51:143] **********************LOOKUP**********************
-[19:40:51:143] Starting Spell lookup
-[19:40:51:143] ********************PROCESSING********************
-[19:40:51:143] Adding 13/13 Spells
-[19:40:51:143] Lookup took 71μs / 0.071ms
-[19:40:51:143] **********************EVENTS**********************
-[19:40:51:143] Registered for struct RE::TESFormDeleteEvent
-[19:40:51:143] Registered class PCLevelMult::Manager
+[13:52:06:196] po3_SpellPerkItemDistributor v6.6.1.1
+[13:52:06:196] Game version : 1-6-640-0
+[13:52:06:424] *******************DEPENDENCIES*******************
+[13:52:06:424] powerofthree's Tweaks (po3_tweaks) detected : true
+[13:52:06:424] ***********************INI************************
+[13:52:06:438] 3 matching inis found
+[13:52:06:438] 	INI : Data\Elytra ENB Light_DISTR.ini
+[13:52:06:439] 	INI : Data\RealRabbitsHD_DISTR.ini
+[13:52:06:439] 	INI : Data\Sprites or Specters ENB Light_DISTR.ini
+[13:52:06:439] **********************HOOKS***********************
+[13:52:06:439] Installed actor load hooks
+[13:52:06:449] **********************MERGES**********************
+[13:52:06:449] Failed to dispatch message to MergeMapper
+[13:52:06:449] INFO - MergeMapper not detected
+[13:52:45:052] **********************LOOKUP**********************
+[13:52:45:053] Starting Spell lookup
+[13:52:45:053] ********************PROCESSING********************
+[13:52:45:053] Adding 13/13 Spells
+[13:52:45:053] Lookup took 692μs / 0.692ms
+[13:52:45:053] **********************EVENTS**********************
+[13:52:45:053] Registered for struct RE::TESFormDeleteEvent
+[13:52:45:053] Registered class PCLevelMult::Manager

@@ -1,16 +1,16 @@
-[19:40:14] po3_PhotoMode v1.1.6.1
-[19:40:14] Game version : 1-6-640-0
-[19:40:14] **********POST LOAD***********
-[19:40:14] Obtained ENB API
-[19:40:21] Initializing ImGui...
-[19:40:21] ImGui initialized.
-[19:40:21] *********INPUT LOADED*********
-[19:40:21] Registered for hotkey event
-[19:40:21] Registered for menu open/close event
-[19:40:41] Registered PhotoMode_MCM class
-[19:40:51] *********DATA LOADED**********
-[19:40:51] Reading translations from Data\Interface\Translations\PhotoMode_ENGLISH.txt...
-[19:40:51] Loading screenshot textures...
-[19:40:51] 	0 screenshots
-[19:40:51] 	0 paintings
-[19:40:51] 	screenshot index : 637
+[13:52:06] po3_PhotoMode v1.1.6.1
+[13:52:06] Game version : 1-6-640-0
+[13:52:06] **********POST LOAD***********
+[13:52:06] Obtained ENB API
+[13:52:15] Initializing ImGui...
+[13:52:15] ImGui initialized.
+[13:52:15] *********INPUT LOADED*********
+[13:52:15] Registered for hotkey event
+[13:52:15] Registered for menu open/close event
+[13:52:35] Registered PhotoMode_MCM class
+[13:52:44] *********DATA LOADED**********
+[13:52:44] Reading translations from Data\Interface\Translations\PhotoMode_ENGLISH.txt...
+[13:52:44] Loading screenshot textures...
+[13:52:44] 	0 screenshots
+[13:52:44] 	0 paintings
+[13:52:44] 	screenshot index : 637

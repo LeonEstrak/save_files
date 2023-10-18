@@ -23,24 +23,3 @@ Sunset:    18.75
 Dusk:      19.125
 DuskEnd:   19.5
 
-
-
-
-Doing climate update (812)...
-Masser  active: 1
-Secunda active: 1
-
-Timings:
-ClimateRecord - SunriseStart: 4.5 (30)
-ClimateRecord - SunriseEnd:   9 (54)
-ClimateRecord - SunsetStart:  17 (102)
-ClimateRecord - SunsetEnd:    21.5 (126)
-
-DawnBegin: 4.5
-Dawn:      5.625
-Sunrise:   6.75
-Noon:      13
-Sunset:    19.25
-Dusk:      20.375
-DuskEnd:   21.5
-

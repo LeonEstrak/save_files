@@ -1,88 +1,105 @@
-[19:40:14] [info] po3_PapyrusExtender v5.6.1.1
-[19:40:14] [info] Game version : 1-6-640-0
-[19:40:41] [info] **********FUNCTIONS***********
-[19:40:41] [info] Registered object types
-[19:40:41] [info] 	FootstepSet true
-[19:40:41] [info] 	LightingTemplate true
-[19:40:41] [info] 	Debris true
-[19:40:41] [info] 	MaterialObject true
-[19:40:41] [info] Registered activemagiceffect events
-[19:40:41] [info] Registered activemagiceffect functions
-[19:40:41] [info] Registered actor functions
-[19:40:41] [info] Registered actorbase functions
-[19:40:41] [info] Registered ammo functions
-[19:40:41] [info] Registered armor addon functions
-[19:40:41] [info] Registered alias events
-[19:40:41] [info] Registered alias functions
-[19:40:41] [info] Registered array functions
-[19:40:41] [info] Registered book functions
-[19:40:41] [info] Registered cell functions
-[19:40:41] [info] Registered debug functions
-[19:40:41] [info] Registered detection functions
-[19:40:41] [info] Registered effect shader functions
-[19:40:41] [info] Registered enchantment functions
-[19:40:41] [info] Registered form events
-[19:40:41] [info] Registered form functions
-[19:40:41] [info] Registered faction functions
-[19:40:41] [info] Registered furniture functions
-[19:40:41] [info] Registered game functions
-[19:40:41] [info] Registered graphic functions
-[19:40:41] [info] Registered hazard functions
-[19:40:41] [info] Registered leveled item functions
-[19:40:41] [info] Registered light functions
-[19:40:41] [info] Registered location functions
-[19:40:41] [info] Registered magiceffect functions
-[19:40:41] [info] Registered object reference functions
-[19:40:41] [info] Registered package functions
-[19:40:41] [info] Registered potion functions
-[19:40:41] [info] Registered projectile functions
-[19:40:41] [info] Registered quest functions
-[19:40:41] [info] Registered scroll functions
-[19:40:41] [info] Registered sound functions
-[19:40:41] [info] Registered spell functions
-[19:40:41] [info] Registered string functions
-[19:40:41] [info] Registered UI functions
-[19:40:41] [info] Registered utility functions
-[19:40:41] [info] Registered visual effect functions
-[19:40:41] [info] Registered weather functions
-[19:40:51] [info] ********SCRIPT EVENTS*********
-[19:40:51] [info] Registered struct RE::TESCellFullyLoadedEvent handler
-[19:40:51] [info] Registered struct RE::TESQuestStartStopEvent handler
-[19:40:51] [info] Registered struct RE::TESQuestStageEvent handler
-[19:40:51] [info] Registered struct RE::TESObjectLoadedEvent handler
-[19:40:51] [info] Registered struct RE::TESGrabReleaseEvent handler
-[19:40:51] [info] Registered struct RE::TESFurnitureEvent handler
-[19:40:51] [info] *********STORY EVENTS*********
-[19:40:51] [info] Registered struct RE::ActorKill::Event handler
-[19:40:51] [info] Registered struct RE::CriticalHit::Event handler
-[19:40:51] [info] Registered struct RE::DisarmedEvent::Event handler
-[19:40:51] [info] Registered struct RE::DragonSoulsGained::Event handler
-[19:40:51] [info] Registered struct RE::TESHarvestedEvent::ItemHarvested handler
-[19:40:51] [info] Registered struct RE::LevelIncrease::Event handler
-[19:40:51] [info] Registered struct RE::LocationDiscovery::Event handler
-[19:40:51] [info] Registered struct RE::ShoutAttack::Event handler
-[19:40:51] [info] Registered struct RE::SkillIncrease::Event handler
-[19:40:51] [info] Registered struct RE::SoulsTrapped::Event handler
-[19:40:51] [info] Registered struct RE::SpellsLearned::Event handler
-[19:40:51] [info] ********HOOKED EVENTS*********
-[19:40:51] [info] Hooked Fall Damage
-[19:40:51] [info] Hooked Item Crafted
-[19:40:51] [info] Hooked Book Read
-[19:40:51] [info] Hooked Actor Resurrect
-[19:40:51] [info] Hooked Actor Reanimate Start
-[19:40:51] [info] Hooked Actor Reanimate Stop
-[19:40:51] [info] Hooked Weather Change
-[19:40:51] [info] Hooked Magic Effect Apply
-[19:40:51] [info] Hooked Magic Hit
-[19:40:51] [info] Hooked Weapon Hit
-[19:40:51] [info] Hooked Fast Travel Start
-[19:40:51] [info] Installing detection hook
-[19:40:51] [info] Registered form deletion event handler
-[19:41:04] [info] Finished reverting data
-[19:41:15] [info] Finished loading data
-[19:58:30] [info] Finished saving data
-[19:58:51] [info] Finished reverting data
-[19:58:52] [info] Finished loading data
-[19:59:21] [info] Finished reverting data
-[19:59:22] [info] Finished loading data
-[20:01:18] [info] Finished saving data
+[13:52:06] [info] po3_PapyrusExtender v5.6.1.1
+[13:52:06] [info] Game version : 1-6-640-0
+[13:52:35] [info] **********FUNCTIONS***********
+[13:52:35] [info] Registered object types
+[13:52:35] [info] 	FootstepSet true
+[13:52:35] [info] 	LightingTemplate true
+[13:52:35] [info] 	Debris true
+[13:52:35] [info] 	MaterialObject true
+[13:52:35] [info] Registered activemagiceffect events
+[13:52:35] [info] Registered activemagiceffect functions
+[13:52:35] [info] Registered actor functions
+[13:52:35] [info] Registered actorbase functions
+[13:52:35] [info] Registered ammo functions
+[13:52:35] [info] Registered armor addon functions
+[13:52:35] [info] Registered alias events
+[13:52:35] [info] Registered alias functions
+[13:52:35] [info] Registered array functions
+[13:52:35] [info] Registered book functions
+[13:52:35] [info] Registered cell functions
+[13:52:35] [info] Registered debug functions
+[13:52:35] [info] Registered detection functions
+[13:52:35] [info] Registered effect shader functions
+[13:52:35] [info] Registered enchantment functions
+[13:52:35] [info] Registered form events
+[13:52:35] [info] Registered form functions
+[13:52:35] [info] Registered faction functions
+[13:52:35] [info] Registered furniture functions
+[13:52:35] [info] Registered game functions
+[13:52:35] [info] Registered graphic functions
+[13:52:35] [info] Registered hazard functions
+[13:52:35] [info] Registered leveled item functions
+[13:52:35] [info] Registered light functions
+[13:52:35] [info] Registered location functions
+[13:52:35] [info] Registered magiceffect functions
+[13:52:35] [info] Registered object reference functions
+[13:52:35] [info] Registered package functions
+[13:52:35] [info] Registered potion functions
+[13:52:35] [info] Registered projectile functions
+[13:52:35] [info] Registered quest functions
+[13:52:35] [info] Registered scroll functions
+[13:52:35] [info] Registered sound functions
+[13:52:35] [info] Registered spell functions
+[13:52:35] [info] Registered string functions
+[13:52:35] [info] Registered UI functions
+[13:52:35] [info] Registered utility functions
+[13:52:35] [info] Registered visual effect functions
+[13:52:35] [info] Registered weather functions
+[13:52:44] [info] ********SCRIPT EVENTS*********
+[13:52:44] [info] Registered struct RE::TESCellFullyLoadedEvent handler
+[13:52:44] [info] Registered struct RE::TESQuestStartStopEvent handler
+[13:52:44] [info] Registered struct RE::TESQuestStageEvent handler
+[13:52:44] [info] Registered struct RE::TESObjectLoadedEvent handler
+[13:52:44] [info] Registered struct RE::TESGrabReleaseEvent handler
+[13:52:44] [info] Registered struct RE::TESFurnitureEvent handler
+[13:52:44] [info] *********STORY EVENTS*********
+[13:52:44] [info] Registered struct RE::ActorKill::Event handler
+[13:52:44] [info] Registered struct RE::CriticalHit::Event handler
+[13:52:44] [info] Registered struct RE::DisarmedEvent::Event handler
+[13:52:44] [info] Registered struct RE::DragonSoulsGained::Event handler
+[13:52:44] [info] Registered struct RE::TESHarvestedEvent::ItemHarvested handler
+[13:52:44] [info] Registered struct RE::LevelIncrease::Event handler
+[13:52:44] [info] Registered struct RE::LocationDiscovery::Event handler
+[13:52:44] [info] Registered struct RE::ShoutAttack::Event handler
+[13:52:44] [info] Registered struct RE::SkillIncrease::Event handler
+[13:52:44] [info] Registered struct RE::SoulsTrapped::Event handler
+[13:52:44] [info] Registered struct RE::SpellsLearned::Event handler
+[13:52:44] [info] ********HOOKED EVENTS*********
+[13:52:44] [info] Hooked Fall Damage
+[13:52:44] [info] Hooked Item Crafted
+[13:52:44] [info] Hooked Book Read
+[13:52:44] [info] Hooked Actor Resurrect
+[13:52:44] [info] Hooked Actor Reanimate Start
+[13:52:44] [info] Hooked Actor Reanimate Stop
+[13:52:44] [info] Hooked Weather Change
+[13:52:44] [info] Hooked Magic Effect Apply
+[13:52:44] [info] Hooked Magic Hit
+[13:52:44] [info] Hooked Weapon Hit
+[13:52:44] [info] Hooked Fast Travel Start
+[13:52:44] [info] Installing detection hook
+[13:52:44] [info] Registered form deletion event handler
+[13:52:48] [info] Finished reverting data
+[13:52:57] [info] Finished loading data
+[14:05:52] [info] Finished saving data
+[14:28:33] [info] Finished saving data
+[14:37:21] [info] Finished saving data
+[14:50:47] [info] Finished reverting data
+[14:50:48] [info] Finished loading data
+[14:55:46] [info] Finished saving data
+[14:58:33] [info] Finished saving data
+[15:00:27] [info] Finished saving data
+[15:04:09] [info] Finished saving data
+[15:07:41] [info] Finished saving data
+[15:09:49] [info] Finished saving data
+[15:12:34] [info] Finished saving data
+[15:17:47] [info] Finished saving data
+[15:20:44] [info] Found mapmarker match for char const * __ptr64 target Whiterun true (162CE)
+[15:20:44] [info] Found Fast Travel Prompt target to Whiterun (162CE)
+[15:20:44] [info] Found mapmarker match for char const * __ptr64 target Whiterun true (162CE)
+[15:20:49] [info] Found mapmarker match for char const * __ptr64 target Dragonsreach true (C44AD)
+[15:20:49] [info] Found Fast Travel Prompt target to Dragonsreach (C44AD)
+[15:20:49] [info] Found mapmarker match for char const * __ptr64 target Dragonsreach true (C44AD)
+[15:20:50] [info] Found mapmarker match for class RE::TESObjectREFR target Dragonsreach true (C44AD)
+[15:20:50] [info] Found Fast Travel Confirmed target to Dragonsreach (c44ad)
+[15:35:04] [info] Finished saving data
+[15:41:42] [info] Finished saving data
