@@ -52,3 +52,13 @@ E:\Repos\CommonLibSSE-NG\src\SKSE\Interfaces.cpp(268): [error] Failed to dispatc
 E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(2833): [warning] SmoothCamAPI::RequestInterface reported an error
 E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(2842): [warning] Failed to obtain TrueHUD API
 E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(25): [info] Registered struct RE::BSAnimationGraphEvent
+E:\Repos\CommonLibSSE-NG\src\SKSE\Interfaces.cpp(287): [error] Failed to register messaging listener for SmoothCam
+E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(2819): [warning] SmoothCamAPI::RegisterInterfaceLoaderCallback reported an error
+E:\Repos\CommonLibSSE-NG\src\SKSE\Interfaces.cpp(268): [error] Failed to dispatch message to SmoothCam
+E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(2833): [warning] SmoothCamAPI::RequestInterface reported an error
+E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(2842): [warning] Failed to obtain TrueHUD API
+E:\Repos\CommonLibSSE-NG\src\SKSE\Interfaces.cpp(287): [error] Failed to register messaging listener for SmoothCam
+E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(2819): [warning] SmoothCamAPI::RegisterInterfaceLoaderCallback reported an error
+E:\Repos\CommonLibSSE-NG\src\SKSE\Interfaces.cpp(268): [error] Failed to dispatch message to SmoothCam
+E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(2833): [warning] SmoothCamAPI::RequestInterface reported an error
+E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(2842): [warning] Failed to obtain TrueHUD API

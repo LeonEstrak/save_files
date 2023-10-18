@@ -1,4 +1,4 @@
-[2023-10-17 19:34:05.308] [Global] [info] [4316] [main.cpp:184] NOTE: This is not a crashlog. Crashlogs have the name crash-[TIMESTAMP].log
-[2023-10-17 19:34:05.308] [Global] [info] [4316] [main.cpp:185] CrashLogger 1.8.0.0 Feb  1 2023 00:20:05 is loading...
-[2023-10-17 19:34:05.308] [Global] [info] [4316] [CrashHandler.cpp:553] installed crash handlers
-[2023-10-17 19:34:05.308] [Global] [info] [4316] [main.cpp:192] CrashLogger has finished loading.
+[2023-10-17 19:40:13.519] [Global] [info] [29736] [main.cpp:184] NOTE: This is not a crashlog. Crashlogs have the name crash-[TIMESTAMP].log
+[2023-10-17 19:40:13.519] [Global] [info] [29736] [main.cpp:185] CrashLogger 1.8.0.0 Feb  1 2023 00:20:05 is loading...
+[2023-10-17 19:40:13.519] [Global] [info] [29736] [CrashHandler.cpp:553] installed crash handlers
+[2023-10-17 19:40:13.519] [Global] [info] [29736] [main.cpp:192] CrashLogger has finished loading.

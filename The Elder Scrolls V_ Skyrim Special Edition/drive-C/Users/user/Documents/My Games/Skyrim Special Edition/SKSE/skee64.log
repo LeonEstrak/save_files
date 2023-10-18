@@ -79,4 +79,31 @@ Loaded Morph: CME_HighElf - Value: 0.380000
 Loaded Morph: CME_Breton - Value: 0.010000
 Loaded Morph: CME_Imperial - Value: -0.010000
 SKEE64Serialization_Load - Loaded 0ms
+Saving...
+SKEE64Serialization_Save - Serialized string table 0ms
+SKEE64Serialization_Save - Player morph data 0ms
+SKEE64Serialization_Save - Serialized transforms 0ms
+SKEE64Serialization_Save - Serialized overlays 0ms
+SKEE64Serialization_Save - Serialized overrides 0ms
+SKEE64Serialization_Save - Serialized body morphs 0ms
+SKEE64Serialization_Save - Serialized item data 0ms
 Reverting...
+Loading...
+Loaded Morph: CME_HighElf - Value: 0.380000
+Loaded Morph: CME_Breton - Value: 0.010000
+Loaded Morph: CME_Imperial - Value: -0.010000
+SKEE64Serialization_Load - Loaded 0ms
+Reverting...
+Loading...
+Loaded Morph: CME_HighElf - Value: 0.380000
+Loaded Morph: CME_Breton - Value: 0.010000
+Loaded Morph: CME_Imperial - Value: -0.010000
+SKEE64Serialization_Load - Loaded 0ms
+Saving...
+SKEE64Serialization_Save - Serialized string table 0ms
+SKEE64Serialization_Save - Player morph data 0ms
+SKEE64Serialization_Save - Serialized transforms 0ms
+SKEE64Serialization_Save - Serialized overlays 0ms
+SKEE64Serialization_Save - Serialized overrides 0ms
+SKEE64Serialization_Save - Serialized body morphs 0ms
+SKEE64Serialization_Save - Serialized item data 0ms

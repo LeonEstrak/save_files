@@ -4,3 +4,5 @@ F:\skyrim-dev\repos\EngineFixesSkyrim64\src\main.cpp(128): [info] beginning pre-
 F:\skyrim-dev\repos\EngineFixesSkyrim64\src\main.cpp(134): [info] pre-load patches complete
 F:\skyrim-dev\repos\EngineFixesSkyrim64\src\main.cpp(13): [info] beginning post-load patches
 F:\skyrim-dev\repos\EngineFixesSkyrim64\src\main.cpp(33): [info] post-load patches complete
+F:\skyrim-dev\repos\EngineFixesSkyrim64\src\patches\miscpatches.cpp(111): [warning] Error occurred trying to open file: fopen_s(C:\Users\user\Documents\My Games\Skyrim Special Edition\__MO_Saves\Save3_9970BD77_0_4C656F6E61_WhiterunDragonsreach_000107_20231017142830_1_1.ess.tmp, r+b), errno 2
+F:\skyrim-dev\repos\EngineFixesSkyrim64\src\patches\miscpatches.cpp(111): [warning] Error occurred trying to open file: fopen_s(C:\Users\user\Documents\My Games\Skyrim Special Edition\__MO_Saves\Save4_9970BD77_0_4C656F6E61_WhiterunDragonsreach_000109_20231017143118_1_1.ess.tmp, r+b), errno 2

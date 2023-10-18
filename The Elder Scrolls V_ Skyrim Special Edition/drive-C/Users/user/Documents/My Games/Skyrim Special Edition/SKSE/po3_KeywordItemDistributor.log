@@ -1,7 +1,7 @@
-[19:34:06:098] po3_KeywordItemDistributor v3.0.3.1
-[19:34:06:098] Game version : 1-6-640-0
-[19:34:06:323] ***********************INI************************
-[19:34:06:336] No .ini files with _KID suffix were found within the Data folder, aborting...
-[19:34:06:376] **********************MERGES**********************
-[19:34:06:376] Failed to dispatch message to MergeMapper
-[19:34:06:376] INFO - MergeMapper not detected
+[19:40:14:187] po3_KeywordItemDistributor v3.0.3.1
+[19:40:14:187] Game version : 1-6-640-0
+[19:40:14:367] ***********************INI************************
+[19:40:14:381] No .ini files with _KID suffix were found within the Data folder, aborting...
+[19:40:14:413] **********************MERGES**********************
+[19:40:14:413] Failed to dispatch message to MergeMapper
+[19:40:14:414] INFO - MergeMapper not detected
