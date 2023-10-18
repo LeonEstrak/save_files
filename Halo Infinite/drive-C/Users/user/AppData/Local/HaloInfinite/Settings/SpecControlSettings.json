@@ -45,11 +45,11 @@
     },
     "spec_control_minimum_framerate": {
         "version": 2,
-        "value": 60
+        "value": 24
     },
     "spec_control_target_framerate": {
         "version": 1,
-        "value": 120
+        "value": 24
     },
     "spec_control_vsync": {
         "version": 1,

@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-10-15T15:29:57.608696400Z"
+    when: "2023-10-18T05:52:41.626068800Z"
     os: windows
     files:
       "C:/Program Files (x86)/Steam/userdata/102118085/1240440/remote/y4NxEooStlEu3VBe9rjq-U4XWdbal6ByjbfsuURGPNM=/Save/ControlsComponent.gs":
@@ -23,8 +23,8 @@ backups:
         hash: a6ec03a5a9e0ed17dd9521c416a6b95061174225
         size: 1770
       "C:/Users/user/AppData/Local/HaloInfinite/Settings/SpecControlSettings.json":
-        hash: 33e259db6ae48e70f4dcacc0f52241eea7f6147c
-        size: 14367
+        hash: bd6c34f8a178360bdee1086c965d197940261f2c
+        size: 14366
     registry:
       hash: ~
     children: []
