@@ -1,0 +1,20 @@
+<Stats deaths="9" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="2" >
+    </E>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="6" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,186 @@
+---
+name: Noita
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-10-18T16:18:09.237136400Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/mod_config.xml":
+        hash: 2ae6080e91b0510d75a70655cf8300904a512990
+        size: 510
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/mod_settings.bin":
+        hash: 84813efd43e45b06289695db41194c184d27c107
+        size: 16
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/DONT PLACE ANY FILES HERE - THIS FOLDER MIGHT BE CLEARED BY THE GAME":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/bones_new/item16026.xml":
+        hash: 9eb06ed13bdba9256272cb3aa08d7355958db450
+        size: 34622
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/bones_new/item3647.xml":
+        hash: f84ad37055bbbda8f4f9d85d836147ca860f106c
+        size: 41165
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_arc_gunpowder":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_bomb":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_bouncy_orb":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_chain_bolt":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_death_cross":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_grenade":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_homing_short":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_light_bullet":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_light_bullet_trigger":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_pentagram_shape":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_pingpong_path":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_recharge":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_scatter_4":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_spitter":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_teleport_projectile_static":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_tntbox_big":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/action_y_shape":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/gog_achievement_biome_excavation_site":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/gog_achievement_biome_snowcave":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/intro_has_played":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/perk_picked_hover_boost":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/perk_picked_shield":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/perk_picked_vomit_rats":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/_stats.salakieli":
+        hash: f681c49c40ac2e928136726790ec3478dad24fe6
+        size: 3626
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/sessions/20231018-212137_kills.xml":
+        hash: 15f9d2d2f73cd70fc02a927b306b19c2fd753389
+        size: 632
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/sessions/20231018-212137_stats.xml":
+        hash: 50f7fab04cdacd4867ec851b93155cf85e806111
+        size: 1234
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/sessions/20231018-213313_kills.xml":
+        hash: 2105e4cb011b4f049b283ee34f1ed727e2424f19
+        size: 995
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/sessions/20231018-213313_stats.xml":
+        hash: e4793c94958c92193aab16add358db3b5198bdea
+        size: 1291
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_bat.xml":
+        hash: 7c5b49457fef46fa5ebf02a15aac43d439f8d17d
+        size: 442
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_bigbat.xml":
+        hash: dbc89f63f425f7fbd1f7fbb2817467d11053d623
+        size: 276
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_bigfirebug.xml":
+        hash: b7ddf90f7440b6efc73427369b4befd4bf9a3c24
+        size: 218
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_firebug.xml":
+        hash: d72d85a41e79ac4822f952d16cc8a5a38d52e23b
+        size: 702
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_firemage_weak.xml":
+        hash: 890d7ddbf4cf56f3b82015646ea058507a424668
+        size: 268
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_fireskull.xml":
+        hash: 20b94b442c92c80230f57fed41d226081e4512f2
+        size: 214
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_frog.xml":
+        hash: 064fec827d02ed3be01ce4b10c9e79fbac686eaf
+        size: 216
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_giant.xml":
+        hash: 93f22b7d2b51a94262a0979c7258a7d0c4987858
+        size: 215
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_goblin_bomb.xml":
+        hash: d3bd67bf756acd00ad7f4ab15389fcb74597d6bc
+        size: 454
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_iceskull.xml":
+        hash: ddcc024e08cc635270e4d60c67ae5e2b50aa47f7
+        size: 389
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_longleg.xml":
+        hash: 34147e130e4243bea4654e268c6ec4abbdc6b427
+        size: 469
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_miner.xml":
+        hash: b61753f1723eaffe675cf2e937f22e43e104cc8c
+        size: 519
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_miner_weak.xml":
+        hash: 80e98e0ec2f7b778bb0eed0aab1e6f149c4d9b90
+        size: 437
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_pebble_physics.xml":
+        hash: 3fa298aa13a321dbfe4ed0a05d23438bff863470
+        size: 408
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_rat.xml":
+        hash: 39fcd98131db9a9f62e2c18236f162398ec2f7f0
+        size: 966
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_scavenger_glue.xml":
+        hash: 00904d8ebfa9d8e3796257d53554199096c2a4f4
+        size: 211
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_scavenger_grenade.xml":
+        hash: 3d4e5184c00b2506a3b08698b5465d70dd7e7869
+        size: 255
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_scavenger_smg.xml":
+        hash: 359d9c34b26943e8c4788fc3061ea72159cc42e2
+        size: 213
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_shotgunner.xml":
+        hash: 218c6b2f8849b3ae99f7eb90b3e7f5ac357405e9
+        size: 656
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_shotgunner_weak.xml":
+        hash: a45e0b5a5cdd6eb00c533c07bd9f731d690f7bd4
+        size: 325
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_slimeshooter.xml":
+        hash: 2bfeab92bb445e38d0b815eb9917321e15884476
+        size: 447
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_slimeshooter_weak.xml":
+        hash: e25baa1c711dafe317bc9f16be187f9ee5a30386
+        size: 335
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_sniper.xml":
+        hash: d6c47d8e4a9f0ef3297fc5bf8fbfc0bed312248f
+        size: 269
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_zombie_weak.xml":
+        hash: 77ba48920ccda15be3710cc0429db4df4dc02f83
+        size: 991
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save_shared/config.xml":
+        hash: 800ffd32514056ce0bb30f9c38cf31e128abfec6
+        size: 11732
+    registry:
+      hash: ~
+    children: []

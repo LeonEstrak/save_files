@@ -1,0 +1,24 @@
+<Stats deaths="23" kills="2" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="goblin_bomb | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="10" >
+    </E>
+    <E key="player | $damage_slice" value="6" >
+    </E>
+    <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+  </kill_map>
+</Stats>

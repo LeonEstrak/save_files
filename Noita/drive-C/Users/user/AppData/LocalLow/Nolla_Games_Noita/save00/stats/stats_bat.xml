@@ -1,0 +1,16 @@
+<Stats deaths="21" kills="2" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="miner | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="17" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="rat" value="2" >
+    </E>
+  </kill_map>
+</Stats>
