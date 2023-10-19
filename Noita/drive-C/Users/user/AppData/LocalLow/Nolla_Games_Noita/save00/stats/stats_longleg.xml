@@ -1,16 +1,28 @@
-<Stats deaths="18" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="36" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="3" >
+    <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
+    <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="1" >
+    </E>
     <E key="miner_weak | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="19" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="1" >
     </E>
   </death_map>
   <kill_map>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
   </kill_map>
 </Stats>

@@ -1,0 +1,20 @@
+<Stats deaths="4" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="bigfirebug | $damage_fire" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="5" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+  </kill_map>
+</Stats>

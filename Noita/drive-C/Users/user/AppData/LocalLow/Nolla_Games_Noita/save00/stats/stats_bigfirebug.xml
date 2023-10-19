@@ -1,8 +1,18 @@
-<Stats deaths="1" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="5" kills="3" player_kills="1" player_projectile_count="0" >
   <death_map>
-    <E key="player | $damage_projectile" value="1" >
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
     </E>
   </death_map>
   <kill_map>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
   </kill_map>
 </Stats>

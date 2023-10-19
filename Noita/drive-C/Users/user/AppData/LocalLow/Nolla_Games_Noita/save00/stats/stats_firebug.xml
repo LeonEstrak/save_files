@@ -1,14 +1,22 @@
-<Stats deaths="23" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="43" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
+    <E key="NULL | $damage_explosion" value="4" >
+    </E>
     <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | damage from material: Water" value="1" >
     </E>
     <E key="goblin_bomb | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="10" >
+    <E key="homunculus | $damage_projectile" value="5" >
+    </E>
+    <E key="player | $damage_projectile" value="14" >
     </E>
     <E key="player | $damage_slice" value="6" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="6" >
     </E>
     <E key="rat | $damage_melee" value="1" >
     </E>
@@ -18,7 +26,11 @@
   <kill_map>
     <E key="goblin_bomb" value="1" >
     </E>
-    <E key="shotgunner" value="1" >
+    <E key="rat" value="1" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
     </E>
   </kill_map>
 </Stats>
