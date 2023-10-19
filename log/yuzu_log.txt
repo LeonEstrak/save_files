@@ -1,0 +1,24 @@
+[   0.134175] Input <Info> input_common\drivers\udp_client.cpp:UDPClient:139: Udp Initialization started
+[   0.134192] Input <Info> input_common\drivers\udp_client.cpp:StartCommunication:331: Starting communication with UDP input server on 127.0.0.1:26760
+[   0.195148] Input <Info> input_common\drivers\joycon.cpp:Joycons:22: Joycon driver Initialization started
+[   0.211891] Frontend <Info> yuzu\main.cpp:GMainWindow:372: yuzu Version: yuzu Early Access 3910
+[   0.211909] Frontend <Info> yuzu\main.cpp:LogRuntimes:249: MSVC Compiler: 1935 Runtime: 14.36.32532.0
+[   0.211910] Frontend <Info> yuzu\main.cpp:LogRuntimes:258: Qt Compile: 5.15.2 Runtime: 5.15.2
+[   0.211911] Frontend <Info> yuzu\main.cpp:GMainWindow:388: Host CPU: 13th Gen Intel(R) Core(TM) i5-13600KF | AVX2 | FMA
+[   0.211916] Frontend <Info> yuzu\main.cpp:GMainWindow:390: Host CPU Cores: 14
+[   0.211917] Frontend <Info> yuzu\main.cpp:GMainWindow:393: Host CPU Threads: 20
+[   0.212031] Frontend <Info> yuzu\main.cpp:GMainWindow:394: Host OS: Windows 11 Version 22H2 (Build 22621.2428)
+[   0.212043] Frontend <Info> yuzu\main.cpp:GMainWindow:396: Host RAM: 31.82 GiB
+[   0.212044] Frontend <Info> yuzu\main.cpp:GMainWindow:397: Host Swap: 24.75 GiB
+[   0.212086] Frontend <Info> yuzu\main.cpp:GMainWindow:402: Host Timer Resolution: 0.5000 ms
+[   0.414211] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.9.0) applied successfully
+[   0.415595] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.12.0) applied successfully
+[   0.423016] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.26.0) applied successfully
+[   0.427641] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.9.0) applied successfully
+[   0.431614] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.12.0) applied successfully
+[   0.437471] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.0.0) applied successfully
+[   0.450326] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.26.0) applied successfully
+[   0.454205] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.0.0) applied successfully
+[   6.730918] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.0.0) applied successfully
+[   6.735320] Frontend <Info> yuzu\main.cpp:OnGameListOpenFolder:2314: Opening Save Data path for program_id=0100f2c0115b6000
+[   6.735320] Frontend <Info> yuzu\main.cpp:OnGameListOpenFolder:2314: Opening Save Data path for program_id=0100f2c0115b6000
