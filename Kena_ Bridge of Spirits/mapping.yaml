@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-07-26T13:58:53.873731700Z"
+    when: "2023-10-20T17:18:55.946316800Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/CameraCalibrationCore.ini":
@@ -32,8 +32,8 @@ backups:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
       "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
-        hash: 12945315cf86456b0c6aa93b3585138b85683d75
-        size: 9061
+        hash: 114151fe141cf7c184838d12eb4e853f57f16a02
+        size: 9066
       "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/GameplayAbilities.ini":
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
@@ -95,23 +95,23 @@ backups:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/Autosave.sav":
-        hash: 01f41778a82c646b521056e3fcc6f6a4559ba4fb
-        size: 61323
+        hash: 18d1794de1dc0e9b3d280796aa740ae3cc2f9667
+        size: 68112
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveA.sav":
-        hash: a14439810d14ddc1f6077e089e2191afe380802e
-        size: 59972
+        hash: 656ea271ae3ee86a1be74cd8666df2b53963303a
+        size: 67394
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveB.sav":
-        hash: 70c512271cc638e599ecfcb431ea59ebacad94c9
-        size: 59972
+        hash: cdb41b891ec96c163727487ee4ac2cb6b1192a32
+        size: 67399
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveC.sav":
-        hash: bdafcd447e7e4128e4d1b328e4cda417073bd160
-        size: 60007
+        hash: ba247db7fdc649a1551d4a74695c9f5d9b2d9b25
+        size: 67623
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveD.sav":
-        hash: 637b64ab6fbef7d444feab58b2439827edace3d0
-        size: 60012
+        hash: cd15dcf9f7f90ab1a8caf37206bc536d5901e413
+        size: 67863
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/SaveSlot1.sav":
-        hash: 2c5aba055799e2a20e3e725cffab5c39572ca748
-        size: 60007
+        hash: d83a227b999d4b7b58c1c95695826968ba181c4b
+        size: 68112
     registry:
       hash: ~
     children: []
