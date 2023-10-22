@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-10-20T17:18:55.946316800Z"
+    when: "2023-10-22T06:02:51.706497200Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/CameraCalibrationCore.ini":
@@ -32,7 +32,7 @@ backups:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
       "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
-        hash: 114151fe141cf7c184838d12eb4e853f57f16a02
+        hash: bd5a800242ac5ddcbb64d3deddd2f63f461fc4ee
         size: 9066
       "C:/Users/user/AppData/Local/Kena/Saved/Config/WindowsNoEditor/GameplayAbilities.ini":
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
@@ -95,23 +95,23 @@ backups:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/Autosave.sav":
-        hash: 18d1794de1dc0e9b3d280796aa740ae3cc2f9667
-        size: 68112
+        hash: 411ed58155abf4e90558f0e20538eeb713a18bb7
+        size: 68241
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveA.sav":
-        hash: 656ea271ae3ee86a1be74cd8666df2b53963303a
-        size: 67394
+        hash: b269e06210029e19621dcb069b2233c57ee255e6
+        size: 68477
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveB.sav":
-        hash: cdb41b891ec96c163727487ee4ac2cb6b1192a32
-        size: 67399
+        hash: c5bbba51627e59ffd9edeb62a43073a7d9510269
+        size: 68476
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveC.sav":
-        hash: ba247db7fdc649a1551d4a74695c9f5d9b2d9b25
-        size: 67623
+        hash: 043a2fc036c416a97ee7d54acf35a609da98e0c4
+        size: 68155
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/AutosaveD.sav":
-        hash: cd15dcf9f7f90ab1a8caf37206bc536d5901e413
-        size: 67863
+        hash: 037a0d8cc6c8c1b0d2ff7d1bb37c454edc1ae9d7
+        size: 68243
       "C:/Users/user/AppData/Local/Kena/Saved/SaveGames/SaveSlot1.sav":
-        hash: d83a227b999d4b7b58c1c95695826968ba181c4b
-        size: 68112
+        hash: df4edb74b9519c9f9957300b6db00b7f0e26cb4b
+        size: 68476
     registry:
       hash: ~
     children: []
