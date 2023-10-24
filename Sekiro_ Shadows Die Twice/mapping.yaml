@@ -1,0 +1,18 @@
+---
+name: "Sekiro: Shadows Die Twice"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-10-24T16:58:15.151221200Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Roaming/Sekiro/76561197960267366/S0000.sl2":
+        hash: 108356a06239842129d7e19a39ddf3d802606f3b
+        size: 11928528
+      "C:/Users/user/AppData/Roaming/Sekiro/GraphicsConfig.xml":
+        hash: c8ae1fcd92badbed294fdd4a04ec62b5bd52c05d
+        size: 1912
+    registry:
+      hash: ~
+    children: []
