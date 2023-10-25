@@ -1,14 +1,16 @@
-<Stats deaths="48" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="59" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="5" >
+    <E key="NULL | $damage_explosion" value="9" >
     </E>
-    <E key="NULL | $damage_fire" value="9" >
+    <E key="NULL | $damage_fire" value="14" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
     </E>
     <E key="homunculus | $damage_projectile" value="2" >
     </E>
-    <E key="miner | $damage_melee" value="1" >
+    <E key="miner | $damage_melee" value="2" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="5" >
     </E>
@@ -22,6 +24,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="firebug" value="3" >
+    </E>
     <E key="rat" value="3" >
     </E>
   </kill_map>

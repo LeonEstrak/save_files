@@ -1,10 +1,12 @@
-<Stats deaths="19" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="27" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="1" >
+    <E key="NULL | $damage_explosion" value="3" >
     </E>
-    <E key="NULL | $damage_fire" value="3" >
+    <E key="NULL | $damage_fire" value="4" >
     </E>
-    <E key="NULL | $damage_radioactive" value="3" >
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="4" >
     </E>
     <E key="NULL | damage from material: lava" value="2" >
     </E>
@@ -12,15 +14,19 @@
     </E>
     <E key="miner | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="8" >
+    <E key="player | $damage_projectile" value="10" >
+    </E>
+    <E key="rat | $damage_melee" value="1" >
     </E>
   </death_map>
   <kill_map>
-    <E key="bat" value="1" >
+    <E key="bat" value="2" >
     </E>
     <E key="miner" value="1" >
     </E>
-    <E key="rat" value="7" >
+    <E key="rat" value="11" >
+    </E>
+    <E key="shotgunner" value="1" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

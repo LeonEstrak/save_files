@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-10-19T13:13:50.450592300Z"
+    when: "2023-10-25T13:24:52.560292Z"
     os: windows
     files:
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/mod_config.xml":
@@ -22,6 +22,9 @@ backups:
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/bones_new/item22736.xml":
         hash: 65cf5c9733760079e1e65de7822e076d341d292a
         size: 29285
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/bones_new/item32254.xml":
+        hash: 6bc4661ab02c3738f769f599bb0e63a75a96dc3c
+        size: 50341
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/bones_new/item3647.xml":
         hash: f84ad37055bbbda8f4f9d85d836147ca860f106c
         size: 41165
@@ -127,6 +130,15 @@ backups:
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/perk_picked_bleed_slime":
         hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
         size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/perk_picked_cordyceps":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/perk_picked_edit_wands_everywhere":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/perk_picked_exploding_corpses":
+        hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
+        size: 26
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/persistent/flags/perk_picked_exploding_gold":
         hash: c51009bc5a6028725861e29b70cdb8d4e1d8db3d
         size: 26
@@ -155,8 +167,8 @@ backups:
         hash: 58422bcd559f0d1ab0af103edb3a21fb8d7aec6b
         size: 66
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/_stats.salakieli":
-        hash: 92bf2f1afa38162b9710e0050bb9878f487014bb
-        size: 4496
+        hash: 40ab91062daa7e667debf2da06376506da918470
+        size: 4535
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/sessions/20231018-212137_kills.xml":
         hash: 15f9d2d2f73cd70fc02a927b306b19c2fd753389
         size: 632
@@ -193,36 +205,48 @@ backups:
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/sessions/20231019-183533_stats.xml":
         hash: b1b695a26da7695ef848679b70cb644193830b83
         size: 1249
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/sessions/20231025-184000_kills.xml":
+        hash: ef2e95cab733f33047c1b89b6138422b8f0eb025
+        size: 664
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/sessions/20231025-184000_stats.xml":
+        hash: 222a408bcc4e11217fec3c3dc04f93eb096b2880
+        size: 1237
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/sessions/20231025-184429_kills.xml":
+        hash: bd673e97bf9b4fb38ada92b5abd8ba7c5810ddae
+        size: 778
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/sessions/20231025-184429_stats.xml":
+        hash: bf94eb6c3234ddd3c554bc5811d7589171c8daa9
+        size: 1302
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_acidshooter.xml":
         hash: b73953fb66b560cf0ec4134a00a1acf9cb7a03e7
         size: 216
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_acidshooter_weak.xml":
-        hash: 502c6d343a31c9700d586b7ac12d9e459b2926ef
-        size: 276
+        hash: e1eba5479b938b9a4572e6e0a509257a25d2c7de
+        size: 351
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_bat.xml":
-        hash: f93da310b212255629c243bd8ccba00c77bdcdd8
-        size: 866
+        hash: 93d9bb3d5858188382ca1fbc8cabc89568989141
+        size: 985
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_bigbat.xml":
-        hash: 773e1d7c8d681baf99fd02551a94350d9e4bf9ad
-        size: 318
+        hash: aae25c72b35bb6cdc04b200d14560effc2e3666f
+        size: 445
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_bigfirebug.xml":
-        hash: 742cedb5d2b64726599ee9f00088bdff00e71515
+        hash: 201d6b5029fcc5f613ecc585ced37b37d397816f
         size: 493
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_firebug.xml":
-        hash: 4e9ef278574c32b0f107d9709f587ffbde3206e5
-        size: 1072
+        hash: b858af7d5742b6b16167fb5b30db6e7f6972c1dc
+        size: 1130
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_firemage_weak.xml":
         hash: 022bf66b6f42de8b068cc2911432f7696f7624ea
         size: 616
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_fireskull.xml":
-        hash: d8c4c28e6396f3d4f11d431f1370465a207af563
-        size: 319
+        hash: e87a370ad2b2cfd1b77ac81b6727104fd01811a7
+        size: 429
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_frog.xml":
         hash: d673f487c79d522050dc043b65c9f1b31543b902
         size: 216
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_fungus.xml":
-        hash: 3701acab4ba2bced8d37a0431e88bc812da144b3
-        size: 228
+        hash: 5904cb5638c88531b54ed8183cb1eeae7396b213
+        size: 349
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_fungus_big.xml":
         hash: 93f22b7d2b51a94262a0979c7258a7d0c4987858
         size: 215
@@ -230,23 +254,23 @@ backups:
         hash: df764b154a3f81e169d1c29283d0b859e0436bb1
         size: 285
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_goblin_bomb.xml":
-        hash: 6dc5f60ea4e5ed0b99ddb7c72dacb41d3751405d
+        hash: b19f34833afd48514d9c2596ea92784bde36c882
         size: 454
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_homunculus.xml":
         hash: 0b883b80066c9ad912b687f497b30a6fb4412980
         size: 704
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_iceskull.xml":
-        hash: af74c1fd0d042ab075a74158f2f16c2dd05a43c3
+        hash: 58a78100c0872b05d53471fb9f4e72fa7ffab6b8
         size: 455
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_longleg.xml":
-        hash: 9ed5e7682ba94cff8b99dc325c7838ad1099c3ac
-        size: 857
+        hash: f0f28a1e87ddd1cb4063f3ca1a32708fdf1950b9
+        size: 858
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_miner.xml":
-        hash: 39d2d3f67e794ec93c91ae15b77352c5bfd28574
-        size: 791
+        hash: d2480bf6200f80778c283cee856dd367912defe4
+        size: 964
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_miner_weak.xml":
-        hash: 19deee9e544d6a69f4fbce562b8eca69a6091fdd
-        size: 979
+        hash: fac2cd558ef067302c692493c8d7f361a563c912
+        size: 1046
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_pebble_physics.xml":
         hash: b6a6da4e9afb7446402f61862c3546e2fc202c55
         size: 610
@@ -254,23 +278,26 @@ backups:
         hash: 79f96c842bbd379c9241ae4fe32d5bf28ce9ff61
         size: 571
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_rat.xml":
-        hash: d4233c1a663fb2dc2d9e4e090fd34e182fe46906
-        size: 1834
+        hash: baf38e5a2505e31bd8293e98a90fe8d04927f5bb
+        size: 2070
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_scavenger_glue.xml":
         hash: 00904d8ebfa9d8e3796257d53554199096c2a4f4
         size: 211
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_scavenger_grenade.xml":
-        hash: ca9967b9a740e3df4a908abeb0cd88497ca7ab3f
-        size: 325
+        hash: 9f68030d25f5aca626b62f2dc9260c19b0f8f03b
+        size: 455
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_scavenger_leader.xml":
+        hash: 32da4e7974439609c048e3c2de0979f5e048e87f
+        size: 197
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_scavenger_smg.xml":
-        hash: c3da478096d1f0834d368ba84575ff645f04935c
-        size: 401
+        hash: 17bf20835ecd47cf96b0dc7e1f01dc6257f3fb1e
+        size: 530
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_shotgunner.xml":
-        hash: c33154ca71e6626ef92b4b90769ce106136dcac7
-        size: 1426
+        hash: 2cc3749c3082ea4d1f5aa252323bf34c273ba23a
+        size: 1563
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_shotgunner_weak.xml":
-        hash: b61b7f5e0977bf9cbe43b818c8ee0a27abbb7bd6
-        size: 580
+        hash: b48286b257eeebb862315b4e53180312e18d1ed4
+        size: 740
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_slimeshooter.xml":
         hash: 3ec01b98cafe9b2201dff3810a0528f3584c5d69
         size: 907
@@ -278,17 +305,20 @@ backups:
         hash: 254753fb6bbadd015bd188ab4491da482a3bb548
         size: 270
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_slimeshooter_weak.xml":
-        hash: d741124cb952dedde71e95a21fe5f38be3eb4571
+        hash: e2774ec6269b303c4b9ef466aae4bd19f8ca036d
         size: 716
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_sniper.xml":
-        hash: e208800aa1b0f750cef6e6643439a0c62fe5d3e6
-        size: 517
+        hash: ff2675813a1c48b98289ea4a8bed5642002b5796
+        size: 574
+      "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_tank.xml":
+        hash: 81b968ea5657b97d2bb7ff7e235f5333360428aa
+        size: 194
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_zombie.xml":
         hash: 4fe7503cad944958f9f640c47362447ee680fc4f
         size: 214
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save00/stats/stats_zombie_weak.xml":
-        hash: 462857f78e610a4747bc081958f919e2218cc68f
-        size: 1445
+        hash: ae15d2fc2e4c3f6139d3a05c631dec6cc4fe81d9
+        size: 1591
       "C:/Users/user/AppData/LocalLow/Nolla_Games_Noita/save_shared/config.xml":
         hash: 800ffd32514056ce0bb30f9c38cf31e128abfec6
         size: 11732

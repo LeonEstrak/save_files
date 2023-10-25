@@ -1,12 +1,14 @@
-<Stats deaths="36" kills="19" player_kills="1" player_projectile_count="0" >
+<Stats deaths="44" kills="20" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="3" >
+    <E key="NULL | $damage_explosion" value="5" >
     </E>
-    <E key="NULL | $damage_fire" value="8" >
+    <E key="NULL | $damage_fire" value="9" >
     </E>
     <E key="NULL | $damage_radioactive" value="3" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
     </E>
     <E key="bigfirebug | $damage_projectile" value="1" >
     </E>
@@ -16,11 +18,13 @@
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
     <E key="pebble_physics | $damage_explosion" value="1" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="8" >
+    <E key="player | $damage_projectile" value="11" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="2" >
     </E>
@@ -40,7 +44,7 @@
     </E>
     <E key="player_rng_items" value="1" >
     </E>
-    <E key="rat" value="14" >
+    <E key="rat" value="15" >
     </E>
     <E key="tnt" value="1" >
     </E>

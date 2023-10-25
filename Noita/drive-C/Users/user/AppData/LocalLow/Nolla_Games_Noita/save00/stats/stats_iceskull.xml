@@ -1,10 +1,10 @@
-<Stats deaths="4" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="5" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="player | $damage_projectile" value="1" >
     </E>
     <E key="shotgunner | $damage_projectile" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="1" >
+    <E key="sniper | $damage_projectile" value="2" >
     </E>
     <E key="worm_big | worm bite" value="1" >
     </E>

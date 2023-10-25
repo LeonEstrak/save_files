@@ -1,12 +1,12 @@
-<Stats deaths="6" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="9" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="2" >
+    <E key="NULL | $damage_explosion" value="3" >
     </E>
-    <E key="NULL | $damage_radioactive" value="2" >
+    <E key="NULL | $damage_radioactive" value="3" >
     </E>
     <E key="firebug | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="1" >
+    <E key="player | $damage_projectile" value="2" >
     </E>
   </death_map>
   <kill_map>
