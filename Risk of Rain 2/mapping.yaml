@@ -5,12 +5,12 @@ drives:
   drive-D: "D:"
 backups:
   - name: "."
-    when: "2023-10-14T07:48:50.240114700Z"
+    when: "2023-10-26T16:08:29.447693200Z"
     os: windows
     files:
       "C:/Program Files (x86)/Steam/userdata/102118085/632360/remote/UserProfiles/b3fea611-e950-461b-953a-17cd44925bdc.xml":
-        hash: e60b775df4d720f4e27bc9b1bb72fd6a75b86881
-        size: 207409
+        hash: 108f0c86033382bef65292efa787cd1c66671c1d
+        size: 208596
       "C:/Program Files (x86)/Steam/userdata/102118085/760/remote/632360/screenshots/20230207225849_1.jpg":
         hash: a1f5c74ccb2965d58bd505ee60f0a426f56b4b1a
         size: 204374
@@ -21,5 +21,5 @@ backups:
         hash: 300dae6624bf0a6c39633a43303e5292cc36ba78
         size: 1410
     registry:
-      hash: 6e5c8f8be1ec696dfb4fe6c69c1ad2acb2918060
+      hash: 857ecdc133d1c4b536da63b0e3e0a434c1e9f38f
     children: []
