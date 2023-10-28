@@ -1,0 +1,24 @@
+---
+name: Ghostrunner 2
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-10-28T07:24:04.040871700Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Ghostrunner2/Saved/SaveGames/76561199604718700/Ghostrunner2.sav":
+        hash: 4fda893f5857f62e66d8a480e08ed4df832c1f56
+        size: 12778
+      "C:/Users/user/AppData/Local/Ghostrunner2/Saved/SaveGames/76561199604718700/Ghostrunner2_Achievements.sav":
+        hash: 9218db322672217da290e638e57ad2c9b2a68bdf
+        size: 1231
+      "C:/Users/user/AppData/Local/Ghostrunner2/Saved/SaveGames/Ghostrunner2_Gameplay.sav":
+        hash: b5f52529e6895d848a2721eab02e8d3572626e56
+        size: 1294
+      "C:/Users/user/AppData/Local/Ghostrunner2/Saved/SaveGames/Ghostrunner2_Graphics.sav":
+        hash: 63d4b7a98328f717a964d65c74c8e5cc1fbf17fc
+        size: 1806
+    registry:
+      hash: ~
+    children: []
