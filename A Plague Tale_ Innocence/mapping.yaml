@@ -1,0 +1,24 @@
+---
+name: "A Plague Tale: Innocence"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-10-29T09:52:56.530118200Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/My Games/A Plague Tale Innocence/ENGINESETTINGS":
+        hash: 94e5343e4b2bc9707f69092e51c61469005e15e9
+        size: 1482
+      "C:/Users/user/Documents/My Games/A Plague Tale Innocence/SETTINGS":
+        hash: 3abb6d08289f8b257e5246d0364df40d628db6c8
+        size: 528
+      "C:/Users/user/Documents/My Games/A Plague Tale Innocence/SLOT00":
+        hash: 640c9e01e03ba8b24a2bd41c8763e09f882ea94c
+        size: 87136
+      "C:/Users/user/Documents/My Games/A Plague Tale Innocence/USERINPUT":
+        hash: 936208faa2b61215bf398a470ad495dd5ffbd289
+        size: 24528
+    registry:
+      hash: ~
+    children: []
