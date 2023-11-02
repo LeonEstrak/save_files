@@ -1,0 +1,15 @@
+---
+name: Dead Cells
+drives:
+  drive-D: "D:"
+backups:
+  - name: "."
+    when: "2023-10-29T14:49:14.713910100Z"
+    os: windows
+    files:
+      "D:/Dead Cells/save/user_0.dat":
+        hash: 12e7d361871df8520bb83f7757c52d2ca9c3b257
+        size: 46845
+    registry:
+      hash: ~
+    children: []

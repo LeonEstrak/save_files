@@ -1,0 +1,26 @@
+App Id: 
+Platform: WindowsPlayer
+Version: 39.2
+Device ID: 5b3dac7494184a69800f1897575809ac
+Device Model: System Product Name (ASUS)
+OS: Windows 11  (10.0.22621) 64bit
+CPU: 13th Gen Intel(R) Core(TM) i5-13600KF
+RAM: 32580 MB
+GPU: AMD Radeon RX 6800 XT
+Graphics Info: Direct3D 11.0 [level 11.1]
+ServerTime: 2023-11-01_17-29-31
+Store: Epic
+Player ID: no_link5b3dac7494184a69800f1897575809ac
+Misc: 0
+Build Number: 7258
+
+System.NotImplementedException: Webview not implemented on this platform
+  at NinjaKiwi.Players.LiNKAccountControllers.WebviewFromPlugin.ShowPage (System.String _)  
+  at NinjaKiwi.Players.LiNKAccountControllers.MobileWebviewLiNKAccountController.OpenAccountPanel ()  
+  at NinjaKiwi.Players.LiNKAccountControllers.MobileWebviewLiNKAccountController.createEverything ()  
+--- End of stack trace from previous location where exception was thrown ---
+
+  at Assets.Scripts.Unity.Game.LoadWebview ()  
+  at NinjaKiwi.Players.LiNKAccountControllers.MobileWebviewLiNKAccountController.OpenAccountPanel ()  
+  at NinjaKiwi.Players.LiNKAccountControllers.MobileWebviewLiNKAccountController.createEverything ()  
+  at UnityEngine.UnitySynchronizationContext.Exec ()  
