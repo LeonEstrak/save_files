@@ -4,26 +4,26 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-10-18T14:53:52.083840800Z"
+    when: "2023-11-04T15:44:21.208291700Z"
     os: windows
     files:
       "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Player-prev.log":
-        hash: 8b74db48d34843538dfb3e08453ea8d0ef473991
-        size: 13853
-      "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Player.log":
         hash: 7b82566c055fed2933ad13b041b10a028b897d54
         size: 4597
-      "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Unity/9c099b6b-47ea-47b3-a50f-24516f7dc811/Analytics/ArchivedEvents/169764080200001.a36c5b6d/c":
+      "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Player.log":
+        hash: 1956db72d5c03e5df1c338a5aafe7dfc8a4805f1
+        size: 5875
+      "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Unity/9c099b6b-47ea-47b3-a50f-24516f7dc811/Analytics/ArchivedEvents/169911246700003.a73c531c/c":
+        hash: 77de68daecd823babbb58edb1c8e14d7106e83bb
+        size: 1
+      "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Unity/9c099b6b-47ea-47b3-a50f-24516f7dc811/Analytics/ArchivedEvents/169911246700003.a73c531c/e":
+        hash: 539d26c6875e994828556c263697e7872ea3cd48
+        size: 810
+      "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Unity/9c099b6b-47ea-47b3-a50f-24516f7dc811/Analytics/ArchivedEvents/169911246700003.a73c531c/g":
         hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
         size: 1
-      "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Unity/9c099b6b-47ea-47b3-a50f-24516f7dc811/Analytics/ArchivedEvents/169764080200001.a36c5b6d/e":
-        hash: b4e1656ae043e44ffc304bddcdf61b5a3b19be35
-        size: 672
-      "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Unity/9c099b6b-47ea-47b3-a50f-24516f7dc811/Analytics/ArchivedEvents/169764080200001.a36c5b6d/g":
-        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
-        size: 1
-      "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Unity/9c099b6b-47ea-47b3-a50f-24516f7dc811/Analytics/ArchivedEvents/169764080200001.a36c5b6d/s":
-        hash: 3f6de04ae838f3e57cc5a658e6a8084a02e2b99d
+      "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Unity/9c099b6b-47ea-47b3-a50f-24516f7dc811/Analytics/ArchivedEvents/169911246700003.a73c531c/s":
+        hash: df2ea401bc163944a9abf58c5e9921b10200f5be
         size: 440
       "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/Unity/9c099b6b-47ea-47b3-a50f-24516f7dc811/Analytics/config":
         hash: a351bea1932270bafbe468584058fef20dcfc31e
@@ -32,11 +32,11 @@ backups:
         hash: 56ad0baacfa4cc04b431a6180414a59f1db8e1c4
         size: 136
       "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/settings":
-        hash: 8917aa3519216a09843a180bfb907ca837a3497b
-        size: 1516
+        hash: c9053fca359f6eaf2dd1c61cbef3b69f500ab0be
+        size: 1515
       "C:/Users/user/AppData/LocalLow/Wishfully/Planet of Lana/slot_0.sav":
-        hash: 0fdc9295e692df11deb337b15ead427e89da2daf
-        size: 750
+        hash: 616124ae06bcc4278a0382f63f368f5fc48744b4
+        size: 794
     registry:
       hash: ~
     children: []

@@ -11,11 +11,11 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 New input system (experimental) initialized
 <RI> Initialized touch support.
-UnloadTime: 0.709100 ms
+UnloadTime: 1.115900 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4321.
-Total: 0.918600 ms (FindLiveObjects: 0.108800 ms CreateObjectMapping: 0.060900 ms MarkObjects: 0.733500 ms  DeleteObjects: 0.015200 ms)
+Total: 1.140400 ms (FindLiveObjects: 0.123300 ms CreateObjectMapping: 0.074200 ms MarkObjects: 0.920700 ms  DeleteObjects: 0.021700 ms)
 
 [OnLoad] slot_1.sav - LoadFail
 UnityEngine.Logger:Log(LogType, Object)
@@ -43,17 +43,45 @@ Failed to create agent because there is no valid NavMesh
 Failed to create agent because it is not close enough to the NavMesh
 Southgrove.LiveNavMeshes.LiveNavMeshDynamicBuilder:OnEnable()
 
-[ line -651237048]
-
-Unloading 14 Unused Serialized files (Serialized files now loaded: 4)
-
-Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 68772.
-Total: 41.755000 ms (FindLiveObjects: 2.141900 ms CreateObjectMapping: 0.543700 ms MarkObjects: 38.923900 ms  DeleteObjects: 0.145200 ms)
+[ line -1578177832]
 
 Unloading 32 Unused Serialized files (Serialized files now loaded: 4)
 
-Unloading 386 unused Assets to reduce memory usage. Loaded Objects now: 155842.
-Total: 59.190100 ms (FindLiveObjects: 4.949500 ms CreateObjectMapping: 1.246200 ms MarkObjects: 52.534900 ms  DeleteObjects: 0.459300 ms)
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 155838.
+Total: 59.396200 ms (FindLiveObjects: 5.108400 ms CreateObjectMapping: 1.550000 ms MarkObjects: 52.581100 ms  DeleteObjects: 0.156600 ms)
+
+Unloading 26 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 185290.
+Total: 66.071400 ms (FindLiveObjects: 6.850900 ms CreateObjectMapping: 0.860300 ms MarkObjects: 58.274000 ms  DeleteObjects: 0.085800 ms)
+
+[Stay] skipped @ Lana (PoL.Characters.Lana.Communication)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Characters.Lana.Communication:Stay()
+
+[Stay] skipped @ Lana (PoL.Characters.Lana.Communication)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Characters.Lana.Communication:Stay()
+
+Adjusted cut position. Cut too close to rope ends.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Yoda.Rope.YodaRope:TryCut(Single, YodaRope&)
+PoL.Characters.Mui.MuiBiteInteractionMarkup:Cut()
+PoL.Characters.Mui.<BiteRope>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 46 Unused Serialized files (Serialized files now loaded: 5)
+
+Unloading 1154 unused Assets to reduce memory usage. Loaded Objects now: 151230.
+Total: 65.082800 ms (FindLiveObjects: 6.665800 ms CreateObjectMapping: 0.798000 ms MarkObjects: 55.779700 ms  DeleteObjects: 1.839200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 5)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 151230.
+Total: 59.870300 ms (FindLiveObjects: 5.441900 ms CreateObjectMapping: 0.622200 ms MarkObjects: 53.736900 ms  DeleteObjects: 0.069200 ms)
 
 [Not implemented yet] @ FMOD Audio Service (PoL.Audio.FMODAudioService)
 UnityEngine.Logger:Log(LogType, Object)
@@ -61,10 +89,10 @@ UnityEngine.Debug:LogWarning(Object)
 PoL.Core.<Enumerator>d__1:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 5)
 
-Unloading 1920 unused Assets to reduce memory usage. Loaded Objects now: 10423.
-Total: 27.090500 ms (FindLiveObjects: 0.459800 ms CreateObjectMapping: 0.228400 ms MarkObjects: 22.364000 ms  DeleteObjects: 4.037900 ms)
+Unloading 2205 unused Assets to reduce memory usage. Loaded Objects now: 10456.
+Total: 26.377400 ms (FindLiveObjects: 0.505100 ms CreateObjectMapping: 0.215300 ms MarkObjects: 22.257200 ms  DeleteObjects: 3.399500 ms)
 
 [OnLoad] slot_1.sav - LoadFail
 UnityEngine.Logger:Log(LogType, Object)
@@ -89,14 +117,14 @@ PoL.Core.<Enumerator>d__4:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Setting up 10 worker threads for Enlighten.
-  Thread -> id: 5fac -> priority: 1 
-  Thread -> id: 548c -> priority: 1 
-  Thread -> id: 70dc -> priority: 1 
-  Thread -> id: 70cc -> priority: 1 
-  Thread -> id: 258c -> priority: 1 
-  Thread -> id: 5f20 -> priority: 1 
-  Thread -> id: 163c -> priority: 1 
-  Thread -> id: 6fc0 -> priority: 1 
-  Thread -> id: 6140 -> priority: 1 
-  Thread -> id: 7ec8 -> priority: 1 
+  Thread -> id: 3c74 -> priority: 1 
+  Thread -> id: af7c -> priority: 1 
+  Thread -> id: ade0 -> priority: 1 
+  Thread -> id: 7dac -> priority: 1 
+  Thread -> id: 5834 -> priority: 1 
+  Thread -> id: 1894 -> priority: 1 
+  Thread -> id: 1334 -> priority: 1 
+  Thread -> id: 6e24 -> priority: 1 
+  Thread -> id: 996c -> priority: 1 
+  Thread -> id: bfe0 -> priority: 1 
 Curl error 42: Callback aborted

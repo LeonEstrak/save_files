@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-10-30T16:17:30.334124200Z"
+    when: "2023-11-04T10:31:50.852725900Z"
     os: windows
     files:
       "C:/Users/user/Documents/My Games/A Plague Tale Innocence/ENGINESETTINGS":
@@ -14,8 +14,8 @@ backups:
         hash: 1af43aaae7836649db9fe82d8aec189628e7ac24
         size: 736
       "C:/Users/user/Documents/My Games/A Plague Tale Innocence/SLOT00":
-        hash: 251e82abccab377e8a8bda137fc017136a551f75
-        size: 112400
+        hash: 94bc196cf0a39956b18265e1b7a230eecfa11627
+        size: 129536
       "C:/Users/user/Documents/My Games/A Plague Tale Innocence/USERINPUT":
         hash: 936208faa2b61215bf398a470ad495dd5ffbd289
         size: 24528
