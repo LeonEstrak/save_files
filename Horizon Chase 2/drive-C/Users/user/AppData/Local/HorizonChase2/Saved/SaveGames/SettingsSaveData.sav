@@ -6,16 +6,16 @@
 		"resolutionWidth": 1920,
 		"resolutionHeight": 1080,
 		"isVSyncEnabled": true,
-		"musicVolume": 0,
+		"musicVolume": 0.99999934434890747,
 		"sFXVolume": 1,
-		"masterVolume": 0.40450018644332886,
+		"masterVolume": 0.80449980497360229,
 		"stingerVolume": 1,
 		"cultureCode": "en-IN",
 		"inputOption": "Gamepad",
 		"batterySaveOption": false,
 		"isSpeechBubblesEnabled": true,
 		"graphicQualityLevel": "High",
-		"isForceFeedbackEnabled": true,
+		"isForceFeedbackEnabled": false,
 		"crossplayFeatureState": "SettingsEnabled"
 	}
 }

@@ -1,0 +1,171 @@
+---
+name: Jusant
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-11-13T13:50:09.775418200Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/ASC/Saved/ASC_PCD3D_SM6.upipelinecache":
+        hash: 63d0567fde628ee5da3e870cd96d56433e44a403
+        size: 5367
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/CrashReportClient/UECC-Windows-6502F067440E7629FFCE3BB723E35385/CrashReportClient.ini":
+        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
+        size: 112
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/ASCGame.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/AscGripTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/ControlRig.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEAchievementsSync.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEActivities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEActorConfig.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEAk.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEAnimation.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEAutomation.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEBookmark.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEBudget.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEDataValidation.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEDebugMenu.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEDebugUI.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEDialogue.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEFootstep.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEGameMetricsGamesight.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEGenDialogueManager.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNELevelStreamingGraph.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNELogFilter.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEPackageContext.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEPresence.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNESave.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DNEViewModes.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DatasmithContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/EditorPerProjectUserSettings.ini":
+        hash: a040b38663291f19372ff39053a7e09535b3074f
+        size: 73
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Engine.ini":
+        hash: e83443f4884de5ed9373f652f6643370afe6e27e
+        size: 6373
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/EnhancedInput.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/FullBodyIK.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/GLTFExporter.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/GameUserSettings.ini":
+        hash: c788356557742756c4ac40f5c26db0ed24be6317
+        size: 1427
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/GameplayAbilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/GameplayTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Metasound.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/MovieRenderPipeline.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Paper2D.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/Config/Windows/Wwise.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/ASC/Saved/SaveGames/FullGame/MachineSettings.sav":
+        hash: faa3b2e6851e5ec384af8f3eb07b8cd792c6a611
+        size: 1616
+      "C:/Users/user/AppData/Local/ASC/Saved/SaveGames/FullGame/Save.sav":
+        hash: badd15f4a6c8e295a9aa8b8c3786bd13d1de2b87
+        size: 11370
+      "C:/Users/user/AppData/Local/ASC/Saved/SaveGames/FullGame/UserSettings.sav":
+        hash: ce38617479a9fae47f4af140b502da8f70684d44
+        size: 79012
+    registry:
+      hash: ~
+    children: []

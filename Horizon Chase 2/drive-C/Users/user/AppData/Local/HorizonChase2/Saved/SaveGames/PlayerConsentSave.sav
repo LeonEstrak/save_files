@@ -4,7 +4,9 @@
 	{
 		"playerConsents":
 		{
+			"AnalyticsDataCollection": "Pending",
+			"GameplayDataCollection": "Allowed"
 		},
-		"gameSessionCount": 4
+		"gameSessionCount": 5
 	}
 }

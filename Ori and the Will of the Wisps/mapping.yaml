@@ -4,12 +4,12 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-07-16T18:48:29.829489500Z"
+    when: "2023-11-14T09:41:42.074124100Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/ClockSkew.bindata":
-        hash: 7226ac33e0557d2d6d09cb27b0ca7ba087076355
-        size: 19
+        hash: bd5907c94498b7a0e1f9cc81110711d305dbc26d
+        size: 20
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/ControllerButtonRemaps.txt":
         hash: 10516114880c0f93a75b26bb8ab4cb13b243ccea
         size: 1414
@@ -17,40 +17,43 @@ backups:
         hash: e7f57b52cb83f9622e2e81a423def1714e8ae725
         size: 2487
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813PlayFabAchievements.bindata":
-        hash: 900a63bf651f6a5b1855ce508ff796724412b9a4
-        size: 1008
+        hash: bee9303cc15f6c40215b2df35a419eafbf7f3b9c
+        size: 1163
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813PlayFabStatistics.bindata":
-        hash: 27ed9d8e0991c88474f049574d5bc2829d2203ab
+        hash: d2f08dc7adb14cb37e41c0255ceb870491b8df45
         size: 597
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813SteamAchievements.bindata":
-        hash: defa78dd1af90221ca5587f6fbec291b4e4eaf33
+        hash: 8e5904598a2aac7d35d11a450e91331e31142fd0
         size: 1980
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813XalAchievements.bindata":
-        hash: 900a63bf651f6a5b1855ce508ff796724412b9a4
-        size: 1008
+        hash: bee9303cc15f6c40215b2df35a419eafbf7f3b9c
+        size: 1163
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/race-hornbugNormal1AdjacentFriends.bindata":
         hash: 306950b0f8b1635a41e5e910f346381fbe7c6796
         size: 1618
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/race-hornbugNormal1AdjacentMyScore.bindata":
         hash: 9cd898839bf3668dddd26b63d1833f5b7e1a4d6c
         size: 2498
+      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/race-watermillEscape1AdjacentFriends.bindata":
+        hash: f0d6987c44f997777edf2c80a61f66ef9390e452
+        size: 1618
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0.uberstate":
-        hash: 90783d13c26f73a07bdfb9397421e8c7070113e6
+        hash: f9603a4ad61397c30d8c52c9c9d39fd4e008848c
         size: 12494
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup0.uberstate":
-        hash: 70e2dbaaea51aa611f2047f0e29eeb913fb804be
+        hash: de8e8780e7ba0326ecd81cd17bc9590e80750120
         size: 12494
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup1.uberstate":
-        hash: 71a6a57b32ebc325cba1741229fbd32a0cc66616
+        hash: 7a6d905265bd70e64155f07009db3ff517c8eeef
         size: 12494
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup2.uberstate":
-        hash: 520fd6dfe99c06fe6a11a8c5bc2cf7096ab74f4c
+        hash: ca200ec41a78fb2afaff58e1deac541cbf9047fa
         size: 12494
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup3.uberstate":
-        hash: a0712e65377fbca0c4d25d779032725f0c47e563
+        hash: 821eeb90236b8896381a59bfc936eabdd22627cc
         size: 12494
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup4.uberstate":
-        hash: 17f64467bb38b9944f40c8e7ac9741cee7f1ec47
+        hash: 29b3ed7da0ee3d5800c6d928547692c344a9db07
         size: 12494
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup5.uberstate":
         hash: 4477f61a9e450655ccd3b3023b3efb15f5d72308
@@ -59,16 +62,16 @@ backups:
         hash: 86904eb9b7f88edde2fef3f988800cde92810e87
         size: 12494
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup7.uberstate":
-        hash: 42b64c49f55c5e4a6b3901c94fa93ab5f66d0e26
+        hash: 8f582ba83e6358a3e733c27af3ea988478b6834e
         size: 12494
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup8.uberstate":
-        hash: 5517bcffcbdeb9e967c26d979f1003726293dc49
+        hash: 87cc66d9a2bc898678ec26e68189fcfb19d84c00
         size: 12494
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup9.uberstate":
-        hash: 3523fd722e5dee0a7c2318dd56d8dd6ca171dd57
+        hash: 55c4df190c821d921d6b322910efb217b236972c
         size: 12494
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/settings.bin":
-        hash: d31ef072fae9640bf4e2d3f050632716be455e60
+        hash: 1d6cc77ab1e338b100db74edfaa69e289f3c355b
         size: 189
       "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/steam_autocloud.vdf":
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c

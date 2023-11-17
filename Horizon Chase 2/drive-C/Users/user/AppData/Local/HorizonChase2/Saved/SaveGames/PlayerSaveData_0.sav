@@ -3,19 +3,19 @@
 	"payload":
 	{
 		"playerUniqueId": "B2A625064B2295AB2EEA14AB267D9A33",
-		"totalTimePlayed": 5918.59521484375,
+		"totalTimePlayed": 11739.068359375,
 		"playerGame":
 		{
-			"blueCoinsGeneralCounter": 70,
-			"creditsCounter": 800,
+			"blueCoinsGeneralCounter": 130,
+			"creditsCounter": 1350,
 			"carsData":
 			{
 				"CarItem_E_Sport_02":
 				{
-					"skillPoints": 1,
-					"carLevel": 3,
-					"carTotalXp": 150,
-					"levelProgressXp": 30,
+					"skillPoints": 3,
+					"carLevel": 5,
+					"carTotalXp": 315,
+					"levelProgressXp": 45,
 					"physicalPartsAndLevel":
 					{
 						"Gearbox":
@@ -60,9 +60,9 @@
 				},
 				"CarItem_D_Sport_01":
 				{
-					"skillPoints": 1,
-					"carLevel": 2,
-					"carTotalXp": 45,
+					"skillPoints": 3,
+					"carLevel": 4,
+					"carTotalXp": 195,
 					"levelProgressXp": 0,
 					"physicalPartsAndLevel":
 					{
@@ -595,7 +595,7 @@
 				"USA_FL_SaintAugustine_Race":
 				{
 					"placement": 0,
-					"bestTime": 96.032005310058594,
+					"bestTime": 87.584007263183594,
 					"collectiblesCollected": 10,
 					"hasSuperTrophy": true,
 					"isBeaten": true
@@ -619,17 +619,17 @@
 				"USA_VT_Montpelier_2_Race":
 				{
 					"placement": 0,
-					"bestTime": 115.52000427246094,
+					"bestTime": 112.62400817871094,
 					"collectiblesCollected": 10,
 					"hasSuperTrophy": true,
 					"isBeaten": true
 				},
 				"USA_VT_LakeElmore_Race":
 				{
-					"placement": 2,
-					"bestTime": 96.560005187988281,
+					"placement": 0,
+					"bestTime": 84.736007690429688,
 					"collectiblesCollected": 10,
-					"hasSuperTrophy": false,
+					"hasSuperTrophy": true,
 					"isBeaten": true
 				},
 				"USA_VT_LakeElmore_TimeTrials_Race":
@@ -647,6 +647,38 @@
 					"collectiblesCollected": 15,
 					"hasSuperTrophy": true,
 					"isBeaten": true
+				},
+				"USA_CA_SequoiaNationalPark_Race":
+				{
+					"placement": 0,
+					"bestTime": 89.472007751464844,
+					"collectiblesCollected": 10,
+					"hasSuperTrophy": true,
+					"isBeaten": true
+				},
+				"USA_CA_DeathValley_Race":
+				{
+					"placement": 0,
+					"bestTime": 116.30400848388672,
+					"collectiblesCollected": 10,
+					"hasSuperTrophy": true,
+					"isBeaten": true
+				},
+				"USA_CA_SanFrancisco_Race":
+				{
+					"placement": 1,
+					"bestTime": 133.21600341796875,
+					"collectiblesCollected": 25,
+					"hasSuperTrophy": false,
+					"isBeaten": true
+				},
+				"Brazil_Northeast_Olinda_Race":
+				{
+					"placement": 3,
+					"bestTime": 105.92000579833984,
+					"collectiblesCollected": 15,
+					"hasSuperTrophy": false,
+					"isBeaten": false
 				}
 			}
 		},
@@ -655,12 +687,12 @@
 			"carsGlobalStatistics":
 			{
 				"racesInFirstCounter": 0,
-				"racesFinishedCounter": 16,
-				"superTrophyCounter": 6,
+				"racesFinishedCounter": 37,
+				"superTrophyCounter": 9,
 				"onlineRacesCounter": 0,
-				"kmTravelled": 240,
-				"nitrosUsed": 33,
-				"worldTourRacesFinishedCounter": 16,
+				"kmTravelled": 555,
+				"nitrosUsed": 77,
+				"worldTourRacesFinishedCounter": 37,
 				"breakTheBoxRacesFinishedCounter": 2,
 				"upgradesInstalled": 1,
 				"paintsCollectedByPlayer": 0,
@@ -671,12 +703,12 @@
 				"CarItem_E_Sport_02":
 				{
 					"racesInFirstCounter": 0,
-					"racesFinishedCounter": 10,
-					"superTrophyCounter": 5,
+					"racesFinishedCounter": 21,
+					"superTrophyCounter": 8,
 					"onlineRacesCounter": 0,
-					"kmTravelled": 150,
-					"nitrosUsed": 19,
-					"worldTourRacesFinishedCounter": 10,
+					"kmTravelled": 315,
+					"nitrosUsed": 36,
+					"worldTourRacesFinishedCounter": 21,
 					"breakTheBoxRacesFinishedCounter": 2,
 					"upgradesInstalled": 1,
 					"paintsCollectedByPlayer": 0,
@@ -685,12 +717,12 @@
 				"CarItem_D_Sport_01":
 				{
 					"racesInFirstCounter": 0,
-					"racesFinishedCounter": 3,
+					"racesFinishedCounter": 13,
 					"superTrophyCounter": 1,
 					"onlineRacesCounter": 0,
-					"kmTravelled": 45,
-					"nitrosUsed": 5,
-					"worldTourRacesFinishedCounter": 3,
+					"kmTravelled": 195,
+					"nitrosUsed": 32,
+					"worldTourRacesFinishedCounter": 13,
 					"breakTheBoxRacesFinishedCounter": 0,
 					"upgradesInstalled": 0,
 					"paintsCollectedByPlayer": 0,
@@ -840,21 +872,21 @@
 			"generalStatistics":
 			{
 				"maxedLevelCars": 0,
-				"carsCollectedByPlayer": 0,
+				"carsCollectedByPlayer": 1,
 				"rimsCollectedByPlayer": 1,
 				"bodiesCollectedByPlayer": 0,
 				"paintsCollectedByPlayer": 0,
-				"consecutiveRacesWon": 1,
+				"consecutiveRacesWon": 0,
 				"racesPlacementCounter":
 				{
-					"0": 6,
-					"3": 1,
-					"2": 5,
-					"1": 2
+					"0": 14,
+					"3": 2,
+					"2": 6,
+					"1": 3
 				},
 				"racesWonWithSmallDifference": 0,
 				"racesFinishedWithoutUsingNitro": 2,
-				"racesFinishedWithNoNitrosLeft": 8
+				"racesFinishedWithNoNitrosLeft": 9
 			},
 			"completionStatistics":
 			{
@@ -872,27 +904,34 @@
 					"USA_VT_Montpelier_2_Race",
 					"USA_VT_LakeElmore_Race",
 					"USA_VT_LakeElmore_TimeTrials_Race",
-					"USA_VT_Montpelier_Race"
+					"USA_VT_Montpelier_Race",
+					"USA_CA_SequoiaNationalPark_Race",
+					"USA_CA_DeathValley_Race",
+					"USA_CA_SanFrancisco_Race",
+					"Brazil_Northeast_Olinda_Race"
 				],
 				"wTCountriesCompletion":
 				{
-					"unitedstatesofamerica": 60
+					"unitedstatesofamerica": 87,
+					"brazil": 0
 				},
-				"wTTotalCompletion": 8,
+				"wTTotalCompletion": 12,
 				"wTWasBeaten": false,
 				"carsThatCompletedRace":
 				{
 					"saintaugustine":
 					{
 						"idsArray": [
-							"CarItem_E_Sport_02"
+							"CarItem_E_Sport_02",
+							"CarItem_D_Sport_01"
 						]
 					},
 					"floridacaverns":
 					{
 						"idsArray": [
 							"CarItem_D_Sport_01",
-							"CarItem_I_SUV_01"
+							"CarItem_I_SUV_01",
+							"CarItem_E_Sport_02"
 						]
 					},
 					"floridakeys":
@@ -906,13 +945,15 @@
 					"montpelier02":
 					{
 						"idsArray": [
-							"CarItem_E_Sport_02"
+							"CarItem_E_Sport_02",
+							"CarItem_D_Sport_01"
 						]
 					},
 					"lakeelmore":
 					{
 						"idsArray": [
-							"CarItem_E_Sport_02"
+							"CarItem_E_Sport_02",
+							"CarItem_D_Sport_01"
 						]
 					},
 					"lakeelmore_extrastage":
@@ -922,6 +963,34 @@
 						]
 					},
 					"montpelier01":
+					{
+						"idsArray": [
+							"CarItem_E_Sport_02",
+							"CarItem_D_Sport_01"
+						]
+					},
+					"sequoiav2":
+					{
+						"idsArray": [
+							"CarItem_E_Sport_02",
+							"CarItem_D_Sport_01"
+						]
+					},
+					"deathvalley":
+					{
+						"idsArray": [
+							"CarItem_E_Sport_02",
+							"CarItem_D_Sport_01"
+						]
+					},
+					"sanfrancisco":
+					{
+						"idsArray": [
+							"CarItem_E_Sport_02",
+							"CarItem_D_Sport_01"
+						]
+					},
+					"olinda":
 					{
 						"idsArray": [
 							"CarItem_E_Sport_02"
@@ -1412,7 +1481,7 @@
 					"parentItemId": "CarItem_D_Sport_01",
 					"itemId": "CarBody_D_Sport_01_02",
 					"itemType": "Body",
-					"itemStatus": "LockedAndBuyable",
+					"itemStatus": "UnlockedAndBuyable",
 					"collected": false,
 					"currentStoreStatus": "LockedToBuy"
 				},
@@ -1421,7 +1490,7 @@
 					"parentItemId": "CarItem_D_Sport_01",
 					"itemId": "CarBody_D_Sport_01_03",
 					"itemType": "Body",
-					"itemStatus": "MisteryLockedAndBuyable",
+					"itemStatus": "UnlockedAndBuyable",
 					"collected": false,
 					"currentStoreStatus": "LockedToBuy"
 				},
@@ -1898,7 +1967,7 @@
 					"parentItemId": "None",
 					"itemId": "CarItem_G_Muscle_01",
 					"itemType": "Car",
-					"itemStatus": "LockedByReward",
+					"itemStatus": "UnlockedAndEquippable",
 					"collected": false,
 					"currentStoreStatus": "NotApplicable"
 				},
@@ -3308,6 +3377,29 @@
 							"currentCarBodyDecalId": "None"
 						}
 					}
+				},
+				"1":
+				{
+					"lastCarUsedByPlayer": "CarItem_D_Sport_01",
+					"carCustomizationInfo":
+					{
+						"CarItem_E_Sport_02":
+						{
+							"carItemId": "CarItem_E_Sport_02",
+							"currentCarBodyId": "CarBody_E_Sport_02_01",
+							"currentCarPaintId": "CarPaint_E_Sport_02_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_D_Sport_01":
+						{
+							"carItemId": "CarItem_D_Sport_01",
+							"currentCarBodyId": "CarBody_D_Sport_01_01",
+							"currentCarPaintId": "CarPaint_D_Sport_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						}
+					}
 				}
 			}
 		},
@@ -3317,13 +3409,13 @@
 			"notificationBadgeStrings":
 			{
 				"ItemsCollected": "Rims CarRim_Sedan_01 | | | ",
-				"ItemsAvailableToBuy": "Cars CarItem_E_Sport_02 Bodies CarBody_E_Sport_02_02 | CarBody_E_Sport_02_03 | | | | | ",
-				"CarsAvailable": "| "
+				"ItemsAvailableToBuy": "Cars CarItem_E_Sport_02 Bodies CarBody_E_Sport_02_02 | CarBody_E_Sport_02_03 | | | CarItem_D_Sport_01 Bodies CarBody_D_Sport_01_02 | CarBody_D_Sport_01_03 | | | | | ",
+				"CarsAvailable": "Cars CarItem_G_Muscle_01 | | | "
 			}
 		},
 		"gameSectionsNotifications":
 		{
-			"notificationBadgeString": "PLAYGROUNDS Challenges | | | "
+			"notificationBadgeString": "PLAYGROUNDS Challenges | Rewards | | | "
 		},
 		"tournaments":
 		{
@@ -3345,7 +3437,8 @@
 						"EndRaceOnboarding1",
 						"EndRaceOnboarding2",
 						"CarUpgradesOnboarding1",
-						"GameplayOnboardingBreakBoxes"
+						"GameplayOnboardingBreakBoxes",
+						"PlaygroundsHubOnboarding"
 					],
 					"activatedTriggers": [
 						"Break Boxes"
@@ -3361,35 +3454,35 @@
 				"achievement_01_09": 1,
 				"achievement_01_01_arcadeFTUX": 1,
 				"achievement_01_02": 0,
-				"achievement_01_03": 0,
+				"achievement_01_03": 1,
 				"achievement_01_04": 1,
 				"achievement_01_05": 0,
 				"achievement_01_06": 1,
 				"achievement_01_07": 0,
 				"achievement_01_08": 1,
-				"achievement_01_10": 0,
+				"achievement_01_10": 1,
 				"achievement_02_01": 0,
 				"achievement_02_02": 0,
 				"achievement_02_03": 0,
 				"achievement_02_04": 0,
 				"achievement_02_05": 0,
 				"achievement_02_06": 0,
-				"achievement_02_07": 0,
+				"achievement_02_07": 1,
 				"achievement_02_08": 0,
-				"achievement_03_01": 0.60000002384185791,
+				"achievement_03_01": 0.87000000476837158,
 				"achievement_03_02": 0,
 				"achievement_03_03": 0,
 				"achievement_03_04": 0,
 				"achievement_03_05": 0,
-				"achievement_03_06": 0.079999998211860657,
+				"achievement_03_06": 0.11999999731779099,
 				"achievement_03_07": 0,
 				"achievement_03_08": 0,
 				"achievement_03_09": 0,
 				"achievement_03_10": 0,
-				"achievement_04_01": 0.079999998211860657,
-				"achievement_04_02": 0.33000001311302185,
+				"achievement_04_01": 0.18500000238418579,
+				"achievement_04_02": 0.76999998092651367,
 				"achievement_04_03": 1,
-				"achievement_04_04": 0.10000000149011612,
+				"achievement_04_04": 0.30000001192092896,
 				"achievement_04_05": 0,
 				"achievement_04_06": 0,
 				"achievement_04_07": 1,
@@ -3407,7 +3500,6 @@
 				{
 					"achievementList": [
 						"achievement_01_02",
-						"achievement_01_03",
 						"achievement_01_05",
 						"achievement_01_07",
 						"achievement_02_01",
@@ -3449,7 +3541,8 @@
 						"achievement_01_04",
 						"achievement_01_06",
 						"achievement_01_10",
-						"achievement_02_07"
+						"achievement_02_07",
+						"achievement_01_03"
 					]
 				},
 				"Gameplay":
@@ -3465,9 +3558,11 @@
 		{
 			"countryCompletedPopupStack":
 			{
+				"unitedstatesofamerica": true
 			},
 			"countryUnlockedAnimStack":
 			{
+				"brazil": true
 			}
 		}
 	}

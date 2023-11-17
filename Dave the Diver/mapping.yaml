@@ -4,33 +4,33 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-09-21T17:54:01.729843100Z"
+    when: "2023-11-17T15:12:57.831967500Z"
     os: windows
     files:
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_00_GD.sav":
-        hash: 18c1b56ce007e55d191759cefc3945ec4ea4ce04
-        size: 92901
+        hash: 68123d70f5862aac932aae5f624e529b30f46cd9
+        size: 98463
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_00_PZ.sav":
-        hash: e8d33e06f4eafeffea390f00a412971870696604
-        size: 82276
+        hash: 8d3cf4fc2db1fa910c39c57cdeddc705ee146842
+        size: 146378
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_00_UO.sav":
-        hash: e59f737d0c88c4d8cce452100159976ee40242f5
+        hash: 67775c044f5307cd0d0df1f64e6f513342f3fac1
         size: 499
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_00_UP.sav":
         hash: 31fbeb704bcd0dc8ad0b212e7eb09087072f9c0f
         size: 336
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_01_GD.sav":
-        hash: 70e0d0213ca72965935ddbdd63fd7c49e3c363df
-        size: 92759
+        hash: f8317001c477e0463c0c6bbfc9627e6d82d5c420
+        size: 98567
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_01_PZ.sav":
-        hash: 415a5c2a55b3d26fae92fb66d938c32f19a864ec
-        size: 82276
+        hash: e0ec4503820ceed3316c260dfbcd41f7ec68ae1b
+        size: 146378
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_02_GD.sav":
-        hash: 00b02f7741d26192d97d7852d173dbd182ca6dd1
-        size: 91635
+        hash: 5908bbd9998c58def13eef7127bd0755a282a6c2
+        size: 98322
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_02_PZ.sav":
-        hash: e35892b6167ce93e8ee3b46fb010cde18e364ded
-        size: 82276
+        hash: 2484a02b0970cade32d7c602f01ab19422a2a397
+        size: 146378
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/m_GameSave_00_GD.sav":
         hash: d068f3df61426b9cfcbde023502ee5d43ad1c6c7
         size: 72183

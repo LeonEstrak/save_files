@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-10-06T13:46:17.043438100Z"
+    when: "2023-11-12T11:02:41.191127800Z"
     os: windows
     files:
       "C:/Users/user/Documents/Rockstar Games/Red Dead Redemption 2/Settings/1798635104_150223319.bin":
@@ -22,15 +22,18 @@ backups:
       "C:/Users/user/Documents/Rockstar Games/Red Dead Redemption 2/Settings/626544054_150223319.bin":
         hash: 46032475f281534552dec51b8b40a3aa1e67cca8
         size: 1233
+      "C:/Users/user/Documents/Rockstar Games/Red Dead Redemption 2/Settings/sga_vulkan_final_init.pipelineMarkerFile":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
       "C:/Users/user/Documents/Rockstar Games/Red Dead Redemption 2/Settings/sga_vulkan_final_init.vkPipelineCacheHeaderWindows":
-        hash: 4fbd4bee56234d613e79b252a6ce1df9d9dbfed1
+        hash: efca9be31cba192625b3150e7d4f3cee9952bae9
         size: 56
       "C:/Users/user/Documents/Rockstar Games/Red Dead Redemption 2/Settings/sga_vulkan_final_init.vkPipelineCacheWindows":
-        hash: 9caae9d531a4545a7a2d51fafade3d83a4ff2065
-        size: 40558220
+        hash: 8a966c602673df8b1ac5adbeedfca81c87b24db5
+        size: 40713100
       "C:/Users/user/Documents/Rockstar Games/Red Dead Redemption 2/Settings/sga_vulkan_final_init.vkWarmupCacheWindows":
-        hash: 4682263bdd4fb5c438cbda3ee526d1d09cb361de
-        size: 271239
+        hash: 47fe464714f72b87a391c9dbe3e0dca5fb4634c8
+        size: 272103
       "C:/Users/user/Documents/Rockstar Games/Red Dead Redemption 2/Settings/system.xml":
         hash: 0480e00fa50fd04ede3b7a2acb886220fced996f
         size: 4564

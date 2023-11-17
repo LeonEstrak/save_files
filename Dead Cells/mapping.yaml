@@ -4,12 +4,12 @@ drives:
   drive-D: "D:"
 backups:
   - name: "."
-    when: "2023-11-04T15:10:42.630863900Z"
+    when: "2023-11-13T09:43:07.001857800Z"
     os: windows
     files:
       "D:/Dead Cells/save/user_0.dat":
-        hash: 8bf46564792c9e8f5d600c6ae7f4d0748e37f3e5
-        size: 32823
+        hash: 7672f982011357358d472551fbb1eb810437d058
+        size: 94414
     registry:
       hash: ~
     children: []
