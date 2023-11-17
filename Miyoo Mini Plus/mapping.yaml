@@ -4,7 +4,7 @@ drives:
   drive-F: "F:"
 backups:
   - name: "."
-    when: "2023-11-08T17:13:52.027596Z"
+    when: "2023-11-17T15:20:17.627117200Z"
     os: windows
     files:
       "F:/Saves/CurrentProfile/config/Atari800/Atari800.opt":
@@ -190,6 +190,9 @@ backups:
       "F:/Saves/CurrentProfile/config/REminiscence/retroarch_flashback.cfg":
         hash: 62e3c212a58aee38ceed4859926f52d3a4489a0c
         size: 33615
+      "F:/Saves/CurrentProfile/config/RetroArch-0826-213152.cfg":
+        hash: 185ce956ba281ee2bafa1c9d34c6944c20e73af2
+        size: 106755
       "F:/Saves/CurrentProfile/config/SameDuck/SameDuck.cfg":
         hash: 1bcba92622a64ce470fc04b5f92579c26c9151a8
         size: 38
@@ -232,6 +235,9 @@ backups:
       "F:/Saves/CurrentProfile/config/TGB Dual/TGB Dual.opt":
         hash: 5e52e982f34dae3721a03786e5aa3ae1b014e417
         size: 34
+      "F:/Saves/CurrentProfile/config/TIC-80/TIC-80.opt":
+        hash: 7bb94d2b61ef2e744e45fc658042790ddfbbec75
+        size: 94
       "F:/Saves/CurrentProfile/config/TyrQuake/TyrQuake.opt":
         hash: ce2557c62476da284142a34209e40aef920946c8
         size: 196
@@ -298,6 +304,9 @@ backups:
       "F:/Saves/CurrentProfile/config/mGBA/mGBA.opt":
         hash: f8d4c73af9a5935c2d54b67d13a5c35ace93f0ae
         size: 510
+      "F:/Saves/CurrentProfile/config/pcsx_rearmed_libretro":
+        hash: 00c024d26abd43bf33ff020d64c6f736ddadb036
+        size: 106761
       "F:/Saves/CurrentProfile/config/remaps/Atari800/Atari800.rmp":
         hash: 2efe0070c506448655ba2721d1331142cc73083b
         size: 472
@@ -316,9 +325,15 @@ backups:
       "F:/Saves/CurrentProfile/config/remaps/PrBoom/Doom (PrBoom).rmp":
         hash: b244532e7bbad2ffe670fc00d5f8b808d59c5116
         size: 199
+      "F:/Saves/CurrentProfile/config/remaps/TIC-80/TIC-80.rmp":
+        hash: 62e88aa3efaa7cff6d37a5be76038c92565ee491
+        size: 198
       "F:/Saves/CurrentProfile/config/remaps/ecwolf/ecwolf.rmp":
         hash: 11e30913d4a0cd52ab710b99d621cb5f6ecce743
         size: 198
+      "F:/Saves/CurrentProfile/config/remaps/fake-08/fake-08.rmp":
+        hash: 73ca54c05ae4c6345335505ffb9d81606b20b46e
+        size: 146
       "F:/Saves/CurrentProfile/config/remaps/fuse/fuse.rmp":
         hash: 302b86945e18af17f95957883b8cd97c64c7e69f
         size: 96
@@ -353,8 +368,8 @@ backups:
         hash: 7d63fd970f980d1f4d4c5ed2913f35211c51f124
         size: 323
       "F:/Saves/CurrentProfile/lists/content_history.lpl":
-        hash: 79b7237565d6d90c5f31b574e46b6e97bb710cc7
-        size: 7385
+        hash: 46cb98cea812619bdc3eacdb5b3e3c01f998e089
+        size: 13446
       "F:/Saves/CurrentProfile/lists/content_music_history.lpl":
         hash: 978a80769e0bd6997bffe4bc5c01cc9d5cbd9e68
         size: 197
@@ -401,7 +416,7 @@ backups:
         hash: 9c38268a706e4c721f2a93e70b60fb8948a9a583
         size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Super Mario All-Stars (USA).lrtl":
-        hash: d66813817be79a671acdc8f15ea74210c8be2c81
+        hash: 95e2d97d931fe818e19d936177a40c22a806f4bf
         size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Super Mario RPG - Legend of the Seven Stars (USA).lrtl":
         hash: 8992d338462d2dcac6f44c0cea7de3618257e618
@@ -421,6 +436,81 @@ backups:
       "F:/Saves/CurrentProfile/lists/playlists/logs/Beetle Supafaust/Wizardry V - Heart of the Maelstrom (USA).lrtl":
         hash: f5fd3a57d03d44a8bffce8dff1ee0ef3bd150a36
         size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/'Fit' Santa.p8.lrtl":
+        hash: f06b3de4768f0607f3337060bb4a53516985d712
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/4-Bit Maze.p8.lrtl":
+        hash: 0a557465bfed0a8f5b14d087e473ac16deae580d
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/8Bit Emperor.p8.lrtl":
+        hash: c928f894aef035b3eb7a879c1664dbb71342d036
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Acceler-8.p8.lrtl":
+        hash: a15ae6956f9e34ea84a484d36ee670b365f0693b
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Across The River.p8.lrtl":
+        hash: 1300a4d8846e9c83cc1039e145aaf8fd4ff10a05
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Air Raiders.p8.lrtl":
+        hash: c91e0553cadf43f6185e719e2886ca2d370d67a5
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Asteroids.p8.lrtl":
+        hash: c00a93dae65a08e9dd559177567a55f0324ec751
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Celeste (v1.0).p8.lrtl":
+        hash: ce318fec406b0ec5ae64e0c671015735e2165430
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Celeste Classic 2.p8.lrtl":
+        hash: 5ce77abd18cae6dc09de10c1f00d181075f918cb
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Crazy Samurai Musashi.p8.lrtl":
+        hash: d43b9cf1f130398827cba38efb01113ed4153e55
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Dragon Treasure.p8.lrtl":
+        hash: cf5343ef6c920fdfd5b594f890048a04cab82b26
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Ghost Punch.p8.lrtl":
+        hash: 1347f119301a0324587b54cd5aa7e363463f321f
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Hyperspace (v1.1.1).p8.lrtl":
+        hash: 5d6a3831a0ed9051f6a2c2cc52bdc0ccd194a6ac
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Jetpack.p8.lrtl":
+        hash: 3d340ae0518b0bcf8b9ff3324e77208bf38cf2cd
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Kalikan.p8.lrtl":
+        hash: 61e710f5aeef36e9d481d5ce615c729df111dcc7
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Kings Orders.p8.lrtl":
+        hash: 2863fb6d73bf8d662dbcd1a3cc57d2aa8341c2d8
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Kung Fu demake.p8.lrtl":
+        hash: 006e80b75b3f7d1a309821e4c1187e75978fdd43
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Low Mem Sky.p8.lrtl":
+        hash: 7139c34695ec2428f7bd4e339c4e2157e9621e9c
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/No Man's Lander.p8.lrtl":
+        hash: e9faea07f5e525be3db7e0edef8fa345beebb19a
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Omega Zone.p8.lrtl":
+        hash: b00ff3dfd39b0a44c42a33ecf0cc7e3ca3bd00de
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Pac-Man 3D.p8.lrtl":
+        hash: 9974f553d47e33d9f64016163c53abbb1bdb6a1a
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Pew Pew!.p8.lrtl":
+        hash: cefeadac8d36ad8dc283b96d39e11a1c042db2a0
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Pico Karts.p8.lrtl":
+        hash: 99e5ec5c2de650a9da507feec50b458ba0f42cea
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/Wolfenstein 3D.p8.lrtl":
+        hash: 1aae02297b8a72c1044c480a448fbf7c8c5d29d8
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/FAKE-08/warehouse panic.p8.lrtl":
+        hash: 534e3da683cd70a4a3ecf508e864cf644346bd2f
+        size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/MAME 2003-Plus/dstlku.lrtl":
         hash: 600b958e575aa01e5c866985c4d2ca30cc7d9c49
         size: 87
@@ -430,11 +520,17 @@ backups:
       "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Crash Bandicoot (USA).lrtl":
         hash: 8bba5f06b0c6ee929f6e660ddba650085f055a58
         size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Einhaender (USA).lrtl":
+        hash: 32b0b6f16c4cb69faa20ba457f0f50307ce79a07
+        size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Gran Turismo (USA) (Rev 1).lrtl":
         hash: 03b133d39b5be91971a1040a2da35586fcaf5e95
         size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Jet Moto (USA).lrtl":
         hash: 9179154894863df75848e71f747ae23090df348b
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Mr. Driller (USA).lrtl":
+        hash: 9a5c98eedc17190bd23ce01fe9a804daf1dac141
         size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/PCSX-ReARMed/Silent Bomber (USA).lrtl":
         hash: 8a6db6bef0016530fcd3fd176b830416df792760
@@ -457,6 +553,9 @@ backups:
       "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Shinobi II - The Silent Fury (World).lrtl":
         hash: 21036aa897f1ab26c27cfe6ee75d409d87a89fe2
         size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Sonic & Knuckles + Sonic The Hedgehog 3 (USA).lrtl":
+        hash: 6f3a9a93f176e9c86c275b304353e8cb33dd72bf
+        size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/PicoDrive/Sonic CD (USA) (RE125).lrtl":
         hash: e63039c57d2f41b28c1a13c5b891eba2fdf46cac
         size: 87
@@ -474,6 +573,18 @@ backups:
         size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/Snes9x 2010/Kirby's Dream Course (USA).lrtl":
         hash: c665035fe9fd3a624ee5e8b06d87848029bacb1f
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/TIC-80/8 BIT PANDA.lrtl":
+        hash: 27d2c76a361a12389a590bd45f521c31fc3aa509
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/TIC-80/BOUNCELOT.lrtl":
+        hash: 42fe97a4837424a5757cc3c73537ccd66eba2ece
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/TIC-80/BOUNCY BALL.lrtl":
+        hash: a027111e9a9280b66c1e134a74409571c73f7771
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/TIC-80/BREAKDOWN.lrtl":
+        hash: 402aeedfcb63819a8bb5ad49b11febbc689efd24
         size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).lrtl":
         hash: 84988e11837f7e6fc4037111ceb9733dd28e083d
@@ -499,6 +610,9 @@ backups:
       "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Final Fantasy IV Advance (USA).lrtl":
         hash: 516c35b0534de2532783615e0b6a5df8cde2db3c
         size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Jet Grind Radio (USA).lrtl":
+        hash: 0d9baa75adc7bb692f888f77143acd1f450e7381
+        size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Kirby & The Amazing Mirror (USA).lrtl":
         hash: 60f48f571df2b94c2d36fdcb0589d1df2e6a861b
         size: 87
@@ -511,6 +625,9 @@ backups:
       "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).lrtl":
         hash: ccff26ce76e217e70fb7f354afe03c699a9f5dff
         size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Mario vs. Donkey Kong (USA, Australia).lrtl":
+        hash: d356f4a97aa5375d58a07d961254b34fc83d6467
+        size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Mega Man Zero (USA, Europe).lrtl":
         hash: 0745607f7b98b2adbf9c34d6afa7a9d820a6e492
         size: 87
@@ -520,6 +637,9 @@ backups:
       "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Metroid Fusion (USA).lrtl":
         hash: ce0b107aaec77ea2a99fcc4c5bbf6d233bfddec5
         size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Motoracer Advance (USA) (En,Fr,De,Es,It).lrtl":
+        hash: 79dde7f5244673a43eb2ce4f65db4d304616a998
+        size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Pokemon - Emerald Version (USA, Europe).lrtl":
         hash: cfab2b05854ad9bb67712ec485b98e5bd6ba89bc
         size: 87
@@ -527,7 +647,10 @@ backups:
         hash: 6e4a3d19830e662d51f07bf996e347e838dd8711
         size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Pokemon Unbound.lrtl":
-        hash: 1076220979a6d6d2416ec3806ae4bc3203a546cc
+        hash: 91d6fef96a03e0329bd7800bc1cf5814726cf2c7
+        size: 87
+      "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/Super Street Fighter II Turbo - Revival (USA).lrtl":
+        hash: 836e925f54d8ba57feda209f829ca52ef6714a57
         size: 87
       "F:/Saves/CurrentProfile/lists/playlists/logs/mGBA/TMNT (USA) (En,Fr,Es).lrtl":
         hash: f4eb8734a1c7f75163fc90498130148f0a4aa179
@@ -539,11 +662,20 @@ backups:
         hash: 859aac6e105e042f1d3d16c6e978367ca3b79068
         size: 87
       "F:/Saves/CurrentProfile/play_activity/play_activity_db.sqlite":
-        hash: 66a22ad71c8e892754942722cb47fd87e120b07f
-        size: 40960
+        hash: bfaeb00bb3a4fdb26b1e3b762b5073c80a2f073b
+        size: 61440
+      "F:/Saves/CurrentProfile/romScreens/1032795917_fake08.png":
+        hash: 7cdf7a33d780d543e53a676f76685fcd3f09f7c4
+        size: 33644
       "F:/Saves/CurrentProfile/romScreens/1056437263_mgba.png":
         hash: a8cd099ed7d9b0492010ae1d02431a2abca50b73
         size: 102098
+      "F:/Saves/CurrentProfile/romScreens/1137010870_fake08.png":
+        hash: b42f8608d8d6d44738b292b79f039a93e3fc6f23
+        size: 13493
+      "F:/Saves/CurrentProfile/romScreens/1275416228_fake08.png":
+        hash: a27c686db6cc62162c2f8990e2c4a20bb3e12b5a
+        size: 6193
       "F:/Saves/CurrentProfile/romScreens/1404878750_mednafen_supafaust.png":
         hash: 5616dfe7b9d1e75101e76f82cb5d8d3cfc5e7410
         size: 14966
@@ -565,6 +697,9 @@ backups:
       "F:/Saves/CurrentProfile/romScreens/1730245751_mednafen_supafaust.png":
         hash: a996266781d7686f7de090dbd44aa6777c6ec95a
         size: 133245
+      "F:/Saves/CurrentProfile/romScreens/1777815_fake08.png":
+        hash: 2a7a168a04ebfdeb38e0fa81f9b1620efcc3c719
+        size: 21245
       "F:/Saves/CurrentProfile/romScreens/187846819_mednafen_supafaust.png":
         hash: e8a5cb41d7eb507def56cd26dae59da212fa6bcd
         size: 94574
@@ -580,24 +715,39 @@ backups:
       "F:/Saves/CurrentProfile/romScreens/2171792851_picodrive.png":
         hash: 6ca7aede696223196882ab93a808dc0213b9dbf3
         size: 10106
+      "F:/Saves/CurrentProfile/romScreens/2298328167_fake08.png":
+        hash: 50bb6cd94add5e651cc8f14b8d2b48e6ee4dac3d
+        size: 11641
       "F:/Saves/CurrentProfile/romScreens/2358756926_mednafen_supafaust.png":
         hash: 01acb329a852094f5e962788d2f738b0a2390788
         size: 130681
+      "F:/Saves/CurrentProfile/romScreens/2452587904_mgba.png":
+        hash: c913f42d74197ffa7c10ab7db2f1171a48acdb93
+        size: 165185
       "F:/Saves/CurrentProfile/romScreens/2492149093_mgba.png":
         hash: 01a4d298e5280325b3540bc2370f1424ea69c929
         size: 40943
       "F:/Saves/CurrentProfile/romScreens/2503807735_mgba.png":
         hash: 58792adf4990428315b1dd1d9cb7a5512edc0860
         size: 137438
+      "F:/Saves/CurrentProfile/romScreens/266228391_tic80.png":
+        hash: fdd380053f573c518217d509ebd0c9aa1acccfd0
+        size: 18129
       "F:/Saves/CurrentProfile/romScreens/2669695514_picodrive.png":
         hash: e9948682b3e9f30e5e3fb98aa0b6d99ac7e7d7e8
         size: 13646
       "F:/Saves/CurrentProfile/romScreens/2839343868_pcsx_rearmed.png":
         hash: 0331a9e4a3a171c3625f2673cee35e2acf0afb52
         size: 199005
+      "F:/Saves/CurrentProfile/romScreens/2880503574_picodrive.png":
+        hash: e47dee3690e34201b1477dbbaef8a86da4533cfc
+        size: 78799
       "F:/Saves/CurrentProfile/romScreens/2933494417_mednafen_supafaust.png":
         hash: a4d4a0c4542c05af6932431962265f0671e7e277
         size: 82580
+      "F:/Saves/CurrentProfile/romScreens/293715816_fake08.png":
+        hash: d3dd34fb2d03a65bba94a14470256ab85a072245
+        size: 15944
       "F:/Saves/CurrentProfile/romScreens/2966759471_mednafen_supafaust.png":
         hash: 4df11cef3a46d6b0e7007d760f865527ba0fd1d5
         size: 303700
@@ -605,8 +755,8 @@ backups:
         hash: 209542c52936df0dfacb31e63cfd5c4ee5e39852
         size: 70879
       "F:/Saves/CurrentProfile/romScreens/3210271187_mgba.png":
-        hash: a623dbc559d4d0a0c38e2ba4cbc4c19bc7370b90
-        size: 64797
+        hash: 28371a980d97db89a1ce0b61bb1e223b0177949e
+        size: 61378
       "F:/Saves/CurrentProfile/romScreens/3223155079_picodrive.png":
         hash: d80b3b3c77d9b74459ca3a6cfee19b5231e6b5cb
         size: 201607
@@ -622,27 +772,60 @@ backups:
       "F:/Saves/CurrentProfile/romScreens/3378645755_mednafen_supafaust.png":
         hash: 13f2ff9b23a1fc7895363137f1b5263684887618
         size: 11669
+      "F:/Saves/CurrentProfile/romScreens/3397792123_tic80.png":
+        hash: 28db0d98c516207e66581ef249e26fa75d257caf
+        size: 18805
+      "F:/Saves/CurrentProfile/romScreens/342057480_fake08.png":
+        hash: 75a982186cdd971f85b42dca9ec6c7e6f0e61974
+        size: 15846
+      "F:/Saves/CurrentProfile/romScreens/3443325931_pcsx_rearmed.png":
+        hash: 17666b50bb9e415dfe40f8413c1adf074e01053a
+        size: 9201
+      "F:/Saves/CurrentProfile/romScreens/3462047046_fake08.png":
+        hash: 09e639bc5bd790827ade2df366073fac4e923337
+        size: 13608
+      "F:/Saves/CurrentProfile/romScreens/3489366175_fake08.png":
+        hash: 0bc42d0003914109bf410ac8504eae2f6847aad3
+        size: 11061
       "F:/Saves/CurrentProfile/romScreens/3549702582_pcsx_rearmed.png":
         hash: c58769e7c55ab8138610d7e863023e4cb8bd6571
         size: 37573
       "F:/Saves/CurrentProfile/romScreens/3568939944_mednafen_supafaust.png":
-        hash: 45f910f657685ac96179b1859de628bedcef9921
-        size: 59964
+        hash: b53b4732488545ab5778cd6dead462316e3504ba
+        size: 57605
+      "F:/Saves/CurrentProfile/romScreens/3591602248_fake08.png":
+        hash: a91300660bf49d660a0f8fc6e7037aea82b1e775
+        size: 6369
+      "F:/Saves/CurrentProfile/romScreens/3718236677_fake08.png":
+        hash: 4222b31248c13437ebcdf1cef9b68a0ede7de8fa
+        size: 4867
       "F:/Saves/CurrentProfile/romScreens/3722292502_mgba.png":
         hash: 6e4be75105d2953819a54313651b82c36b173c6d
         size: 111757
+      "F:/Saves/CurrentProfile/romScreens/373865379_fake08.png":
+        hash: 2a51585088ed04e31dd342dc41b9d368c02ffa74
+        size: 35059
+      "F:/Saves/CurrentProfile/romScreens/3899718866_mgba.png":
+        hash: db1287b687806a5852fb47cb0fb9ec188578de42
+        size: 94831
       "F:/Saves/CurrentProfile/romScreens/4048765808_mgba.png":
         hash: a8c7d68dc48b198b887942c1477d0a12f3f11550
         size: 94141
       "F:/Saves/CurrentProfile/romScreens/4083236677_mgba.png":
         hash: 7819fe5452a4204060a3555d524002465013bc14
         size: 87064
+      "F:/Saves/CurrentProfile/romScreens/4198342373_mgba.png":
+        hash: 685c0ad46eacf27ee496c7b47e98e52db4859a2e
+        size: 100317
       "F:/Saves/CurrentProfile/romScreens/422512979_mgba.png":
         hash: 44dfb398b6c101f479a0ec97e9f046d7a110092c
         size: 142000
       "F:/Saves/CurrentProfile/romScreens/4226613107_mgba.png":
         hash: f86b47d3878936ec312d3e73abeb928b47611670
         size: 73531
+      "F:/Saves/CurrentProfile/romScreens/4277283988_mgba.png":
+        hash: 9a0515a2534dda7eff574148e78115497c5962a6
+        size: 28148
       "F:/Saves/CurrentProfile/romScreens/4283278661_mgba.png":
         hash: b12235151dde28d1e10de1f80eb07038a4b3cd1b
         size: 84492
@@ -652,9 +835,18 @@ backups:
       "F:/Saves/CurrentProfile/romScreens/528755701_mgba.png":
         hash: 0e58e74d3f643b9d0e27f3a4e8a24343cbb494db
         size: 85827
+      "F:/Saves/CurrentProfile/romScreens/69508902_fake08.png":
+        hash: f274b00b9e7b10bda1a61afa3b0322ebe233a51f
+        size: 6840
       "F:/Saves/CurrentProfile/romScreens/738078391_pcsx_rearmed.png":
         hash: 06422063134d55a236335666668163376b0500ac
         size: 44621
+      "F:/Saves/CurrentProfile/romScreens/748706670_pcsx_rearmed.png":
+        hash: acb037b3cdc1759cd8437ad9dec67906e2e7ff3a
+        size: 126596
+      "F:/Saves/CurrentProfile/romScreens/751410549_fake08.png":
+        hash: 7bd3e02df6c95716efe255d32de2c5296a1ba988
+        size: 18503
       "F:/Saves/CurrentProfile/romScreens/77514607_mgba.png":
         hash: a80a8cfb5aeac61b22e8402967d45494be646224
         size: 74701
@@ -694,12 +886,18 @@ backups:
       "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Crash Bandicoot (USA).srm":
         hash: 1b3c99be55273085e14b30983b636529b6dd7f46
         size: 131072
+      "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Einhaender (USA).srm":
+        hash: 26f27d67cdcda28fd00c56275cc081e8a153e67e
+        size: 217
       "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Gran Turismo (USA) (Rev 1).srm":
         hash: 1b3c99be55273085e14b30983b636529b6dd7f46
         size: 131072
       "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Jet Moto (USA).srm":
         hash: ec2d2493fa3b5f0a546b7b224ddef5b143771219
         size: 131072
+      "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Mr. Driller (USA).srm":
+        hash: b82e58ea6be20e399773f09d35a328671a5ae512
+        size: 1542
       "F:/Saves/CurrentProfile/saves/PCSX-ReARMed/Silent Bomber (USA).srm":
         hash: 1b3c99be55273085e14b30983b636529b6dd7f46
         size: 131072
@@ -709,6 +907,9 @@ backups:
       "F:/Saves/CurrentProfile/saves/PicoDrive/Dark Wizard (USA).srm":
         hash: fd8527c2ffb6d75929f2155bd61073979a530c8f
         size: 8192
+      "F:/Saves/CurrentProfile/saves/PicoDrive/Sonic & Knuckles + Sonic The Hedgehog 3 (USA).srm":
+        hash: e9976cec310c1ceccbd12fe3dfd11d70589a9f71
+        size: 110
       "F:/Saves/CurrentProfile/saves/PicoDrive/Sonic CD (USA) (RE125).srm":
         hash: 080e6361b0c628f8866566dcfff8c3b9079e6671
         size: 8192
@@ -758,8 +959,8 @@ backups:
         hash: ef64a18e5a7843c6ace92e30b37356efb4bae535
         size: 32768
       "F:/Saves/CurrentProfile/saves/Supafaust/Super Mario All-Stars (USA).srm":
-        hash: 76c0fadbf5a0660aa6459808571a9586284cfd59
-        size: 8192
+        hash: 32b3e010547b6d386df29fee87ec2367382b0ba2
+        size: 133
       "F:/Saves/CurrentProfile/saves/Supafaust/Super Mario RPG - Legend of the Seven Stars (USA).srm":
         hash: 8bdeceb7a50d3d20a84be4a0d59e225e47c5837a
         size: 32768
@@ -775,6 +976,30 @@ backups:
       "F:/Saves/CurrentProfile/saves/Supafaust/Wizardry V - Heart of the Maelstrom (USA).srm":
         hash: f8b146974655c09a0affeda805d3b07c1e444045
         size: 8192
+      "F:/Saves/CurrentProfile/saves/TIC-80/8 BIT PANDA.rtc":
+        hash: 9069ca78e7450a285173431b3e52c5c25299e473
+        size: 4
+      "F:/Saves/CurrentProfile/saves/TIC-80/8 BIT PANDA.srm":
+        hash: 9069ca78e7450a285173431b3e52c5c25299e473
+        size: 4
+      "F:/Saves/CurrentProfile/saves/TIC-80/BOUNCELOT.rtc":
+        hash: 9069ca78e7450a285173431b3e52c5c25299e473
+        size: 4
+      "F:/Saves/CurrentProfile/saves/TIC-80/BOUNCELOT.srm":
+        hash: 0a03f4bcfdf1df188810bedc667a8a8895d690dd
+        size: 4
+      "F:/Saves/CurrentProfile/saves/TIC-80/BOUNCY BALL.rtc":
+        hash: 9069ca78e7450a285173431b3e52c5c25299e473
+        size: 4
+      "F:/Saves/CurrentProfile/saves/TIC-80/BOUNCY BALL.srm":
+        hash: 9069ca78e7450a285173431b3e52c5c25299e473
+        size: 4
+      "F:/Saves/CurrentProfile/saves/TIC-80/BREAKDOWN.rtc":
+        hash: 9069ca78e7450a285173431b3e52c5c25299e473
+        size: 4
+      "F:/Saves/CurrentProfile/saves/TIC-80/BREAKDOWN.srm":
+        hash: 9069ca78e7450a285173431b3e52c5c25299e473
+        size: 4
       "F:/Saves/CurrentProfile/saves/TyrQuake/dopa/config.cfg":
         hash: 6f002a3ecb527624c5a30a0d5ce3506b9b234cc0
         size: 2291
@@ -788,8 +1013,32 @@ backups:
         hash: 6f002a3ecb527624c5a30a0d5ce3506b9b234cc0
         size: 2291
       "F:/Saves/CurrentProfile/saves/currentTime.txt":
-        hash: 0ec802f3b764cbb51f3ca231cfd6f2aaf540463e
+        hash: 21eb11d8cf8f8b5bdbbfd3315fd1edef184658b4
         size: 10
+      "F:/Saves/CurrentProfile/saves/fake-08/cdata/bmg_acceler_8.p8d.txt":
+        hash: 148635e6e19df7c76aec38700e75ee5e8ff931a4
+        size: 520
+      "F:/Saves/CurrentProfile/saves/fake-08/cdata/donswelt_musashi.p8d.txt":
+        hash: 6b17d6d9bf454d2c1a92ae90e7ac6c1d28bd11df
+        size: 520
+      "F:/Saves/CurrentProfile/saves/fake-08/cdata/hyperspace_jfry.p8d.txt":
+        hash: 3b2dbd092a3a532c85032bb9e443f7af0412933f
+        size: 520
+      "F:/Saves/CurrentProfile/saves/fake-08/cdata/kalika_v1_01.p8d.txt":
+        hash: 9d570a33c2c788f57adf2a13018788c6177af123
+        size: 520
+      "F:/Saves/CurrentProfile/saves/fake-08/cdata/kb_omegalame.p8d.txt":
+        hash: 148635e6e19df7c76aec38700e75ee5e8ff931a4
+        size: 520
+      "F:/Saves/CurrentProfile/saves/fake-08/cdata/logarhythm_fitsanta_0.p8d.txt":
+        hash: 148635e6e19df7c76aec38700e75ee5e8ff931a4
+        size: 520
+      "F:/Saves/CurrentProfile/saves/fake-08/cdata/no_mans_lander_x5799.p8d.txt":
+        hash: 2263e070cc431a53ed9349b442a98c6858d123b6
+        size: 520
+      "F:/Saves/CurrentProfile/saves/fake-08/cdata/pn_lowmemsky.p8d.txt":
+        hash: 15618e286ba2af2528c635d70b02efdc5269349e
+        size: 520
       "F:/Saves/CurrentProfile/saves/mGBA/.gpspImportDone":
         hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
         size: 0
@@ -820,6 +1069,9 @@ backups:
       "F:/Saves/CurrentProfile/saves/mGBA/Final Fantasy IV Advance (USA).srm":
         hash: ca711c69165e1fa5be72993b9a7870ef6d485249
         size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Jet Grind Radio (USA).srm":
+        hash: 65dc90eb76277f6b89de3769cf37f6a5223f9d14
+        size: 191
       "F:/Saves/CurrentProfile/saves/mGBA/Kirby & The Amazing Mirror (USA).srm":
         hash: 67c020def8816887db60c7a7ab6b03f4e1545fdc
         size: 32768
@@ -835,6 +1087,9 @@ backups:
       "F:/Saves/CurrentProfile/saves/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).srm":
         hash: d5dcd4bcb3abd94434684f9c33130bc25033c514
         size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Mario vs. Donkey Kong (USA, Australia).srm":
+        hash: af8ff089b7d31cd709c7fbe71e39080308ffac98
+        size: 505
       "F:/Saves/CurrentProfile/saves/mGBA/Mega Man Battle Network 3 - Blue Version (USA).srm":
         hash: fa1cb2a4b8d21a6ec141afb86fe536be0856f4ce
         size: 65536
@@ -847,6 +1102,9 @@ backups:
       "F:/Saves/CurrentProfile/saves/mGBA/Metroid Fusion (USA).srm":
         hash: 6ec24b9592a47ff6872d3bfe39f621033a48cc36
         size: 32768
+      "F:/Saves/CurrentProfile/saves/mGBA/Motoracer Advance (USA) (En,Fr,De,Es,It).srm":
+        hash: 28c8774d6351a96cb95985b642049ba4b7c0b1af
+        size: 230
       "F:/Saves/CurrentProfile/saves/mGBA/Pokemon - Emerald Version (USA, Europe).srm":
         hash: 794227fd02221d4db8917b85ae3248eb2a876839
         size: 131072
@@ -856,6 +1114,9 @@ backups:
       "F:/Saves/CurrentProfile/saves/mGBA/Pokemon Unbound.srm":
         hash: 10fcd6d37d1957bbcf957f1e96ce57ff9ad4c403
         size: 131072
+      "F:/Saves/CurrentProfile/saves/mGBA/Super Street Fighter II Turbo - Revival (USA).srm":
+        hash: ca8b594cd43b1691b7fe3bab1a001c7c95b4a0d3
+        size: 123
       "F:/Saves/CurrentProfile/saves/mGBA/TMNT (USA) (En,Fr,Es).srm":
         hash: 3e9a6b8bfd9b98ea08bdb873a95e335ab5a24b86
         size: 512
@@ -892,6 +1153,18 @@ backups:
       "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Crash Bandicoot (USA).state.auto.png":
         hash: 9aa12f33c38df2aa6775802eae2d215f9b0fc3e7
         size: 59510
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Einhaender (USA).state.auto":
+        hash: 0dc594aedca5ab62e7f482620279aaef7632a5c0
+        size: 291346
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Einhaender (USA).state.auto.png":
+        hash: 3d36278482d1814a990d4e0f5818b2c57c4d9b73
+        size: 4322
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Einhaender (USA).state2":
+        hash: f3f77483aad95c2ac5ad85d96cd8497983086f95
+        size: 4456472
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Einhaender (USA).state2.png":
+        hash: caf29eafbb865b0b7daa10024ba8be43ef9c04ae
+        size: 25590
       "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Gran Turismo (USA) (Rev 1).state.auto":
         hash: 635d90fe0ee756e8c9e65ca44923b09ffc7abe88
         size: 4469824
@@ -904,6 +1177,66 @@ backups:
       "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Jet Moto (USA).state.auto.png":
         hash: 416c0309135656c7e395b08d8eca033b4e68153a
         size: 173583
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state.auto":
+        hash: b7a43fe2f461952991a24a9998b8da260a3cbe22
+        size: 2000180
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state.auto.png":
+        hash: 3e5ff719f955663131946d084105ca87e60de632
+        size: 47481
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state1":
+        hash: ff442a136e30ea355c4413b5dca3ebd0e30c0378
+        size: 2060279
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state1.png":
+        hash: 7ef89d168c08683d56d34b123cc5d5b27a50069f
+        size: 80825
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state2":
+        hash: 6d2f25ef729d2c8d0c6630bab2f7ac7862ad99fb
+        size: 2099777
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state2.png":
+        hash: 328278da4c83570560ad759a4431cec6288c8f63
+        size: 87892
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state3":
+        hash: 55ccfe9aef26ad7a41472ad94f8365ce7dec2854
+        size: 2123670
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state3.png":
+        hash: c26abf076f9c72d5e069b59ed616e4538b9ee095
+        size: 107216
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state4":
+        hash: 8b3c6ae1f5252ddb4bf6d1e5480e17cdfb839170
+        size: 2093546
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state4.png":
+        hash: 3bb1fc31415ad3f3315fb14d77fb4ba48ca488d3
+        size: 67517
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state5":
+        hash: 73b029718aa6a54f50b7f4090e26a74557af9a56
+        size: 2090676
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state5.png":
+        hash: b461ae0bd4c249aaef77f90e7c2e528c3dc06d0d
+        size: 60645
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state6":
+        hash: 624057d5507f52120130fdaac52267afdbeb4bad
+        size: 1897767
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state6.png":
+        hash: 7220f36efe5790d2f8a90f122d6313cc05416076
+        size: 47973
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state7":
+        hash: 4af7e4c6f4ae7c6cbbb7d9bde65abe5bb7cb59bc
+        size: 2040814
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state7.png":
+        hash: d586a2cd3d485bafa94031cded6d468e1bd3e7c0
+        size: 76898
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state8":
+        hash: bb30fde5b44580c643b9fed1e5c2ac61c11395eb
+        size: 2065617
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state8.png":
+        hash: 13dcdf092cc8452b585164565b9137e9b4b354cb
+        size: 80626
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state9":
+        hash: 07469d27900a01adc53b298bb7084e73d7e636ef
+        size: 2102936
+      "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Mr. Driller (USA).state9.png":
+        hash: ab3bb51941553b2fe504ffa5f226ecaeb98c0cbe
+        size: 83397
       "F:/Saves/CurrentProfile/states/PCSX-ReARMed/Silent Bomber (USA).state.auto":
         hash: aa74723f34e4e2677372bb367d58f8ba4acab9e5
         size: 1566265
@@ -982,6 +1315,12 @@ backups:
       "F:/Saves/CurrentProfile/states/PicoDrive/Shinobi II - The Silent Fury (World).state1.png":
         hash: 433048dc77f461ba00765e95b6b30faac15c7d27
         size: 3078
+      "F:/Saves/CurrentProfile/states/PicoDrive/Sonic & Knuckles + Sonic The Hedgehog 3 (USA).state.auto":
+        hash: 666d3450a79a830de41d71535bfaa94c56d1343d
+        size: 58870
+      "F:/Saves/CurrentProfile/states/PicoDrive/Sonic & Knuckles + Sonic The Hedgehog 3 (USA).state.auto.png":
+        hash: 2aaa7cfd1507b4c44c527322ae5afde7e68abbb7
+        size: 19132
       "F:/Saves/CurrentProfile/states/PicoDrive/Sonic CD (USA) (RE125).state.auto":
         hash: a1a5b65f296e2f39028c4f07e46e4698435b0694
         size: 1038760
@@ -1256,11 +1595,11 @@ backups:
         hash: 2a71aede1eabd1633425e3520a49f74c778be648
         size: 15615
       "F:/Saves/CurrentProfile/states/Supafaust/Super Mario All-Stars (USA).state.auto":
-        hash: 45ca31e0b73539c3d0760fb7ac0db2f73c55a8e6
-        size: 77564
+        hash: 76b16eff2bf336c0e0fd3347a8a1eb127fd2e6d0
+        size: 274736
       "F:/Saves/CurrentProfile/states/Supafaust/Super Mario All-Stars (USA).state.auto.png":
-        hash: 01f7f535e0ce8259ee5325f57f51ab344f245cb5
-        size: 8349
+        hash: c79ca25ff9ed1bda2fdbcdc1917d40bac81cf21c
+        size: 7936
       "F:/Saves/CurrentProfile/states/Supafaust/Super Mario All-Stars (USA).state1":
         hash: 0afe961947d91a7d5cda0d0069c76651dc6d2c05
         size: 77434
@@ -1381,6 +1720,222 @@ backups:
       "F:/Saves/CurrentProfile/states/Supafaust/Wizardry V - Heart of the Maelstrom (USA).state.auto.png":
         hash: 156560ee6de7855bfbf2efa3eff5371d81a615f4
         size: 13193
+      "F:/Saves/CurrentProfile/states/TIC-80/8 BIT PANDA.state.auto":
+        hash: f92374259473a78bd558f48a1326f67103f1ca5f
+        size: 59
+      "F:/Saves/CurrentProfile/states/TIC-80/8 BIT PANDA.state.auto.png":
+        hash: 12be31254f20fd2aa27ede15661fbe12354fae8c
+        size: 2368
+      "F:/Saves/CurrentProfile/states/TIC-80/BOUNCELOT.state.auto":
+        hash: 39208a7ac83d7ed6ec83b70709bf40e883bf6be3
+        size: 62
+      "F:/Saves/CurrentProfile/states/TIC-80/BOUNCELOT.state.auto.png":
+        hash: 3ba0ec4e4e67a2d52d16ca1a8968b1a5c544b9f8
+        size: 1606
+      "F:/Saves/CurrentProfile/states/TIC-80/BOUNCY BALL.state.auto":
+        hash: f92374259473a78bd558f48a1326f67103f1ca5f
+        size: 59
+      "F:/Saves/CurrentProfile/states/TIC-80/BOUNCY BALL.state.auto.png":
+        hash: 6f5c8fba98fa02c2464d4e35da40ae8c88359b17
+        size: 987
+      "F:/Saves/CurrentProfile/states/TIC-80/BREAKDOWN.state.auto":
+        hash: f92374259473a78bd558f48a1326f67103f1ca5f
+        size: 59
+      "F:/Saves/CurrentProfile/states/TIC-80/BREAKDOWN.state.auto.png":
+        hash: 503b0485434a4e55329bb41fab2e92817eafd5bf
+        size: 2331
+      "F:/Saves/CurrentProfile/states/fake-08/4-Bit Maze.p8.state.auto":
+        hash: 15988c42a439f6709423fa6ab34a4612f381ace6
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/4-Bit Maze.p8.state.auto.png":
+        hash: 7c6e34ee75d12411f773e1cf118564b273132b43
+        size: 1891
+      "F:/Saves/CurrentProfile/states/fake-08/8Bit Emperor.p8.state.auto":
+        hash: 6910cf0622ffde97615702b674ea1d580dff56d4
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/8Bit Emperor.p8.state.auto.png":
+        hash: 2a712fd9f02d5b0c39b56a9b6b027ef7baef11c4
+        size: 1002
+      "F:/Saves/CurrentProfile/states/fake-08/Across The River.p8.state.auto":
+        hash: 548f927c53c79ff75a8dfef3b96f8d5c8971abe4
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Across The River.p8.state.auto.png":
+        hash: 4d145a74c928ed6a82f1470db2bfbda1c49da203
+        size: 1662
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state.auto":
+        hash: aa52f5c92ae8e663f25fb81884a7955d8596b210
+        size: 36137
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state.auto.png":
+        hash: 8a2ef40a172c74cf2b2ed882fcb18dc5b4bc35bb
+        size: 2458
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state10":
+        hash: afacb332d3fe4f5f734c2f49caca1cf989e2c329
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state10.png":
+        hash: 8394f0cb698a67da54da28555326eb64a99eab8b
+        size: 2580
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state11":
+        hash: b7c074e7c6f36784ca146cfa619c01c7b34d5c70
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state11.png":
+        hash: b7bf341de1623f9235c32d329552407668468510
+        size: 2297
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state12":
+        hash: 4108128c94f9fa88e686466a0bdbb14c41219d29
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state12.png":
+        hash: f97e48fdffc0efb5413f0db80e9e12cc38ac826f
+        size: 2314
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state13":
+        hash: a7e71c8f65ddde261598c26d167e56c240a02710
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state13.png":
+        hash: c1808a1a55a696fd7014c916caf944dcc3dadcd1
+        size: 2383
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state14":
+        hash: 6569fbc62d86b5db5c23086461f820d4d8465703
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state14.png":
+        hash: 961e17aba73638e1a4c13e473c1c6dea2afeb84d
+        size: 2227
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state15":
+        hash: 215495d56c0338df56fcb0c2281b9f8b3486347b
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state15.png":
+        hash: 94d006630380a4813994d312402c562d2f400b4f
+        size: 2141
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state5":
+        hash: 22a76e1b88575734ba9330ba71537c646af8a8ed
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state5.png":
+        hash: ab449c3e6f23130de8135cf2ea0a67d986f7973e
+        size: 2457
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state6":
+        hash: 648219437b937ea91c7a7469f074a76dc15dfcff
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state6.png":
+        hash: 0c2b5289b579bd5f7424d93e18bd2966556a8e85
+        size: 2167
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state7":
+        hash: 89391ac58d05ddf8337a6999c96bbb83eb0f2ddc
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state7.png":
+        hash: 4213f0cc4a3588e0a8d6d7f294c83874c76a15ac
+        size: 2267
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state8":
+        hash: 23835a7eba7bb21fe91307c8f27cb129509af6b0
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state8.png":
+        hash: 632256f797dd25693d9c2a1ab7febcb7e012bd10
+        size: 2069
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state9":
+        hash: ccf6e26d54c44134b4a533076438fbc04f572fe8
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Celeste (v1.0).p8.state9.png":
+        hash: 2be3ed8b3a77a1d183df2223520a4a07857c9bc9
+        size: 2570
+      "F:/Saves/CurrentProfile/states/fake-08/Dragon Treasure.p8.state.auto":
+        hash: 9f2bd6d4df8b9b13309fc07e061dcf3521f3c68f
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Dragon Treasure.p8.state.auto.png":
+        hash: e4082cc4f315c096735d90256b7acd733c8818d1
+        size: 2060
+      "F:/Saves/CurrentProfile/states/fake-08/Hyperspace (v1.1.1).p8.state.auto":
+        hash: c533fd199861727fdf1289ecbfed619a84a2d995
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Hyperspace (v1.1.1).p8.state.auto.png":
+        hash: f9ef60c9d5a9f0cc9dc452270fa5d82a7a51c0aa
+        size: 1556
+      "F:/Saves/CurrentProfile/states/fake-08/Jetpack.p8.state.auto":
+        hash: 4fb1d7477dda020e044039e7b220818251ae7102
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Jetpack.p8.state.auto.png":
+        hash: c1200960e5cb27ce7fc53c639b830c4ed56ddb34
+        size: 3241
+      "F:/Saves/CurrentProfile/states/fake-08/Jetpack.p8.state1":
+        hash: 5284d9f943d436947f148e5ba0b1788bb5e9c8a2
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Jetpack.p8.state1.png":
+        hash: 03e4a054d4b4f3e003373cd93747e1aabb138ebf
+        size: 3270
+      "F:/Saves/CurrentProfile/states/fake-08/Kalikan.p8.state.auto":
+        hash: d0ecf1ca658dcd0f4c8bf2cf18d2bbf61636324d
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Kalikan.p8.state.auto.png":
+        hash: 7d5689adf3ae341d53a9a628c65d1c17b6e302fb
+        size: 551
+      "F:/Saves/CurrentProfile/states/fake-08/Kings Orders.p8.state.auto":
+        hash: 00174220739778ec6299a6d0245e87175770dfc1
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Kings Orders.p8.state.auto.png":
+        hash: 0df0c2fe896608aae2890b0b472764644e310fec
+        size: 1732
+      "F:/Saves/CurrentProfile/states/fake-08/Low Mem Sky.p8.state1":
+        hash: 8e02ded0620784017af2e8eb6dc5209381fb2fca
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Low Mem Sky.p8.state1.png":
+        hash: 117ce63b609805f2f279c56ab256b319c75e653b
+        size: 2152
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state1":
+        hash: 49dffacb889939c5f900fbdd49f23698cdeebc15
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state1.png":
+        hash: 0fd4e98cbfe1e4e573532d336fa258c8b0181b80
+        size: 618
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state2":
+        hash: fe9dbdb942fe2f8463b77c0230afcb6f00e803e4
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state2.png":
+        hash: f50e745c9f0e83d98bcc21152717f63b5a1c25d6
+        size: 985
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state3":
+        hash: ee3c5282e46a84a3caa691028ea25fed6bcdbd1e
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state3.png":
+        hash: 8755aae45b54d1e6c86f054b100660f504154076
+        size: 923
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state4":
+        hash: 5346c97a06e1d9d6d288c51ca6a5ad167ead8f78
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state4.png":
+        hash: f59c0586329112aa0571ee170225d196dc1d5f63
+        size: 687
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state5":
+        hash: 720d56b6758f30412e9a614540a4c275ba0bf412
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state5.png":
+        hash: a3a0d0d6486e056b4937993680e6bc1d7fde6c39
+        size: 912
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state6":
+        hash: 367a88b85dc860354b62cdc9f7b5b31f8a6c65b0
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state6.png":
+        hash: ae103ba892e0e1c8fdcb8576f776b521fede70f6
+        size: 1147
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state7":
+        hash: b3deb81a8403fad56ce8b8108a7d88870774d493
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state7.png":
+        hash: 34644e6c2c58cfcdd2a7e625ddc08792b9465505
+        size: 691
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state8":
+        hash: f8b48c5bf4b2d4746a3106e445abb2ae2ce70023
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Pew Pew!.p8.state8.png":
+        hash: 157cfd97a193d8c9b469d3ed4caf18f671e4cee0
+        size: 838
+      "F:/Saves/CurrentProfile/states/fake-08/Pico Karts.p8.state.auto":
+        hash: f7df4667ad2f1268e3c0998944db1466260dda96
+        size: 1114560
+      "F:/Saves/CurrentProfile/states/fake-08/Pico Karts.p8.state.auto.png":
+        hash: 0bcfa3a089a38f52814c39a908a39f3d5a1976fb
+        size: 2074
+      "F:/Saves/CurrentProfile/states/fake-08/warehouse panic.p8.state.auto":
+        hash: 9e30e70e3377d0073024391f4d33c56c0314b51a
+        size: 51950
+      "F:/Saves/CurrentProfile/states/fake-08/warehouse panic.p8.state.auto.png":
+        hash: b39e6d474da10b4f04f4477cf5182ee75e753932
+        size: 2935
       "F:/Saves/CurrentProfile/states/mGBA/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).state.auto":
         hash: d107e7b376b5ff04dd569131ccda03285ccb6637
         size: 80416
@@ -1573,6 +2128,36 @@ backups:
       "F:/Saves/CurrentProfile/states/mGBA/Final Fantasy IV Advance (USA).state4.png":
         hash: b766319122bc2502616e3c64207dea31d5d525d9
         size: 8719
+      "F:/Saves/CurrentProfile/states/mGBA/Jet Grind Radio (USA).state.auto":
+        hash: 2f3147057585de0c19275092577f3c7a8d91fa25
+        size: 109414
+      "F:/Saves/CurrentProfile/states/mGBA/Jet Grind Radio (USA).state.auto.png":
+        hash: 0f485f6d721ae39c035cd08887e191de72ed2ed5
+        size: 19265
+      "F:/Saves/CurrentProfile/states/mGBA/Jet Grind Radio (USA).state1":
+        hash: 14abd4169a0b4078b8c2e4607d17a1f6bc77a957
+        size: 397912
+      "F:/Saves/CurrentProfile/states/mGBA/Jet Grind Radio (USA).state1.png":
+        hash: f56995dac10d7193ac7bebc47c8df3add0102eb0
+        size: 36175
+      "F:/Saves/CurrentProfile/states/mGBA/Jet Grind Radio (USA).state2":
+        hash: b2653d7a2368a1e702739a07d37bf38001830a7f
+        size: 88703
+      "F:/Saves/CurrentProfile/states/mGBA/Jet Grind Radio (USA).state2.png":
+        hash: fef181e4bf21ffa1e2689d9cdaee0e4326f08901
+        size: 9471
+      "F:/Saves/CurrentProfile/states/mGBA/Jet Grind Radio (USA).state3":
+        hash: b9e8e84f587efcbd508eea5cb2bf770526e99bc7
+        size: 100006
+      "F:/Saves/CurrentProfile/states/mGBA/Jet Grind Radio (USA).state3.png":
+        hash: adb9b8f677abce0e8e3d72e8f5cfea3c69693265
+        size: 10851
+      "F:/Saves/CurrentProfile/states/mGBA/Jet Grind Radio (USA).state4":
+        hash: 721c8e38d24b953b7ef8f533d4516d1561b7a720
+        size: 108715
+      "F:/Saves/CurrentProfile/states/mGBA/Jet Grind Radio (USA).state4.png":
+        hash: d19460378041a8340ab7cf1e8df9fd28d64ddb5a
+        size: 23862
       "F:/Saves/CurrentProfile/states/mGBA/Kirby & The Amazing Mirror (USA).state.auto":
         hash: d3f55442ebf6607af1cfbda063992b71c322bd51
         size: 52866
@@ -1777,6 +2362,78 @@ backups:
       "F:/Saves/CurrentProfile/states/mGBA/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).state7.png":
         hash: c24495b4c0f27b1554479dbce2d10b82e9e86eaf
         size: 13324
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state.auto":
+        hash: eb57a2c0b8f175e509b2f9a3b54d78fbd25f0287
+        size: 47859
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state.auto.png":
+        hash: 2682fbb3f2cf395241683c2b850fcfbe97c80e42
+        size: 15120
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state20":
+        hash: 1b8bbd3830b310b88319a820a884e00deb3bd0ff
+        size: 45651
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state20.png":
+        hash: 9daee8fafcd0d7137e0fb8453cfb5440217caa1f
+        size: 20220
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state21":
+        hash: 15d2e2d0a47e9ad951d73948441b0aad01c75e1e
+        size: 47307
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state21.png":
+        hash: 19210225bdb70bed53b059f4f34b814ff844f0ba
+        size: 12970
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state22":
+        hash: 392385658022f2875c7a85a917cb2a2a86698886
+        size: 49252
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state22.png":
+        hash: 7a8cae689460bff253a089a5008dd79ef8ae7055
+        size: 10642
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state23":
+        hash: 5ca78eba0a99e960d5f517c8fc14c00a5e2f7a8d
+        size: 47327
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state23.png":
+        hash: ddee4949e2a3da6b0a8214c0fddf3b9bddce9efc
+        size: 11848
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state24":
+        hash: 61cb972b56157a03ccd66e830d050779bc2f1507
+        size: 47314
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state24.png":
+        hash: bae30848f338832c1c689c0143964b40c4120676
+        size: 11901
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state25":
+        hash: a3427e98b4594797998f8f964f092ee44a1503cd
+        size: 48076
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state25.png":
+        hash: 2eb84af2d6c0487886cd769b17e368a96cde3f62
+        size: 14180
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state26":
+        hash: be8d5a439d1a8131d9293aa665c53e9dfac533c8
+        size: 49261
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state26.png":
+        hash: 2ff7cd0ebe3da65d9221b6a16e58b01b6905598b
+        size: 14248
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state27":
+        hash: 80eb0387b9636a9c85949d7abf68688751a256d4
+        size: 50367
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state27.png":
+        hash: 52e0b4fe5396771f57b67107db5db877fe33f846
+        size: 13484
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state28":
+        hash: ad7fdda614ff07c7098f7fbd3fa3e267682e2a31
+        size: 48821
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state28.png":
+        hash: e8b7bd9a7611743a8869c857be8753a6c3ca76a7
+        size: 12281
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state29":
+        hash: 24217a5d8a9cc9dbe757dff5fd90397d648e5999
+        size: 46524
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state29.png":
+        hash: 0cd11ea0d0bf2a26260210ce2b34e8c50d5f8376
+        size: 14164
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state30":
+        hash: a96f74b4e9a21f8ce8b671642877551c530048cb
+        size: 47246
+      "F:/Saves/CurrentProfile/states/mGBA/Mario vs. Donkey Kong (USA, Australia).state30.png":
+        hash: 847c294c870697ac46dc5a421df48eb2435e6de4
+        size: 14956
       "F:/Saves/CurrentProfile/states/mGBA/Mega Man Zero (USA, Europe).state.auto":
         hash: eb168578b66c8a7fec5c8b44427d133a00b8f395
         size: 77214
@@ -1951,6 +2608,18 @@ backups:
       "F:/Saves/CurrentProfile/states/mGBA/Metroid Fusion (USA).state24.png":
         hash: c582cf8fcf1bbfe8cf9a4f1facfae5b5e860a53b
         size: 13386
+      "F:/Saves/CurrentProfile/states/mGBA/Motoracer Advance (USA) (En,Fr,De,Es,It).state.auto":
+        hash: b9bc26230e74581f11e30484e1a235ba494f08df
+        size: 430168
+      "F:/Saves/CurrentProfile/states/mGBA/Motoracer Advance (USA) (En,Fr,De,Es,It).state.auto.png":
+        hash: 379ea6f28fbd29b638937e613e9e82aac2c6533f
+        size: 3907
+      "F:/Saves/CurrentProfile/states/mGBA/Motoracer Advance (USA) (En,Fr,De,Es,It).state1":
+        hash: f9a42c9113874bdc2e5eebff873df0824a29e264
+        size: 430168
+      "F:/Saves/CurrentProfile/states/mGBA/Motoracer Advance (USA) (En,Fr,De,Es,It).state1.png":
+        hash: ece91054e3875ec84a6274952eebf20b644caaf2
+        size: 3898
       "F:/Saves/CurrentProfile/states/mGBA/Pokemon - Emerald Version (USA, Europe).state.auto":
         hash: 27534d03506ac68db3ad420b4679dc253eff8888
         size: 28919
@@ -2047,6 +2716,18 @@ backups:
       "F:/Saves/CurrentProfile/states/mGBA/Pokemon Unbound.state50.png":
         hash: a9283a7d4e582236d8384ad15abcf1b47f0b747e
         size: 8869
+      "F:/Saves/CurrentProfile/states/mGBA/Super Street Fighter II Turbo - Revival (USA).state.auto":
+        hash: a54a06bb592bc09002b7cf27272071fc31f5de6a
+        size: 400584
+      "F:/Saves/CurrentProfile/states/mGBA/Super Street Fighter II Turbo - Revival (USA).state.auto.png":
+        hash: 6c36adb3611e854ee64bd37abe13ff43b748d1ea
+        size: 37189
+      "F:/Saves/CurrentProfile/states/mGBA/Super Street Fighter II Turbo - Revival (USA).state1":
+        hash: b592be7b22d7fcee714f83ba2e3de14cd2683a45
+        size: 400584
+      "F:/Saves/CurrentProfile/states/mGBA/Super Street Fighter II Turbo - Revival (USA).state1.png":
+        hash: 6c36adb3611e854ee64bd37abe13ff43b748d1ea
+        size: 37189
       "F:/Saves/CurrentProfile/states/mGBA/TMNT (USA) (En,Fr,Es).state":
         hash: b2811e56611b879b5ee2496a4f79bc4ce729de35
         size: 46000
@@ -2078,8 +2759,8 @@ backups:
         hash: 0c2d1686169ed8b026510f722ebe1cead2091cf2
         size: 7302
       "F:/Saves/CurrentProfile/theme/config.json":
-        hash: 0aaf7868e7402d79a254c8927145cf5028868a32
-        size: 137
+        hash: 5e3e47d8fa308f62522a60f55ce06731258329fa
+        size: 157
       "F:/Saves/GuestProfile/config/Atari800/Atari800.opt":
         hash: 77ca36ff4f02f095b245913b957919ac1e98393a
         size: 309

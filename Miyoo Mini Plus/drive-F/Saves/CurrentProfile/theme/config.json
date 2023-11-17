@@ -1,10 +1,12 @@
 {
 	"batteryPercentage":	{
-		"visible":	true,
 		"textAlign":	"center",
 		"fixed":	true,
-		"offsetX":	2,
-		"offsetY":	20,
-		"size":	13
+		"size":	13,
+		"visible":	true,
+		"offsetY":	0,
+		"offsetX":	0
+	},
+	"hideLabels":	{
 	}
 }
