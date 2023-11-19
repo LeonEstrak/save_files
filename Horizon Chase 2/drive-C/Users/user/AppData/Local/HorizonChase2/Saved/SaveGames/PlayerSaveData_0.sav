@@ -3,19 +3,19 @@
 	"payload":
 	{
 		"playerUniqueId": "B2A625064B2295AB2EEA14AB267D9A33",
-		"totalTimePlayed": 11739.068359375,
+		"totalTimePlayed": 12393.5830078125,
 		"playerGame":
 		{
-			"blueCoinsGeneralCounter": 130,
-			"creditsCounter": 1350,
+			"blueCoinsGeneralCounter": 140,
+			"creditsCounter": 1500,
 			"carsData":
 			{
 				"CarItem_E_Sport_02":
 				{
 					"skillPoints": 3,
 					"carLevel": 5,
-					"carTotalXp": 315,
-					"levelProgressXp": 45,
+					"carTotalXp": 345,
+					"levelProgressXp": 75,
 					"physicalPartsAndLevel":
 					{
 						"Gearbox":
@@ -679,6 +679,22 @@
 					"collectiblesCollected": 15,
 					"hasSuperTrophy": false,
 					"isBeaten": false
+				},
+				"Brazil_North_AmazonRainForest_Race":
+				{
+					"placement": 0,
+					"bestTime": 82.624000549316406,
+					"collectiblesCollected": 10,
+					"hasSuperTrophy": false,
+					"isBeaten": true
+				},
+				"Brazil_North_AmazonRainForest_TimeTrials_Race":
+				{
+					"placement": 0,
+					"bestTime": 29.080001831054688,
+					"collectiblesCollected": 49,
+					"hasSuperTrophy": false,
+					"isBeaten": false
 				}
 			}
 		},
@@ -687,13 +703,13 @@
 			"carsGlobalStatistics":
 			{
 				"racesInFirstCounter": 0,
-				"racesFinishedCounter": 37,
+				"racesFinishedCounter": 39,
 				"superTrophyCounter": 9,
 				"onlineRacesCounter": 0,
-				"kmTravelled": 555,
+				"kmTravelled": 585,
 				"nitrosUsed": 77,
-				"worldTourRacesFinishedCounter": 37,
-				"breakTheBoxRacesFinishedCounter": 2,
+				"worldTourRacesFinishedCounter": 39,
+				"breakTheBoxRacesFinishedCounter": 3,
 				"upgradesInstalled": 1,
 				"paintsCollectedByPlayer": 0,
 				"bodiesCollectedByPlayer": 0
@@ -703,13 +719,13 @@
 				"CarItem_E_Sport_02":
 				{
 					"racesInFirstCounter": 0,
-					"racesFinishedCounter": 21,
+					"racesFinishedCounter": 23,
 					"superTrophyCounter": 8,
 					"onlineRacesCounter": 0,
-					"kmTravelled": 315,
+					"kmTravelled": 345,
 					"nitrosUsed": 36,
-					"worldTourRacesFinishedCounter": 21,
-					"breakTheBoxRacesFinishedCounter": 2,
+					"worldTourRacesFinishedCounter": 23,
+					"breakTheBoxRacesFinishedCounter": 3,
 					"upgradesInstalled": 1,
 					"paintsCollectedByPlayer": 0,
 					"bodiesCollectedByPlayer": 0
@@ -876,17 +892,17 @@
 				"rimsCollectedByPlayer": 1,
 				"bodiesCollectedByPlayer": 0,
 				"paintsCollectedByPlayer": 0,
-				"consecutiveRacesWon": 0,
+				"consecutiveRacesWon": 1,
 				"racesPlacementCounter":
 				{
-					"0": 14,
+					"0": 15,
 					"3": 2,
 					"2": 6,
 					"1": 3
 				},
 				"racesWonWithSmallDifference": 0,
-				"racesFinishedWithoutUsingNitro": 2,
-				"racesFinishedWithNoNitrosLeft": 9
+				"racesFinishedWithoutUsingNitro": 5,
+				"racesFinishedWithNoNitrosLeft": 10
 			},
 			"completionStatistics":
 			{
@@ -908,14 +924,16 @@
 					"USA_CA_SequoiaNationalPark_Race",
 					"USA_CA_DeathValley_Race",
 					"USA_CA_SanFrancisco_Race",
-					"Brazil_Northeast_Olinda_Race"
+					"Brazil_Northeast_Olinda_Race",
+					"Brazil_North_AmazonRainForest_Race",
+					"Brazil_North_AmazonRainForest_TimeTrials_Race"
 				],
 				"wTCountriesCompletion":
 				{
 					"unitedstatesofamerica": 87,
-					"brazil": 0
+					"brazil": 7
 				},
-				"wTTotalCompletion": 12,
+				"wTTotalCompletion": 13,
 				"wTWasBeaten": false,
 				"carsThatCompletedRace":
 				{
@@ -991,6 +1009,18 @@
 						]
 					},
 					"olinda":
+					{
+						"idsArray": [
+							"CarItem_E_Sport_02"
+						]
+					},
+					"amazonraiforest":
+					{
+						"idsArray": [
+							"CarItem_E_Sport_02"
+						]
+					},
+					"amazonrainforest_extraestage":
 					{
 						"idsArray": [
 							"CarItem_E_Sport_02"
@@ -3470,16 +3500,16 @@
 				"achievement_02_07": 1,
 				"achievement_02_08": 0,
 				"achievement_03_01": 0.87000000476837158,
-				"achievement_03_02": 0,
+				"achievement_03_02": 0.070000000298023224,
 				"achievement_03_03": 0,
 				"achievement_03_04": 0,
 				"achievement_03_05": 0,
-				"achievement_03_06": 0.11999999731779099,
+				"achievement_03_06": 0.12999999523162842,
 				"achievement_03_07": 0,
 				"achievement_03_08": 0,
 				"achievement_03_09": 0,
 				"achievement_03_10": 0,
-				"achievement_04_01": 0.18500000238418579,
+				"achievement_04_01": 0.19499999284744263,
 				"achievement_04_02": 0.76999998092651367,
 				"achievement_04_03": 1,
 				"achievement_04_04": 0.30000001192092896,
