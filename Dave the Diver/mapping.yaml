@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-11-17T15:12:57.831967500Z"
+    when: "2023-11-20T16:20:50.148330400Z"
     os: windows
     files:
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_00_GD.sav":
@@ -14,7 +14,7 @@ backups:
         hash: 8d3cf4fc2db1fa910c39c57cdeddc705ee146842
         size: 146378
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_00_UO.sav":
-        hash: 67775c044f5307cd0d0df1f64e6f513342f3fac1
+        hash: 73618149d808f5c88c2d402d874c0b09a97a2bea
         size: 499
       "C:/Users/user/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/6144/GameSave_00_UP.sav":
         hash: 31fbeb704bcd0dc8ad0b212e7eb09087072f9c0f
