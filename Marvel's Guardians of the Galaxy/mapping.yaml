@@ -1,0 +1,11 @@
+---
+name: "Marvel's Guardians of the Galaxy"
+drives: {}
+backups:
+  - name: "."
+    when: "2023-11-21T10:57:46.340600500Z"
+    os: windows
+    files: {}
+    registry:
+      hash: 6afea116cf96d6df5097205e2f3ddf8426bdbe7d
+    children: []

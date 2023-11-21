@@ -1,0 +1,75 @@
+---
+HKEY_CURRENT_USER:
+  "Software\\Eidos Montreal\\Guardians of the Galaxy":
+    Adapter:
+      dword: 0
+    AmbOcclusion:
+      dword: 1
+    AntiAliasing:
+      dword: 1
+    ApiLocale:
+      dword: 0
+    Brightness:
+      dword: 500
+    ChromaticAberration:
+      dword: 1
+    DlssQuality:
+      dword: 0
+    DlssSharpening:
+      dword: 0
+    Dof:
+      dword: 1
+    DynResType:
+      dword: 0
+    ExclusiveFullscreen:
+      dword: 1
+    ExposureOffset:
+      dword: 800
+    FSRQuality:
+      dword: 0
+    Fullscreen:
+      dword: 1
+    FullscreenHeight:
+      dword: 1080
+    FullscreenWidth:
+      dword: 1920
+    GeomQuality:
+      dword: 2
+    HDR:
+      dword: 0
+    LensFlare:
+      dword: 1
+    LightScattering:
+      dword: 1
+    MaxRefreshRate:
+      dword: 120000
+    Monitor:
+      dword: 0
+    MotionBlur:
+      dword: 1
+    MultiGPU:
+      dword: 0
+    RadialBlur:
+      dword: 1
+    RayTracing:
+      dword: 0
+    RayTracingTransparentReflections:
+      dword: 0
+    RefreshRate:
+      dword: 120
+    ResScale:
+      dword: 100000
+    SSReflections:
+      dword: 1
+    ShadowQuality:
+      dword: 2
+    Sharpening:
+      dword: 0
+    SoftShadows:
+      dword: 1
+    TextureFiltering:
+      dword: 4
+    TextureQuality:
+      dword: 1
+    VSync:
+      dword: 1
