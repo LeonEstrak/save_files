@@ -3,19 +3,19 @@
 	"payload":
 	{
 		"playerUniqueId": "B2A625064B2295AB2EEA14AB267D9A33",
-		"totalTimePlayed": 12393.5830078125,
+		"totalTimePlayed": 13135.818359375,
 		"playerGame":
 		{
-			"blueCoinsGeneralCounter": 140,
-			"creditsCounter": 1500,
+			"blueCoinsGeneralCounter": 170,
+			"creditsCounter": 1600,
 			"carsData":
 			{
 				"CarItem_E_Sport_02":
 				{
-					"skillPoints": 3,
-					"carLevel": 5,
-					"carTotalXp": 345,
-					"levelProgressXp": 75,
+					"skillPoints": 4,
+					"carLevel": 6,
+					"carTotalXp": 375,
+					"levelProgressXp": 15,
 					"physicalPartsAndLevel":
 					{
 						"Gearbox":
@@ -695,6 +695,22 @@
 					"collectiblesCollected": 49,
 					"hasSuperTrophy": false,
 					"isBeaten": false
+				},
+				"Brazil_Northeast_FernandoDeNoronha_Race":
+				{
+					"placement": 2,
+					"bestTime": 93.712005615234375,
+					"collectiblesCollected": 15,
+					"hasSuperTrophy": false,
+					"isBeaten": true
+				},
+				"Brazil_South_GramadoeCanela_Race":
+				{
+					"placement": 0,
+					"bestTime": 120.99200439453125,
+					"collectiblesCollected": 15,
+					"hasSuperTrophy": true,
+					"isBeaten": true
 				}
 			}
 		},
@@ -703,12 +719,12 @@
 			"carsGlobalStatistics":
 			{
 				"racesInFirstCounter": 0,
-				"racesFinishedCounter": 39,
-				"superTrophyCounter": 9,
+				"racesFinishedCounter": 41,
+				"superTrophyCounter": 10,
 				"onlineRacesCounter": 0,
-				"kmTravelled": 585,
-				"nitrosUsed": 77,
-				"worldTourRacesFinishedCounter": 39,
+				"kmTravelled": 615,
+				"nitrosUsed": 84,
+				"worldTourRacesFinishedCounter": 41,
 				"breakTheBoxRacesFinishedCounter": 3,
 				"upgradesInstalled": 1,
 				"paintsCollectedByPlayer": 0,
@@ -719,12 +735,12 @@
 				"CarItem_E_Sport_02":
 				{
 					"racesInFirstCounter": 0,
-					"racesFinishedCounter": 23,
-					"superTrophyCounter": 8,
+					"racesFinishedCounter": 25,
+					"superTrophyCounter": 9,
 					"onlineRacesCounter": 0,
-					"kmTravelled": 345,
-					"nitrosUsed": 36,
-					"worldTourRacesFinishedCounter": 23,
+					"kmTravelled": 375,
+					"nitrosUsed": 43,
+					"worldTourRacesFinishedCounter": 25,
 					"breakTheBoxRacesFinishedCounter": 3,
 					"upgradesInstalled": 1,
 					"paintsCollectedByPlayer": 0,
@@ -895,14 +911,14 @@
 				"consecutiveRacesWon": 1,
 				"racesPlacementCounter":
 				{
-					"0": 15,
+					"0": 16,
 					"3": 2,
-					"2": 6,
+					"2": 7,
 					"1": 3
 				},
-				"racesWonWithSmallDifference": 0,
+				"racesWonWithSmallDifference": 1,
 				"racesFinishedWithoutUsingNitro": 5,
-				"racesFinishedWithNoNitrosLeft": 10
+				"racesFinishedWithNoNitrosLeft": 12
 			},
 			"completionStatistics":
 			{
@@ -926,14 +942,16 @@
 					"USA_CA_SanFrancisco_Race",
 					"Brazil_Northeast_Olinda_Race",
 					"Brazil_North_AmazonRainForest_Race",
-					"Brazil_North_AmazonRainForest_TimeTrials_Race"
+					"Brazil_North_AmazonRainForest_TimeTrials_Race",
+					"Brazil_Northeast_FernandoDeNoronha_Race",
+					"Brazil_South_GramadoeCanela_Race"
 				],
 				"wTCountriesCompletion":
 				{
 					"unitedstatesofamerica": 87,
-					"brazil": 7
+					"brazil": 18
 				},
-				"wTTotalCompletion": 13,
+				"wTTotalCompletion": 15,
 				"wTWasBeaten": false,
 				"carsThatCompletedRace":
 				{
@@ -1021,6 +1039,18 @@
 						]
 					},
 					"amazonrainforest_extraestage":
+					{
+						"idsArray": [
+							"CarItem_E_Sport_02"
+						]
+					},
+					"fernandodenoronha":
+					{
+						"idsArray": [
+							"CarItem_E_Sport_02"
+						]
+					},
+					"gramadoecanela":
 					{
 						"idsArray": [
 							"CarItem_E_Sport_02"
@@ -3405,6 +3435,46 @@
 							"currentCarPaintId": "CarPaint_K_Concept_01_01",
 							"currentCarRimId": "CarRim_Basic_01",
 							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_C_SUV_01":
+						{
+							"carItemId": "CarItem_C_SUV_01",
+							"currentCarBodyId": "CarBody_C_SUV_01_01",
+							"currentCarPaintId": "CarPaint_C_SUV_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_A_Sport_01":
+						{
+							"carItemId": "CarItem_A_Sport_01",
+							"currentCarBodyId": "CarBody_A_Sport_01_01",
+							"currentCarPaintId": "CarPaint_A_Sport_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_H_Sport_01":
+						{
+							"carItemId": "CarItem_H_Sport_01",
+							"currentCarBodyId": "CarBody_H_Sport_01_01",
+							"currentCarPaintId": "CarPaint_H_Sport_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_H_Sport_02":
+						{
+							"carItemId": "CarItem_H_Sport_02",
+							"currentCarBodyId": "CarBody_H_Sport_02_01",
+							"currentCarPaintId": "CarPaint_H_Sport_02_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_F_Sport_01":
+						{
+							"carItemId": "CarItem_F_Sport_01",
+							"currentCarBodyId": "CarBody_F_Sport_01_01",
+							"currentCarPaintId": "CarPaint_F_Sport_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
 						}
 					}
 				},
@@ -3500,20 +3570,20 @@
 				"achievement_02_07": 1,
 				"achievement_02_08": 0,
 				"achievement_03_01": 0.87000000476837158,
-				"achievement_03_02": 0.070000000298023224,
+				"achievement_03_02": 0.18000000715255737,
 				"achievement_03_03": 0,
 				"achievement_03_04": 0,
 				"achievement_03_05": 0,
-				"achievement_03_06": 0.12999999523162842,
+				"achievement_03_06": 0.15000000596046448,
 				"achievement_03_07": 0,
 				"achievement_03_08": 0,
 				"achievement_03_09": 0,
 				"achievement_03_10": 0,
-				"achievement_04_01": 0.19499999284744263,
-				"achievement_04_02": 0.76999998092651367,
+				"achievement_04_01": 0.20499999821186066,
+				"achievement_04_02": 0.8399999737739563,
 				"achievement_04_03": 1,
 				"achievement_04_04": 0.30000001192092896,
-				"achievement_04_05": 0,
+				"achievement_04_05": 1,
 				"achievement_04_06": 0,
 				"achievement_04_07": 1,
 				"achievement_04_08": 1,
@@ -3552,7 +3622,6 @@
 						"achievement_04_01",
 						"achievement_04_02",
 						"achievement_04_04",
-						"achievement_04_05",
 						"achievement_04_06",
 						"achievement_03_11"
 					]
@@ -3572,7 +3641,8 @@
 						"achievement_01_06",
 						"achievement_01_10",
 						"achievement_02_07",
-						"achievement_01_03"
+						"achievement_01_03",
+						"achievement_04_05"
 					]
 				},
 				"Gameplay":
