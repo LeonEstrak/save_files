@@ -1,0 +1,71 @@
+---
+HKEY_CURRENT_USER:
+  "Software\\CampoSanto\\Firewatch":
+    BloomQuality_h3738829227:
+      dword: 2
+    ChoosenLayout_h1097700620:
+      dword: 1
+    DetailDistance_h989826903:
+      dword: 2
+    Fullscreen_h2248877754:
+      dword: 1
+    LightShaftQuality_h4289592830:
+      dword: 2
+    MotionBlurQuality_h3278537567:
+      dword: 2
+    ResolutionHeight_h1843629172:
+      dword: 1080
+    ResolutionWidth_h1003235053:
+      dword: 1920
+    SSAOQuality_h791981446:
+      dword: 2
+    Screenmanager Is Fullscreen mode_h3981298716:
+      dword: 1
+    Screenmanager Resolution Height_h2627697771:
+      dword: 1080
+    Screenmanager Resolution Width_h182942802:
+      dword: 1920
+    ShadowQuality_h2692908302:
+      dword: 3
+    UnityGraphicsQuality_h1669003810:
+      dword: 3
+    VSync_h223806132:
+      dword: 1
+    autosave_h4167176459:
+      dword: 1
+    brightness_h3288057420:
+      dword: 0
+    controller_h1098730073:
+      dword: 1
+    disableControllers_h204735294:
+      dword: 0
+    fovAdjust_h2041137991:
+      dword: 0
+    headBob_h642993570:
+      dword: 1
+    invertY_h1452742606:
+      dword: 0
+    masterVolume_h3359004273:
+      dword: 0
+    mouseAcceleration_h1786981830:
+      dword: 1
+    mouseSensitivity_h2228886217:
+      dword: 0
+    musicVolume_h2184803148:
+      dword: 0
+    mute_h2087717676:
+      dword: 0
+    sfxVolume_h3592443840:
+      dword: 0
+    showMapLocation_h1769124999:
+      dword: 1
+    showQuestPops_h828916028:
+      dword: 1
+    southpaw_h887954294:
+      dword: 0
+    subtitles_h4139963538:
+      dword: 1
+    triggerSwap_h2011831400:
+      dword: 0
+    voiceVolume_h2952661851:
+      dword: 0

@@ -1,0 +1,21 @@
+---
+name: Firewatch
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-11-24T16:49:56.604931100Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/LocalLow/CampoSanto/Firewatch/saves/1.sav":
+        hash: 6bf6aae062e2105b85e2537b2b21cfe02fbd586a
+        size: 855150
+      "C:/Users/user/AppData/LocalLow/CampoSanto/Firewatch/saves/Photos/1_photo_1.jpg":
+        hash: 218c5400d98a21b5d1fbd442fa5054f8c7d8051a
+        size: 534202
+      "C:/Users/user/AppData/LocalLow/CampoSanto/Firewatch/saves/keyBind.bnd":
+        hash: cc87444eaa5c29c74ad9d84ad0416f10ebf22fa1
+        size: 10633
+    registry:
+      hash: f299e553035bd57d15506999da3484c29dbf50be
+    children: []
