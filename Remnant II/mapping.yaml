@@ -1,0 +1,51 @@
+---
+name: Remnant II
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-11-25T12:24:27.556452700Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Remnant2/Saved/Config/Windows/GameUserSettings.ini":
+        hash: aa30c6489a347e6775124edc36b185cb736b9000
+        size: 1527
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.bak1":
+        hash: e138d47f55cdbc464114229bde0566a25df50200
+        size: 9702
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.bak2":
+        hash: 73ec96cbec675a4d16ff67ba9d4d2836ed510fc4
+        size: 9091
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.bak3":
+        hash: 1fb32783efd7a9aa06879e6dddbc117584209083
+        size: 9220
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.sav":
+        hash: 9cd3cdb51ebdc7edba9cfdba214e91c8b40d7632
+        size: 9408
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_0.bak1":
+        hash: 2823bf7d6f29b036488a39278473f5a0e29415fe
+        size: 122857
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_0.bak2":
+        hash: c8aca4114cd49c262ce7a7379122231542a20284
+        size: 109466
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_0.bak3":
+        hash: dfb4281bd9644ab4746ce0fefd01d3dc7772bb09
+        size: 92776
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_0.sav":
+        hash: 055c93d607f84cc9a2e0fbe5228c02d6c636ce6f
+        size: 123003
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.bak1":
+        hash: d00df7a3b1fab541b807b733a297284c05603eaa
+        size: 112406
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.bak2":
+        hash: 91b3c28178c082970e93c78a0395c31b52ca28b2
+        size: 99693
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.bak3":
+        hash: a031390d7790f02ef269a643dd3b69f3b34545e9
+        size: 88697
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.sav":
+        hash: 1f3e830d2c3b8da2ea456a8d559ecdbdff95cb22
+        size: 119801
+    registry:
+      hash: ~
+    children: []
