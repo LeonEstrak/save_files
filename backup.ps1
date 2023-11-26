@@ -1,5 +1,5 @@
 param (
-    [string]$directoryPath = 'E:\Ludusavi_Saves'
+    [string]$directoryPath
 )
 
 # Set error action preference
@@ -10,12 +10,21 @@ Write-Ascii "Git Backup Save Files"
 
 # Change the working directory
 Set-Location $directoryPath
-Write-Host "`nPerforming Backing up at $directoryPath"
+Write-Host "`n............................"
+Write-Host "Performing back up at $directoryPath"
+Write-Host "............................`n"
 
-# Run Git Garbage Collection
-Write-Host "`nRunning Git Garbage Collection..."
-git gc --aggressive
-Write-Host "Git Garbage Collection completed.`n"
+$changes = git status --porcelain
+
+if ($changes) {
+    git status
+    Write-Host "`n............................`n"
+    Write-Host "`nThere are changes to commit.`n"
+    Write-Host "`n............................`n"
+} else {
+    Write-Host "`nNo changes to commit."
+    exit
+}
 
 # Get the current timestamp
 $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
