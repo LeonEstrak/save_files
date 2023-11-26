@@ -4,24 +4,24 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-11-25T14:41:58.119289100Z"
+    when: "2023-11-26T07:30:58.732230300Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/Remnant2/Saved/Config/Windows/GameUserSettings.ini":
         hash: aa30c6489a347e6775124edc36b185cb736b9000
         size: 1527
       "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.bak1":
+        hash: ee176a79eb31bb24bbfa57871099537881df885e
+        size: 11486
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.bak2":
+        hash: 778b07f963755ee1ae3efabeeefdacc5d827e3a2
+        size: 10510
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.bak3":
         hash: 4310ff81d89b8227ccbc1a3160bb15e774522484
         size: 10357
-      "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.bak2":
-        hash: 2a53fe90296b8cf34b8e8d7ffac078f11bc43ba6
-        size: 9872
-      "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.bak3":
-        hash: d28fe7a96051e796466daa1f12034f331e48510a
-        size: 10097
       "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.sav":
-        hash: b453831eb3daaf9a3ed1746c008882997c76e210
-        size: 10369
+        hash: db308539aca3f47f640e028af778b2811bb68cdd
+        size: 11495
       "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_0.bak1":
         hash: 2823bf7d6f29b036488a39278473f5a0e29415fe
         size: 122857
@@ -35,17 +35,17 @@ backups:
         hash: 055c93d607f84cc9a2e0fbe5228c02d6c636ce6f
         size: 123003
       "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.bak1":
+        hash: 318c80ad791b94531a8c20f0e6546548cb5a8ce1
+        size: 190959
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.bak2":
+        hash: 203ea50944ca38e0bfd7b0efd5678a4fe16862a7
+        size: 165614
+      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.bak3":
         hash: 82750a8ea187bff8c10182fe7ebdcc583122d446
         size: 155208
-      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.bak2":
-        hash: d2a5e749a06ee152f49457016b48df8e2a013c61
-        size: 153302
-      "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.bak3":
-        hash: 989a1444211bd55b2beb8039798cc1db4611de68
-        size: 143855
       "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.sav":
-        hash: b8a5afc7ec4e5c1094ecb5adf6522221e5a71670
-        size: 156390
+        hash: 0cfa9c4ab0638d245ca5cc1c91faf5d336174ee8
+        size: 190997
     registry:
       hash: ~
     children: []
