@@ -95,7 +95,7 @@ HKEY_CURRENT_USER:
     TextureQuality:
       dword: 3
     UpscaleMethod:
-      dword: 0
+      dword: 3
     UpscaleQuality:
       dword: 3
     UpscaleSharpness:
