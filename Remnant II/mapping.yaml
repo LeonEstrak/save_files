@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-11-26T07:30:58.732230300Z"
+    when: "2023-12-01T14:18:17.962950Z"
     os: windows
     files:
       "C:/Users/user/AppData/Local/Remnant2/Saved/Config/Windows/GameUserSettings.ini":
@@ -20,8 +20,8 @@ backups:
         hash: 4310ff81d89b8227ccbc1a3160bb15e774522484
         size: 10357
       "C:/Users/user/Saved Games/Remnant2/Steam/6144/profile.sav":
-        hash: db308539aca3f47f640e028af778b2811bb68cdd
-        size: 11495
+        hash: 7f8fa5599a898dccfeef8c9b05eac573c3c32b22
+        size: 11854
       "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_0.bak1":
         hash: 2823bf7d6f29b036488a39278473f5a0e29415fe
         size: 122857
@@ -44,8 +44,8 @@ backups:
         hash: 82750a8ea187bff8c10182fe7ebdcc583122d446
         size: 155208
       "C:/Users/user/Saved Games/Remnant2/Steam/6144/save_1.sav":
-        hash: 0cfa9c4ab0638d245ca5cc1c91faf5d336174ee8
-        size: 190997
+        hash: 4188c4288acc697818da7609b38ec6c1f779f2e3
+        size: 202979
     registry:
       hash: ~
     children: []
