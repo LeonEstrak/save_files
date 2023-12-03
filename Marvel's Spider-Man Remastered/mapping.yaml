@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-12-03T07:16:05.664059800Z"
+    when: "2023-12-03T14:31:48.516386600Z"
     os: windows
     files:
       "C:/Users/user/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs/metadata":
@@ -17,11 +17,14 @@ backups:
         hash: ba792d0cdc8168e02336a9d9accfcc50a37d8e4a
         size: 1460
       "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s-manual-0.save":
-        hash: a33c84fec36e13409fbb0dd623187300351f90cc
-        size: 111838
+        hash: a04fb52c9b2f1f6cde387c7c3c9fc58541c0f33d
+        size: 110286
       "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save":
-        hash: 9b2a83bab2bc0da40944ba8e1fce7c791eeeedaa
-        size: 110110
+        hash: 0f0c056241eb35db68893095b616785ce563323d
+        size: 110286
+      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup01":
+        hash: 956be9612e7daf0aad395a55026a3766f6a29b00
+        size: 107982
       "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup02":
         hash: 4cbcd1fe0ee04c0991b3792de7424f19ba12075c
         size: 109854
@@ -74,8 +77,8 @@ backups:
         hash: eb4529a983a13c6a298b738145060ed6bff0fb86
         size: 94862
       "C:/Users/user/Documents/Marvel's Spider-Man Remastered/Marvel's Spider-Man Remastered.log":
-        hash: 213575aa682269841fa64fd5ee4abdcc71e7d7a4
-        size: 33883
+        hash: 06a85f24d53a74b9e702156c595a825de4f4f6d5
+        size: 40853
     registry:
       hash: f402b9b531c8460cda9fafcc066d873979acffae
     children: []
