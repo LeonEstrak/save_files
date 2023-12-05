@@ -1,0 +1,1 @@
+{"stationdefend":4,"repair1":4,"repair2":3,"keeper1_pickup":4,"keeper1_drop":4,"drillbotcarry":4,"drillbothandling":1,"drillbotsleeping":4}

@@ -1,0 +1,39 @@
+---
+name: Dome Keeper
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-12-05T13:05:35.873158600Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Roaming/Godot/app_userdata/Dome Keeper/id.txt":
+        hash: 095e42c5443e11b2e00921f9000d1d1e883fc198
+        size: 62
+      "C:/Users/user/AppData/Roaming/Godot/app_userdata/Dome Keeper/keybindings.cfg":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "C:/Users/user/AppData/Roaming/Godot/app_userdata/Dome Keeper/logs/godot.log":
+        hash: 4c8e62a93551f2b847ff24225e5f3e9362f6f947
+        size: 942
+      "C:/Users/user/AppData/Roaming/Godot/app_userdata/Dome Keeper/logs/godot_2023-12-05_18.35.08.log":
+        hash: 317a31de91daf826805d7643d00a9e9a319e6476
+        size: 47914
+      "C:/Users/user/AppData/Roaming/Godot/app_userdata/Dome Keeper/savegame_0.json":
+        hash: bcc6c573c6c417ce7ece55c350a16cd119804eb1
+        size: 192512
+      "C:/Users/user/AppData/Roaming/Godot/app_userdata/Dome Keeper/savegame_0_map.scn":
+        hash: 42dd25cbccb932c88a9350984340726090325fda
+        size: 50114
+      "C:/Users/user/AppData/Roaming/Godot/app_userdata/Dome Keeper/savegame_full.json":
+        hash: 403fd12bc0f5dca39b49d39214b8aa6a9e361c92
+        size: 528
+      "C:/Users/user/AppData/Roaming/Godot/app_userdata/Dome Keeper/tutorials.txt":
+        hash: 2895dbfeee19b37bf0d68b7e8d910b4f82679039
+        size: 139
+      "C:/Users/user/AppData/Roaming/Godot/app_userdata/Dome Keeper/version.txt":
+        hash: 31ec964247a082066b7fe4da46ed38594b436dd7
+        size: 5
+    registry:
+      hash: ~
+    children: []

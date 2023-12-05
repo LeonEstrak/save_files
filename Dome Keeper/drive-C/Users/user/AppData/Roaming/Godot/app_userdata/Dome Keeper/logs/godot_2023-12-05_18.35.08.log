@@ -1,0 +1,951 @@
+Godot Engine v3.4.4.stable.custom_build - https://godotengine.org
+OpenGL ES 3.0 Renderer: AMD Radeon RX 6800 XT
+OpenGL ES Batching: ON
+ 
+Upgrade swordtargetlock has an unknown predecessor notavailable. Removing it from upgrades.
+Upgrade orchardbattlerootingdigestion has an unknown predecessor orchardbattlerooting_deactivatedfornow. Removing it from upgrades.
+Upgrade orchardbattlerootingdigestioninvulnerable has an unknown predecessor orchardbattlerootingdigestion. Removing it from upgrades.
+setting palette to 1_1
+Steam App ID: 1637320
+trying migration from version '' to 'v41.1'
+Pioneer pack subscription: True
+setting target fps to 250
+current locale is en_US, changing to en_GB
+BorderDecorations listen for monsters.wavepresent
+setting palette to 1_1
+setting palette to 1_1
+BorderDecorations listen for monsters.wavepresent
+Station listen for keeper.insidestation
+Station listen for monsters.wavepresent
+Shield listen for shield.stage
+Shield listen for shield.overchargestrength
+Achievement listen for shield.strength
+Achievement listen for shield.additionalstrength
+CracksOverlay listen for dome.health
+Achievement listen for inventory.sand
+@Achievement@40 listen for inventory.floatingsand
+@Achievement@41 listen for monsters.cycle
+Dome listen for dome.baserepair
+Dome listen for dome.healthfractionrepair
+Dome listen for monsters.wavepresent
+Laser listen for laser.variant
+Laser listen for laser.hitprojectiles
+Laser listen for laser.bend
+@Achievement@50 listen for keeper.insidedome
+@Achievement@50 listen for monsters.wavepresent
+Keeper listen for keeper1.jetpackStage
+@Achievement@52 listen for keeper.insidedome
+Shield listen for shield.battlereflect
+Shield listen for shield.battleblast
+Shield listen for shield.battleinvulnerable
+Shield listen for monsters.wavepresent
+Shield listen for shield.overcharged
+ShieldBattery listen for shield.stage
+ShieldBattery listen for shield.maxstrength
+ShieldBattery listen for shield.overcharged
+add input: PopupInput - LoadoutStage
+--- input state ---
+- PopupInput - LoadoutStage
+-------------------
+stop input: PopupInput - LoadoutStage
+--- input state ---
+-------------------
+world modifiers: []
+setting palette to 1_1
+procedural generation finished
+ERROR: Cannot save file 'res://content/map/data/TileDataLast.tscn'.
+   at: ResourceFormatSaverTextInstance::save (scene\resources\resource_format_text.cpp:1406) - Condition "err" is true. Returned: ERR_CANT_OPEN
+BorderDecorations listen for monsters.wavepresent
+BattleAmbience listen for monsters.wavepresent
+BattleAmbience listen for game.over
+Station listen for keeper.insidestation
+Station listen for monsters.wavepresent
+Shield listen for shield.stage
+Shield listen for shield.overchargestrength
+Achievement listen for shield.strength
+Achievement listen for shield.additionalstrength
+CracksOverlay listen for dome.health
+adding tutorial stationdefend
+StationTutorial listen for keeper.insidestation
+StationTutorial listen for monsters.wavepresent
+adding tutorial repair1
+RepairTutorial1 listen for dome.health
+RepairTutorial1 listen for inventory.floatingsand
+adding tutorial repair2
+RepairTutorial2 listen for dome.health
+Achievement listen for inventory.sand
+@Achievement@218 listen for inventory.floatingsand
+@Achievement@219 listen for monsters.cycle
+Dome listen for dome.baserepair
+Dome listen for dome.healthfractionrepair
+Dome listen for monsters.wavepresent
+@Achievement@227 listen for keeper.insidedome
+@Achievement@227 listen for monsters.wavepresent
+Keeper listen for keeper1.jetpackStage
+adding tutorial keeper1_pickup
+adding tutorial keeper1_drop
+@Achievement@231 listen for keeper.insidedome
+Relichunt listen for inventory.floatingrelic
+Relichunt listen for inventory.relic
+Relichunt listen for dome.health
+Achievement listen for game.over
+Cheats listen for dome.health
+Cheats listen for monsters.wavepresent
+Shield listen for shield.battlereflect
+Shield listen for shield.battleblast
+Shield listen for shield.battleinvulnerable
+Shield listen for monsters.wavepresent
+Shield listen for shield.overcharged
+erasing domesandrepairstrong from predecessors dome1damagereduction1
+erasing dome2health1 from predecessors dome2health2
+ShieldBattery listen for shield.stage
+ShieldBattery listen for shield.maxstrength
+ShieldBattery listen for shield.overcharged
+EffectHandler listen for keeper.insidedome
+erase dome2badrepair2
+erase dome3health2
+erase shieldbattleactivateondepletion
+erase shieldbattledestructionprevention
+erase shieldbattlereflectshortuses
+erase shieldbattlereflectspeedup
+erase repellentbattlelongerhealthreduction
+erase repellentbattledamageovertime
+erase repellentbattleslowdownstun2
+erase orchardbattleshieldsecondlayer
+erase orchardbattleshieldstrong
+erase dome2health2
+LevelStage listen for keeper.insidestation
+LevelStage listen for monsters.wavepresent
+LevelStage listen for monsters.cycle
+Monsters listen for map.tilesdestroyed
+Monsters listen for dome.health
+Monsters listen for inventory.iron
+Monsters listen for shield.health
+Monsters listen for keeper.insidestation
+Laser listen for laser.variant
+Laser listen for laser.hitprojectiles
+Laser listen for laser.bend
+WaveMeter listen for keeper.insidestation
+WaveMeter listen for monsters.wavecooldown
+WaveMeter listen for monsters.wavepresent
+WaveMeter listen for game.over
+WaveMeter listen for wavemeter.stage
+WaveMeter listen for wavemeter.delayStage
+ShieldHud listen for shield.remainingbattleuses
+ShieldHud listen for shield.battleuses
+ShieldHud listen for shield.stage
+ShieldHud listen for shield.maxstrength
+ShieldHud listen for shield.strength
+add input: Keeper1InputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+Monsters unlisten for map.tilesdestroyed
+ERROR: _on_SendEvents_request_completed: 400
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 400
+_on_SendEvents_request_completed: 400 Data: "{\"code\":9070,\"message\":\"The API request has been rejected because it requires scaling for processing. Switch to the Cloud9 or Cloud99 plan to enable the Super Scaling option.\",\"errorData\":{}}"
+triggered tutorial keeper1_pickup
+confirmed tutorial keeper1_pickup
+triggered tutorial keeper1_drop
+confirmed tutorial keeper1_drop
+triggered tutorial stationdefend
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+confirmed tutorial stationdefend
+StationTutorial unlisten for keeper.insidestation
+StationTutorial unlisten for monsters.wavepresent
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+HealthMeter listen for dome.health
+HealthMeter listen for dome.potentialrepair
+HealthMeter listen for dome.healthbar
+Inventory listen for inventory.iron
+Inventory listen for inventory.water
+Inventory listen for inventory.sand
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    PopupInput - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+confirmed tutorial before appearing repair1
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       PopupInput - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+triggered tutorial repair2
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+timed out tutorial repair2
+RepairTutorial2 unlisten for dome.health
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: GadgetChoiceInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    GadgetChoiceInputProcessor - LevelStage
+-------------------
+stop input: GadgetChoiceInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: GadgetChoiceInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    GadgetChoiceInputProcessor - LevelStage
+-------------------
+DrillbotStation listen for drillbot.headcount
+adding tutorial drillbotcarry
+stop input: GadgetChoiceInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+[Drillbot:[RigidBody2D:148064]]
+Drillbot listen for monsters.wavepresent
+Drillbot listen for drillbot.drilllevel
+Drillbot listen for drillbot.amount
+adding tutorial drillbothandling
+adding tutorial drillbotsleeping
+confirmed tutorial before appearing drillbotcarry
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+confirmed tutorial before appearing drillbotsleeping
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+TechtreePopup listen for inventory.iron
+TechtreePopup listen for inventory.water
+TechtreePopup listen for inventory.sand
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+stop input: UpgradesInputProcessor - LevelStage
+TechtreePopup unlisten for inventory.iron
+TechtreePopup unlisten for inventory.water
+TechtreePopup unlisten for inventory.sand
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+@Achievement@227 unlisten for monsters.wavepresent
+@Achievement@227 unlisten for keeper.insidedome
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+add input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-          PopupInput - LevelStage
+-------------------
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: _on_SendEvents_request_completed: 401
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:774) - _on_SendEvents_request_completed: 401
+_on_SendEvents_request_completed: 401 Data: "{\"code\":2002,\"message\":\"Unable to identify the application. Make sure application ID and API key are correct\",\"errorData\":{}}"
+ERROR: HTTPRequest is processing a request. Wait for completion or cancel it before attempting a new one.
+   at: HTTPRequest::request_raw (scene\main\http_request.cpp:82) - Condition "requesting" is true. Returned: ERR_BUSY
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: ObjectDB::cleanup (core\object.cpp:2064) - ObjectDB instances leaked at exit (run with --verbose for details).
+ERROR: Resources still in use at exit (run with --verbose for details).
+   at: ResourceCache::clear (core\resource.cpp:417) - Resources still in use at exit (run with --verbose for details).
+ERROR: There are still MemoryPool allocs in use at exit!
+   at: MemoryPool::cleanup (core\pool_vector.cpp:63) - Condition "allocs_used > 0" is true.
