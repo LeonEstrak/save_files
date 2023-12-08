@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-07-16T18:48:04.980588400Z"
+    when: "2023-12-07T16:37:35.592107800Z"
     os: windows
     files:
       "C:/Users/user/Saved Games/metro exodus/76561198062383813/m3_05_winter.player":
@@ -14,23 +14,23 @@ backups:
         hash: 83e9904b1531a1446b4b574e41471f01332e8cc9
         size: 24781
       "C:/Users/user/Saved Games/metro exodus/76561198062383813/m3_auto_save_rx":
-        hash: 4e4da1adfafe681a18093ee9008e2eb8301e3fe6
-        size: 12386641
+        hash: fff4720254fbb92086decaff87ea77b0aec9d750
+        size: 11915033
       "C:/Users/user/Saved Games/metro exodus/76561198062383813/m3_auto_save_rx1":
-        hash: bf4b59408751f1b7433d4e945fd0fc315b27156b
-        size: 12102371
+        hash: cf7a33c4ec09e681e73ad0d3db6a8897ec904dc3
+        size: 11897981
       "C:/Users/user/Saved Games/metro exodus/76561198062383813/m3_auto_save_rx2":
-        hash: f83c02400ac919f5c2defd21d86001beec9f2a20
-        size: 12363803
+        hash: 556331d0b0a59c7ce110344684b3d4d1db79e79d
+        size: 11929116
       "C:/Users/user/Saved Games/metro exodus/76561198062383813/m3_quick_save_rx":
-        hash: 1fc307d082aed1edd835535f109e70fabdb8009b
-        size: 12106418
+        hash: f22a6c20079496b0d43cd228094cbf7abdb845d9
+        size: 11974380
       "C:/Users/user/Saved Games/metro exodus/76561198062383813/profile.cfg":
-        hash: 8df7d331219c4fc613798434df253520bded0aa0
-        size: 826
+        hash: 897ffd62c5fc260139c6602971fb64a768ed29ae
+        size: 834
       "C:/Users/user/Saved Games/metro exodus/76561198062383813/user.cfg":
-        hash: eeed8447f93102e8f227c5b88a278114b7ca1820
-        size: 6936
+        hash: 104ab3fb19bfbe13ef16c48911fdc16b301a993a
+        size: 6937
     registry:
       hash: ~
     children: []
