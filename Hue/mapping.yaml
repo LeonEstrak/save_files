@@ -1,0 +1,11 @@
+---
+name: Hue
+drives: {}
+backups:
+  - name: "."
+    when: "2023-12-08T15:43:33.306013600Z"
+    os: windows
+    files: {}
+    registry:
+      hash: 04d486112cd2e08911b94d071ca5b864a9f93030
+    children: []
