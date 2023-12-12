@@ -4,25 +4,16 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-12-11T18:50:35.085388800Z"
+    when: "2023-12-12T13:45:11.691220700Z"
     os: windows
     files:
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-1003C4CB45ECD9A7223C618F79DC9664/CrashReportClient.ini":
-        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
-        size: 112
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-6ED8CFCE492FE6E6C971FD87360F83DE/CrashReportClient.ini":
+      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-69FCCAC74533BD24B99D379BD83D23C5/CrashReportClient.ini":
         hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
         size: 112
       "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-CA1E7AF241CA118153792B961FA26657/CrashReportClient.ini":
         hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
         size: 112
       "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-D99B93E243CEAE2D49F2DF89C191A507/CrashReportClient.ini":
-        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
-        size: 112
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-EBB3531649A91B1CEE16EC88D591C053/CrashReportClient.ini":
-        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
-        size: 112
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-EF183148447EBE4C57054EA4E5FE5ECD/CrashReportClient.ini":
         hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
         size: 112
       "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/ApexDestruction.ini":
@@ -134,14 +125,14 @@ backups:
         hash: 0b311105ad51be089fee6b47cf188f6c786809f4
         size: 2144
       "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQProfile.sav":
+        hash: 701cb349cba842976c4822240bdcd9b627cbb33a
+        size: 52086
+      "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQProfileCopy.sav":
         hash: b61d6f3d4fc38d37b947317185127a4f619c32e8
         size: 50683
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQProfileCopy.sav":
-        hash: e2ab9d6779f685b05470e1a0cc724b599a7d4378
-        size: 47718
       "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQSettings.sav":
-        hash: f6a0603f9af8ba3c50c2853187ec96efbb2ea368
-        size: 1251
+        hash: 4d8bb7c5f5f17e61c9995d0d8bace0d6a459d6b8
+        size: 1298
       "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/steam_autocloud.vdf":
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
