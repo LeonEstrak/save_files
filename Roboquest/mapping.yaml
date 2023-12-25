@@ -4,19 +4,10 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-12-12T16:17:55.616380Z"
+    when: "2023-12-25T06:48:50.517326200Z"
     os: windows
     files:
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-69FCCAC74533BD24B99D379BD83D23C5/CrashReportClient.ini":
-        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
-        size: 112
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-7074C08745769480457C4EA7D9DFABBB/CrashReportClient.ini":
-        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
-        size: 112
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-CA1E7AF241CA118153792B961FA26657/CrashReportClient.ini":
-        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
-        size: 112
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-D99B93E243CEAE2D49F2DF89C191A507/CrashReportClient.ini":
+      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-F34F7B6B4DFD29A72A8031B321CC9CBA/CrashReportClient.ini":
         hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
         size: 112
       "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/ApexDestruction.ini":
@@ -128,11 +119,11 @@ backups:
         hash: 0b311105ad51be089fee6b47cf188f6c786809f4
         size: 2144
       "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQProfile.sav":
+        hash: 998ccf743ac16110bc474c095ace8f972c5c6bc5
+        size: 53749
+      "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQProfileCopy.sav":
         hash: 0f9dd3429776f92241618974dcd793d8fee6095e
         size: 53378
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQProfileCopy.sav":
-        hash: 701cb349cba842976c4822240bdcd9b627cbb33a
-        size: 52086
       "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQSettings.sav":
         hash: f6a0603f9af8ba3c50c2853187ec96efbb2ea368
         size: 1251
