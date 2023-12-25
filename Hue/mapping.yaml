@@ -3,9 +3,9 @@ name: Hue
 drives: {}
 backups:
   - name: "."
-    when: "2023-12-08T15:43:33.306013600Z"
+    when: "2023-12-25T12:54:58.367618900Z"
     os: windows
     files: {}
     registry:
-      hash: 04d486112cd2e08911b94d071ca5b864a9f93030
+      hash: d02df700f9e8e4ace7962cf5d4459fd63a851160
     children: []

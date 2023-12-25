@@ -707,13 +707,10 @@ HKEY_CURRENT_USER:
     CurrentLevel_h1118207002:
       binary:
         - 66
-        - 111
-        - 120
-        - 83
-        - 108
+        - 114
         - 105
-        - 100
-        - 101
+        - 99
+        - 107
         - 77
         - 97
         - 122
@@ -724,7 +721,7 @@ HKEY_CURRENT_USER:
     DoorOffsetX_h1371092646:
       dword: 0
     DoorOffsetY_h1371092647:
-      dword: 0
+      dword: 2147483648
     DoorOffsetZ_h1371092644:
       dword: 2147483648
     EventsTriggered_h4023619203:
