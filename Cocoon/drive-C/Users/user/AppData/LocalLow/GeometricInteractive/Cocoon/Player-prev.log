@@ -1,0 +1,83 @@
+Mono path[0] = 'C:/Program Files/WindowsApps/AnnapurnaInteractive.UniverseProject_1.0.11.0_x64__c96c51jf6wkvm/universe_Data/Managed'
+Mono config path = 'C:/Program Files/WindowsApps/AnnapurnaInteractive.UniverseProject_1.0.11.0_x64__c96c51jf6wkvm/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.48f1 (b805b124c6b7)
+[Subsystems] Discovering subsystems at path C:/Program Files/WindowsApps/AnnapurnaInteractive.UniverseProject_1.0.11.0_x64__c96c51jf6wkvm/universe_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6800 XT (ID=0x73bf)
+    Vendor:   
+    VRAM:     16337 MB
+    Driver:   31.0.22011.1008
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.177 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initialized touch support.
+UnloadTime: 1.149400 ms
+GDK Operation Initialize gaming runtime succeeded
+GDK Operation Create store context succeeded
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+GDK Operation Sign in. succeeded
+GDK Operation Get gamertag. succeeded
+Gdk: Gamertag is Leon Estrak
+GDK Operation Initialize Xbox Live succeeded
+GDK Operation Create Xbox Live context succeeded
+GDK Operation Initialize game save provider succeeded
+Unloading 6 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 2.785800 ms
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 4584.
+Total: 1.650700 ms (FindLiveObjects: 0.220800 ms CreateObjectMapping: 0.054900 ms MarkObjects: 1.321300 ms  DeleteObjects: 0.053700 ms)
+
+GDK Operation Game save submit update complete succeeded
+Unloading 4 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.133100 ms
+universe-2023-10-31-164329-r22860-WIN
+$ UNIVERSE_LOGGING is *not* enabled. Our logging is disabled.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 12076.
+Total: 4.631700 ms (FindLiveObjects: 0.313300 ms CreateObjectMapping: 0.107600 ms MarkObjects: 4.123600 ms  DeleteObjects: 0.087200 ms)
+
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Couldn't create a Convex Mesh from source mesh "RaycastShell" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Unloading 58 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 130 unused Assets to reduce memory usage. Loaded Objects now: 362871.
+Total: 94.591100 ms (FindLiveObjects: 12.151700 ms CreateObjectMapping: 2.881000 ms MarkObjects: 79.278800 ms  DeleteObjects: 0.279400 ms)
+
+GDK Operation Get gamertag. succeeded
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+Joystick reconnected ("Controller (XBOX 360 For Windows)").
+GDK Operation Game save submit update complete succeeded
+GDK Operation Game save submit update complete succeeded
+GDK Operation Game save submit update complete succeeded
+GDK Operation Game save submit update complete succeeded
+GDK Operation Game save submit update complete succeeded
+GDK Operation Game save submit update complete succeeded
+GDK Operation Get Xbox user ID succeeded
+GDK Operation Unlock achievement succeeded
+GDK Operation Game save submit update complete succeeded
+GDK Operation Get gamertag. succeeded
+Setting up 5 worker threads for Enlighten.
+  Thread -> id: 1780 -> priority: 1 
+  Thread -> id: 2cd8 -> priority: 1 
+  Thread -> id: fac -> priority: 1 
+  Thread -> id: eb0 -> priority: 1 
+  Thread -> id: 68a0 -> priority: 1 

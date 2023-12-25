@@ -1,0 +1,70 @@
+Mono path[0] = 'C:/Program Files/WindowsApps/AnnapurnaInteractive.UniverseProject_1.0.11.0_x64__c96c51jf6wkvm/universe_Data/Managed'
+Mono config path = 'C:/Program Files/WindowsApps/AnnapurnaInteractive.UniverseProject_1.0.11.0_x64__c96c51jf6wkvm/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.48f1 (b805b124c6b7)
+[Subsystems] Discovering subsystems at path C:/Program Files/WindowsApps/AnnapurnaInteractive.UniverseProject_1.0.11.0_x64__c96c51jf6wkvm/universe_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6800 XT (ID=0x73bf)
+    Vendor:   
+    VRAM:     16337 MB
+    Driver:   31.0.22011.1008
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.179 seconds
+<RI> Initializing input.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.081400 ms
+GDK Operation Initialize gaming runtime succeeded
+GDK Operation Create store context succeeded
+GDK Operation Sign in. succeeded
+GDK Operation Get gamertag. succeeded
+Gdk: Gamertag is Leon Estrak
+GDK Operation Initialize Xbox Live succeeded
+GDK Operation Create Xbox Live context succeeded
+GDK Operation Initialize game save provider succeeded
+Unloading 6 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 3.192900 ms
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 4584.
+Total: 1.577000 ms (FindLiveObjects: 0.142400 ms CreateObjectMapping: 0.060100 ms MarkObjects: 1.316500 ms  DeleteObjects: 0.057900 ms)
+
+GDK Operation Game save submit update complete succeeded
+Unloading 4 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.147900 ms
+universe-2023-10-31-164329-r22860-WIN
+$ UNIVERSE_LOGGING is *not* enabled. Our logging is disabled.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 12076.
+Total: 4.626000 ms (FindLiveObjects: 0.336100 ms CreateObjectMapping: 0.109700 ms MarkObjects: 4.128300 ms  DeleteObjects: 0.051400 ms)
+
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Couldn't create a Convex Mesh from source mesh "RaycastShell" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Unloading 58 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 136 unused Assets to reduce memory usage. Loaded Objects now: 357533.
+Total: 95.772000 ms (FindLiveObjects: 11.984800 ms CreateObjectMapping: 3.751300 ms MarkObjects: 79.705900 ms  DeleteObjects: 0.329800 ms)
+
+GDK Operation Get gamertag. succeeded
+GDK Operation Get gamertag. succeeded
+Setting up 5 worker threads for Enlighten.
+  Thread -> id: 79b0 -> priority: 1 
+  Thread -> id: 6158 -> priority: 1 
+  Thread -> id: b1cc -> priority: 1 
+  Thread -> id: ab48 -> priority: 1 
+  Thread -> id: 9210 -> priority: 1 

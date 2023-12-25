@@ -1,0 +1,21 @@
+---
+name: Cocoon
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-12-25T12:56:53.530999100Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/LocalLow/GeometricInteractive/Cocoon/Player-prev.log":
+        hash: 1bafa36a0791ab2b8b8b824f693c3b5be876c23b
+        size: 4840
+      "C:/Users/user/AppData/LocalLow/GeometricInteractive/Cocoon/Player.log":
+        hash: db3950af88bd60f99f4900e48945fa46847cb2c2
+        size: 3922
+      "C:/Users/user/AppData/LocalLow/GeometricInteractive/Cocoon/audiolog.txt":
+        hash: 3af7a0de65afc711d22a39bc909f9929098898db
+        size: 136
+    registry:
+      hash: ~
+    children: []
