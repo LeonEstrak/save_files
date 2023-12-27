@@ -72,7 +72,7 @@
   },
   "window_startup": {
     "window_size_width": 1920,
-    "window_size_height": 1080,
+    "window_size_height": 1057,
     "window_position_x": -8,
     "window_position_y": -8,
     "window_maximized": true
@@ -141,7 +141,7 @@
         "enable_rumble": true
       },
       "left_joycon": {
-        "button_minus": "Minus",
+        "button_minus": "Back",
         "button_l": "LeftShoulder",
         "button_zl": "LeftTrigger",
         "button_sl": "Unbound",
@@ -152,7 +152,7 @@
         "dpad_right": "DpadRight"
       },
       "right_joycon": {
-        "button_plus": "Plus",
+        "button_plus": "Start",
         "button_r": "RightShoulder",
         "button_zr": "RightTrigger",
         "button_sl": "Unbound",
@@ -200,7 +200,7 @@
         "enable_rumble": false
       },
       "left_joycon": {
-        "button_minus": "Minus",
+        "button_minus": "Back",
         "button_l": "LeftShoulder",
         "button_zl": "LeftTrigger",
         "button_sl": "Unbound",
@@ -211,7 +211,7 @@
         "dpad_right": "DpadRight"
       },
       "right_joycon": {
-        "button_plus": "Plus",
+        "button_plus": "Start",
         "button_r": "RightShoulder",
         "button_zr": "RightTrigger",
         "button_sl": "Unbound",
