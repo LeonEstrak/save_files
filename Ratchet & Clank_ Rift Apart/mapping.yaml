@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-08-10T16:53:52.765134200Z"
+    when: "2023-12-27T18:14:54.948964100Z"
     os: windows
     files:
       "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/-userprefs.save":
@@ -14,8 +14,8 @@ backups:
         hash: 6caedb2fa085b336bad91739155cbe22b5e73534
         size: 598552
       "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save":
-        hash: ebf26357410a4227a21cd852933517d75b729f29
-        size: 591848
+        hash: 7fdcf2bb6e0a3f8dbd43104d9f44423640a8ba9a
+        size: 597328
       "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/76561199604718700/slot0-s.save.backup01":
         hash: ebf26357410a4227a21cd852933517d75b729f29
         size: 591848
@@ -47,8 +47,8 @@ backups:
         hash: 67c964db6fbc24b39a59fffee905c80a141c2442
         size: 598088
       "C:/Users/user/Documents/Ratchet & Clank - Rift Apart/Ratchet & Clank - Rift Apart.log":
-        hash: 3ce81b47fe53ab145b8b9edc5447e0931ab88a1a
-        size: 57014
+        hash: e96f9e454cfc752930cf27deb6b7706f190586b9
+        size: 42896
     registry:
-      hash: ~
+      hash: 6b2926fd3d5915d5cce858bf74dc0b3417570455
     children: []

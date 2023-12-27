@@ -1,560 +1,450 @@
-21:45:54:801 (00009476) > [Startup] Ratchet & Clank: Rift Apart
-21:45:54:801 (00009476) > [Startup] ==============
-21:45:54:801 (00009476) > [Startup] 
-21:45:54:801 (00009476) > [Startup] Build: v1.727.0.0
-21:45:54:801 (00009476) > [Startup] Windows 11.0 (build 22621)
-21:45:54:801 (00009476) > [Startup] Distribution platform: Steam
-21:45:54:801 (00009476) > [Startup] Game directory: C:\<username>s\<username>\Documents\Ratchet & Clank - Rift Apart\
-21:45:54:801 (00009476) > [Startup] Working directory: D:\Ratchet & Clank - Rift Apart
-21:45:54:801 (00009476) > [Startup] Run ID: 2B00-F06F-504B-018A
-21:45:54:801 (00009476) > [Startup] 
-21:45:54:801 (00009476) > [Startup] Memory statistics:
-21:45:54:801 (00009476) > [Startup]   Total RAM = 31.8 GB (32580 MB)
-21:45:54:801 (00009476) > [Startup]   Avail RAM = 21.3 GB (21782 MB)
-21:45:54:801 (00009476) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
-21:45:54:801 (00009476) > [Startup]   Avail virtual memory = 131067.7 GB (134213347 MB)
-21:45:54:801 (00009476) > [Startup]   Total page file = 40.8 GB (41796 MB)
-21:45:54:801 (00009476) > [Startup]   Avail page file = 26.4 GB (27012 MB)
-21:45:54:801 (00009476) > [Startup] 
-21:45:54:830 (00009476) > [Steam] Initializing.
-21:45:54:835 (00009476) > [Steam] Successfully initialized.
-21:45:54:836 (00009476) > [Steam] Currently connected to 0 remote sessions
-21:45:54:903 (00009476) > [NxApp] PreInit
-21:45:54:903 (00009476) > [SwapChain] Initializing...
-21:45:54:903 (00009476) > [DXGI] Initializing...
-21:45:54:961 (00009476) > [NxApp] Streamline was successfully initialized.
-21:45:54:961 (00009476) > [DXGI] Successfully initialized.
-21:45:54:961 (00009476) > [Render] Enumerating adapters:
-21:45:54:961 (00009476) > [Render] 	Adapter 0:
-21:45:54:961 (00009476) > [Monitor] 		Description             : AMD Radeon RX 6800 XT
-21:45:54:961 (00009476) > [Monitor] 		Vendor                  : AMD (1002)
-21:45:54:961 (00009476) > [Monitor] 		Device                  : 73bf
-21:45:54:961 (00009476) > [Monitor] 		Sub system              : 439e1da2
-21:45:54:961 (00009476) > [Monitor] 		Revision                : 193
-21:45:54:961 (00009476) > [Monitor] 		Dedicated Video Memory  : 16337 MB
-21:45:54:961 (00009476) > [Monitor] 		Dedicated System Memory : 0000 MB
-21:45:54:961 (00009476) > [Monitor] 		Shared System Memory    : 16290 MB
-21:45:54:961 (00009476) > [Monitor] 
-21:45:54:961 (00009476) > [Render] Loading ADL...
-21:45:54:981 (00009476) > [Render] AGS init succeeded
-21:45:54:981 (00009476) > [Render] AGS Radeon Software Version: 23.7.2
-21:45:54:981 (00009476) > [Render] Done loading ADL and AGS
-21:45:54:981 (00009476) > [Render] 	Adapter 1:
-21:45:54:981 (00009476) > [Monitor] 		Description             : Microsoft Basic Render Driver
-21:45:54:981 (00009476) > [Monitor] 		Vendor                  : Unknown (1414)
-21:45:54:981 (00009476) > [Monitor] 		Device                  : 8c
-21:45:54:981 (00009476) > [Monitor] 		Sub system              : 0
-21:45:54:981 (00009476) > [Monitor] 		Revision                : 0
-21:45:54:981 (00009476) > [Monitor] 		Dedicated Video Memory  : 0000 MB
-21:45:54:981 (00009476) > [Monitor] 		Dedicated System Memory : 0000 MB
-21:45:54:981 (00009476) > [Monitor] 		Shared System Memory    : 16290 MB
-21:45:54:981 (00009476) > [Monitor] 
-21:45:54:981 (00009476) > [Render] 	Adapter 2:
-21:45:54:981 (00009476) > [Monitor] 		Description             : Microsoft Basic Render Driver
-21:45:54:981 (00009476) > [Monitor] 		Vendor                  : Unknown (1414)
-21:45:54:981 (00009476) > [Monitor] 		Device                  : 8c
-21:45:54:981 (00009476) > [Monitor] 		Sub system              : 0
-21:45:54:981 (00009476) > [Monitor] 		Revision                : 0
-21:45:54:981 (00009476) > [Monitor] 		Dedicated Video Memory  : 0000 MB
-21:45:54:981 (00009476) > [Monitor] 		Dedicated System Memory : 0000 MB
-21:45:54:981 (00009476) > [Monitor] 		Shared System Memory    : 16290 MB
-21:45:54:981 (00009476) > [Monitor] 
-21:45:54:981 (00009476) > [Render] Enumerating monitors:
-21:45:54:981 (00009476) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
-21:45:54:981 (00009476) > [Render] 
-21:45:54:982 (00009476) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
-21:45:54:982 (00009476) > [SwapChain] Successfully initialized.
-21:45:54:982 (00009476) > [Render] Enumerating Display Modes:
-21:45:54:984 (00009476) > [Render] Querying ADL for Eyefinity modes
-21:45:54:988 (00009476) > [Render] 	Monitor '1 (AMD Radeon RX 6800 XT(1))' (0000000000010001): rect(0 1920 0 1080)
-21:45:54:988 (00009476) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode  1 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode  2 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode  3 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode  4 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode  5 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode  6 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode  7 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode  8 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode  9 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 10 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 11 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 12 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 13 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 14 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 15 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 16 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 17 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 18 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 19 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 20 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 21 : 1128 x  634 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 22 : 1128 x  634 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 23 : 1128 x  634 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 24 : 1128 x  634 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 25 : 1128 x  634 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 26 : 1128 x  634 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 27 : 1128 x  634 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 28 : 1128 x  634 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 29 : 1128 x  634 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 30 : 1128 x  634 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 31 : 1152 x  870 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 32 : 1152 x  870 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 33 : 1152 x  870 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 34 : 1152 x  870 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 35 : 1152 x  870 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 36 : 1152 x  870 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 37 : 1152 x  870 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 38 : 1152 x  870 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 39 : 1152 x  870 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 40 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 41 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 42 : 1280 x  720 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 43 : 1280 x  720 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 44 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 45 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 46 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 47 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 48 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 49 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 50 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 51 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 52 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 53 : 1280 x  960 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 54 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 55 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 56 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 57 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 58 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 59 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 60 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 61 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 62 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 63 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 64 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 65 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 66 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 67 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 68 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 69 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 70 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 71 : 1366 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 72 : 1366 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 73 : 1366 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 74 : 1366 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 75 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 76 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 77 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 78 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 79 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 80 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 81 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 82 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 83 : 1440 x  900 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 84 : 1440 x  900 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 85 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 86 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 87 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 88 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 89 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 90 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 91 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 92 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 93 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 94 : 1600 x  900 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 95 : 1600 x  900 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 96 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 97 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 98 : 1600 x  900 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 99 : 1600 x  900 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 100 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 101 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 102 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 103 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 104 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 105 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 106 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 107 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 108 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 109 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 110 : 1680 x 1050 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 111 : 1680 x 1050 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 112 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 113 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 114 : 1680 x 1050 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 115 : 1680 x 1050 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 116 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 117 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 118 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 119 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 120 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 121 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 122 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 123 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 124 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 125 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 126 : 1760 x  990 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 127 : 1760 x  990 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 128 : 1760 x  990 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 129 : 1760 x  990 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 130 : 1760 x  990 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 131 : 1760 x  990 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 132 : 1760 x  990 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 133 : 1760 x  990 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 134 : 1760 x  990 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 135 : 1760 x  990 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 136 : 1760 x  990 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 137 : 1760 x  990 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 138 : 1760 x  990 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 139 : 1760 x  990 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 140 : 1760 x  990 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 141 : 1760 x  990 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 142 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 143 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 144 : 1920 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 145 : 1920 x 1080 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 146 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 147 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 148 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] 		- Mode 149 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:45:54:988 (00009476) > [Render] ***** Additional Monitor Output Info *****
-21:45:54:988 (00009476) > [Render] 		BitsPerColor: 10
-21:45:54:988 (00009476) > [Render] 		Primaries: R=0.6484;0.3398  G=0.3047;0.6357  B=0.1484;0.0537  White-Point=0.3125;0.3291
-21:45:54:988 (00009476) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
-21:45:54:988 (00009476) > [Render] 		Luminance: Min=0.0984 Max=400.0000 MaxFullFrame=343.0000
-21:45:54:988 (00009476) > [Render] ******************************************
-21:45:54:988 (00009476) > [Render] 
-21:45:55:205 (00009476) > [NxApp] RAY TRACING ENABLED: Ray Tracing Tier 1.1 support detected
-21:45:55:220 (00009476) > [NxApp] Querying GPU Driver Info...
-21:45:55:220 (00009476) > [NxApp] Enumerating available display adapters:
-21:45:55:237 (00009476) > [NxApp] 		AMD Radeon RX 6800 XT (active)
-21:45:55:237 (00009476) > [NxApp] Successfully found GPU Driver Info
-21:45:55:241 (00009476) > [D3D] Max supported feature level: 11.0
-21:45:55:241 (00009476) > [Render] Disabled D3D12 experimentals
-21:45:55:428 (00009476) > [Render] VMEM Budget: 15569 MB
-21:45:55:428 (00009476) > [Render] VMEM Avaialbe: 15568 MB
-21:45:55:430 (00009476) > [Render] GPU node count: 1
-21:45:55:436 (00009476) > [NxApp] RAY TRACING DISABLED: Ray tracing currently is not supported on AMD
-21:45:55:436 (00009476) > [NxApp] PreInit successful.
-21:45:55:479 (00009476) > [NxUpscaler] XeSS init, code = 0
-21:45:55:483 (00009476) > [Reflex] Not supported.
-21:45:55:484 (00009476) > [NxApp] Driver Desc: AMD Radeon RX 6800 XT
-21:45:55:484 (00009476) > [NxApp] Driver Version: 23.7.2
-21:45:55:484 (00009476) > [**************************************************Display + Graphics Settings**************************************************] 
-21:45:55:484 (00009476) > [Settings] DirectX Version: 12
-21:45:55:484 (00009476) > [Settings] Window mode: Fullscreen
-21:45:55:484 (00009476) > [Settings] Fullscreen display mode:
-21:45:55:484 (00009476) > [Settings] 	Displaying on monitor: 0
-21:45:55:484 (00009476) > [Settings] 	Resolution: 1920x1080
-21:45:55:484 (00009476) > [Settings] 	HDR: Off
-21:45:55:484 (00009476) > [Settings] 	OS reported Refresh rate: 120
-21:45:55:484 (00009476) > [Settings] 	VSync: On
-21:45:55:484 (00009476) > [Settings] 	Reflex: Off
-21:45:55:484 (00009476) > [Settings] 	DLSSG: False
-21:45:55:484 (00009476) > [Settings] 	Resolution modifier 1.000000
-21:45:55:484 (00009476) > [Settings] 	Dynamic resolution FPS target: 60
-21:45:55:484 (00009476) > [Settings] Anti aliasing: TAA
+23:43:24:540 (00043676) > [Startup] Ratchet & Clank: Rift Apart
+23:43:24:540 (00043676) > [Startup] ==============
+23:43:24:540 (00043676) > [Startup] 
+23:43:24:540 (00043676) > [Startup] Build: v1.727.0.0
+23:43:24:540 (00043676) > [Startup] Windows 11.0 (build 22621)
+23:43:24:540 (00043676) > [Startup] Distribution platform: Steam
+23:43:24:540 (00043676) > [Startup] Game directory: C:\<username>s\<username>\Documents\Ratchet & Clank - Rift Apart\
+23:43:24:540 (00043676) > [Startup] Working directory: D:\Ratchet & Clank - Rift Apart
+23:43:24:540 (00043676) > [Startup] Run ID: C380-61D2-D3A7-72A1
+23:43:24:540 (00043676) > [Startup] 
+23:43:24:540 (00043676) > [Startup] Memory statistics:
+23:43:24:540 (00043676) > [Startup]   Total RAM = 31.8 GB (32580 MB)
+23:43:24:540 (00043676) > [Startup]   Avail RAM = 24.0 GB (24626 MB)
+23:43:24:540 (00043676) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+23:43:24:540 (00043676) > [Startup]   Avail virtual memory = 131067.7 GB (134213347 MB)
+23:43:24:540 (00043676) > [Startup]   Total page file = 58.3 GB (59716 MB)
+23:43:24:540 (00043676) > [Startup]   Avail page file = 41.8 GB (42812 MB)
+23:43:24:540 (00043676) > [Startup] 
+23:43:24:559 (00043676) > [Steam] Initializing.
+23:43:24:565 (00043676) > [Steam] Successfully initialized.
+23:43:24:565 (00043676) > [Steam] Currently connected to 0 remote sessions
+23:43:24:630 (00043676) > [NxApp] PreInit
+23:43:24:630 (00043676) > [SwapChain] Initializing...
+23:43:24:630 (00043676) > [DXGI] Initializing...
+23:43:24:692 (00043676) > [NxApp] Streamline was successfully initialized.
+23:43:24:693 (00043676) > [DXGI] Successfully initialized.
+23:43:24:693 (00043676) > [Render] Enumerating adapters:
+23:43:24:693 (00043676) > [Render] 	Adapter 0:
+23:43:24:693 (00043676) > [Monitor] 		Description             : AMD Radeon RX 6800 XT
+23:43:24:693 (00043676) > [Monitor] 		Vendor                  : AMD (1002)
+23:43:24:693 (00043676) > [Monitor] 		Device                  : 73bf
+23:43:24:693 (00043676) > [Monitor] 		Sub system              : 439e1da2
+23:43:24:693 (00043676) > [Monitor] 		Revision                : 193
+23:43:24:693 (00043676) > [Monitor] 		Dedicated Video Memory  : 16337 MB
+23:43:24:693 (00043676) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:43:24:693 (00043676) > [Monitor] 		Shared System Memory    : 16290 MB
+23:43:24:693 (00043676) > [Monitor] 
+23:43:24:693 (00043676) > [Render] Loading ADL...
+23:43:24:849 (00043676) > [Render] AGS init succeeded
+23:43:24:849 (00043676) > [Render] AGS Radeon Software Version: 23.9.2
+23:43:24:849 (00043676) > [Render] Done loading ADL and AGS
+23:43:24:849 (00043676) > [Render] 	Adapter 1:
+23:43:24:849 (00043676) > [Monitor] 		Description             : Microsoft Basic Render Driver
+23:43:24:849 (00043676) > [Monitor] 		Vendor                  : Unknown (1414)
+23:43:24:849 (00043676) > [Monitor] 		Device                  : 8c
+23:43:24:849 (00043676) > [Monitor] 		Sub system              : 0
+23:43:24:849 (00043676) > [Monitor] 		Revision                : 0
+23:43:24:849 (00043676) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+23:43:24:849 (00043676) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:43:24:849 (00043676) > [Monitor] 		Shared System Memory    : 16290 MB
+23:43:24:849 (00043676) > [Monitor] 
+23:43:24:849 (00043676) > [Render] Enumerating monitors:
+23:43:24:849 (00043676) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+23:43:24:849 (00043676) > [Render] 
+23:43:24:849 (00043676) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+23:43:24:849 (00043676) > [SwapChain] Successfully initialized.
+23:43:24:849 (00043676) > [Render] Enumerating Display Modes:
+23:43:24:851 (00043676) > [Render] Querying ADL for Eyefinity modes
+23:43:24:854 (00043676) > [Render] 	Monitor '1 (AMD Radeon RX 6800 XT(1))' (0000000000010001): rect(0 1920 0 1080)
+23:43:24:854 (00043676) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode  1 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode  2 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode  3 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode  4 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode  5 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode  6 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode  7 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode  8 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode  9 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 10 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 11 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 12 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 13 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 14 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 15 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 16 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 17 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 18 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 19 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 20 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 21 : 1128 x  634 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 22 : 1128 x  634 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 23 : 1128 x  634 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 24 : 1128 x  634 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 25 : 1128 x  634 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 26 : 1128 x  634 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 27 : 1128 x  634 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 28 : 1128 x  634 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 29 : 1128 x  634 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 30 : 1128 x  634 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 31 : 1152 x  870 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 32 : 1152 x  870 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 33 : 1152 x  870 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 34 : 1152 x  870 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 35 : 1152 x  870 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 36 : 1152 x  870 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 37 : 1152 x  870 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 38 : 1152 x  870 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 39 : 1152 x  870 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 40 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 41 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 42 : 1280 x  720 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 43 : 1280 x  720 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 44 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 45 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 46 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 47 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 48 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 49 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 50 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 51 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 52 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 53 : 1280 x  960 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 54 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 55 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 56 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 57 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 58 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 59 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 60 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 61 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 62 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 63 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 64 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 65 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 66 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 67 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 68 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 69 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 70 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 71 : 1366 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 72 : 1366 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 73 : 1366 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 74 : 1366 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 75 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 76 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 77 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 78 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 79 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 80 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 81 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 82 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 83 : 1440 x  900 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 84 : 1440 x  900 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 85 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 86 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 87 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 88 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 89 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 90 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 91 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 92 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 93 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 94 : 1600 x  900 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 95 : 1600 x  900 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 96 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 97 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 98 : 1600 x  900 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 99 : 1600 x  900 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 100 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 101 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 102 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 103 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 104 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 105 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 106 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 107 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 108 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 109 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 110 : 1680 x 1050 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 111 : 1680 x 1050 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 112 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 113 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 114 : 1680 x 1050 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 115 : 1680 x 1050 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 116 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 117 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 118 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 119 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 120 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 121 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 122 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 123 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 124 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 125 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 126 : 1760 x  990 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 127 : 1760 x  990 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 128 : 1760 x  990 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 129 : 1760 x  990 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 130 : 1760 x  990 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 131 : 1760 x  990 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 132 : 1760 x  990 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 133 : 1760 x  990 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 134 : 1760 x  990 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 135 : 1760 x  990 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 136 : 1760 x  990 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 137 : 1760 x  990 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 138 : 1760 x  990 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 139 : 1760 x  990 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 140 : 1760 x  990 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 141 : 1760 x  990 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 142 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 143 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 144 : 1920 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 145 : 1920 x 1080 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 146 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 147 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 148 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] 		- Mode 149 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:43:24:854 (00043676) > [Render] ***** Additional Monitor Output Info *****
+23:43:24:854 (00043676) > [Render] 		BitsPerColor: 10
+23:43:24:854 (00043676) > [Render] 		Primaries: R=0.6484;0.3398  G=0.3047;0.6357  B=0.1484;0.0537  White-Point=0.3125;0.3291
+23:43:24:854 (00043676) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+23:43:24:854 (00043676) > [Render] 		Luminance: Min=0.0984 Max=400.0000 MaxFullFrame=343.0000
+23:43:24:854 (00043676) > [Render] ******************************************
+23:43:24:854 (00043676) > [Render] 
+23:43:25:104 (00043676) > [NxApp] RAY TRACING ENABLED: Ray Tracing Tier 1.1 support detected
+23:43:25:119 (00043676) > [NxApp] Querying GPU Driver Info...
+23:43:25:120 (00043676) > [NxApp] Enumerating available display adapters:
+23:43:25:189 (00043676) > [NxApp] 		AMD Radeon RX 6800 XT (active)
+23:43:25:189 (00043676) > [NxApp] Successfully found GPU Driver Info
+23:43:25:190 (00043676) > [D3D] Max supported feature level: 11.0
+23:43:25:190 (00043676) > [Render] Disabled D3D12 experimentals
+23:43:25:220 (00043676) > [Render] VMEM Budget: 15569 MB
+23:43:25:220 (00043676) > [Render] VMEM Avaialbe: 15568 MB
+23:43:25:222 (00043676) > [Render] GPU node count: 1
+23:43:25:228 (00043676) > [NxApp] RAY TRACING DISABLED: Ray tracing currently is not supported on AMD
+23:43:25:228 (00043676) > [NxApp] PreInit successful.
+23:43:25:255 (00043676) > [NxUpscaler] XeSS init, code = 0
+23:43:25:257 (00043676) > [Reflex] Not supported.
+23:43:25:258 (00043676) > [NxApp] Driver Desc: AMD Radeon RX 6800 XT
+23:43:25:258 (00043676) > [NxApp] Driver Version: 23.9.2
+23:43:25:258 (00043676) > [**************************************************Display + Graphics Settings**************************************************] 
+23:43:25:258 (00043676) > [Settings] DirectX Version: 12
+23:43:25:258 (00043676) > [Settings] Window mode: Fullscreen
+23:43:25:258 (00043676) > [Settings] Fullscreen display mode:
+23:43:25:258 (00043676) > [Settings] 	Displaying on monitor: 0
+23:43:25:258 (00043676) > [Settings] 	Resolution: 1920x1080
+23:43:25:258 (00043676) > [Settings] 	HDR: Off
+23:43:25:258 (00043676) > [Settings] 	OS reported Refresh rate: 120
+23:43:25:258 (00043676) > [Settings] 	VSync: On
+23:43:25:258 (00043676) > [Settings] 	Reflex: Off
+23:43:25:258 (00043676) > [Settings] 	DLSSG: False
+23:43:25:258 (00043676) > [Settings] 	Resolution modifier 1.000000
+23:43:25:258 (00043676) > [Settings] 	Dynamic resolution FPS target: 60
+23:43:25:258 (00043676) > [Settings] Anti aliasing: TAA
 
-21:45:55:484 (00009476) > [Settings] Upscale method: None
+23:43:25:258 (00043676) > [Settings] Upscale method: None
 
-21:45:55:484 (00009476) > [Settings] Upscale quality: Quality
+23:43:25:258 (00043676) > [Settings] Upscale quality: Quality
 
-21:45:55:484 (00009476) > [Settings] Upscale sharpen value: 0.000000
+23:43:25:258 (00043676) > [Settings] Upscale sharpen value: 0.000000
 
-21:45:55:484 (00009476) > [Settings] Graphics Options:
-21:45:55:484 (00009476) > [Settings] 	RT Reflections: Off
-21:45:55:484 (00009476) > [Settings] 	RT Shadows: Off
-21:45:55:484 (00009476) > [Settings] 	RT Ambient Occlusion: Off
-21:45:55:484 (00009476) > [Settings] 	Texture Quality: High
-21:45:55:484 (00009476) > [Settings] 	Texture Filtering: Anisotropic4x
-21:45:55:484 (00009476) > [Settings] 	Shadow Quality: High
-21:45:55:484 (00009476) > [Settings] 	Depth of Field: High
-21:45:55:484 (00009476) > [Settings] 	Level of Detail: High
-21:45:55:484 (00009476) > [Settings] 	Vehicle Detail: High
-21:45:55:484 (00009476) > [Settings] 	Hair Quality: High
-21:45:55:484 (00009476) > [Settings] 	Ambient Occlusion: SSAO
-21:45:55:484 (00009476) > [Settings] 	Screen Space Reflections: Performance
-21:45:55:484 (00009476) > [Settings] 	Particle Lighting: High
+23:43:25:258 (00043676) > [Settings] Graphics Options:
+23:43:25:258 (00043676) > [Settings] 	RT Reflections: Off
+23:43:25:258 (00043676) > [Settings] 	RT Shadows: Off
+23:43:25:258 (00043676) > [Settings] 	RT Ambient Occlusion: Off
+23:43:25:258 (00043676) > [Settings] 	Texture Quality: High
+23:43:25:258 (00043676) > [Settings] 	Texture Filtering: Anisotropic4x
+23:43:25:258 (00043676) > [Settings] 	Shadow Quality: High
+23:43:25:258 (00043676) > [Settings] 	Depth of Field: High
+23:43:25:258 (00043676) > [Settings] 	Level of Detail: High
+23:43:25:258 (00043676) > [Settings] 	Vehicle Detail: High
+23:43:25:258 (00043676) > [Settings] 	Hair Quality: High
+23:43:25:258 (00043676) > [Settings] 	Ambient Occlusion: SSAO
+23:43:25:258 (00043676) > [Settings] 	Screen Space Reflections: Performance
+23:43:25:258 (00043676) > [Settings] 	Particle Lighting: High
 
-21:45:55:484 (00009476) > [Settings] 	Bloom: On
-21:45:55:484 (00009476) > [Settings] 	Vignette: On
-21:45:55:484 (00009476) > [Settings] 	Chromatic Aberration: On
-21:45:55:484 (00009476) > [Settings] 	Motion Blur: 1.000000
-21:45:55:484 (00009476) > [Settings] 	FOV Correction: 1.180000
-21:45:55:484 (00009476) > [Settings] 	Film Grain Strength: 1.000000
-21:45:55:484 (00009476) > [Settings] 	Sharpness: 1.000000
-21:45:55:484 (00009476) > [Settings] 	Lens Flares: On
-21:45:55:484 (00009476) > [Settings] 	Screen Effects: On
-21:45:55:484 (00009476) > [Settings] 	Screen Shake: On
-21:45:55:484 (00009476) > [Settings] 	Phantom Dash Effect: On
-21:45:55:484 (00009476) > [**************************************************Display + Graphics Settings**************************************************] 
-21:45:55:484 (00009476) > [NxApp] Creating window...
-21:45:55:486 (00023276) > [GameWindow] UpdateState bVisible true
-21:45:55:501 (00023276) > [Input] Keyboard language: "English (India)" (id: 16393)
-21:45:55:501 (00023276) > [Input] Keyboard physical layout: "India" (id: 00004009)
-21:45:55:501 (00023276) > [Input] Joystick            "Controller (Xbox One For Windows)"   product 767 vendor 1118 version 0 usage 5 usagePage 1 xinput yes
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 1321 vendor 5426 version 17 usage 5 usagePage 11 xinput no
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 64112 vendor 9639 version 768 usage 0 usagePage 65281 xinput no
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 131 vendor 5426 version 256 usage 0 usagePage 1 xinput no
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 131 vendor 5426 version 256 usage 0 usagePage 1 xinput no
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 131 vendor 5426 version 257 usage 1 usagePage 12 xinput no
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 1321 vendor 5426 version 17 usage 1 usagePage 12 xinput no
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 131 vendor 5426 version 256 usage 0 usagePage 1 xinput no
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 131 vendor 5426 version 256 usage 0 usagePage 1 xinput no
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 64112 vendor 9639 version 768 usage 1 usagePage 12 xinput no
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 6575 vendor 2821 version 256 usage 161 usagePage 65394 xinput no
-21:45:55:501 (00023276) > [Input] Joystick            ""   product 131 vendor 5426 version 256 usage 1 usagePage 12 xinput no
-21:45:55:502 (00023276) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
-21:45:55:502 (00023276) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 6 sampleRate 0 horizontalWheel no
-21:45:55:502 (00023276) > [Input] Mouse               "Razer Basilisk X HyperSpeed"   id 256 buttons 5 sampleRate 0 horizontalWheel no
-21:45:55:502 (00023276) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
-21:45:55:502 (00023276) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
-21:45:55:502 (00023276) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
-21:45:55:503 (00023276) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
-21:45:55:503 (00023276) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
-21:45:55:503 (00023276) > [Input] Keyboard            "Razer Basilisk X HyperSpeed"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
-21:45:55:508 (00023276) > [Input] Using LibScePad
-21:45:55:510 (00023276) > [Input] Gamepads connected: 0 -> 1
-21:45:55:510 (00023276) > [Input] Gamepad for main player: 8
-21:45:55:511 (00023276) > [XInput] Enumerating available xusb hid devices:
+23:43:25:258 (00043676) > [Settings] 	Bloom: On
+23:43:25:258 (00043676) > [Settings] 	Vignette: On
+23:43:25:258 (00043676) > [Settings] 	Chromatic Aberration: On
+23:43:25:258 (00043676) > [Settings] 	Motion Blur: 1.000000
+23:43:25:258 (00043676) > [Settings] 	FOV Correction: 1.180000
+23:43:25:258 (00043676) > [Settings] 	Film Grain Strength: 1.000000
+23:43:25:258 (00043676) > [Settings] 	Sharpness: 1.000000
+23:43:25:258 (00043676) > [Settings] 	Lens Flares: On
+23:43:25:258 (00043676) > [Settings] 	Screen Effects: On
+23:43:25:258 (00043676) > [Settings] 	Screen Shake: On
+23:43:25:258 (00043676) > [Settings] 	Phantom Dash Effect: On
+23:43:25:258 (00043676) > [**************************************************Display + Graphics Settings**************************************************] 
+23:43:25:258 (00043676) > [NxApp] Creating window...
+23:43:25:260 (00016064) > [GameWindow] UpdateState bVisible true
+23:43:25:279 (00016064) > [Input] Keyboard language: "English (India)" (id: 16393)
+23:43:25:279 (00016064) > [Input] Keyboard physical layout: "India" (id: 00004009)
+23:43:25:280 (00016064) > [Input] Joystick            ""   product 1321 vendor 5426 version 17 usage 5 usagePage 11 xinput no
+23:43:25:280 (00016064) > [Input] Joystick            ""   product 1321 vendor 5426 version 17 usage 1 usagePage 12 xinput no
+23:43:25:280 (00016064) > [Input] Joystick            ""   product 64112 vendor 9639 version 768 usage 1 usagePage 12 xinput no
+23:43:25:280 (00016064) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+23:43:25:280 (00016064) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+23:43:25:280 (00016064) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+23:43:25:280 (00016064) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+23:43:25:280 (00016064) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+23:43:25:282 (00016064) > [Input] Joystick            ""   product 64112 vendor 9639 version 768 usage 0 usagePage 65281 xinput no
+23:43:25:282 (00016064) > [Input] Joystick            ""   product 131 vendor 5426 version 257 usage 1 usagePage 12 xinput no
+23:43:25:282 (00016064) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+23:43:25:282 (00016064) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 6 sampleRate 0 horizontalWheel no
+23:43:25:282 (00016064) > [Input] Keyboard            "Razer Basilisk X HyperSpeed"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+23:43:25:282 (00016064) > [Input] Mouse               "Razer Basilisk X HyperSpeed"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+23:43:25:282 (00016064) > [Input] Joystick            ""   product 131 vendor 5426 version 256 usage 0 usagePage 1 xinput no
+23:43:25:282 (00016064) > [Input] Joystick            ""   product 131 vendor 5426 version 256 usage 0 usagePage 1 xinput no
+23:43:25:282 (00016064) > [Input] Joystick            ""   product 131 vendor 5426 version 256 usage 0 usagePage 1 xinput no
+23:43:25:282 (00016064) > [Input] Joystick            ""   product 131 vendor 5426 version 256 usage 0 usagePage 1 xinput no
+23:43:25:282 (00016064) > [Input] Joystick            ""   product 131 vendor 5426 version 256 usage 1 usagePage 12 xinput no
+23:43:25:282 (00016064) > [Input] Joystick            ""   product 6575 vendor 2821 version 256 usage 161 usagePage 65394 xinput no
+23:43:25:305 (00016064) > [Input] Using LibScePad
+23:43:25:307 (00016064) > [XInput] Enumerating available xusb hid devices:
 
-21:45:55:519 (00023276) > [Xinput] Found device: {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}(USB\VID_045E&PID_02FF&IG_00),USB Input Device 
-	USB\VID_045E&PID_02FF&IG_00\00&00&000076FDD234E791
+23:43:25:329 (00043676) > [NxApp] Window created.
+23:43:25:329 (00043676) > [NxApp] Initializing swapchain...
+23:43:25:329 (00004412) > [SwapChain] Creating...
+23:43:25:329 (00004412) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+23:43:25:337 (00004412) > [DXGI] Created swapchain.
+23:43:25:411 (00004412) > [SwapChain] Gamma correction is enabled.
+23:43:25:411 (00004412) > [SwapChain] Successfully created.
+23:43:25:411 (00004412) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+23:43:25:411 (00043676) > [NxApp] Swapchain initialized
+23:43:25:411 (00043676) > [NxApp] Initializing renderer...
+23:43:25:411 (00043676) > [NxApp] Renderer initialized
+23:43:25:411 (00043676) > [NxProcessorInfo] Processor info:
+23:43:25:411 (00043676) > [NxProcessorInfo] 	Description:             	13th Gen Intel(R) Core(TM) i5-13600KF
+23:43:25:411 (00043676) > [NxProcessorInfo] 	Physical Core Count:     	14
+23:43:25:411 (00043676) > [NxProcessorInfo] 		Performance Core Count:   6
+23:43:25:411 (00043676) > [NxProcessorInfo] 		Efficiency  Core Count:   8
+23:43:25:411 (00043676) > [NxProcessorInfo] 	Logical  Core Count:     	20
+23:43:25:411 (00043676) > [NxProcessorInfo] 	Distinct L3 Cache Count: 	1
+23:43:25:411 (00043676) > [NxProcessorInfo] Custom affinity 0 selected.
+23:43:25:411 (00043676) > [NxStorage] Detected device at 'D:\Ratchet & Clank - Rift Apart', name 'WD Blue SN570 1TB', SSD: Yes, NVMe: Yes
+23:43:25:411 (00043676) > [NxStorage] Graphics device supports GPU decompression
+23:43:27:701 (00043676) > [NxStorage] DirectStorage initialization succeeded
+23:43:27:931 (00043676) > [Render] File cache.pso contains 71677 pipelines and 0 duplicates
+23:43:27:934 (00043676) > [Render] File C:\<username>s\<username>\AppData\Roaming\Insomniac Games\Ratchet & Clank - Rift Apart\\cache.pso contains 49 pipelines and 0 duplicates
+23:43:27:934 (00043676) > [Render] Support for Shader Model 6.6: Yes
+23:43:27:934 (00043676) > [Render] Is UMA: No Is Cache Coherent: No
+23:43:27:934 (00043676) > [Render] Using Cpu Buffer Optimize: No
+23:43:28:166 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:28:168 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:28:427 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:28:866 (00016064) > [Input] new Windows.Gaming.Input raw-controller found 57e 2009 {wgi/nrid/CPR84b-:bD?U\-WNigk10d-n1?-0M^JC^-M91-} HID-compliant game controller
 
-21:45:55:521 (00009476) > [NxApp] Window created.
-21:45:55:521 (00009476) > [NxApp] Initializing swapchain...
-21:45:55:521 (00024324) > [SwapChain] Creating...
-21:45:55:521 (00024324) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
-21:45:55:529 (00024324) > [DXGI] Created swapchain.
-21:45:55:554 (00024324) > [SwapChain] Gamma correction is enabled.
-21:45:55:554 (00024324) > [SwapChain] Successfully created.
-21:45:55:554 (00024324) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
-21:45:55:554 (00009476) > [NxApp] Swapchain initialized
-21:45:55:554 (00009476) > [NxApp] Initializing renderer...
-21:45:55:554 (00009476) > [NxApp] Renderer initialized
-21:45:55:554 (00009476) > [NxProcessorInfo] Processor info:
-21:45:55:554 (00009476) > [NxProcessorInfo] 	Description:             	13th Gen Intel(R) Core(TM) i5-13600KF
-21:45:55:554 (00009476) > [NxProcessorInfo] 	Physical Core Count:     	14
-21:45:55:554 (00009476) > [NxProcessorInfo] 		Performance Core Count:   6
-21:45:55:554 (00009476) > [NxProcessorInfo] 		Efficiency  Core Count:   8
-21:45:55:554 (00009476) > [NxProcessorInfo] 	Logical  Core Count:     	20
-21:45:55:554 (00009476) > [NxProcessorInfo] 	Distinct L3 Cache Count: 	1
-21:45:55:554 (00009476) > [NxProcessorInfo] Custom affinity 0 selected.
-21:45:55:554 (00009476) > [NxStorage] Detected device at 'D:\Ratchet & Clank - Rift Apart', name 'WD Blue SN570 1TB', SSD: Yes, NVMe: Yes
-21:45:55:554 (00009476) > [NxStorage] Graphics device supports GPU decompression
-21:45:55:594 (00009476) > [NxStorage] DirectStorage initialization succeeded
-21:45:55:602 (00023276) > [Input] new Windows.Gaming.Input raw-controller found 20d6 4002 {wgi/nrid/355e0WAG-]Y`V-Zaa1-C`o;AoT^-OSCIO-HN2-} Xbox One Game Controller
+23:43:30:099 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:30:405 (00043676) > [Input] Windows.Gaming.Input controller connected. index: 0
+23:43:30:405 (00043676) > [Input] Gamepads connected: 0 -> 1
+23:43:30:405 (00043676) > [Input] Gamepad for main player: 0
+23:43:30:411 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:43:30:605 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:30:672 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:30:673 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:30:943 (00016064) > [Input] removed Windows.Gaming.Input raw-controller 57e 2009 {wgi/nrid/CPR84b-:bD?U\-WNigk10d-n1?-0M^JC^-M91-} HID-compliant game controller
 
-21:45:55:852 (00009476) > [Render] File cache.pso contains 71677 pipelines and 0 duplicates
-21:45:55:855 (00009476) > [Render] File C:\<username>s\<username>\AppData\Roaming\Insomniac Games\Ratchet & Clank - Rift Apart\\cache.pso contains 33 pipelines and 0 duplicates
-21:45:55:855 (00009476) > [Render] Support for Shader Model 6.6: Yes
-21:45:55:855 (00009476) > [Render] Is UMA: No Is Cache Coherent: No
-21:45:55:855 (00009476) > [Render] Using Cpu Buffer Optimize: No
-21:45:56:094 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:56:152 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:56:163 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:56:472 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:56:474 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:56:474 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:56:474 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:57:443 (00019868) > [Save] Request type 3 failed with code 0x00000002
-21:45:57:472 (00019868) > [Save] Request type 3 failed with code 0x00000002
-21:45:58:608 (00009476) > [Input] Windows.Gaming.Input controller connected. index: 0
-21:45:58:609 (00009476) > [Input] Gamepads connected: 1 -> 2
-21:45:58:609 (00009476) > [Input] Gamepad for main player: 0
-21:45:58:620 (00000376) > [Audio] Device (re)initialized 0x9b2b40fa 'Speakers (THX Spatial Audio)'
-21:45:58:630 (00009476) > [Input] XInput disabled, disconnecting controller. index: 0
-21:45:58:630 (00009476) > [Input] Gamepads connected: 2 -> 1
-21:45:58:630 (00009476) > [Input] Gamepad for main player: 0
-21:45:58:695 (00024328) > [PSN] AuthenticationRequest: 400
-21:45:58:712 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:58:734 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:58:903 (00022568) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:58:924 (00000452) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:59:333 (00000452) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:45:59:379 (00003532) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:00:786 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:00:829 (00000452) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:00:838 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:01:996 (00009476) > [Save] Request load save type 0, control 128, target -1
-21:46:01:996 (00019868) > [Save] Request type 3 failed with code 0x00000002
-21:46:02:004 (00009476) > [Save] Request load save type 0, control 128, target -1
-21:46:02:013 (00019868) > [Save] Request type 3 failed with code 0x00000002
-21:46:02:020 (00009476) > [Save] Request load save type 0, control 128, target -1
-21:46:02:029 (00019868) > [Save] Request type 3 failed with code 0x00000002
-21:46:02:037 (00009476) > [Save] Request load save type 0, control 128, target -1
-21:46:02:045 (00019868) > [Save] Request type 3 failed with code 0x00000002
-21:46:02:054 (00009476) > [Save] Request load save type 0, control 128, target -1
-21:46:02:062 (00019868) > [Save] Request type 3 failed with code 0x00000002
-21:46:02:070 (00009476) > [Save] Request load save type 0, control 128, target -1
-21:46:02:079 (00019868) > [Save] Request type 3 failed with code 0x00000002
-21:46:02:087 (00009476) > [Save] Request load save type 0, control 128, target -1
-21:46:02:095 (00019868) > [Save] Request type 3 failed with code 0x00000002
-21:46:02:103 (00009476) > [Save] Request load save type 0, control 128, target -1
-21:46:22:130 (00009476) > [Sound] Changing sound listening mode: 3
-21:46:22:376 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:23:254 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:23:256 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:23:256 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:23:256 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:23:256 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:23:259 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:23:261 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:23:262 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:23:262 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:23:998 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:24:004 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:25:385 (00009476) > [Save] Request save type 0, control 512
-21:46:32:830 (00009476) > [Save] Request load save type 0, control 128, target -1
-21:46:34:152 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:34:157 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-21:46:35:176 (00009476) > [Save] Request save type 0, control 512
-21:46:35:177 (00009476) > [Save] Request save type 0, control 512
-21:46:35:181 (00009476) > [Save] Request save type 0, control 512
-21:46:35:181 (00009476) > [Save] Request save type 0, control 512
-21:46:35:181 (00009476) > [Save] Request save type 0, control 512
-21:46:35:187 (00009476) > [Save] Request save type 0, control 512
-21:46:55:437 (00009476) > [Save] Request save type 0, control 0
-21:46:55:437 (00009476) > [Save] Request save type 0, control 0
-21:46:57:436 (00016600) > [Render] Working set: 6081MB Page file: 18570MB Video Budget: 15569MB Video Usage: 9177MB Sys Budget: 15522MB Sys Usage: 766MB Tex Usage: 2182MB Tex Budget: 2607MB BVH heaps: 160MB BVH size: 129MB Demoted: 0MB fps: 116.850006
-21:47:57:434 (00016600) > [Render] Working set: 6093MB Page file: 18339MB Video Budget: 15569MB Video Usage: 8976MB Sys Budget: 15522MB Sys Usage: 760MB Tex Usage: 2172MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 120MB Demoted: 0MB fps: 118.700005
-21:48:57:439 (00016600) > [Render] Working set: 6093MB Page file: 18343MB Video Budget: 15569MB Video Usage: 8972MB Sys Budget: 15522MB Sys Usage: 760MB Tex Usage: 2170MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 120MB Demoted: 0MB fps: 119.900009
-21:49:33:042 (00009476) > [Save] Request save type 0, control 0
-21:49:33:042 (00009476) > [Save] Request save type 0, control 256
-21:49:33:042 (00009476) > [Save] Request save type 0, control 0
-21:49:33:147 (00009476) > [Save] Request save type 0, control 512
-21:49:33:156 (00009476) > [Save] Request save type 0, control 512
-21:49:33:157 (00009476) > [Save] Request save type 0, control 768
-21:49:37:679 (00009476) > [Save] Request save type 0, control 512
-21:49:37:679 (00009476) > [Save] Request save type 0, control 512
-21:49:57:435 (00016600) > [Render] Working set: 6998MB Page file: 19019MB Video Budget: 15569MB Video Usage: 9492MB Sys Budget: 15522MB Sys Usage: 761MB Tex Usage: 1959MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 100MB Demoted: 0MB fps: 113.650009
-21:49:59:922 (00009476) > [Save] Request save type 0, control 0
-21:49:59:922 (00009476) > [Save] Request save type 0, control 0
-21:50:10:607 (00009476) > [Save] Request save type 0, control 0
-21:50:15:470 (00009476) > [Save] Request save type 0, control 0
-21:50:30:253 (00009476) > [Save] Request save type 0, control 0
-21:50:30:253 (00009476) > [Save] Request save type 0, control 0
-21:50:57:438 (00016600) > [Render] Working set: 7112MB Page file: 19106MB Video Budget: 15569MB Video Usage: 9504MB Sys Budget: 15522MB Sys Usage: 798MB Tex Usage: 1960MB Tex Budget: 2607MB BVH heaps: 120MB BVH size: 101MB Demoted: 0MB fps: 106.866669
-21:51:39:585 (00009476) > [Save] Request save type 0, control 0
-21:51:39:585 (00009476) > [Save] Request save type 0, control 0
-21:51:57:433 (00016600) > [Render] Working set: 7088MB Page file: 19089MB Video Budget: 15569MB Video Usage: 9491MB Sys Budget: 15522MB Sys Usage: 798MB Tex Usage: 1961MB Tex Budget: 2607MB BVH heaps: 120MB BVH size: 104MB Demoted: 0MB fps: 109.366669
-21:52:57:432 (00016600) > [Render] Working set: 7107MB Page file: 19113MB Video Budget: 15569MB Video Usage: 9517MB Sys Budget: 15522MB Sys Usage: 798MB Tex Usage: 1961MB Tex Budget: 2607MB BVH heaps: 120MB BVH size: 103MB Demoted: 0MB fps: 114.066673
-21:53:57:437 (00016600) > [Render] Working set: 7108MB Page file: 19106MB Video Budget: 15569MB Video Usage: 9502MB Sys Budget: 15522MB Sys Usage: 799MB Tex Usage: 1962MB Tex Budget: 2607MB BVH heaps: 120MB BVH size: 104MB Demoted: 0MB fps: 109.583336
-21:54:41:464 (00009476) > [Save] Request save type 0, control 0
-21:54:41:464 (00009476) > [Save] Request save type 0, control 256
-21:54:41:474 (00009476) > [Save] Request save type 0, control 0
-21:54:57:437 (00016600) > [Render] Working set: 7121MB Page file: 19140MB Video Budget: 15569MB Video Usage: 9493MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1961MB Tex Budget: 2607MB BVH heaps: 120MB BVH size: 104MB Demoted: 0MB fps: 115.316673
-21:55:15:294 (00009476) > [Save] Request save type 0, control 0
-21:55:15:294 (00009476) > [Save] Request save type 0, control 0
-21:55:50:399 (00009476) > [Save] Request save type 0, control 0
-21:55:50:400 (00009476) > [Save] Request save type 0, control 256
-21:55:54:435 (00009476) > [Save] Request save type 0, control 0
-21:55:57:441 (00016600) > [Render] Working set: 7158MB Page file: 19103MB Video Budget: 15569MB Video Usage: 9498MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1968MB Tex Budget: 2607MB BVH heaps: 120MB BVH size: 108MB Demoted: 0MB fps: 118.450005
-21:56:22:572 (00009476) > [Save] Request save type 0, control 0
-21:56:22:572 (00009476) > [Save] Request save type 0, control 256
-21:56:22:572 (00009476) > [Save] Request save type 0, control 0
-21:56:22:572 (00009476) > [Save] Request save type 0, control 0
-21:56:22:592 (00009476) > [Save] Request save type 0, control 0
-21:56:57:436 (00016600) > [Render] Working set: 7112MB Page file: 19144MB Video Budget: 15569MB Video Usage: 9506MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1932MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 105MB Demoted: 0MB fps: 107.066673
-21:57:57:432 (00016600) > [Render] Working set: 7120MB Page file: 19130MB Video Budget: 15569MB Video Usage: 9503MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1925MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 105MB Demoted: 0MB fps: 111.316673
-21:58:15:193 (00009476) > [Save] Request save type 0, control 0
-21:58:15:193 (00009476) > [Save] Request save type 0, control 0
-21:58:57:437 (00016600) > [Render] Working set: 7186MB Page file: 19124MB Video Budget: 15569MB Video Usage: 9493MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1912MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 105MB Demoted: 0MB fps: 116.866676
-21:59:14:788 (00009476) > [Save] Request save type 0, control 0
-21:59:14:788 (00009476) > [Save] Request save type 0, control 0
-21:59:14:788 (00009476) > [Save] Request save type 0, control 0
-21:59:14:788 (00009476) > [Save] Request save type 0, control 0
-21:59:57:434 (00016600) > [Render] Working set: 7209MB Page file: 19093MB Video Budget: 15569MB Video Usage: 9501MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1912MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 105MB Demoted: 0MB fps: 119.050003
-22:00:57:435 (00016600) > [Render] Working set: 7204MB Page file: 19102MB Video Budget: 15569MB Video Usage: 9502MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1913MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 106MB Demoted: 0MB fps: 118.833336
-22:01:57:439 (00016600) > [Render] Working set: 7192MB Page file: 19111MB Video Budget: 15569MB Video Usage: 9489MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1913MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 106MB Demoted: 0MB fps: 114.316673
-22:02:01:277 (00009476) > [Save] Request save type 0, control 548
-22:02:01:967 (00009476) > [Save] Request save type 0, control 512
-22:02:57:436 (00016600) > [Render] Working set: 7131MB Page file: 19074MB Video Budget: 15569MB Video Usage: 9484MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1912MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 100MB Demoted: 0MB fps: 118.850006
-22:03:57:438 (00016600) > [Render] Working set: 7132MB Page file: 19073MB Video Budget: 15569MB Video Usage: 9481MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1913MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 100MB Demoted: 0MB fps: 119.650009
-22:04:57:433 (00016600) > [Render] Working set: 7132MB Page file: 19035MB Video Budget: 15569MB Video Usage: 9473MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1914MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 105MB Demoted: 0MB fps: 118.883339
-22:05:57:444 (00016600) > [Render] Working set: 7134MB Page file: 19085MB Video Budget: 15569MB Video Usage: 9476MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1913MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 104MB Demoted: 0MB fps: 116.700005
-22:06:57:434 (00016600) > [Render] Working set: 7151MB Page file: 19094MB Video Budget: 15569MB Video Usage: 9476MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1913MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 104MB Demoted: 0MB fps: 117.666672
-22:07:20:168 (00009476) > [Save] Request save type 0, control 0
-22:07:20:168 (00009476) > [Save] Request save type 0, control 0
-22:07:36:705 (00009476) > [Save] Request save type 0, control 0
-22:07:36:705 (00009476) > [Save] Request save type 0, control 0
-22:07:57:437 (00016600) > [Render] Working set: 7141MB Page file: 19091MB Video Budget: 15569MB Video Usage: 9477MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1913MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 100MB Demoted: 0MB fps: 117.166672
-22:08:10:603 (00009476) > [Save] Request save type 0, control 548
-22:08:11:265 (00009476) > [Save] Request save type 0, control 512
-22:08:40:750 (00009476) > [Save] Request save type 0, control 0
-22:08:40:750 (00009476) > [Save] Request save type 0, control 256
-22:08:40:763 (00009476) > [Save] Request save type 0, control 0
-22:08:57:436 (00016600) > [Render] Working set: 7152MB Page file: 19115MB Video Budget: 15569MB Video Usage: 9475MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1913MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 109MB Demoted: 0MB fps: 115.316673
-22:09:57:436 (00016600) > [Render] Working set: 7164MB Page file: 19128MB Video Budget: 15569MB Video Usage: 9512MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1912MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 105MB Demoted: 0MB fps: 119.716675
-22:10:57:440 (00016600) > [Render] Working set: 7166MB Page file: 19149MB Video Budget: 15569MB Video Usage: 9484MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1913MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 104MB Demoted: 0MB fps: 119.750008
-22:11:24:075 (00009476) > [Save] Request save type 0, control 0
-22:11:24:075 (00009476) > [Save] Request save type 0, control 0
-22:11:24:094 (00009476) > [Save] Request save type 0, control 0
-22:11:57:437 (00016600) > [Render] Working set: 7181MB Page file: 19117MB Video Budget: 15569MB Video Usage: 9464MB Sys Budget: 15522MB Sys Usage: 800MB Tex Usage: 1914MB Tex Budget: 2607MB BVH heaps: 120MB BVH size: 104MB Demoted: 0MB fps: 120.050003
-22:12:57:432 (00016600) > [Render] Working set: 7177MB Page file: 19116MB Video Budget: 15569MB Video Usage: 9464MB Sys Budget: 15522MB Sys Usage: 802MB Tex Usage: 1914MB Tex Budget: 2607MB BVH heaps: 120MB BVH size: 105MB Demoted: 0MB fps: 114.816673
-22:13:18:337 (00009476) > [Save] Request save type 0, control 0
-22:13:18:337 (00009476) > [Save] Request save type 0, control 0
-22:13:18:347 (00009476) > [Save] Request save type 0, control 0
-22:13:18:347 (00009476) > [Save] Request save type 0, control 256
-22:13:57:439 (00016600) > [Render] Working set: 7144MB Page file: 19136MB Video Budget: 15569MB Video Usage: 9499MB Sys Budget: 15522MB Sys Usage: 802MB Tex Usage: 1926MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 106MB Demoted: 0MB fps: 115.850006
-22:14:57:432 (00016600) > [Render] Working set: 7145MB Page file: 19202MB Video Budget: 15569MB Video Usage: 9489MB Sys Budget: 15522MB Sys Usage: 802MB Tex Usage: 1923MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 106MB Demoted: 0MB fps: 113.583336
-22:15:57:436 (00016600) > [Render] Working set: 7196MB Page file: 19150MB Video Budget: 15569MB Video Usage: 9499MB Sys Budget: 15522MB Sys Usage: 802MB Tex Usage: 1928MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 106MB Demoted: 0MB fps: 107.000008
-22:16:57:433 (00016600) > [Render] Working set: 7192MB Page file: 19127MB Video Budget: 15569MB Video Usage: 9505MB Sys Budget: 15522MB Sys Usage: 802MB Tex Usage: 1925MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 105MB Demoted: 0MB fps: 103.616669
-22:17:57:437 (00016600) > [Render] Working set: 7193MB Page file: 19113MB Video Budget: 15569MB Video Usage: 9491MB Sys Budget: 15522MB Sys Usage: 806MB Tex Usage: 1914MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 106MB Demoted: 0MB fps: 93.850006
-22:17:57:850 (00009476) > [Save] Request save type 0, control 0
-22:17:57:850 (00009476) > [Save] Request save type 0, control 0
-22:18:05:561 (00009476) > [Save] Request save type 0, control 0
-22:18:05:561 (00009476) > [Save] Request save type 0, control 0
-22:18:57:437 (00016600) > [Render] Working set: 7213MB Page file: 19110MB Video Budget: 15569MB Video Usage: 9491MB Sys Budget: 15522MB Sys Usage: 806MB Tex Usage: 1914MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 106MB Demoted: 0MB fps: 117.733337
-22:19:57:435 (00016600) > [Render] Working set: 7165MB Page file: 19105MB Video Budget: 15569MB Video Usage: 9510MB Sys Budget: 15522MB Sys Usage: 806MB Tex Usage: 1913MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 106MB Demoted: 0MB fps: 115.866676
-22:20:17:179 (00000376) > [Audio] Device (re)initialized 0x9b2b40fa 'Speakers (THX Spatial Audio)'
-22:20:57:436 (00016600) > [Render] Working set: 7170MB Page file: 19126MB Video Budget: 15569MB Video Usage: 9487MB Sys Budget: 15522MB Sys Usage: 806MB Tex Usage: 1914MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 102MB Demoted: 0MB fps: 119.016670
-22:21:14:329 (00009476) > [Save] Request save type 0, control 512
-22:21:14:329 (00009476) > [Save] Request save type 0, control 512
-22:21:57:433 (00016600) > [Render] Working set: 2879MB Page file: 19094MB Video Budget: 15569MB Video Usage: 9516MB Sys Budget: 15522MB Sys Usage: 806MB Tex Usage: 1914MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 112MB Demoted: 0MB fps: 119.966675
-22:22:53:412 (00009476) > [Save] Request save type 0, control 512
-22:22:53:412 (00009476) > [Save] Request save type 0, control 512
-22:22:53:412 (00009476) > [Save] Request save type 0, control 768
-22:22:53:412 (00009476) > [Save] Request save type 0, control 512
-22:22:53:420 (00009476) > [Save] Request save type 0, control 548
-22:22:53:613 (00009476) > [Save] Request load save type 0, control 128, target -1
-22:22:53:613 (00019868) > [Save] Request type 3 failed with code 0x00000002
-22:22:53:615 (00009476) > [Save] Request load save type 0, control 128, target -1
-22:22:53:618 (00019868) > [Save] Request type 3 failed with code 0x00000002
-22:22:53:625 (00009476) > [Save] Request load save type 0, control 128, target -1
-22:22:53:637 (00019868) > [Save] Request type 3 failed with code 0x00000002
-22:22:53:646 (00009476) > [Save] Request load save type 0, control 128, target -1
-22:22:53:654 (00019868) > [Save] Request type 3 failed with code 0x00000002
-22:22:53:662 (00009476) > [Save] Request load save type 0, control 128, target -1
-22:22:53:670 (00019868) > [Save] Request type 3 failed with code 0x00000002
-22:22:53:678 (00009476) > [Save] Request load save type 0, control 128, target -1
-22:22:53:687 (00019868) > [Save] Request type 3 failed with code 0x00000002
-22:22:53:696 (00009476) > [Save] Request load save type 0, control 128, target -1
-22:22:53:704 (00019868) > [Save] Request type 3 failed with code 0x00000002
-22:22:53:726 (00009476) > [Save] Request load save type 0, control 128, target -1
-22:22:54:144 (00011212) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:22:57:436 (00016600) > [Render] Working set: 3191MB Page file: 18277MB Video Budget: 15569MB Video Usage: 8575MB Sys Budget: 15522MB Sys Usage: 782MB Tex Usage: 669MB Tex Budget: 2607MB BVH heaps: 140MB BVH size: 107MB Demoted: 0MB fps: 120.000008
-22:23:28:728 (00000452) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:29:587 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:29:588 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:29:588 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:29:589 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:29:590 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:29:590 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:29:590 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:29:590 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:29:590 (00011336) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:30:293 (00003532) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:30:303 (00004176) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
-22:23:31:589 (00009476) > [Save] Request save type 0, control 512
-22:23:42:757 (00009476) > [App] Quit requested from Profile Select Menu
-22:23:42:825 (00000376) > [Audio] Device removed 0x7be6fb4
-22:23:43:035 (00009476) > [NxApp] Destroying
-22:23:43:043 (00009476) > [DXGI] Destroyed swapchain.
-22:23:43:043 (00009476) > [SwapChain] Destroyed.
-22:23:43:043 (00009476) > [SwapChain] Released.
-22:23:43:043 (00009476) > [Render] Unloading ADL...
-22:23:43:044 (00009476) > [Render] Done unloading ADL
-22:23:43:045 (00009476) > [DXGI] Destroyed swapchain.
-22:23:43:045 (00009476) > [DXGI] Released.
+23:43:31:490 (00031028) > [PSN] AuthenticationRequest: 400
+23:43:31:783 (00043676) > [Input] Windows.Gaming.Input controller disconnected, index: 0
+23:43:31:783 (00043676) > [Input] Gamepads connected: 1 -> 0
+23:43:31:783 (00043676) > [Input] Gamepad for main player: -1
+23:43:31:803 (00034276) > [Audio] Device (re)initialized 0x1dded14c 'Speakers (Razer USB Sound Card)'
+23:43:31:813 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:43:32:017 (00016064) > [Input] new Windows.Gaming.Input raw-controller found 45e 2e0 {wgi/nrid/0ak[`-n>f-4B7I9Xn>-9lYBU-BL7E^-7Z-]Fa>-} HID-compliant game controller
+
+23:43:33:361 (00010292) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:33:422 (00043676) > [Input] XInput controller connected. index: 0
+23:43:33:423 (00043676) > [Input] Gamepads connected: 0 -> 1
+23:43:33:423 (00043676) > [Input] Gamepad for main player: 8
+23:43:33:647 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:34:798 (00043676) > [Input] Windows.Gaming.Input controller connected. index: 0
+23:43:34:798 (00043676) > [Input] Gamepad for main player: 0
+23:43:34:798 (00043676) > [Input] Gamepads connected: 1 -> 2
+23:43:34:798 (00043676) > [Input] Gamepad for main player: 0
+23:43:34:809 (00043676) > [Input] XInput disabled, disconnecting controller. index: 0
+23:43:34:809 (00043676) > [Input] Gamepads connected: 2 -> 1
+23:43:34:809 (00043676) > [Input] Gamepad for main player: 0
+23:43:36:166 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:36:247 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:41:886 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:356 (00027244) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:53:988 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:54:659 (00027244) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:54:757 (00034440) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:56:170 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:43:56:170 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:43:56:178 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:43:56:188 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:43:56:195 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:43:56:203 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:43:56:211 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:43:56:220 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:43:56:228 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:43:56:237 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:43:56:245 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:43:56:253 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:43:56:261 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:43:56:270 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:43:56:278 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:43:56:312 (00043676) > [Sound] Changing sound listening mode: 3
+23:43:57:743 (00027244) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:00:885 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:00:888 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:00:889 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:00:889 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:00:889 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:00:889 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:00:890 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:00:890 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:00:890 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:05:662 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:05:986 (00010292) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:09:234 (00043676) > [Save] Request save type 0, control 0
+23:44:11:033 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:44:15:177 (00010292) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:15:192 (00010292) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:16:023 (00043676) > [Save] Request save type 0, control 0
+23:44:30:407 (00032776) > [Render] Working set: 6467MB Page file: 19054MB Video Budget: 15569MB Video Usage: 9060MB Sys Budget: 15522MB Sys Usage: 778MB Tex Usage: 2049MB Tex Budget: 2607MB BVH heaps: 180MB BVH size: 136MB Demoted: 0MB fps: 101.016670
+23:44:32:896 (00043676) > [Save] Request save type 0, control 548
+23:44:32:977 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:44:32:978 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:44:32:979 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:44:32:983 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:44:32:987 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:44:32:994 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:44:33:002 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:44:33:010 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:44:33:019 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:44:33:027 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:44:33:036 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:44:33:044 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:44:33:128 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:44:33:132 (00045480) > [Save] Request type 3 failed with code 0x00000002
+23:44:33:136 (00043676) > [Save] Request load save type 0, control 128, target -1
+23:44:33:426 (00024388) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:34:342 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:34:342 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:34:344 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:34:344 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:34:344 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:34:344 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:34:344 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:34:344 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:34:344 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:35:017 (00010292) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:35:025 (00036228) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:44:36:388 (00043676) > [Save] Request save type 0, control 512
+23:44:41:016 (00043676) > [App] Quit requested from Profile Select Menu
+23:44:41:075 (00034276) > [Audio] Device removed 0x1dded14c
+23:44:41:196 (00043676) > [NxApp] Destroying
+23:44:41:203 (00043676) > [DXGI] Destroyed swapchain.
+23:44:41:203 (00043676) > [SwapChain] Destroyed.
+23:44:41:203 (00043676) > [SwapChain] Released.
+23:44:41:203 (00043676) > [Render] Unloading ADL...
+23:44:41:203 (00043676) > [Render] Done unloading ADL
+23:44:41:204 (00043676) > [DXGI] Destroyed swapchain.
+23:44:41:204 (00043676) > [DXGI] Released.
 --- NIXXES log closed ---
