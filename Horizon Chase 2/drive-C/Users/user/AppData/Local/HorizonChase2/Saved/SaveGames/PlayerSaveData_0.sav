@@ -3,11 +3,11 @@
 	"payload":
 	{
 		"playerUniqueId": "B2A625064B2295AB2EEA14AB267D9A33",
-		"totalTimePlayed": 13135.818359375,
+		"totalTimePlayed": 13402.9482421875,
 		"playerGame":
 		{
 			"blueCoinsGeneralCounter": 170,
-			"creditsCounter": 1600,
+			"creditsCounter": 1650,
 			"carsData":
 			{
 				"CarItem_E_Sport_02":
@@ -908,17 +908,18 @@
 				"rimsCollectedByPlayer": 1,
 				"bodiesCollectedByPlayer": 0,
 				"paintsCollectedByPlayer": 0,
-				"consecutiveRacesWon": 1,
+				"consecutiveRacesWon": 0,
 				"racesPlacementCounter":
 				{
 					"0": 16,
 					"3": 2,
 					"2": 7,
-					"1": 3
+					"1": 3,
+					"2147483647": 1
 				},
 				"racesWonWithSmallDifference": 1,
-				"racesFinishedWithoutUsingNitro": 5,
-				"racesFinishedWithNoNitrosLeft": 12
+				"racesFinishedWithoutUsingNitro": 6,
+				"racesFinishedWithNoNitrosLeft": 13
 			},
 			"completionStatistics":
 			{
@@ -944,7 +945,8 @@
 					"Brazil_North_AmazonRainForest_Race",
 					"Brazil_North_AmazonRainForest_TimeTrials_Race",
 					"Brazil_Northeast_FernandoDeNoronha_Race",
-					"Brazil_South_GramadoeCanela_Race"
+					"Brazil_South_GramadoeCanela_Race",
+					"Brazil_South_PortoAlegre_Race"
 				],
 				"wTCountriesCompletion":
 				{
@@ -3480,7 +3482,7 @@
 				},
 				"1":
 				{
-					"lastCarUsedByPlayer": "CarItem_D_Sport_01",
+					"lastCarUsedByPlayer": "CarItem_G_Muscle_01",
 					"carCustomizationInfo":
 					{
 						"CarItem_E_Sport_02":
@@ -3496,6 +3498,86 @@
 							"carItemId": "CarItem_D_Sport_01",
 							"currentCarBodyId": "CarBody_D_Sport_01_01",
 							"currentCarPaintId": "CarPaint_D_Sport_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_I_SUV_01":
+						{
+							"carItemId": "CarItem_I_SUV_01",
+							"currentCarBodyId": "CarBody_I_SUV_01_01",
+							"currentCarPaintId": "CarPaint_I_SUV_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_J_Hatchback_01":
+						{
+							"carItemId": "CarItem_J_Hatchback_01",
+							"currentCarBodyId": "CarBody_J_Hatchback_01_01",
+							"currentCarPaintId": "CarPaint_J_Hatchback_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_G_Muscle_01":
+						{
+							"carItemId": "CarItem_G_Muscle_01",
+							"currentCarBodyId": "CarBody_G_Muscle_01_01",
+							"currentCarPaintId": "CarPaint_G_Muscle_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_I_Hatchback_01":
+						{
+							"carItemId": "CarItem_I_Hatchback_01",
+							"currentCarBodyId": "CarBody_I_Hatchback_01_01",
+							"currentCarPaintId": "CarPaint_I_Hatchback_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_C_SUV_01":
+						{
+							"carItemId": "CarItem_C_SUV_01",
+							"currentCarBodyId": "CarBody_C_SUV_01_01",
+							"currentCarPaintId": "CarPaint_C_SUV_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_A_Sport_01":
+						{
+							"carItemId": "CarItem_A_Sport_01",
+							"currentCarBodyId": "CarBody_A_Sport_01_01",
+							"currentCarPaintId": "CarPaint_A_Sport_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_H_Sport_01":
+						{
+							"carItemId": "CarItem_H_Sport_01",
+							"currentCarBodyId": "CarBody_H_Sport_01_01",
+							"currentCarPaintId": "CarPaint_H_Sport_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_H_Sport_02":
+						{
+							"carItemId": "CarItem_H_Sport_02",
+							"currentCarBodyId": "CarBody_H_Sport_02_01",
+							"currentCarPaintId": "CarPaint_H_Sport_02_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_F_Sport_01":
+						{
+							"carItemId": "CarItem_F_Sport_01",
+							"currentCarBodyId": "CarBody_F_Sport_01_01",
+							"currentCarPaintId": "CarPaint_F_Sport_01_01",
+							"currentCarRimId": "CarRim_Basic_01",
+							"currentCarBodyDecalId": "None"
+						},
+						"CarItem_K_Concept_01":
+						{
+							"carItemId": "CarItem_K_Concept_01",
+							"currentCarBodyId": "CarBody_K_Concept_01_01",
+							"currentCarPaintId": "CarPaint_K_Concept_01_01",
 							"currentCarRimId": "CarRim_Basic_01",
 							"currentCarBodyDecalId": "None"
 						}
