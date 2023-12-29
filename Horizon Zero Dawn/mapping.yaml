@@ -1,0 +1,348 @@
+---
+name: Horizon Zero Dawn
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2023-12-29T17:56:14.190598200Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave0/checkpoint.dat":
+        hash: add142b7f7dea97181666ba3615fd75aa3e362d7
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave0/icon.png":
+        hash: e93b2ee0924bc6c43fada5b4050a3911c5fc19f6
+        size: 197109
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave0/slotinfo.ini":
+        hash: 80adcb58752ca0a1ea419a477a7ad74bb8f441dc
+        size: 251
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave1/checkpoint.dat":
+        hash: b9d7e73613c74386f38738b8e830a2c679300c37
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave1/icon.png":
+        hash: d61e6ae03ea8623fb2fd76aaf25e36ab4f8be3e6
+        size: 172105
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave1/slotinfo.ini":
+        hash: 76fe3d862f7814d415f63d915fcbf87760e8e89d
+        size: 251
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave2/checkpoint.dat":
+        hash: 171b996a8a07d86fbf6413a4aaf53413ba5d87c1
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave2/icon.png":
+        hash: bad60068ac9da5ed2a4508b0dc8ca19ad83c918f
+        size: 125106
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave2/slotinfo.ini":
+        hash: 4ad2f2c9acb2886ad99fc0f8d20074b052394f4b
+        size: 251
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave3/checkpoint.dat":
+        hash: e467b49350ef986aa8b75453409f577f2b8ad236
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave3/icon.png":
+        hash: 1e1d7dcb0b7588f95f2c6a55c4987d769bb5420e
+        size: 203631
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave3/slotinfo.ini":
+        hash: 116615bcd8775a0675d6bfbef4ad4f01dcc22920
+        size: 251
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave4/checkpoint.dat":
+        hash: 5d23e1316544cf200f5b50160088ea256e7b06c0
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave4/icon.png":
+        hash: 5f902370a7f52fc823f62664229d2bd41ec1cdbe
+        size: 154830
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave4/slotinfo.ini":
+        hash: 01adde21d934a5fed43868f8ed9e2f034f5c66b6
+        size: 251
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave5/checkpoint.dat":
+        hash: 72ef23128658344042a6837df555c712dbe2fbd8
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave5/icon.png":
+        hash: 924625635b4c553cf810654f3bfcd6f630b69a44
+        size: 172312
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave5/slotinfo.ini":
+        hash: bc6b63fc34778a8d58819558b37ead978c5f860d
+        size: 251
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave6/checkpoint.dat":
+        hash: 7bff5558a9dea89f913e5f9a4918e25a72e6b132
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave6/icon.png":
+        hash: af4bcaaf773cde8587b3f229aae6e0a5f93e613b
+        size: 170719
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave6/slotinfo.ini":
+        hash: 72010eade9c4119a7abe7d0cc6c878989ce8aa49
+        size: 251
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave7/checkpoint.dat":
+        hash: e45cbec79cca538b56bed9ca62a8eecb2fe9d51a
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave7/icon.png":
+        hash: 4a94e006e15efc37f26d7909f2657b46213b66da
+        size: 149595
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave7/slotinfo.ini":
+        hash: 075c31d5b5df2f4b5cb26f32cc0ef5c8c320d743
+        size: 251
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave8/checkpoint.dat":
+        hash: e1886453ce06469f39edbb61a1b28bae125ede15
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave8/icon.png":
+        hash: fe2bf8a8cb236dec61774cc328c6f7912ee07b33
+        size: 456
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave8/slotinfo.ini":
+        hash: 68d8e6d1572b90e608635223c9a62de09e0be88e
+        size: 247
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave9/checkpoint.dat":
+        hash: 99d0b8690a8dec860c2477e1939a076b94a98b52
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave9/icon.png":
+        hash: 0a2f0de6dc372f9e4fdf7c347b1ccffb8bde9f86
+        size: 219745
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave9/slotinfo.ini":
+        hash: 9324132abf9ac93c53072e8428ce2bd7324492c9
+        size: 247
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp0/checkpoint.dat":
+        hash: 625910b873b28f4f7e6f50fd2dcd81203a696200
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp0/icon.png":
+        hash: acca1c509b139fa3e1ab21f6eae5d37a4d7b26b4
+        size: 259872
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp0/slotinfo.ini":
+        hash: b50f95fdc24ef5648e9ac2401b6e4a728574f905
+        size: 263
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp1/checkpoint.dat":
+        hash: 822bcead3f67cb7704fcbfbe57e184ca25e396f0
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp1/icon.png":
+        hash: 26497766a279b5c2c155acba17e83108f0217051
+        size: 230063
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp1/slotinfo.ini":
+        hash: 447d2516e1598f877dbb440ea0631c5cfd91b34c
+        size: 263
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp2/checkpoint.dat":
+        hash: 631b14c13eda457ed11b4404143706712fa1fdc3
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp2/icon.png":
+        hash: 603a1be1d0c684a5d21b35662d6a632aaa2b422d
+        size: 230426
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp2/slotinfo.ini":
+        hash: 447d2516e1598f877dbb440ea0631c5cfd91b34c
+        size: 263
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp3/checkpoint.dat":
+        hash: 5c79317c9d2c847a73eb34f2434c1e0face94c05
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp3/icon.png":
+        hash: bb34f0d357e13eccf68a4f0c812597b4a167afed
+        size: 216160
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp3/slotinfo.ini":
+        hash: de8a84b0e829a5e5bdfcfcb80bb032e93b8b0f4d
+        size: 263
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp4/checkpoint.dat":
+        hash: 93425b9df0a17f5396863b7239613a8fb2979429
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp4/icon.png":
+        hash: 704245f9302803ea0be6dff36eb9aa135bc17a1b
+        size: 209755
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp4/slotinfo.ini":
+        hash: a156e199cdac868a7bde52110be83eec27a7100f
+        size: 263
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp5/checkpoint.dat":
+        hash: 25839f704a92c7a999b9be2ba29da0d19446bfd2
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp5/icon.png":
+        hash: 6c208cf2b15cbab3ade6d7f7ce10d9a66c609c60
+        size: 219308
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp5/slotinfo.ini":
+        hash: 9e8bd162c351bb3e7d993987320c991721753e6e
+        size: 263
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp6/checkpoint.dat":
+        hash: 790b7a764a8d9f787ea8d3285035905a21ef0356
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp6/icon.png":
+        hash: b557f999f4c1f58bbedf439305dece0c05e992cb
+        size: 252066
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp6/slotinfo.ini":
+        hash: 57b3ab283919d6b6f66041a7ce1cb03c6f4853a9
+        size: 263
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/manualsave0/checkpoint.dat":
+        hash: 7da970f255cfa24b76f5ea833bdd38f49346eccb
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/manualsave0/icon.png":
+        hash: 8134097cda4b245a2f2e40ce51d2decc88763324
+        size: 182079
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/manualsave0/slotinfo.ini":
+        hash: 558826d111beaa47a581bae9d746e48eaf1a31e0
+        size: 246
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/manualsave1/checkpoint.dat":
+        hash: 9f94641516265e9cd2c147dd78dc9dc8858a5947
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/manualsave1/icon.png":
+        hash: 6ab1ff8299300c2cf482719fa29fa75b81558e90
+        size: 238949
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/manualsave1/slotinfo.ini":
+        hash: b055857a9942eeb6a9a930de23e4d205d215634b
+        size: 251
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/manualsave2/checkpoint.dat":
+        hash: c0e7488dec9bb799edb6607aafe780a03105ec22
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/manualsave2/icon.png":
+        hash: aadc35e4fd6ab3f2874d22267a72ac258333780b
+        size: 262433
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/manualsave2/slotinfo.ini":
+        hash: 57bb904a123c3d68a10ef8166e6d17066e128f33
+        size: 252
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/newgameplusstartpoint0/checkpoint.dat":
+        hash: 0cb16567b94b566c7380ca1f52b1be57520b7526
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/newgameplusstartpoint0/icon.png":
+        hash: fe2bf8a8cb236dec61774cc328c6f7912ee07b33
+        size: 456
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/newgameplusstartpoint0/slotinfo.ini":
+        hash: f5369315e77cf43d6d6c850cd3ae382fb82e3940
+        size: 253
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/profile/graphicsconfig.ini":
+        hash: 744ae327b40d392d753e18417c0cb09fdd14fc23
+        size: 1599
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/profile/profile.dat":
+        hash: b827bb63387e29733ab1981796931f4ace8671bf
+        size: 196608
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/profile/slotinfo.ini":
+        hash: 23fb44179ac4f7a3f1f5ca94d8d0fb3adb47c640
+        size: 207
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave0/checkpoint.dat":
+        hash: f3d0b0e68c23b3d3e11617270ba66bebda244666
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave0/icon.png":
+        hash: 03cf3fd51ead06c003884acad314af0cd0703b5c
+        size: 168798
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave0/slotinfo.ini":
+        hash: c8884de221b6277ef0c15546fc7e053513988d43
+        size: 248
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave1/checkpoint.dat":
+        hash: ec80846b136943dee3f8433fd5704225d6529853
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave1/icon.png":
+        hash: f8f82b13e9486263533ba417eb5c90f6ef6ebea2
+        size: 173147
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave1/slotinfo.ini":
+        hash: 468038c55f0f43345cfe1f0e8b4411822c2ed8cb
+        size: 248
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave2/checkpoint.dat":
+        hash: fd081f5bf66f0c0649ba7827fe99d695845e9549
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave2/icon.png":
+        hash: c78bfaec5b460502d2073ab53d9ddd361e014c12
+        size: 190776
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave2/slotinfo.ini":
+        hash: d04e90d7301fe97f4776a5f34286c39773e46e91
+        size: 248
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave3/checkpoint.dat":
+        hash: 897560d6c9dff0938762b594364f5c171126df21
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave3/icon.png":
+        hash: 6624a8167cf04afb4ff1fc27f7f7dfeccd45ed62
+        size: 232426
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave3/slotinfo.ini":
+        hash: fed972313ddef30fb309bd376a14016ac3da7366
+        size: 248
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave4/checkpoint.dat":
+        hash: 9af2ad250143f151b4df64ee75261503a3c591cb
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave4/icon.png":
+        hash: 1c3281b15570eb5b9117a5cc3d44c803f27d477d
+        size: 14279
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave4/slotinfo.ini":
+        hash: 17f092c387c38e9163b4709c81d27fbb7e79e0b2
+        size: 248
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave5/checkpoint.dat":
+        hash: 522c49c308c94f5bf96816ba4f570bfc3673cc4d
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave5/icon.png":
+        hash: 0e3555ab3be4c3249fc0321a049bd2acc7e6d7b2
+        size: 229419
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave5/slotinfo.ini":
+        hash: 847fb2b6b153744519b3340bf6270c3a7d27cc57
+        size: 248
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave6/checkpoint.dat":
+        hash: 90c037e79f80e6e662b2d66eeef3ca6974f92dc2
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave6/icon.png":
+        hash: c9896f625e34682f452633297bd868d39966403b
+        size: 180921
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave6/slotinfo.ini":
+        hash: 5b655069d237c3ffa059fcb60e5a249113a1df4f
+        size: 248
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave7/checkpoint.dat":
+        hash: ece6db1382a6bf3fedb3a910fef1d97ce3ec6b7a
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave7/icon.png":
+        hash: 8f5cb850e201e81e080855d8c0df1bf3a9556dd4
+        size: 215864
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave7/slotinfo.ini":
+        hash: 9f243039451a7d64305d6d6e749037fb29604bf7
+        size: 248
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave8/checkpoint.dat":
+        hash: 775f89cd625cc23376da4def5dc4e3fb9e0427b8
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave8/icon.png":
+        hash: df327f544244883b49db8185c56926b8878b461f
+        size: 1712
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave8/slotinfo.ini":
+        hash: be675ce19194e7b0d2c268f7eccec7d44ce6779a
+        size: 248
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave9/checkpoint.dat":
+        hash: 81455517c961929d5a52cce62d50a932baa2e7b0
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave9/icon.png":
+        hash: 703b257753a9f947b4e2b59f731441afb23784f4
+        size: 195205
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksave9/slotinfo.ini":
+        hash: c3ef2c14fb08446c41541bc595e0b7bd0ee1c0b9
+        size: 248
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp0/checkpoint.dat":
+        hash: 06ea07e8113671b9898344d75df79180de96c93d
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp0/icon.png":
+        hash: 96dac2c54fb17b72c3fa23709f85bfad4ba6a0fd
+        size: 222757
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp0/slotinfo.ini":
+        hash: d1149fc0536c0d9679356808e4e1e3a4575cdb28
+        size: 264
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp1/checkpoint.dat":
+        hash: e3bfcae5228f2f4908169596bcd0747b2201f663
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp1/icon.png":
+        hash: 72295dda589db9f130651548960b18a5bdb72155
+        size: 243824
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp1/slotinfo.ini":
+        hash: 6bc123334f99a3bec9854ac49af670a8a80fccb8
+        size: 264
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp2/checkpoint.dat":
+        hash: ab28a50156d956238322701a170b75b6ef8a251d
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp2/icon.png":
+        hash: a3cbb70517c9452fb3dc287ed52adf63df3c0a52
+        size: 260688
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp2/slotinfo.ini":
+        hash: 395b45fc1abaf69c919c0779d1ca348be0923677
+        size: 264
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp3/checkpoint.dat":
+        hash: 77edead277e0cf2edf93975002a33acf20ecc364
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp3/icon.png":
+        hash: 9b606dff13c99c74abc742a7954b4774c5c5c3a7
+        size: 264539
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp3/slotinfo.ini":
+        hash: d08181a2db24ccd1a923ed8f9d201576a07651aa
+        size: 264
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp4/checkpoint.dat":
+        hash: d9590fe7d6fb6e62dc582f024c62f2268e1d21ec
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp4/icon.png":
+        hash: adc343b2efdbd1bfefede179ac5b163f0631e8de
+        size: 278943
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/quicksavengp4/slotinfo.ini":
+        hash: 9c99bee920a0e2c81f239562619d5071e2207e3a
+        size: 256
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/steam_autocloud.vdf":
+        hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
+        size: 52
+    registry:
+      hash: ~
+    children: []
