@@ -73,8 +73,8 @@
   "window_startup": {
     "window_size_width": 1920,
     "window_size_height": 1080,
-    "window_position_x": 0,
-    "window_position_y": 0,
+    "window_position_x": -8,
+    "window_position_y": -8,
     "window_maximized": true
   },
   "language_code": "en_US",
