@@ -26,7 +26,7 @@
   "system_time_offset": 0,
   "docked_mode": true,
   "enable_discord_integration": false,
-  "check_updates_on_start": true,
+  "check_updates_on_start": false,
   "show_confirm_exit": true,
   "hide_cursor": 0,
   "enable_vsync": true,
@@ -72,7 +72,7 @@
   },
   "window_startup": {
     "window_size_width": 1920,
-    "window_size_height": 1080,
+    "window_size_height": 1057,
     "window_position_x": -8,
     "window_position_y": -8,
     "window_maximized": true
