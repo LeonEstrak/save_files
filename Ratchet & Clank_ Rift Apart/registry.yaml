@@ -61,7 +61,7 @@ HKEY_CURRENT_USER:
     Monitor:
       dword: 0
     MotionBlurScale:
-      dword: 1000
+      dword: 300
     MultiMonitorEnabled:
       dword: 0
     NormalizedGammaDecodingPower:
