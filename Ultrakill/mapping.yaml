@@ -4,15 +4,15 @@ drives:
   drive-D: "D:"
 backups:
   - name: "."
-    when: "2023-10-19T13:32:17.180623100Z"
+    when: "2023-12-31T09:59:22.901891500Z"
     os: windows
     files:
       "D:/SteamLibrary/steamapps/common/ULTRAKILL/Saves/Slot1/difficulty2progress.bepis":
-        hash: 5a400a91d0683ce54ddc94f0414dd45d51a5ce03
+        hash: 243101fa5118f2316ba8c3ecfd643e9886acf618
         size: 197
       "D:/SteamLibrary/steamapps/common/ULTRAKILL/Saves/Slot1/generalprogress.bepis":
-        hash: 3e04c0f7622a6bb1087add52ac2584c28ccd19f7
-        size: 966
+        hash: 0667579fd750b009ef23cf7ebbb9cfc3c46b4bd5
+        size: 1030
       "D:/SteamLibrary/steamapps/common/ULTRAKILL/Saves/Slot1/lvl10progress.bepis":
         hash: 03c113cde20a52c5f4cb52c9628ab1ce7f18d00d
         size: 285
@@ -46,6 +46,9 @@ backups:
       "D:/SteamLibrary/steamapps/common/ULTRAKILL/Saves/Slot1/lvl1progress.bepis":
         hash: 85502ef4903061dcc186eef861aaa458453a204f
         size: 285
+      "D:/SteamLibrary/steamapps/common/ULTRAKILL/Saves/Slot1/lvl20progress.bepis":
+        hash: 109f5310ce2b5311d4c1c1f018a2b41398a1ca12
+        size: 421
       "D:/SteamLibrary/steamapps/common/ULTRAKILL/Saves/Slot1/lvl2progress.bepis":
         hash: 4c3d3f30a53be635bfc0d6244cf274e90751f6b2
         size: 285
@@ -74,5 +77,5 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
     registry:
-      hash: c24a03226234a7d3063b146624576fe2b4a5184d
+      hash: 1dbdcf3c1445d83534f9d14d61114d3dd6b37775
     children: []

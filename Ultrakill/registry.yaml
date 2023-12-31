@@ -2,9 +2,9 @@
 HKEY_CURRENT_USER:
   "Software\\Hakita\\ULTRAKILL":
     CurArm_h2729657343:
-      dword: 0
+      dword: 1
     CurSlo_h2729672369:
-      dword: 3
+      dword: 1
     CurVar_h2729683780:
       dword: 0
     DisCha_h2599490353:
@@ -78,27 +78,28 @@ HKEY_CURRENT_USER:
         - 0
     unity.player_session_count_h922449978:
       binary:
-        - 57
+        - 49
+        - 48
         - 0
     unity.player_sessionid_h1351336811:
       binary:
-        - 50
+        - 56
+        - 48
+        - 48
+        - 51
+        - 54
         - 53
-        - 49
         - 57
-        - 55
-        - 48
-        - 48
-        - 48
         - 56
         - 51
-        - 48
+        - 56
+        - 52
+        - 56
+        - 54
+        - 50
+        - 52
         - 50
         - 57
+        - 52
         - 55
-        - 54
-        - 51
-        - 53
-        - 49
-        - 51
         - 0
