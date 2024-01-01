@@ -1,0 +1,39 @@
+---
+name: Final Fantasy VII Remake Intergrade
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2024-01-01T16:41:58.046153200Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-0C8DB04442C28B55455D59A9682F76F7/CrashReportClient.ini":
+        hash: 4d7189219dac0807612df409dedd78a21507983b
+        size: 114
+      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-3574314C4C738C847E1DF1AFCBF59CE5/CrashReportClient.ini":
+        hash: 4d7189219dac0807612df409dedd78a21507983b
+        size: 114
+      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-652352C24E22661FC76C7882AAEEF552/CrashReportClient.ini":
+        hash: 4d7189219dac0807612df409dedd78a21507983b
+        size: 114
+      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-8C72316D40DC921ECA485CA256B2147E/CrashReportClient.ini":
+        hash: 4d7189219dac0807612df409dedd78a21507983b
+        size: 114
+      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-BF62FB714505C25E3EB65698A539FA1D/CrashReportClient.ini":
+        hash: 4d7189219dac0807612df409dedd78a21507983b
+        size: 114
+      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake000.sav":
+        hash: f6eea17eb2e51809b79571e7318d94bed7e888a7
+        size: 9434752
+      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake001.sav":
+        hash: cdc6a0c3095108ed09fb7b3f0b98251c39af51d9
+        size: 9434752
+      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remakecommon.sav":
+        hash: e7d9c6a120fb1fa1931ffd3bee528c364b248748
+        size: 1056
+      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remakedevice.sav":
+        hash: eebe3004880f2db5db24d0b2fe1eaa31fe8198b2
+        size: 1056
+    registry:
+      hash: ~
+    children: []
