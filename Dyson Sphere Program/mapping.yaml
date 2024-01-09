@@ -4,18 +4,15 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-01-08T10:41:45.652643600Z"
+    when: "2024-01-09T15:53:02.212309500Z"
     os: windows
     files:
-      "C:/Program Files (x86)/Steam/userdata/102118085/760/remote/1366540/screenshots/20240108152937_1.jpg":
-        hash: 5ed96159b2d4067498d74c0721dd5214bcd908d6
-        size: 677580
       "C:/Users/user/Documents/Dyson Sphere Program/Achievement/Standalone_0":
-        hash: 3aed3a864ea4ea8cc733132880b2fdbb5b5a38d2
+        hash: 2ecb27a21abbe146301b2d208e2a1949684f66fa
         size: 680
       "C:/Users/user/Documents/Dyson Sphere Program/Achievement/Steam_76561198062383813":
-        hash: f080fdd003fe7e80250cc242d3d0b10e9fffa104
-        size: 688
+        hash: 5b7eb74342589d14abcc41cc43448a5505f87561
+        size: 684
       "C:/Users/user/Documents/Dyson Sphere Program/Blueprint/Steel.txt":
         hash: 01a3cfdee886e0c25c2286c8193d4679781c730c
         size: 1323
@@ -26,23 +23,23 @@ backups:
         hash: dd9d0b7b2680b92401bdf9e3ab8ff4de60278af6
         size: 3138921
       "C:/Users/user/Documents/Dyson Sphere Program/Save/_autosave_0.dsv":
-        hash: e057faf225d6cbfe1ce4054ded8b8971abf66ec3
-        size: 8328860
+        hash: e481eb6301b146b1fec6085f64201062832c8a71
+        size: 9980310
       "C:/Users/user/Documents/Dyson Sphere Program/Save/_autosave_1.dsv":
-        hash: ac2c369ee89183e747bac0aadff6d5b01d820dba
-        size: 8365389
+        hash: 1d24c6c1921672605080c25f5c1511a372aea935
+        size: 10031508
       "C:/Users/user/Documents/Dyson Sphere Program/Save/_autosave_2.dsv":
-        hash: f066936cce4209e7c71ae7ec38ae515e28638330
-        size: 8120408
+        hash: 7223dc8f06f89d48104de7cccbbbc9eaaab0aef0
+        size: 9907375
       "C:/Users/user/Documents/Dyson Sphere Program/Save/_autosave_3.dsv":
-        hash: b3c4dfed012707473062ae8544c68360f91353d2
-        size: 7979508
+        hash: 3c4bccd683e8ba03ac6187382dc8d75e669043b7
+        size: 9781910
       "C:/Users/user/Documents/Dyson Sphere Program/Save/_lastexit_.dsv":
-        hash: 8c3dbf2498c8d2938ad8dc35204df5ab87a96db8
-        size: 8449151
+        hash: ffd0915016f759e28e81f0991c9d7c0441d428c5
+        size: 9944428
       "C:/Users/user/Documents/Dyson Sphere Program/Save/dark fog.dsv":
-        hash: ff5ac21951c5cd78037f96aa5a5a337407b4f1f0
-        size: 8467753
+        hash: dbff5c9e8338d50679d472cd28bb365aee09d929
+        size: 9748917
       "C:/Users/user/Documents/Dyson Sphere Program/options.xml":
         hash: 8251f3db362165f9ae161130a902a4277090e2a0
         size: 2132
