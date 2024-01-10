@@ -20,7 +20,7 @@
     <Dithering>1</Dithering>
   </Video>
   <Audio>
-    <GameMainVolume>0.85</GameMainVolume>
+    <GameMainVolume>0.36</GameMainVolume>
     <SoundEffectVolume>1</SoundEffectVolume>
     <CombatSoundEffectVolume>0.4</CombatSoundEffectVolume>
     <AmbientSoundEffectVolume>0.9</AmbientSoundEffectVolume>
