@@ -1,0 +1,42 @@
+---
+name: "Hardspace: Shipbreaker"
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2024-01-12T17:24:48.391150300Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/Packages/FocusHomeInteractiveSA.HardspaceShipbreaker-PCVers_4hny5m903y3g0/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000078E8B340/17AA0901C86440D89B9E9D8CA7978EF5/E2C282654A4A4FE7A63F340E3F8E6F31":
+        hash: d8f9f28f407ff0480f1bc67f38329afcdebada67
+        size: 4703
+      "C:/Users/user/AppData/Local/Packages/FocusHomeInteractiveSA.HardspaceShipbreaker-PCVers_4hny5m903y3g0/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000078E8B340/17AA0901C86440D89B9E9D8CA7978EF5/container.23":
+        hash: 2366ea932e027ac15da6a3edcd1888fc9c779bcf
+        size: 168
+      "C:/Users/user/AppData/Local/Packages/FocusHomeInteractiveSA.HardspaceShipbreaker-PCVers_4hny5m903y3g0/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000078E8B340/3A5C27365A8F40F4A8790FD5D1F7FB9C/53371C7C62EB495CA844293D469C6268":
+        hash: f5e49fa75771149e2762c5a49bae3621a8de31be
+        size: 41
+      "C:/Users/user/AppData/Local/Packages/FocusHomeInteractiveSA.HardspaceShipbreaker-PCVers_4hny5m903y3g0/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000078E8B340/3A5C27365A8F40F4A8790FD5D1F7FB9C/container.11":
+        hash: e625204eae5bc058cd84a1270f6a7571721ef112
+        size: 168
+      "C:/Users/user/AppData/Local/Packages/FocusHomeInteractiveSA.HardspaceShipbreaker-PCVers_4hny5m903y3g0/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000078E8B340/A903FAC3FF064B66AC8C891468B5A808/253B0E8C93C54028BAB58EDCFE2A3059":
+        hash: d5b4331442defdf28b35e653fc892784fd120a95
+        size: 480329
+      "C:/Users/user/AppData/Local/Packages/FocusHomeInteractiveSA.HardspaceShipbreaker-PCVers_4hny5m903y3g0/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000078E8B340/A903FAC3FF064B66AC8C891468B5A808/container.16":
+        hash: 53ab464e6077bf815a7441dc590896217e651dd2
+        size: 168
+      "C:/Users/user/AppData/Local/Packages/FocusHomeInteractiveSA.HardspaceShipbreaker-PCVers_4hny5m903y3g0/SystemAppData/wgs/000900000B45B2C9_00000000000000000000000078E8B340/containers.index":
+        hash: f072f736fde5a6f42bb785b0e8e3d85d2c7f4933
+        size: 847
+      "C:/Users/user/AppData/LocalLow/Blackbird Interactive/Hardspace_ Shipbreaker/Saves/Meta/vg3_meta.dclf":
+        hash: f5e49fa75771149e2762c5a49bae3621a8de31be
+        size: 41
+      "C:/Users/user/AppData/LocalLow/Blackbird Interactive/Hardspace_ Shipbreaker/Saves/Profiles/vglpp3_517074807.lpw":
+        hash: d8f9f28f407ff0480f1bc67f38329afcdebada67
+        size: 4703
+      "C:/Users/user/AppData/LocalLow/Blackbird Interactive/Hardspace_ Shipbreaker/Saves/Profiles/vglpp3_517074807.ship":
+        hash: d5b4331442defdf28b35e653fc892784fd120a95
+        size: 480329
+    registry:
+      hash: ~
+    children: []
