@@ -4,14 +4,14 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-01-16T14:12:13.126046Z"
+    when: "2024-01-16T17:17:19.295823100Z"
     os: windows
     files:
       "C:/Users/user/AppData/Roaming/ArmoredCore6/76561197960270388/AC60000.sl2":
         hash: 9c614133d2ebbc44af3edc7ff979c5a62eec73b2
         size: 30819552
       "C:/Users/user/AppData/Roaming/ArmoredCore6/76561199453131826/AC60000.sl2":
-        hash: 895b8ff6f66bcc4c790bc8722ebbebff5d47fa7c
+        hash: 698e0228dd357cca8f48407863a9428785fc6dad
         size: 30819552
       "C:/Users/user/AppData/Roaming/ArmoredCore6/GraphicsConfig.xml":
         hash: 1b2f035bac006402f0fadfaa696a29e00c157a30
