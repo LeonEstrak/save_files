@@ -4,15 +4,15 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-01-20T13:43:22.124616400Z"
+    when: "2024-01-21T14:07:40.815965500Z"
     os: windows
     files:
       "C:/Users/user/AppData/LocalLow/Contingent99/Wizard of Legend/102118085/GameData.gd":
-        hash: 6d34ac904fbbb8dd11f7ffe619d794c701ecc206
-        size: 37788
+        hash: 6bd2c5f113b77eee94d6b6308ad6342a3e44ef96
+        size: 37872
       "C:/Users/user/AppData/LocalLow/Contingent99/Wizard of Legend/102118085/GameSettings.gs":
-        hash: 4589b48ce98a93cde0a2f9e95d6e7f4f35afdbf0
+        hash: 24b9a72ead58fe014df93b6b4188c702cc3eba5d
         size: 2514
     registry:
-      hash: ed491e37095d8f55f4e9424239061d71dab69382
+      hash: b43dff1598de03de6d78a3d6493107adba02cb6a
     children: []
