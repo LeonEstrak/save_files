@@ -1,0 +1,75 @@
+---
+name: Persona 3 Reload
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2024-02-20T17:40:01.402798Z"
+    os: windows
+    files:
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/Engine.ini":
+        hash: fce0745beb8575f1736afb9a4ed03c2207f0bae6
+        size: 2427
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/GameUserSettings.ini":
+        hash: 252ec01b0066a17eb0237991c61597c5e60d62ec
+        size: 1041
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/MotoSynth.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/Paper2D.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/Plugins.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/P3R/Saved/Config/WinGDK/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/user/AppData/Local/Packages/SEGAofAmericaInc.L0cb6b3aea_s751p9cej88mt/SystemAppData/wgs/000900000B45B2C9_000000000000000000000000638EEC7E/3B73B3309EFF4C51A7958C09F691B948/A8E6E0B7CECA490B9456266C19EA0220":
+        hash: dc024afc4104a75ea7284c83bf6f3c76eb69f4b7
+        size: 427744
+      "C:/Users/user/AppData/Local/Packages/SEGAofAmericaInc.L0cb6b3aea_s751p9cej88mt/SystemAppData/wgs/000900000B45B2C9_000000000000000000000000638EEC7E/3B73B3309EFF4C51A7958C09F691B948/container.1":
+        hash: c893788c7f3a96740f0d70ed1f731e8396782b40
+        size: 168
+      "C:/Users/user/AppData/Local/Packages/SEGAofAmericaInc.L0cb6b3aea_s751p9cej88mt/SystemAppData/wgs/000900000B45B2C9_000000000000000000000000638EEC7E/7B84ACD51A4743228CD14699F89816BC/BDAACD5238954E369CF61DFD0B1AA7D2":
+        hash: 01aec2122218fb1c7f5b6568df68f0db1ed9881d
+        size: 491002
+      "C:/Users/user/AppData/Local/Packages/SEGAofAmericaInc.L0cb6b3aea_s751p9cej88mt/SystemAppData/wgs/000900000B45B2C9_000000000000000000000000638EEC7E/7B84ACD51A4743228CD14699F89816BC/container.5":
+        hash: ff398606b904c1afad55358e908045521eacc452
+        size: 168
+      "C:/Users/user/AppData/Local/Packages/SEGAofAmericaInc.L0cb6b3aea_s751p9cej88mt/SystemAppData/wgs/000900000B45B2C9_000000000000000000000000638EEC7E/containers.index":
+        hash: d0e190141b05ea6d5e3af98f4d42324f727aca89
+        size: 524
+    registry:
+      hash: ~
+    children: []
