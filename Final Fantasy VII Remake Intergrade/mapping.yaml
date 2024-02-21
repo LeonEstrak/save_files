@@ -4,20 +4,20 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-01-15T07:48:54.811674200Z"
+    when: "2024-02-21T16:41:14.349339300Z"
     os: windows
     files:
-      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-FA729DCA43D41B41994B81A79A111B2D/CrashReportClient.ini":
+      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-40496B124D82933142E9D188BC53208E/CrashReportClient.ini":
         hash: 4d7189219dac0807612df409dedd78a21507983b
         size: 114
       "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake000.sav":
-        hash: 019a979a3c996b858f4093a7d07cf036809bb584
+        hash: 7e1adac4c345f327b4e308f16f43fe5df0bc92ad
         size: 9434752
       "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake001.sav":
         hash: 16d28ba4d4090d7dc4a8a34b60c87a8e1f4325c9
         size: 9434752
       "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake002.sav":
-        hash: 756f900b24423208036dffb7de17af3f1fd50320
+        hash: e5645fa85810e5ec3a7f9eca50de983c01ef3f7d
         size: 9434752
       "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remakecommon.sav":
         hash: e7d9c6a120fb1fa1931ffd3bee528c364b248748
