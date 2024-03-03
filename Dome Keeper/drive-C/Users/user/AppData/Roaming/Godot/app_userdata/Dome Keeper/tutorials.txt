@@ -1,1 +1,1 @@
-{"stationdefend":4,"repair1":4,"repair2":3,"keeper1_pickup":4,"keeper1_drop":4,"drillbotcarry":4,"drillbothandling":4,"drillbotsleeping":4,"probe":4,"onewayteleporter":4}
+{"stationdefend":4,"repair1":4,"repair2":3,"keeper1_pickup":4,"keeper1_drop":4,"drillbotcarry":4,"drillbothandling":4,"drillbotsleeping":4,"probe":4,"onewayteleporter":4,"blastmining":4,"mineraltree":3,"assessor2_intro":4,"assessor2_bundle":4,"assessor2_guidance":4,"assessor2_reflect":4,"sword_intro":4}

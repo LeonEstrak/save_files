@@ -1,0 +1,860 @@
+Godot Engine v3.5.1.stable.custom_build.6fed1ffa3 - https://godotengine.org
+OpenGL ES 3.0 Renderer: AMD Radeon RX 6800 XT
+Async. shader compilation: OFF
+ 
+INFO ModLoader: game_install_directory: D:/SteamLibrary/steamapps/common/Dome Keeper/
+WARNING ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+WARNING: No mod_ids inside "mod_list" for user profile "default" 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - No mod_ids inside "mod_list" for user profile "default" 
+INFO ModLoader:ThirdParty:Steam: Checking workshop items, with path: "D:/SteamLibrary/steamapps/workshop/content/1637320"
+Can't open workshop folder D:/SteamLibrary/steamapps/workshop/content/1637320 (Error: 31)
+ERROR: Can't open workshop folder D:/SteamLibrary/steamapps/workshop/content/1637320 (Error: 31)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:775) - Can't open workshop folder D:/SteamLibrary/steamapps/workshop/content/1637320 (Error: 31)
+INFO ModLoader: No zipped mods found
+Can't open unpacked mods folder res://mods-unpacked/.
+ERROR: Can't open unpacked mods folder res://mods-unpacked/.
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:775) - Can't open unpacked mods folder res://mods-unpacked/.
+INFO ModLoader: No mods were setup
+SUCCESS ModLoader: DONE: Loaded all meta data
+SUCCESS ModLoader: DONE: Completely finished loading mods
+SUCCESS ModLoader: DONE: Installed all script extensions
+Upgrade swordtargetlock has an unknown predecessor notavailable. Removing it from upgrades. Data: 
+Upgrade orchardbattlerootingdigestion has an unknown predecessor orchardbattlerooting_deactivatedfornow. Removing it from upgrades. Data: 
+Upgrade orchardbattlerootingdigestioninvulnerable has an unknown predecessor orchardbattlerootingdigestion. Removing it from upgrades. Data: 
+setting palette to palette_1_1
+Steam App ID: 1637320
+Pioneer pack subscription: False
+Assessor Booster pack subscription: False
+no new version detected
+setting target fps to 250
+current locale is en_US, changing to en_GB
+Backend._on_PlayFabClient_logged_in: successful login Data: "8627E6A12D436BA4"
+current leaderboard domekeeper_prestige_season5
+Leaderboard domekeeper_prestige_season5 not cached, trying to find it
+setting palette to palette_1_1
+Leaderboard found
+loading domekeeper_prestige_season5 0
+loading domekeeper_prestige_season5 1
+loading domekeeper_prestige_season5 3
+finished loading domekeeper_prestige_season5
+setting palette to palette_1_1
+add input: PopupInput - LoadoutStage
+--- input state ---
+- PopupInput - LoadoutStage
+-------------------
+stop input: PopupInput - LoadoutStage
+--- input state ---
+-------------------
+setting palette to palette_1_1
+procedural generation finished
+add input: Keeper1InputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+WARNING: The method get_friction has been deprecated and will be removed in the future, use physics material instead.
+   at: RigidBody2D::get_friction (scene\2d\physics_body_2d.cpp:536) - This method has been deprecated and will be removed in the future.
+WARNING: The method set_friction has been deprecated and will be removed in the future, use physics material instead.
+   at: RigidBody2D::set_friction (scene\2d\physics_body_2d.cpp:525) - This method has been deprecated and will be removed in the future.
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: GadgetChoiceInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    GadgetChoiceInputProcessor - LevelStage
+-------------------
+stop input: GadgetChoiceInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+add input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-          PopupInput - LevelStage
+-------------------
+stop input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    PopupInput - LevelStage
+-------------------
+stop input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: GadgetChoiceInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    GadgetChoiceInputProcessor - LevelStage
+-------------------
+stop input: GadgetChoiceInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+ERROR: Tried to access unknown data teleporter.teleportitems
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:775) - Tried to access unknown data teleporter.teleportitems
+: Tried to access unknown data teleporter.teleportitems Data: 
+add input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    PopupInput - LevelStage
+-------------------
+stop input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+add input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-          PopupInput - LevelStage
+-------------------
+stop input: PopupInput - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+ERROR: Tried to access unknown data teleporter.teleportitems
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:775) - Tried to access unknown data teleporter.teleportitems
+: Tried to access unknown data teleporter.teleportitems Data: 
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+saved game state for save 0
+saved map state for save 0
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+stop input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-------------------
+add input: StationInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       UpgradesInputProcessor - LevelStage
+-------------------
+stop input: UpgradesInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-------------------
+add input: BattleInputProcessor - LevelStage
+--- input state ---
+- Keeper1InputProcessor - LevelStage
+-    StationInputProcessor - LevelStage
+-       BattleInputProcessor - LevelStage
+-------------------
+stop input: Keeper1InputProcessor - LevelStage
+transitive stop input: StationInputProcessor - LevelStage
+transitive stop input: BattleInputProcessor - LevelStage
+--- input state ---
+-------------------
+current leaderboard domekeeper_prestige_season5
+Leaderboard domekeeper_prestige_season5 not cached, trying to find it
+setting palette to palette_1_1
+Leaderboard found
+loading domekeeper_prestige_season5 0
+loading domekeeper_prestige_season5 1
+loading domekeeper_prestige_season5 3
+finished loading domekeeper_prestige_season5
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: ObjectDB::cleanup (core\object.cpp:2070) - ObjectDB instances leaked at exit (run with --verbose for details).
+ERROR: Resources still in use at exit (run with --verbose for details).
+   at: ResourceCache::clear (core\resource.cpp:417) - Resources still in use at exit (run with --verbose for details).

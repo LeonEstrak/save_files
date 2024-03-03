@@ -1,0 +1,11 @@
+2023-12-29 Created log
+20:22:07   INFO ModLoader: game_install_directory: D:/SteamLibrary/steamapps/common/Dome Keeper/
+20:22:07   WARNING ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+20:22:07   INFO ModLoader:ThirdParty:Steam: Checking workshop items, with path: "D:/SteamLibrary/steamapps/workshop/content/1637320"
+20:22:07   ERROR ModLoader:ThirdParty:Steam: Can't open workshop folder D:/SteamLibrary/steamapps/workshop/content/1637320 (Error: 31)
+20:22:07   INFO ModLoader: No zipped mods found
+20:22:07   ERROR ModLoader: Can't open unpacked mods folder res://mods-unpacked/.
+20:22:07   INFO ModLoader: No mods were setup
+20:22:07   SUCCESS ModLoader: DONE: Loaded all meta data
+20:22:07   SUCCESS ModLoader: DONE: Completely finished loading mods
+20:22:07   SUCCESS ModLoader: DONE: Installed all script extensions

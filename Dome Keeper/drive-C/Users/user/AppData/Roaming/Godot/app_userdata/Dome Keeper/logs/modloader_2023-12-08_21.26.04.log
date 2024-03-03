@@ -1,0 +1,13 @@
+2023-12-08 Created log
+17:11:51   INFO ModLoader: game_install_directory: D:/SteamLibrary/steamapps/common/Dome Keeper/
+17:11:51   ERROR ModLoader:UserProfile: No profile file found at "user://mod_user_profiles.json"
+17:11:51   INFO ModLoader:ThirdParty:Steam: Checking workshop items, with path: "D:/SteamLibrary/steamapps/workshop/content/1637320"
+17:11:51   ERROR ModLoader:ThirdParty:Steam: Can't open workshop folder D:/SteamLibrary/steamapps/workshop/content/1637320 (Error: 31)
+17:11:51   INFO ModLoader: No zipped mods found
+17:11:51   ERROR ModLoader: Can't open unpacked mods folder res://mods-unpacked/.
+17:11:52   INFO ModLoader: No mods were setup
+17:11:52   INFO ModLoader:UserProfile: There is no current user profile. The "default" profile will be created.
+17:11:52   SUCCESS ModLoader: DONE: Loaded all meta data
+17:11:52   SUCCESS ModLoader: DONE: Completely finished loading mods
+17:11:52   SUCCESS ModLoader: DONE: Installed all script extensions
+17:11:52   WARNING ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
