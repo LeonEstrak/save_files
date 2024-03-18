@@ -4,7 +4,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-12-29T17:56:14.190598200Z"
+    when: "2024-03-18T16:55:48.675542900Z"
     os: windows
     files:
       "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosave0/checkpoint.dat":
@@ -160,6 +160,33 @@ backups:
       "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp6/slotinfo.ini":
         hash: 57b3ab283919d6b6f66041a7ce1cb03c6f4853a9
         size: 263
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp7/checkpoint.dat":
+        hash: 1b362cd631eaaae2bb2f99667011a2d1712944f5
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp7/icon.png":
+        hash: c2bdf6a523b0f59b1e40439dc417e730ccded98e
+        size: 262379
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp7/slotinfo.ini":
+        hash: 1877642d6471793446a106c37cd7cff407b0be79
+        size: 255
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp8/checkpoint.dat":
+        hash: ecddc5e92a674a3165eea0d6ac1b80f7d59b3c70
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp8/icon.png":
+        hash: ff3eb039683beea0713ee88a3f9e00de58a1025a
+        size: 251717
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp8/slotinfo.ini":
+        hash: 4930f1f69c6bd57f84c93df3edd848019f44161a
+        size: 255
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp9/checkpoint.dat":
+        hash: 7a3472af89bc300c0d31b920696eccbc2df27adb
+        size: 1048576
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp9/icon.png":
+        hash: c0be476186f84eb5562b1356e84606de5aa435a3
+        size: 271683
+      "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/autosavengp9/slotinfo.ini":
+        hash: 6642461d3ee0c878cc2af3009f5de4bfdab899c0
+        size: 255
       "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/manualsave0/checkpoint.dat":
         hash: 7da970f255cfa24b76f5ea833bdd38f49346eccb
         size: 1048576
@@ -200,7 +227,7 @@ backups:
         hash: 744ae327b40d392d753e18417c0cb09fdd14fc23
         size: 1599
       "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/profile/profile.dat":
-        hash: b827bb63387e29733ab1981796931f4ace8671bf
+        hash: 2d38b01199b10ca8418dadc95af1c681b986ff2c
         size: 196608
       "C:/Users/user/Documents/Horizon Zero Dawn/Saved Game/profile/slotinfo.ini":
         hash: 23fb44179ac4f7a3f1f5ca94d8d0fb3adb47c640
