@@ -24,7 +24,7 @@ HKEY_CURRENT_USER:
     ExclusiveFullscreen:
       dword: 1
     ExposureOffset:
-      dword: 800
+      dword: 399
     FSRQuality:
       dword: 0
     Fullscreen:
