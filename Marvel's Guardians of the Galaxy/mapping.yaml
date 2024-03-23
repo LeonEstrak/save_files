@@ -4,18 +4,18 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-03-19T18:19:27.733730Z"
+    when: "2024-03-20T15:27:07.557854200Z"
     os: windows
     files:
       "C:/Users/user/AppData/Roaming/Epic/Eidos Montreal/Marvel's Guardians of the Galaxy/game_profile.bin":
-        hash: d6d0c4ea513013eaf294815a8717de6577b9ae66
-        size: 154712
+        hash: fca526573f5347c12fa1738cc08ba5a4c8904689
+        size: 229733
       "C:/Users/user/AppData/Roaming/Epic/Eidos Montreal/Marvel's Guardians of the Galaxy/gotgsavegame0000.dat":
-        hash: c12167a10944fa69b90869fc65da633195dc3541
-        size: 48761
+        hash: 9928628bfc921d3417e81552c712163745016ae0
+        size: 76212
       "C:/Users/user/AppData/Roaming/Epic/Eidos Montreal/Marvel's Guardians of the Galaxy/gotgsavegame0001.dat":
-        hash: 63f3a56c179809c7692c1f33bd623faa4740d15f
-        size: 62007
+        hash: 7886c3b1e32037f7c5b3d70bad0b0606bfab16be
+        size: 76212
     registry:
       hash: 4b41d7ba8bf289ce580a97c5834e78b63614fd3c
     children: []
