@@ -1,0 +1,413 @@
+---
+HKEY_CURRENT_USER:
+  "Software\\Guerrilla Games\\Horizon Forbidden West Complete Edition":
+    FirstRun:
+      dword: 0
+    ShowLauncher:
+      dword: 0
+    UserStoreLanguage:
+      dword: 1
+  "Software\\Guerrilla Games\\Horizon Forbidden West Complete Edition\\Graphics":
+    AA:
+      dword: 2
+    AmbientOcclusionQuality:
+      dword: 1
+    AspectRatio:
+      dword: 0
+    AsyncCompute:
+      dword: 1
+    Bloom:
+      dword: 1
+    Brightness:
+      dword: 551
+    ChromaticAberration:
+      dword: 1
+    CloudsQuality:
+      dword: 2
+    Contrast:
+      dword: 1000
+    CrowdDetail:
+      dword: 2
+    DLSSG:
+      dword: 0
+    DOFQuality:
+      dword: 2
+    DynamicResolutionTargetFPS:
+      dword: 45
+    ExclusiveFullscreen:
+      dword: 1
+    FOVCorrection:
+      dword: 1250
+    ForcedAspectRatio:
+      dword: 0
+    Fullscreen:
+      dword: 1
+    FullscreenHeight:
+      dword: 1080
+    FullscreenWidth:
+      dword: 1920
+    HDR:
+      dword: 0
+    HDRHighlightBoost:
+      dword: 500
+    HDRMaxNits:
+      dword: 399953
+    HDRPaperWhite:
+      dword: 1131151360
+    HDRShadowBoost:
+      dword: 500
+    HairQuality:
+      dword: 3
+    LensFlares:
+      dword: 1
+    LetterboxCinematics:
+      dword: 1
+    LevelOfDetail:
+      dword: 3
+    Monitor:
+      dword: 0
+    MotionBlurScale:
+      dword: 1000
+    MultiMonitorEnabled:
+      dword: 0
+    ParallaxOcclusion:
+      dword: 0
+    ProcessWorkingSetSize:
+      dword: 0
+    ReflexMode:
+      dword: 0
+    RefreshRate:
+      dword: 60
+    ScreenEffects:
+      dword: 1
+    ScreenSpaceReflections:
+      dword: 2
+    ScreenSpaceShadows:
+      dword: 1
+    ShadowQuality:
+      dword: 4
+    Sharpness:
+      dword: 500
+    TerrainQuality:
+      dword: 2
+    TextureFiltering:
+      dword: 2
+    TextureQuality:
+      dword: 2
+    TranslucencyQuality:
+      dword: 0
+    UpscaleMethod:
+      dword: 0
+    UpscaleQuality:
+      dword: 3
+    UserWindowHeight:
+      dword: 810
+    UserWindowWidth:
+      dword: 1440
+    VSync:
+      dword: 1
+    Vignette:
+      dword: 1
+    WaterQuality:
+      dword: 2
+    WindowHeight:
+      dword: 1080
+    WindowLeft:
+      dword: 240
+    WindowMaximized:
+      dword: 0
+    WindowTop:
+      dword: 135
+    WindowWidth:
+      dword: 1920
+  "Software\\Guerrilla Games\\Horizon Forbidden West Complete Edition\\Input":
+    06d489d7-9786-44db-b938-ada215082cd1_1:
+      dword: 29
+    06d489d7-9786-44db-b938-ada215082cd1_2:
+      dword: 1000
+    0b92ba11-900c-448c-bc19-d468ad41b630_1:
+      dword: 300
+    0b92ba11-900c-448c-bc19-d468ad41b630_2:
+      dword: 1000
+    0d99b8c3-c9ec-4cbc-8538-94a2277a540b_1:
+      dword: 306
+    0d99b8c3-c9ec-4cbc-8538-94a2277a540b_2:
+      dword: 1000
+    133ceb15-d72d-4aa1-8b71-fd6c7a2c5db9_1:
+      dword: 36
+    133ceb15-d72d-4aa1-8b71-fd6c7a2c5db9_2:
+      dword: 1000
+    147d5920-e216-4ddf-b2bb-2cd224783723_1:
+      dword: 305
+    147d5920-e216-4ddf-b2bb-2cd224783723_2:
+      dword: 1000
+    1d57f059-ff51-4009-a9bf-9a4f2ac45aea_1:
+      dword: 19
+    1d57f059-ff51-4009-a9bf-9a4f2ac45aea_2:
+      dword: 1000
+    275546a5-455c-4323-9b63-d1aec44f3798_1:
+      dword: 301
+    275546a5-455c-4323-9b63-d1aec44f3798_2:
+      dword: 1000
+    32876a0a-c71e-4482-81e3-ea3db72ed437_1:
+      dword: 57
+    32876a0a-c71e-4482-81e3-ea3db72ed437_2:
+      dword: 1000
+    342aeade-5d60-4e87-8209-d82020ff4096_1:
+      dword: 6
+    342aeade-5d60-4e87-8209-d82020ff4096_2:
+      dword: 1000
+    361ed470-696f-403b-9bdf-f80fda7f6545_1:
+      dword: 18
+    361ed470-696f-403b-9bdf-f80fda7f6545_2:
+      dword: 1000
+    3752fc86-0abc-419c-91c9-fa2f7e8be55f_1:
+      dword: 57
+    3752fc86-0abc-419c-91c9-fa2f7e8be55f_2:
+      dword: 1000
+    37df239d-5405-4224-a302-90e85d5274f2_1:
+      dword: 29
+    37df239d-5405-4224-a302-90e85d5274f2_2:
+      dword: 1000
+    3f29341a-afb6-461d-be0f-67c2916c558e_1:
+      dword: 2
+    3f29341a-afb6-461d-be0f-67c2916c558e_2:
+      dword: 1000
+    3f347478-8220-4b79-a61f-b7af5e8a3b54_1:
+      dword: 32
+    3f347478-8220-4b79-a61f-b7af5e8a3b54_2:
+      dword: 1000
+    55410024-9f52-4170-aec0-070aecb84a77_1:
+      dword: 57
+    55410024-9f52-4170-aec0-070aecb84a77_2:
+      dword: 46
+    60dd21a5-792a-4b1d-aec9-0f80c8bcc200_1:
+      dword: 29
+    60dd21a5-792a-4b1d-aec9-0f80c8bcc200_2:
+      dword: 1000
+    69ff2fe7-3b91-4d53-9b09-a30d8e73be78_1:
+      dword: 46
+    69ff2fe7-3b91-4d53-9b09-a30d8e73be78_2:
+      dword: 1000
+    6a7f8840-fb02-11e9-bdf7-6c2b59c965b6_1:
+      dword: 19
+    6a7f8840-fb02-11e9-bdf7-6c2b59c965b6_2:
+      dword: 1000
+    6a7f8841-fb02-11e9-9825-6c2b59c965b6_1:
+      dword: 42
+    6a7f8841-fb02-11e9-9825-6c2b59c965b6_2:
+      dword: 1000
+    6a7faf51-fb02-11e9-9c66-6c2b59c965b6_1:
+      dword: 34
+    6a7faf51-fb02-11e9-9c66-6c2b59c965b6_2:
+      dword: 303
+    6a7fd65f-fb02-11e9-89ee-6c2b59c965b6_1:
+      dword: 33
+    6a7fd65f-fb02-11e9-89ee-6c2b59c965b6_2:
+      dword: 1000
+    6a7fd660-fb02-11e9-85a4-6c2b59c965b6_1:
+      dword: 29
+    6a7fd660-fb02-11e9-85a4-6c2b59c965b6_2:
+      dword: 1000
+    6a802480-fb02-11e9-841b-6c2b59c965b6_1:
+      dword: 18
+    6a802480-fb02-11e9-841b-6c2b59c965b6_2:
+      dword: 1000
+    6a804b8f-fb02-11e9-8104-6c2b59c965b6_1:
+      dword: 301
+    6a804b8f-fb02-11e9-8104-6c2b59c965b6_2:
+      dword: 1000
+    6a804b90-fb02-11e9-8abf-6c2b59c965b6_1:
+      dword: 29
+    6a804b90-fb02-11e9-8abf-6c2b59c965b6_2:
+      dword: 1000
+    6a804b91-fb02-11e9-9828-6c2b59c965b6_1:
+      dword: 34
+    6a804b91-fb02-11e9-9828-6c2b59c965b6_2:
+      dword: 303
+    6a80729f-fb02-11e9-9707-6c2b59c965b6_1:
+      dword: 47
+    6a80729f-fb02-11e9-9707-6c2b59c965b6_2:
+      dword: 1000
+    6a8099b1-fb02-11e9-9ad2-6c2b59c965b6_1:
+      dword: 42
+    6a8099b1-fb02-11e9-9ad2-6c2b59c965b6_2:
+      dword: 1000
+    6a80c0c0-fb02-11e9-b09a-6c2b59c965b6_1:
+      dword: 16
+    6a80c0c0-fb02-11e9-b09a-6c2b59c965b6_2:
+      dword: 1000
+    6a80e7cf-fb02-11e9-ab80-6c2b59c965b6_1:
+      dword: 301
+    6a80e7cf-fb02-11e9-ab80-6c2b59c965b6_2:
+      dword: 1000
+    6a80e7d0-fb02-11e9-a1f8-6c2b59c965b6_1:
+      dword: 301
+    6a80e7d0-fb02-11e9-a1f8-6c2b59c965b6_2:
+      dword: 1000
+    6a80e7d1-fb02-11e9-a1a9-6c2b59c965b6_1:
+      dword: 19
+    6a80e7d1-fb02-11e9-a1a9-6c2b59c965b6_2:
+      dword: 1000
+    6a810ee2-fb02-11e9-8578-6c2b59c965b6_1:
+      dword: 18
+    6a810ee2-fb02-11e9-8578-6c2b59c965b6_2:
+      dword: 1000
+    6a810ee4-fb02-11e9-ada5-6c2b59c965b6_1:
+      dword: 42
+    6a810ee4-fb02-11e9-ada5-6c2b59c965b6_2:
+      dword: 1000
+    6a8135f0-fb02-11e9-a359-6c2b59c965b6_1:
+      dword: 46
+    6a8135f0-fb02-11e9-a359-6c2b59c965b6_2:
+      dword: 1000
+    6a8135f2-fb02-11e9-ab7d-6c2b59c965b6_1:
+      dword: 300
+    6a8135f2-fb02-11e9-ab7d-6c2b59c965b6_2:
+      dword: 1000
+    6a815d02-fb02-11e9-8927-6c2b59c965b6_1:
+      dword: 46
+    6a815d02-fb02-11e9-8927-6c2b59c965b6_2:
+      dword: 1000
+    6a81840f-fb02-11e9-a717-6c2b59c965b6_1:
+      dword: 46
+    6a81840f-fb02-11e9-a717-6c2b59c965b6_2:
+      dword: 1000
+    6a81ab21-fb02-11e9-bcce-6c2b59c965b6_1:
+      dword: 46
+    6a81ab21-fb02-11e9-bcce-6c2b59c965b6_2:
+      dword: 1000
+    6a81ab23-fb02-11e9-ab6c-6c2b59c965b6_1:
+      dword: 302
+    6a81ab23-fb02-11e9-ab6c-6c2b59c965b6_2:
+      dword: 1000
+    6a81abee-fb02-11e9-ab6c-6c2b59c965b6_1:
+      dword: 56
+    6a81abee-fb02-11e9-ab6c-6c2b59c965b6_2:
+      dword: 1000
+    6a81d231-fb02-11e9-811b-6c2b59c965b6_1:
+      dword: 44
+    6a81d231-fb02-11e9-811b-6c2b59c965b6_2:
+      dword: 1000
+    6a81f943-fb02-11e9-867b-6c2b59c965b6_1:
+      dword: 29
+    6a81f943-fb02-11e9-867b-6c2b59c965b6_2:
+      dword: 1000
+    6a822053-fb02-11e9-9df6-6c2b59c965b6_1:
+      dword: 45
+    6a822053-fb02-11e9-9df6-6c2b59c965b6_2:
+      dword: 1000
+    6a826e6e-fb02-11e9-80ef-6c2b59c965b6_1:
+      dword: 301
+    6a826e6e-fb02-11e9-80ef-6c2b59c965b6_2:
+      dword: 1000
+    6a826e70-fb02-11e9-a3a0-6c2b59c965b6_1:
+      dword: 57
+    6a826e70-fb02-11e9-a3a0-6c2b59c965b6_2:
+      dword: 1000
+    6a829580-fb02-11e9-8394-6c2b59c965b6_1:
+      dword: 57
+    6a829580-fb02-11e9-8394-6c2b59c965b6_2:
+      dword: 1000
+    6c9ab90b-5e14-4ac4-973f-368ab1114709_1:
+      dword: 3
+    6c9ab90b-5e14-4ac4-973f-368ab1114709_2:
+      dword: 1000
+    6e4405a5-2bf4-4196-ba05-1a0da0b4f56b_1:
+      dword: 19
+    6e4405a5-2bf4-4196-ba05-1a0da0b4f56b_2:
+      dword: 1000
+    7dd02699-8157-4087-b917-074232f5f8da_1:
+      dword: 17
+    7dd02699-8157-4087-b917-074232f5f8da_2:
+      dword: 1000
+    7e42e828-9302-4720-abfc-89df862fdfad_1:
+      dword: 50
+    7e42e828-9302-4720-abfc-89df862fdfad_2:
+      dword: 1000
+    81af746b-eb0d-4a8b-bd1d-a91e107a9672_1:
+      dword: 301
+    81af746b-eb0d-4a8b-bd1d-a91e107a9672_2:
+      dword: 1000
+    8e306d32-0224-451f-ad4f-4962d6a03d21_1:
+      dword: 37
+    8e306d32-0224-451f-ad4f-4962d6a03d21_2:
+      dword: 1000
+    942e338e-2829-45fd-b5c8-324160001c81_1:
+      dword: 5
+    942e338e-2829-45fd-b5c8-324160001c81_2:
+      dword: 1000
+    96c1f7dc-7528-4276-88bf-7c625926812b_1:
+      dword: 29
+    96c1f7dc-7528-4276-88bf-7c625926812b_2:
+      dword: 1000
+    9b7b4a78-c280-4875-b2ac-ec23ac67faae_1:
+      dword: 4
+    9b7b4a78-c280-4875-b2ac-ec23ac67faae_2:
+      dword: 1000
+    9c910f86-dd76-4cb7-bdf0-7298d790892b_1:
+      dword: 30
+    9c910f86-dd76-4cb7-bdf0-7298d790892b_2:
+      dword: 1000
+    9eccc99b-9c2d-41fc-af92-a2123d470deb_1:
+      dword: 23
+    9eccc99b-9c2d-41fc-af92-a2123d470deb_2:
+      dword: 1000
+    Confirm_1:
+      dword: 301
+    Confirm_2:
+      dword: 57
+    EnableLibScePad:
+      dword: 1
+    EnableMouseSmoothing:
+      dword: 1
+    EnableWindowsGamingInput:
+      dword: 1
+    PauseMenu_Remappable_Input_Action_1:
+      dword: 1
+    PauseMenu_Remappable_Input_Action_2:
+      dword: 1000
+    PlayerMenu_Remappable_Input_Action_1:
+      dword: 15
+    PlayerMenu_Remappable_Input_Action_2:
+      dword: 1000
+    ShowHUD_Remappable_Input_Action_1:
+      dword: 35
+    ShowHUD_Remappable_Input_Action_2:
+      dword: 1000
+    bdf76551-1d18-43a2-97aa-a33141d19b57_1:
+      dword: 42
+    bdf76551-1d18-43a2-97aa-a33141d19b57_2:
+      dword: 1000
+    c0d3e9a4-b56a-417e-908c-e324cfd49a98_1:
+      dword: 31
+    c0d3e9a4-b56a-417e-908c-e324cfd49a98_2:
+      dword: 1000
+    cb21a86b-1d1a-4087-b3fb-3ebfce04f81d_1:
+      dword: 18
+    cb21a86b-1d1a-4087-b3fb-3ebfce04f81d_2:
+      dword: 1000
+    ebf38b75-253e-4325-8073-1c2a35979a50_1:
+      dword: 16
+    ebf38b75-253e-4325-8073-1c2a35979a50_2:
+      dword: 1000
+    ed6c6b9f-f55a-4366-b22e-5907b9c4bc95_1:
+      dword: 42
+    ed6c6b9f-f55a-4366-b22e-5907b9c4bc95_2:
+      dword: 1000
+    ef20771c-5618-4050-99d2-184130f2343b_1:
+      dword: 49
+    ef20771c-5618-4050-99d2-184130f2343b_2:
+      dword: 1000
+    f1be9c37-037e-4f11-9a3c-032fe921f499_1:
+      dword: 29
+    f1be9c37-037e-4f11-9a3c-032fe921f499_2:
+      dword: 1000
+    f966ceef-186a-4f98-9847-4c98ff666434_1:
+      dword: 7
+    f966ceef-186a-4f98-9847-4c98ff666434_2:
+      dword: 1000
+    fc7840b1-7649-4c2f-aeb8-ae47182576e8_1:
+      dword: 58
+    fc7840b1-7649-4c2f-aeb8-ae47182576e8_2:
+      dword: 1000

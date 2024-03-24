@@ -1,0 +1,63 @@
+---
+name: Horizon Forbidden West
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2024-03-24T09:59:41.416273Z"
+    os: windows
+    files:
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/autosave0.dat":
+        hash: 8ef7592fb22401199ce29811874b861318aa2bcd
+        size: 603817
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/autosave1.dat":
+        hash: 21ada5ee2fb1ce7dae5234c9cfb0742c36da9c45
+        size: 424410
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/autosave2.dat":
+        hash: cb99b72a1c59bc5b0e6837614033f6663b46e1c6
+        size: 565733
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/autosave3.dat":
+        hash: 2f7b0b746ece4118c1790707ad65d18eda4f5673
+        size: 558394
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/autosave4.dat":
+        hash: 2eacfc509adfcc79edfdc1eb926451186cad333f
+        size: 565305
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/courtesysave0.dat":
+        hash: 95ecb2012a26a0dc28fd3e1f0d5f42587bb598cf
+        size: 633981
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/courtesysave1.dat":
+        hash: 2fdef6fd22bf76564a69abc537aaa52c838e8ec6
+        size: 621042
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/courtesysave2.dat":
+        hash: 78a12de8f51336fcb024fcb417c7f3d306ba8fab
+        size: 356108
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/courtesysave3.dat":
+        hash: fc078968e26edf22dab5b67064e6707e9613e42a
+        size: 512560
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/courtesysave4.dat":
+        hash: ba43cd7965ddcbbb7ab3ecce31f921781d94e924
+        size: 552090
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/preencountersave0.dat":
+        hash: 0873da23ae4c3e9e9c4f26ebe34594a6eb8dfea8
+        size: 412268
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/profile.dat":
+        hash: 17cfdb3819dbb8b5ea5d9413777c683fd71c0e10
+        size: 197012
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/quicksave0.dat":
+        hash: 20c33de575cb3eaad5259dd170f3bf6c103659f4
+        size: 354659
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/quicksave1.dat":
+        hash: 88312cd9d835b2b63bc30266ae468b1b1a12087e
+        size: 617870
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/quicksave2.dat":
+        hash: 893e1c967d32a44a543bd138545529e4e90daf2a
+        size: 355795
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/quicksave3.dat":
+        hash: 16fd156b635faa50e83f3adc7c8862cef822c8c0
+        size: 576633
+      "C:/Users/user/Documents/Horizon Forbidden West Complete Edition/76561199604718700/quicksave4.dat":
+        hash: f7aebad196ff57271a8f870569c98256dc3c552a
+        size: 576629
+    registry:
+      hash: 4f1c4a3431b379f7413c9cb8027a7a0442c54b6e
+    children: []
