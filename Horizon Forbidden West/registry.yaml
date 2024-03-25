@@ -33,7 +33,7 @@ HKEY_CURRENT_USER:
     DOFQuality:
       dword: 2
     DynamicResolutionTargetFPS:
-      dword: 45
+      dword: 0
     ExclusiveFullscreen:
       dword: 1
     FOVCorrection:
