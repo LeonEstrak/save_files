@@ -19,7 +19,7 @@ HKEY_CURRENT_USER:
     Bloom:
       dword: 1
     Brightness:
-      dword: 551
+      dword: 401
     ChromaticAberration:
       dword: 1
     CloudsQuality:
