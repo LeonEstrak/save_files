@@ -1,15 +1,16 @@
 ---
 name: Thronefall
 drives:
+  drive-0: ""
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-11-24T12:17:38.783123700Z"
-    os: windows
+    when: "2024-05-26T15:47:25.987358330Z"
+    os: linux
     files:
-      "C:/Users/user/AppData/LocalLow/Grizzly Games/Thronefall/ThroneSave.sav":
-        hash: 1db58c41f167c99a77c7e049b9b4c3cdb8585c80
-        size: 1812
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2239150/pfx/drive_c/users/steamuser/AppData/LocalLow/Grizzly Games/Thronefall/ThroneSave.sav:
+        hash: af5f497b56503d59eab60f5f76cfa56fd9710148
+        size: 2238
     registry:
       hash: ~
     children: []

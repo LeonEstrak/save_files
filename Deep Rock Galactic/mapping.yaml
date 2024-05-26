@@ -1,0 +1,39 @@
+---
+name: Deep Rock Galactic
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-05-26T15:47:25.994256258Z"
+    os: linux
+    files:
+      /home/aniket/.local/share/Steam/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198062383813_Backup_0.sav:
+        hash: 25aefee44d7d73d3138cd7bff4da7c556c16d668
+        size: 129170
+      /home/aniket/.local/share/Steam/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198062383813_Backup_1.sav:
+        hash: b8c1a2b17a3d868ad6765247124b2aa51c121f04
+        size: 87197
+      /home/aniket/.local/share/Steam/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198062383813_Backup_2.sav:
+        hash: 1c9685ff00ba9d85dc1a1828264a7a375df59bc0
+        size: 124769
+      /home/aniket/.local/share/Steam/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198062383813_Backup_3.sav:
+        hash: 1cd1ca72d040f678652065d63fc1ed083d0e98fc
+        size: 125123
+      /home/aniket/.local/share/Steam/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198062383813_Player.sav:
+        hash: 25aefee44d7d73d3138cd7bff4da7c556c16d668
+        size: 129170
+      /home/aniket/.local/share/Steam/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198062383813_Player_ExternalBackup_0.sav:
+        hash: 25aefee44d7d73d3138cd7bff4da7c556c16d668
+        size: 129170
+      /home/aniket/.local/share/Steam/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198062383813_Player_ExternalBackup_3.sav:
+        hash: 50615f9a50e16dc7f8664038f2d5f18755c50e8a
+        size: 82570
+      /home/aniket/.local/share/Steam/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198062383813_Player_ExternalBackup_4.sav:
+        hash: b8c1a2b17a3d868ad6765247124b2aa51c121f04
+        size: 87197
+      /home/aniket/.local/share/Steam/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198062383813_Player_ExternalBackup_5.sav:
+        hash: 1c9685ff00ba9d85dc1a1828264a7a375df59bc0
+        size: 124769
+    registry:
+      hash: ~
+    children: []

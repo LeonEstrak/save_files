@@ -1,0 +1,24 @@
+---
+name: Hades II
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-05-26T15:47:25.988190631Z"
+    os: linux
+    files:
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1145350/pfx/drive_c/users/steamuser/Saved Games/Hades II/GlobalSettingsWin.sjson:
+        hash: 1fc5d755b3a8baeb3a01aedc7c4f7a6511569f14
+        size: 227
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1145350/pfx/drive_c/users/steamuser/Saved Games/Hades II/Profile1.sav:
+        hash: 7305fbf8abf5192bf2ffda9fbed7ae7af3f5af90
+        size: 557947
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1145350/pfx/drive_c/users/steamuser/Saved Games/Hades II/Profile1.v.sav:
+        hash: cf97f67fd82093ca6797749c478bde32e5dd26e0
+        size: 9
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1145350/pfx/drive_c/users/steamuser/Saved Games/Hades II/Profile1_Temp.sav:
+        hash: e974dee7177ea0002a388de78633e4012b21af6b
+        size: 581966
+    registry:
+      hash: ~
+    children: []

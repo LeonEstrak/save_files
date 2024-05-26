@@ -1,0 +1,126 @@
+---
+name: "Ghost of Tsushima Director's Cut"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-05-26T15:37:07.711567841Z"
+    os: linux
+    files:
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/AppData/Roaming/Sucker Punch Productions/Ghost of Tsushima DIRECTOR'S CUT/crs/metadata":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/AppData/Roaming/Sucker Punch Productions/Ghost of Tsushima DIRECTOR'S CUT/crs/settings.dat":
+        hash: 9e8501eec516ca3c90862fe55a47ca0718bd6a2e
+        size: 40
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/auto.sav":
+        hash: 16e32b4f5370195f804271277d671e7e67372d80
+        size: 328116
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_00.sav":
+        hash: 4ace29bc9628c3da5178e4daba34af469bc20539
+        size: 328024
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_01.sav":
+        hash: b1ad363a17d8fe02e51585ec9a508f8be1c6dd48
+        size: 327971
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_02.sav":
+        hash: 338b621527612fce3f5f38c77f53eccd4037fcfa
+        size: 327676
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_03.sav":
+        hash: 696498f105b6f2f8d88937fb5b028d92a9700f07
+        size: 327627
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_04.sav":
+        hash: 24dcd247813056733a2963939aadc6a13fd2b365
+        size: 327607
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_05.sav":
+        hash: 68698a8f49b90914facc398bdc56352fe50e3932
+        size: 327605
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_06.sav":
+        hash: d24032e44f02b6589f4d39f70432d100f4f205d7
+        size: 327496
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_07.sav":
+        hash: 2770cc30c65bb6f2d7a595233159ce0a1691e661
+        size: 327380
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_08.sav":
+        hash: 2e91034f69d80c5b5cbdf55aff3370d6c92b8e60
+        size: 327368
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_09.sav":
+        hash: 31a95ed54c8e4ebf0120add05f7b68f1dc60e88f
+        size: 327316
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0000.sav":
+        hash: fea125212d99922468b38bfcfe2339ed601f0366
+        size: 278926
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0001.sav":
+        hash: d91cdd9e959ff0f5a6a7a2ff43dc680c8054b5eb
+        size: 314164
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0002.sav":
+        hash: 5956ab1480e6d15abf8282aa9c78df4c3f5e9462
+        size: 314456
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0003.sav":
+        hash: 37611e80ef0c88019659326b9e3ee233536e7623
+        size: 315017
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0004.sav":
+        hash: 153cf68354f7f44c747383b612e591f01ab8f9e8
+        size: 316612
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0005.sav":
+        hash: 53c3de39bd3054ca7f5a8a1b62f0495fff9b2279
+        size: 318776
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0006.sav":
+        hash: eab28a92af21be62eaeed40ceafd1cd535ba393b
+        size: 320198
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0007.sav":
+        hash: db7b841781b60e5a5ca834daf6a2332b61bb628c
+        size: 320226
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0008.sav":
+        hash: a9dbe7ba4739775565cae89326512a45a24db2a6
+        size: 320973
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0009.sav":
+        hash: 0c86503c9b6ccf545e18416316ceb4116571fbff
+        size: 321639
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0010.sav":
+        hash: e1a5786a0c92ddd4f31d97e2ffed1829c9ab6a32
+        size: 322003
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0011.sav":
+        hash: 2e6a23fbd3fc11e5bd78afc2688cec2e0cd4e0a2
+        size: 322081
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0012.sav":
+        hash: 42d4d2d7f71f4d3676548c6da3fcd0b1ea40e975
+        size: 323522
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0013.sav":
+        hash: 6b495336cfbf7bc87bd03c073f1b9a70396b2485
+        size: 324466
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0014.sav":
+        hash: afc58729ab077de1d00c60be5060ecc3d9138568
+        size: 325567
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0015.sav":
+        hash: 701071a8a33a1b7e6b2a939969da5e18e7394d03
+        size: 326052
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0016.sav":
+        hash: cdf40bc52f593c6db663d5ee52672d707ffa3ac6
+        size: 326520
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0017.sav":
+        hash: c7b6feefa6ad3f4274c7cd0b403aee2642f936fd
+        size: 326884
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0018.sav":
+        hash: f81fbdff7a9003fd8bece1c287af25da407d6766
+        size: 327627
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0019.sav":
+        hash: d6a5a063a304d7a4c1a017cb445e085eadd6d83c
+        size: 328116
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/steam_autocloud.vdf":
+        hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
+        size: 52
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/Ghost of Tsushima DIRECTOR'S CUT.log":
+        hash: 4640ac56eafebe6c788bf70b34fe8ca5dfb1b377
+        size: 26063
+      /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/system.reg:
+        hash: 35cf51bd47493267f2fc387c43ec54b2b2e27102
+        size: 3728120
+      /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/user.reg:
+        hash: a9f33b80305251dd78751a7291714f922325a28e
+        size: 46088
+      /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/userdef.reg:
+        hash: 87d26dae8598d851436ca58465f9497454d5eca0
+        size: 4190
+    registry:
+      hash: ~
+    children: []

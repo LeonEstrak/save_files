@@ -1,0 +1,9 @@
+{
+  GraphicsQualityPreset = "GraphicsQualityPreset_High"
+  NewUpdateSoundRevisionViewed = 90373
+  LastRoadmapRevisionViewed = 90373
+  LastPatchNoteRevisionViewed = 90373
+  Y = 1080
+  X = 1920
+  AutoDetectLowResAssets = false
+}

@@ -1,0 +1,45 @@
+---
+name: Fallout 4
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-05-26T15:47:26.071993549Z"
+    os: linux
+    files:
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Fallout4.ini:
+        hash: 964b16e15d290ae306764edabd33b87c66d5dae2
+        size: 2465
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Fallout4Custom.ini:
+        hash: 9a3a84619fc841d7cce9a006a82d71904afe16c5
+        size: 41
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Fallout4Prefs.ini:
+        hash: 741166a44d0e99483efd04c1a9ec150d7796d34d
+        size: 4969
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Logs/BNet/BNet.0.log:
+        hash: 03f550acecc62e83d8bd7fb1023190b36f135270
+        size: 171
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Saves/Autosave1_653A2750_4C656F6E_zLexingtonApartments_000326_20240427100156_5_2.fos:
+        hash: ee8f1b02d22680c42ef992a19e6906c56d140bfe
+        size: 6688651
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Saves/Autosave2_653A2750_4C656F6E_Commonwealth_000328_20240427100427_5_2.fos:
+        hash: eeee9222a00f033a65ac88c61936aa29a35c61c4
+        size: 6980302
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Saves/Autosave3_653A2750_4C656F6E_Commonwealth_000323_20240427095810_5_2.fos:
+        hash: 3630a68d838813cfe7dd50698747f617dac893e8
+        size: 7126253
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Saves/Exitsave0_653A2750_4C656F6E_Commonwealth_000329_20240427100451_5_2.fos:
+        hash: 8ecce4976049c9f3a67c846ec50720a4d6e13b34
+        size: 6977618
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Saves/Quicksave0_653A2750_4C656F6E_Commonwealth_000329_20240427100446_5_2.fos:
+        hash: 8a9cd6ebc5859c1c012d3a4a67422a57e478898b
+        size: 6979646
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Saves/Save1_653A2750_4C656F6E_Vault111Cryo_000038_20240417105140_1_2.fos:
+        hash: c4a5e16d436f6c5d4fa7fdddc3fa76e85745ac19
+        size: 4785925
+      /home/aniket/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Saves/steam_autocloud.vdf:
+        hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
+        size: 52
+    registry:
+      hash: ~
+    children: []

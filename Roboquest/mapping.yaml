@@ -1,142 +1,83 @@
 ---
 name: Roboquest
 drives:
+  drive-0: ""
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-04-11T10:05:42.616222500Z"
-    os: windows
+    when: "2024-05-26T15:47:25.994490956Z"
+    os: linux
     files:
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-110E50E2458BE64E98B624B424926236/CrashReportClient.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-0035D78F42B9CC1FDBCC199A18A4BF6A/CrashReportClient.ini:
         hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
         size: 112
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-4F2B077C4991198B4EC5319D776BFAC6/CrashReportClient.ini":
-        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
-        size: 112
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-9C2564DF4302340E0B7E7E8A0B84F701/CrashReportClient.ini":
-        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
-        size: 112
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-A933257740DC453AB8FE31A241B5CAD8/CrashReportClient.ini":
-        hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
-        size: 112
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/ApexDestruction.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/ApexDestruction.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/DeviceProfiles.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Compat.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/Engine.ini":
-        hash: d40ff817eb8576cdb6c1ec838ab3a50fde5ee3b7
-        size: 1603
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/Game.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/DeviceProfiles.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/GameUserSettings.ini":
-        hash: 2d90e8e85adcf8dcd82ffd26698ac3fd1ce0c89a
-        size: 1350
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/Hardware.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/Input.ini":
-        hash: 569ec12055e84cbb94ee7960d05ba238bb1e8cce
-        size: 7324
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/MotoSynth.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/Niagara.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/OnlineSubsystemRedpointEOS.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/Paper2D.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/PhysXVehicles.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/RuntimeOptions.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/Scalability.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/Synthesis.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WinGDK/VariantManagerContent.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/ApexDestruction.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Compat.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/DeviceProfiles.ini":
-        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
-        size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Engine.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Engine.ini:
         hash: 1991a340145a793aedc0436d8b294f453cc4e22c
         size: 1426
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Game.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Game.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/GameUserSettings.ini":
-        hash: 7629321c81e44c3cfbbd55f5ca86bbbd1f6fc0d3
-        size: 1351
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Hardware.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/GameUserSettings.ini:
+        hash: 759947c3b76ed3ed1f9d22db3163388c40ebab71
+        size: 1353
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Hardware.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Input.ini":
-        hash: 9879062088dd11059c2a93e9af89cebac5cefb9c
-        size: 7321
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/MotoSynth.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Input.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Niagara.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/MotoSynth.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/OnlineSubsystemRedpointEOS.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Niagara.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Paper2D.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/OnlineSubsystemRedpointEOS.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/PhysXVehicles.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Paper2D.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/RuntimeOptions.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/PhysXVehicles.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Scalability.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/RuntimeOptions.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Synthesis.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Scalability.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/VariantManagerContent.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Synthesis.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/Launch.ini":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/VariantManagerContent.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Launch.ini:
         hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
         size: 0
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQControls.sav":
-        hash: bfea4dca7fb2d5902ec715e1573f09b46a2c97e2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/RQControls.sav:
+        hash: b4c33af38f134e997a0adef4010059fc46ae4f22
         size: 3584
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQGraphics.sav":
-        hash: 0b311105ad51be089fee6b47cf188f6c786809f4
-        size: 2144
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQProfile.sav":
-        hash: 2d2fe7d95f2048708b08da8470bbcc9b60663d75
-        size: 63435
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQProfileCopy.sav":
-        hash: 7079a790231b53f55425b42b5d8b8ba0e798d1cc
-        size: 60440
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/RQSettings.sav":
-        hash: f6a0603f9af8ba3c50c2853187ec96efbb2ea368
-        size: 1251
-      "C:/Users/user/AppData/Local/RoboQuest/Saved/SaveGames/steam_autocloud.vdf":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/RQGraphics.sav:
+        hash: c23e5303edd1fd49c4033c12effc4bab1a9b1444
+        size: 1977
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/RQProfile.sav:
+        hash: 43fee11dc2d346ad9e2d937113a26aed8d8c3fe8
+        size: 71862
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/RQProfileCopy.sav:
+        hash: 6354178573472ae8988fd676d532f6eb9baeb258
+        size: 68881
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
     registry:
