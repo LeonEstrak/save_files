@@ -1,0 +1,15 @@
+---
+name: "Jujutsu Kaisen: Cursed Clash"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-06-09T14:38:42.341569282Z"
+    os: linux
+    files:
+      /mnt/data/Games/Heroic/Prefixes/default/Jujutsu Kaisen - Cursed Clash/drive_c/users/aniket/AppData/Local/Jujutsu Kaisen CC/Saved/SaveGames/SystemSaveData.sav:
+        hash: f75f7fb39726636b2e6a7a631b33e3fd455504e0
+        size: 402240
+    registry:
+      hash: ~
+    children: []

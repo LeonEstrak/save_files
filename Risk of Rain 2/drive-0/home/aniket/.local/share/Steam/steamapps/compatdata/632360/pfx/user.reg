@@ -160,8 +160,8 @@ WINE REGISTRY Version 2
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
 
-[Control Panel\\International] 1716639119
-#time=1daae9cbea568ca
+[Control Panel\\International] 1717079724
+#time=1dab29e9ba76bf6
 "iCalendarType"="1"
 "iCountry"="1"
 "iCurrDigits"="2"
@@ -204,13 +204,13 @@ WINE REGISTRY Version 2
 "sTimeFormat"="h:mm:ss tt"
 "sYearMonth"="MMMM yyyy"
 
-[Control Panel\\International\\Geo] 1716639119
-#time=1daae9cbea56974
+[Control Panel\\International\\Geo] 1717079724
+#time=1dab29e9ba76c78
 "Name"="US"
 "Nation"="244"
 
-[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1716639119
-#time=1daae9cbea563a2
+[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1717079724
+#time=1dab29e9ba7685e
 "Currencies"="USD"
 
 [Control Panel\\Keyboard] 1712822163
@@ -243,12 +243,12 @@ WINE REGISTRY Version 2
 "TEMP"="C:\\users\\steamuser\\Temp"
 "TMP"="C:\\users\\steamuser\\Temp"
 
-[Keyboard Layout\\Preload] 1716639119
-#time=1daae9cbea8739e
+[Keyboard Layout\\Preload] 1717079724
+#time=1dab29e9baa41c8
 "1"="00000409"
 
-[Software\\Hopoo Games, LLC\\Risk of Rain 2] 1716639122
-#time=1daae9cc03fcb80
+[Software\\Hopoo Games, LLC\\Risk of Rain 2] 1717079727
+#time=1dab29e9d3a0122
 "HasShownFirstTimePopup_h3858764215"=dword:00000001
 "Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
 "Screenmanager Fullscreen mode_h3630240806"=dword:00000001
@@ -260,9 +260,9 @@ WINE REGISTRY Version 2
 "Screenmanager Resolution Width_h182942802"=dword:00000780
 "Screenmanager Stereo 3D_h1665754519"=dword:00000001
 "ShownFirstTimePopup_h1332532461"=dword:00000001
-"unity.player_session_count_h922449978"=hex:33,00
-"unity.player_sessionid_h1351336811"=hex:35,38,38,30,39,30,39,32,33,38,36,34,\
-  37,31,36,32,33,30,37,00
+"unity.player_session_count_h922449978"=hex:35,00
+"unity.player_sessionid_h1351336811"=hex:38,31,33,33,33,38,35,35,35,33,39,35,\
+  32,38,38,36,36,38,35,00
 "UnitySelectMonitor_h17969598"=dword:00000000
 
 [Software\\Microsoft\\Internet Explorer\\Main] 1712822167
@@ -889,8 +889,8 @@ WINE REGISTRY Version 2
 #time=1daa9d2be2fa7bc
 "guid"=hex:5f,cc,e8,9e,30,58,0d,43,9b,c0,ce,67,ee,9f,9a,cb
 
-[Software\\Wine\\Fonts] 1716639119
-#time=1daae9cbe5f5812
+[Software\\Wine\\Fonts] 1717079724
+#time=1dab29e9b54dd3c
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 

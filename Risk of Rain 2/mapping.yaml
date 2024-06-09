@@ -6,24 +6,24 @@ drives:
   drive-D: "D:"
 backups:
   - name: "."
-    when: "2024-05-26T15:47:25.994373902Z"
+    when: "2024-06-09T11:49:50.294133067Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/config.cfg:
-        hash: 06a31687f623f8f5d0b45319262e0a604b2108be
-        size: 988
+        hash: 11cebde3f2a65e06538e80f20ef290ad7c43895a
+        size: 993
       /home/aniket/.local/share/Steam/steamapps/compatdata/632360/pfx/system.reg:
-        hash: baac5a23b75a2e0b21863d2ef2a8cc706967ede2
+        hash: 5d210cdc860c8ec2a924fc2f05922c0075502c1e
         size: 3789710
       /home/aniket/.local/share/Steam/steamapps/compatdata/632360/pfx/user.reg:
-        hash: f92ae07abfbd36f7767dfb73e4bd34cf8c292373
+        hash: 490182e6d2f3fc3fbbcea5a16abebe2523791844
         size: 72514
       /home/aniket/.local/share/Steam/steamapps/compatdata/632360/pfx/userdef.reg:
         hash: cfd796ea957c639a17b4f8cdafc93e2a7a80705c
         size: 4190
       /home/aniket/.local/share/Steam/userdata/102118085/632360/remote/UserProfiles/b3fea611-e950-461b-953a-17cd44925bdc.xml:
-        hash: 1cc181f8a9c55271c72e0b8a997c5a075d201e0e
-        size: 210776
+        hash: 180017c855e67032edcd6df3715a186960c531cc
+        size: 210785
     registry:
       hash: ~
     children: []

@@ -1056,6 +1056,10 @@ WINE REGISTRY Version 2
 #time=1daaa00ad941c66
 "guid"=hex:d8,1f,6e,f7,77,47,d6,41,85,fb,57,c2,c1,4a,41,dd
 
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,bluez_output.E8_EE_CC_C4_CA_AF.1] 1717907924
+#time=1daba26e952ae6c
+"guid"=hex:8b,75,f1,7c,66,a6,34,46,a9,41,70,a2,f5,42,01,52
+
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.pci-0000_00_1f.3.analog-stereo] 1716132284
 #time=1daaa00ad946dc4
 "guid"=hex:0a,fc,8d,9b,34,33,13,40,be,33,be,71,8b,08,b1,0a
@@ -1076,8 +1080,12 @@ WINE REGISTRY Version 2
 #time=1daaa00ad94486c
 "guid"=hex:73,70,e3,43,7f,fe,b8,41,a3,b3,3c,ee,bb,5d,04,58
 
-[Software\\Wine\\Fonts] 1716730183
-#time=1daaf70c51babd6
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,bluez_output.E8_EE_CC_C4_CA_AF.1.monitor] 1717907924
+#time=1daba26e952f3f4
+"guid"=hex:ba,cc,46,b2,56,86,3c,44,96,c5,72,c6,c0,15,a9,84
+
+[Software\\Wine\\Fonts] 1717907924
+#time=1daba26e8feded6
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
