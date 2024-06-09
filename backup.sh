@@ -14,8 +14,11 @@ print_title
 # Set directory path
 directoryPath="$1"
 
-# Change the working directory
-cd "$directoryPath" || { echo "Error: Directory not found"; exit 1; }
+if [ -z "$directoryPath" ]; then
+	echo "Error: First Argument should be the directory path"; exit 1;
+fi
+
+cd "$directoryPath"
 
 echo -e "\n............................"
 echo "Performing back up at $directoryPath"
