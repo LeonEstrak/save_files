@@ -1,10 +1,10 @@
 #!/bin/bash
+set -x
 
 directoryPath="/home/aniket/ludusavi-backup"
 
-ludusavi backup --no-cloud-sync --force --path "$directoryPath"
-
-$directoryPath/backup.sh "$directoryPath"
+/home/aniket/.cargo/bin/ludusavi backup --no-cloud-sync --force --path "$directoryPath" && \
+bash "$directoryPath"/backup.sh "$directoryPath"
 
 echo "Script completed at: $(date)"
 echo "----------------------------"
