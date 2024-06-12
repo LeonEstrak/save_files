@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-05-26T15:47:25.996478960Z"
+    when: "2024-06-12T13:01:23.526306318Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1817230/pfx/drive_c/users/steamuser/Saved Games/TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/Config/WindowsNoEditor/Compat.ini:
@@ -20,8 +20,8 @@ backups:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
       /home/aniket/.local/share/Steam/steamapps/compatdata/1817230/pfx/drive_c/users/steamuser/Saved Games/TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/Config/WindowsNoEditor/Engine.ini:
-        hash: 59aa37412343124a1d25d4391fb71180c051f612
-        size: 2010
+        hash: e47c1d5b14107c25ed85b10fcee349d8f891a8f8
+        size: 2261
       /home/aniket/.local/share/Steam/steamapps/compatdata/1817230/pfx/drive_c/users/steamuser/Saved Games/TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/Config/WindowsNoEditor/FaceFX.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
@@ -29,7 +29,7 @@ backups:
         hash: db1199aa34f76b6bde205cb6255f3e2cb1e15ac6
         size: 49
       /home/aniket/.local/share/Steam/steamapps/compatdata/1817230/pfx/drive_c/users/steamuser/Saved Games/TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/Config/WindowsNoEditor/GameUserSettings.ini:
-        hash: 159ec38f306d229a9333f46bc44c85de213caad9
+        hash: 2e33a2ff5b77ab6856820f490962547293d9f082
         size: 1190
       /home/aniket/.local/share/Steam/steamapps/compatdata/1817230/pfx/drive_c/users/steamuser/Saved Games/TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/Config/WindowsNoEditor/GameplayTags.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
@@ -77,11 +77,11 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /home/aniket/.local/share/Steam/steamapps/compatdata/1817230/pfx/drive_c/users/steamuser/Saved Games/TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/SaveGames/Profile.sav:
-        hash: 746c5cef559e911541e186900c03ccf2860fe25c
+        hash: 79557164c7d6a65e5126fa4d2f6e1c3b37f67eb1
         size: 27216
       /home/aniket/.local/share/Steam/steamapps/compatdata/1817230/pfx/drive_c/users/steamuser/Saved Games/TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/SaveGames/SaveGameSlot1.sav:
-        hash: e6d4f2505db3f9033f1bdd78dc85b03e383f4b8f
-        size: 1871312
+        hash: 3c149f2acd01ef535211d0b69d41994ad1883877
+        size: 2474112
       /home/aniket/.local/share/Steam/steamapps/compatdata/1817230/pfx/drive_c/users/steamuser/Saved Games/TangoGameworks/Hi-Fi RUSH (STEAM)/Saved/SaveGames/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52

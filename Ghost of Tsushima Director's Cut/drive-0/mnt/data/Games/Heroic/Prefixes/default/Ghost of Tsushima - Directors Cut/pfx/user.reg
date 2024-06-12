@@ -1060,9 +1060,17 @@ WINE REGISTRY Version 2
 #time=1daba26e952ae6c
 "guid"=hex:8b,75,f1,7c,66,a6,34,46,a9,41,70,a2,f5,42,01,52
 
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,my-combined-sink] 1717951767
+#time=1daba8cfdc8e17a
+"guid"=hex:ce,4e,67,6d,01,54,39,44,9a,af,7c,ed,2b,d3,e2,33
+
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.pci-0000_00_1f.3.analog-stereo] 1716132284
 #time=1daaa00ad946dc4
 "guid"=hex:0a,fc,8d,9b,34,33,13,40,be,33,be,71,8b,08,b1,0a
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.pci-0000_00_1f.3.analog-stereo.3] 1717951767
+#time=1daba8cfdc93db4
+"guid"=hex:34,ca,1b,4b,5a,45,89,44,9d,a1,8d,6f,5d,34,d9,f8
 
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-Razer_Razer_USB_Sound_Card_00000000-00.analog-stereo] 1716132284
 #time=1daaa00ad945564
@@ -1084,8 +1092,12 @@ WINE REGISTRY Version 2
 #time=1daba26e952f3f4
 "guid"=hex:ba,cc,46,b2,56,86,3c,44,96,c5,72,c6,c0,15,a9,84
 
-[Software\\Wine\\Fonts] 1717907924
-#time=1daba26e8feded6
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,my-combined-sink.monitor] 1717951767
+#time=1daba8cfdc9245a
+"guid"=hex:a4,12,12,25,06,2c,0c,47,ba,37,72,f2,a1,b7,38,ec
+
+[Software\\Wine\\Fonts] 1717951767
+#time=1daba8cfd6e1aec
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 

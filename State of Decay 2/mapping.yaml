@@ -1,0 +1,57 @@
+---
+name: State of Decay 2
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-06-12T13:01:23.582606921Z"
+    os: linux
+    files:
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/Compat.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/DeviceProfiles.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/EditorPerProjectUserSettings.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/Engine.ini:
+        hash: f123b72680583a6cbc80abc7776a8a12044544ff
+        size: 449
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/Game.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/GameUserSettings.ini:
+        hash: b979e40c81ccb576474c9655e38d421106f64e8b
+        size: 1742
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/GameplayTags.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/Hardware.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/Input.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/Lightmass.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/Scalability.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Logs/UE4CC-Windows-2EC5F8A745862355BC8EDA81B7D57139/CrashReportClient.ini:
+        hash: ff36db0d65d61f1b34a9ccb06a9560143e99ae8a
+        size: 90
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Logs/UE4CC-Windows-B2992E894ACA5F74DA5F8B9C96EC1F85/CrashReportClient.ini:
+        hash: ff36db0d65d61f1b34a9ccb06a9560143e99ae8a
+        size: 90
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Steam/76561197960271872/8877665544332222/Release/v2/SaveGame_Vanilla_0.sav:
+        hash: e7c3d2f3bdb851dacfbe58413b1d4344ca1ceb90
+        size: 70659
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Steam/76561197960271872/8877665544332222/Release/v2/SaveUser.sav:
+        hash: 98d8b0a2bb07eced4992d77c3553c8714fef1207
+        size: 12206
+    registry:
+      hash: ~
+    children: []
