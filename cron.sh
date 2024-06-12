@@ -1,3 +1,5 @@
+#!/bin/bash
+
 directoryPath="/home/aniket/ludusavi-backup"
 
 ludusavi backup --no-cloud-sync --force --path "$directoryPath"
