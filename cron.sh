@@ -1,13 +1,13 @@
 #!/bin/bash
 set -x
 
-echo "\n----------------------------"
-echo "Script started at: $(date)\n"
+echo "----------------------------"
+echo "Script started at: $(date)"
 
 directoryPath="/home/aniket/ludusavi-backup"
 
 /home/aniket/.cargo/bin/ludusavi backup --no-cloud-sync --force --path "$directoryPath" && \
 bash "$directoryPath"/backup.sh "$directoryPath"
 
-echo "\nScript completed at: $(date)"
-echo "----------------------------\n"
+echo "Script completed at: $(date)"
+echo "----------------------------"
