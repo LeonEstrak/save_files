@@ -11,3 +11,7 @@ bash "$directoryPath"/backup.sh "$directoryPath"
 
 echo "Script completed at: $(date)"
 echo "----------------------------"
+
+# Crontab current state
+# ➜  ~ crontab -l
+# */10 * * * * bash /home/aniket/ludusavi-backup/cron.sh >> /home/aniket/Code_Repository/logs/cron.log
