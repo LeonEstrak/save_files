@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-06-14T13:50:02.899155627Z"
+    when: "2024-06-14T14:00:02.139694307Z"
     os: linux
     files:
       /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/Compat.ini:
@@ -53,11 +53,11 @@ backups:
         hash: ff36db0d65d61f1b34a9ccb06a9560143e99ae8a
         size: 90
       /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Steam/76561197960271872/8877665544332222/Release/v2/SaveGame_Vanilla_0.sav:
-        hash: af8dec2e77a9422261c3f1a538e03918f3012a58
-        size: 132296
+        hash: 0e6042b34b10e8a0be57bd595cded002c68998bb
+        size: 131264
       /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Steam/76561197960271872/8877665544332222/Release/v2/SaveUser.sav:
-        hash: 1c2fdf8aaa80621cd59aea13c1196ff0d09d2291
-        size: 14103
+        hash: be2ea1a1aa4346e419805052919066275305c9d4
+        size: 14145
     registry:
       hash: ~
     children: []
