@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-06-12T18:31:02.901277314Z"
+    when: "2024-06-14T12:00:02.140596359Z"
     os: linux
     files:
       /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Config/WindowsNoEditor/Compat.ini:
@@ -43,6 +43,9 @@ backups:
       /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Logs/UE4CC-Windows-2EC5F8A745862355BC8EDA81B7D57139/CrashReportClient.ini:
         hash: ff36db0d65d61f1b34a9ccb06a9560143e99ae8a
         size: 90
+      /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Logs/UE4CC-Windows-4BF911CC4557E9182CDCA4961B78FFC7/CrashReportClient.ini:
+        hash: ff36db0d65d61f1b34a9ccb06a9560143e99ae8a
+        size: 90
       /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Logs/UE4CC-Windows-8C5DE5D1405239FA2FE5A988FAAA80F2/CrashReportClient.ini:
         hash: ff36db0d65d61f1b34a9ccb06a9560143e99ae8a
         size: 90
@@ -50,11 +53,11 @@ backups:
         hash: ff36db0d65d61f1b34a9ccb06a9560143e99ae8a
         size: 90
       /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Steam/76561197960271872/8877665544332222/Release/v2/SaveGame_Vanilla_0.sav:
-        hash: ceb1c6517fc5b9df2cc9d9f4ca07422d5603e0df
-        size: 100050
+        hash: cc9c4a88d2e9d060ee0fcdbeb7d4f0d2d2a20a4b
+        size: 99888
       /mnt/data/Games/Heroic/Prefixes/default/State of Decay 2 Juggernaut Edition/drive_c/users/aniket/AppData/Local/StateOfDecay2/Saved/Steam/76561197960271872/8877665544332222/Release/v2/SaveUser.sav:
-        hash: f431d98c3dff8af4ba0256d9d8df7154edef8d97
-        size: 13086
+        hash: de2af1c1cdc4a11123859f18ee20ad30c309f5bc
+        size: 13108
     registry:
       hash: ~
     children: []
