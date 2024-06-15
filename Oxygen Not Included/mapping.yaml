@@ -1,15 +1,16 @@
 ---
 name: Oxygen Not Included
 drives:
+  drive-0: ""
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-08-10T17:30:41.596716700Z"
-    os: windows
+    when: "2024-06-15T13:20:02.546503129Z"
+    os: linux
     files:
-      "C:/Users/user/Documents/Klei/OxygenNotIncluded/kplayerprefs.yaml":
-        hash: 3639476bea5d74e9fa2cbedc5a29246722be9859
-        size: 1145
+      /home/aniket/.config/unity3d/Klei/Oxygen Not Included/kplayerprefs.yaml:
+        hash: 739008720ef95bdc24bb08c6118925c2019cd600
+        size: 522
     registry:
       hash: ~
     children: []

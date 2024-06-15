@@ -1,0 +1,20 @@
+strings:
+  INSTALL_TIMESTAMP: 638540539323377040
+  PlayShortOnLaunch: intro\Spaced_Out_Intro
+  SaveFilenameKey/: /home/aniket/.config/unity3d/Klei/Oxygen Not Included/cloud_save_files/76561198062383813/The Perfect Rat's Nest/The Perfect Rat's Nest.sav
+ints:
+  SESSION_ID: 1
+  LowResTextures: 0
+  ResolutionWidth: 1920
+  ResolutionHeight: 1080
+  RefreshRate: 144
+  FullScreen: 1
+  ColorModeID: 0
+  GAME_ID: 0
+floats:
+  Volume_SFX: 1
+  Volume_Music: 1
+  Volume_Ambience: 1
+  Volume_Master: 1
+  Volume_UI: 1
+  CameraSpeed: 1
