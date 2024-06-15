@@ -5,12 +5,12 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-06-15T13:20:02.546503129Z"
+    when: "2024-06-15T13:30:03.343241942Z"
     os: linux
     files:
       /home/aniket/.config/unity3d/Klei/Oxygen Not Included/kplayerprefs.yaml:
-        hash: 739008720ef95bdc24bb08c6118925c2019cd600
-        size: 522
+        hash: 50dc34fc9237f66f80df7a56e9c2b17de6900f93
+        size: 960
     registry:
       hash: ~
     children: []
