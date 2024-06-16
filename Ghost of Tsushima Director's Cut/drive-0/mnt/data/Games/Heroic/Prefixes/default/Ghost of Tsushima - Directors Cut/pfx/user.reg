@@ -1096,13 +1096,17 @@ WINE REGISTRY Version 2
 #time=1daba8cfdc9245a
 "guid"=hex:a4,12,12,25,06,2c,0c,47,ba,37,72,f2,a1,b7,38,ec
 
-[Software\\Wine\\Fonts] 1717951767
-#time=1daba8cfd6e1aec
+[Software\\Wine\\Fonts] 1718533442
+#time=1dabfd74f254c62
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1716132283
-#time=1daaa00acf1e342
+[Software\\Wine\\Fonts\\External Fonts] 1718533442
+#time=1dabfd74eb9c32a
+"C059-BdIta (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\C059-BdIta.otf"
+"C059-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\C059-Bold.otf"
+"C059-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\C059-Italic.otf"
+"C059-Roman (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\C059-Roman.otf"
 "Caladea Bold (TrueType)"="Z:\\usr\\share\\fonts\\google-crosextra-caladea\\Caladea-Bold.ttf"
 "Caladea Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\google-crosextra-caladea\\Caladea-BoldItalic.ttf"
 "Caladea Italic (TrueType)"="Z:\\usr\\share\\fonts\\google-crosextra-caladea\\Caladea-Italic.ttf"
@@ -1111,6 +1115,7 @@ WINE REGISTRY Version 2
 "Carlito Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\google-crosextra-carlito\\Carlito-BoldItalic.ttf"
 "Carlito Italic (TrueType)"="Z:\\usr\\share\\fonts\\google-crosextra-carlito\\Carlito-Italic.ttf"
 "Carlito Regular (TrueType)"="Z:\\usr\\share\\fonts\\google-crosextra-carlito\\Carlito-Regular.ttf"
+"D050000L (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\D050000L.otf"
 "DejaVu Sans (TrueType)"="Z:\\usr\\share\\fonts\\dejavu\\DejaVuSans.ttf"
 "DejaVu Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\dejavu\\DejaVuSans-Bold.ttf"
 "DejaVu Sans Bold Oblique (TrueType)"="Z:\\usr\\share\\fonts\\dejavu\\DejaVuSans-BoldOblique.ttf"
@@ -1157,6 +1162,29 @@ WINE REGISTRY Version 2
 "Liberation Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\liberation-fonts\\LiberationSerif-Bold.ttf"
 "Liberation Serif Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\liberation-fonts\\LiberationSerif-BoldItalic.ttf"
 "Liberation Serif Italic (TrueType)"="Z:\\usr\\share\\fonts\\liberation-fonts\\LiberationSerif-Italic.ttf"
+"MScore for scores (TrueType)"="Z:\\run\\host\\fonts\\mscore-fonts\\mscore.ttf"
+"NimbusMonoPS-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusMonoPS-Bold.otf"
+"NimbusMonoPS-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusMonoPS-BoldItalic.otf"
+"NimbusMonoPS-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusMonoPS-Italic.otf"
+"NimbusMonoPS-Regular (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusMonoPS-Regular.otf"
+"NimbusRoman-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusRoman-Bold.otf"
+"NimbusRoman-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusRoman-BoldItalic.otf"
+"NimbusRoman-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusRoman-Italic.otf"
+"NimbusRoman-Regular (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusRoman-Regular.otf"
+"NimbusSans-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSans-Bold.otf"
+"NimbusSans-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSans-BoldItalic.otf"
+"NimbusSans-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSans-Italic.otf"
+"NimbusSans-Regular (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSans-Regular.otf"
+"NimbusSansNarrow-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSansNarrow-Bold.otf"
+"NimbusSansNarrow-BoldOblique (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSansNarrow-BoldOblique.otf"
+"NimbusSansNarrow-Oblique (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSansNarrow-Oblique.otf"
+"NimbusSansNarrow-Regular (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSansNarrow-Regular.otf"
+"OpenSymbol (TrueType)"="Z:\\run\\host\\fonts\\opensymbol\\opens___.ttf"
+"P052-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\P052-Bold.otf"
+"P052-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\P052-BoldItalic.otf"
+"P052-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\P052-Italic.otf"
+"P052-Roman (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\P052-Roman.otf"
+"Standard Symbols PS (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\StandardSymbolsPS.otf"
 "TeXGyreAdventor-Bold (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreadventor-bold.otf"
 "TeXGyreAdventor-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreadventor-bolditalic.otf"
 "TeXGyreAdventor-Italic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreadventor-italic.otf"
@@ -1190,6 +1218,15 @@ WINE REGISTRY Version 2
 "TeXGyreTermes-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyretermes-bolditalic.otf"
 "TeXGyreTermes-Italic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyretermes-italic.otf"
 "TeXGyreTermes-Regular (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyretermes-regular.otf"
+"URWBookman-Demi (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWBookman-Demi.otf"
+"URWBookman-DemiItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWBookman-DemiItalic.otf"
+"URWBookman-Light (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWBookman-Light.otf"
+"URWBookman-LightItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWBookman-LightItalic.otf"
+"URWGothic-Book (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWGothic-Book.otf"
+"URWGothic-BookOblique (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWGothic-BookOblique.otf"
+"URWGothic-Demi (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWGothic-Demi.otf"
+"URWGothic-DemiOblique (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWGothic-DemiOblique.otf"
+"Z003-MediumItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\Z003-MediumItalic.otf"
 
 [Software\\Wine\\Fonts\\Replacements] 1715877709
 #time=1daa7aff30e64a2
