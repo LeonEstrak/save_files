@@ -4,21 +4,21 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-06-12T13:01:23.767567191Z"
+    when: "2024-06-16T12:30:04.376455378Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1145350/pfx/drive_c/users/steamuser/Saved Games/Hades II/GlobalSettingsWin.sjson:
         hash: 1fc5d755b3a8baeb3a01aedc7c4f7a6511569f14
         size: 227
       /home/aniket/.local/share/Steam/steamapps/compatdata/1145350/pfx/drive_c/users/steamuser/Saved Games/Hades II/Profile1.sav:
-        hash: 893df2d44e84ce758c6bd845223e126c08eb00a0
-        size: 541350
+        hash: 6278ec8fa5eda74e5e2d99c619dc105f46b9785d
+        size: 531067
       /home/aniket/.local/share/Steam/steamapps/compatdata/1145350/pfx/drive_c/users/steamuser/Saved Games/Hades II/Profile1.v.sav:
         hash: cf97f67fd82093ca6797749c478bde32e5dd26e0
         size: 9
       /home/aniket/.local/share/Steam/steamapps/compatdata/1145350/pfx/drive_c/users/steamuser/Saved Games/Hades II/Profile1_Temp.sav:
-        hash: 99ab6a8faaa8aca67207a7ee1bada233ee6b19e2
-        size: 554071
+        hash: dd63764485f891d4bbda0e0b17e8c893aba306b1
+        size: 482559
     registry:
       hash: ~
     children: []
