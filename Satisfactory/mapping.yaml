@@ -4,15 +4,15 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-06-17T12:40:06.036961287Z"
+    when: "2024-06-17T12:50:02.542662372Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Engine.ini:
         hash: 8736300e1bb0878c4f1dddfc4bae92b642026df5
         size: 4248
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/GameUserSettings.ini:
-        hash: a485826676f980be44f87a96b4871c2590f30282
-        size: 1729
+        hash: d30e921972f0f8f9fb3fc0e612839277faf6882c
+        size: 1758
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/CustomSave.sav:
         hash: 69556a7ead4e5586e5b80928c710c56b0a802684
         size: 675977
@@ -28,6 +28,12 @@ backups:
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Jaba-Jaba-Joo_autosave_0.sav:
         hash: 3bcc82ffb73552293f4dc45acc0c699ccf512a09
         size: 107153
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Jaba-Jaba-Joo_autosave_1.sav:
+        hash: a5e6c3b9666a2838c41d6712753703698df966d7
+        size: 107819
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Jaba-Jaba-Joo_autosave_2.sav:
+        hash: 83cba8c42f454bbfbc6eea855a3e0d600647bed1
+        size: 120458
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/New Beginnings_autosave_0.sav:
         hash: cdf92d70fabb2a45d8ab2a7c9b927862c1c10683
         size: 501840
