@@ -1,0 +1,111 @@
+---
+name: Satisfactory
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-06-17T12:40:06.036961287Z"
+    os: linux
+    files:
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Engine.ini:
+        hash: 8736300e1bb0878c4f1dddfc4bae92b642026df5
+        size: 4248
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/GameUserSettings.ini:
+        hash: a485826676f980be44f87a96b4871c2590f30282
+        size: 1729
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/CustomSave.sav:
+        hash: 69556a7ead4e5586e5b80928c710c56b0a802684
+        size: 675977
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/HueHue_autosave_0.sav:
+        hash: 250d24826b447b86f1587685d2f15aae33ec22dd
+        size: 178407
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/HueHue_autosave_1.sav:
+        hash: a0bb46bda238dcbd67bcf3e5d143b8ef7a7d1299
+        size: 178373
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/HueHue_autosave_2.sav:
+        hash: c46f59b28921f259344664e3908c4daa61ce5446
+        size: 179056
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Jaba-Jaba-Joo_autosave_0.sav:
+        hash: 3bcc82ffb73552293f4dc45acc0c699ccf512a09
+        size: 107153
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/New Beginnings_autosave_0.sav:
+        hash: cdf92d70fabb2a45d8ab2a7c9b927862c1c10683
+        size: 501840
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/New Beginnings_autosave_1.sav:
+        hash: fd50e6df8639881c584ab9db6152ed6b8b4b4928
+        size: 483460
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/New Beginnings_autosave_2.sav:
+        hash: 9cf14dfcf7f609a52e1779fce944799cf0cc4de5
+        size: 499322
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_130122-220728.sav:
+        hash: b40162f8e514f35c1105058de5dbf1f1ade9ec29
+        size: 541065
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_170222-195142.sav:
+        hash: d08a7c44c227644ed4b13bc1471dd5013da9acbb
+        size: 548077
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_170222-221608.sav:
+        hash: d4d8f46cecfd65fd6e5e41b3949d39b101823a1a
+        size: 550619
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_190222-114923.sav:
+        hash: 7337f6fa7c42e8cafc69a5aa48a986738ae45ab9
+        size: 667965
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_190222-131727.sav:
+        hash: 3bc4528281fc73598b1462a2e3e68fcffdf38f28
+        size: 694763
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_190222-152332.sav:
+        hash: ee74d45c3a1b474755407fe4720c6c56d666b746
+        size: 715878
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_190222-210452.sav:
+        hash: d920020735a1a1cbcc942bf4d3d0e79dc5c55bae
+        size: 808991
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_200222-125918.sav:
+        hash: 11ccac0392210617cfd46cecf7dfeb790bea067c
+        size: 861069
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_200222-161341.sav:
+        hash: 9d4ab8dbffe8aa22f4f0738563b1aaeeb3ed964e
+        size: 896007
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_210222-100828.sav:
+        hash: af7f302fdc2abffa1493d0fefe948c766b057b30
+        size: 902336
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_autosave_0.sav:
+        hash: 616ac7de386a4a7d582d6893eb4a4d9a60525dad
+        size: 591984
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_autosave_1.sav:
+        hash: 9b9427db99bf3a5acd7e8bc546711b9ebec1436a
+        size: 591783
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_autosave_2.sav:
+        hash: 236a0bdf3eb5e09036455eacd9c331adc234dbf4
+        size: 591410
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Yeeett_autosave_0.sav:
+        hash: 493f5b99ba5e3f869ff2e982c9b3625448584e4b
+        size: 664716
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Yeeett_autosave_1.sav:
+        hash: 9976e2602064ede5d10d1cd40952585f1ac78488
+        size: 668992
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Yeeett_autosave_2.sav:
+        hash: e8662bc1996382e6cebc42fe534bdce1e2923b4b
+        size: 670732
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Yelp_autosave_0.sav:
+        hash: b1d3250aa606614f6f11ace4b773cfa4abde978f
+        size: 1229452
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Yelp_autosave_1.sav:
+        hash: 4c109dfb55567b10397b8486ddf2392d918f18cb
+        size: 1229620
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Yelp_autosave_2.sav:
+        hash: 33b6f279806b0cb9d0d5425fddf2de092ec6f5da
+        size: 1229419
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/custom.sav:
+        hash: 565c5ce8acc8e6278da585a37ca7f0373314d976
+        size: 1215859
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/steam_autocloud.vdf:
+        hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
+        size: 52
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/test.sav:
+        hash: 5aad31d454754d58d30a0c256d97320c0edca780
+        size: 1084871
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/time lapse.sav:
+        hash: 5fd729b08b5f82db8ef9df4970edcf711c956d49
+        size: 1229738
+    registry:
+      hash: ~
+    children: []
