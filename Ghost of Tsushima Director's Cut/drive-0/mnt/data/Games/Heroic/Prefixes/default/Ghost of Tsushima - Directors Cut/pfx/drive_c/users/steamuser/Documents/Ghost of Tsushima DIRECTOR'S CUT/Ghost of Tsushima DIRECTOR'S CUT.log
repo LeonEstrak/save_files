@@ -213,3 +213,17 @@
 19:27:56:830 (00000336) > [Render] Working set: 1366MB Page file: 3638MB Video Budget: 15274MB Video Usage: 6298MB Sys Budget: 15768MB Sys Usage: 122MB Demoted: 0MB fps: 69.183334 Demoted: 0MB fps: 68.116669
 19:28:56:832 (00000336) > [Render] Working set: 1281MB Page file: 3658MB Video Budget: 15274MB Video Usage: 6265MB Sys Budget: 15768MB Sys Usage: 122MB Demoted: 0MB fps: 68.116669 Demoted: 0MB fps: 69.316673
 19:29:56:845 (00000336) > [Render] Working set: 1183MB Page file: 3658MB Video Budget: 15274MB Video Usage: 6260MB Sys Budget: 15768MB Sys Usage: 122MB Demoted: 0MB fps: 69.316673 Demoted: 0MB fps: 68.650002
+19:30:56:841 (00000336) > [Render] Working set: 1214MB Page file: 3659MB Video Budget: 15274MB Video Usage: 6219MB Sys Budget: 15768MB Sys Usage: 122MB Demoted: 0MB fps: 68.650002 Demoted: 0MB fps: 67.583336
+19:31:56:851 (00000336) > [Render] Working set: 1221MB Page file: 3664MB Video Budget: 15274MB Video Usage: 6224MB Sys Budget: 15768MB Sys Usage: 122MB Demoted: 0MB fps: 67.583336 Demoted: 0MB fps: 68.500000
+19:32:56:864 (00000336) > [Render] Working set: 1234MB Page file: 3668MB Video Budget: 15274MB Video Usage: 6289MB Sys Budget: 15768MB Sys Usage: 122MB Demoted: 0MB fps: 68.500000 Demoted: 0MB fps: 68.400002
+19:33:56:873 (00000336) > [Render] Working set: 1231MB Page file: 3669MB Video Budget: 15274MB Video Usage: 6278MB Sys Budget: 15768MB Sys Usage: 122MB Demoted: 0MB fps: 68.400002 Demoted: 0MB fps: 70.816673
+19:34:56:869 (00000336) > [Render] Working set: 1071MB Page file: 3669MB Video Budget: 15274MB Video Usage: 6246MB Sys Budget: 15768MB Sys Usage: 122MB Demoted: 0MB fps: 70.816673 Demoted: 0MB fps: 70.566673
+19:35:12:253 (00000328) > [NxApp] Destroying
+19:35:12:265 (00000328) > [DXGI] Destroyed swapchain.
+19:35:12:265 (00000328) > [SwapChain] Destroyed.
+19:35:12:265 (00000328) > [SwapChain] Released.
+19:35:12:270 (00000328) > [Render] Unloading ADL...
+19:35:12:270 (00000328) > [Render] Done unloading ADL
+19:35:12:270 (00000328) > [DXGI] Destroyed swapchain.
+19:35:12:270 (00000328) > [DXGI] Released.
+--- NIXXES log closed ---
