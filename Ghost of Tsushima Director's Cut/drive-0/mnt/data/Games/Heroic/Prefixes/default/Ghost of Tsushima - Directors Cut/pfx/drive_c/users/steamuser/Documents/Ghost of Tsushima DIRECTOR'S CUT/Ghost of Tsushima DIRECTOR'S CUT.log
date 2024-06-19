@@ -1,286 +1,185 @@
-15:54:03:270 (00000320) > [Startup] Ghost of Tsushima DIRECTOR'S CUT
-15:54:03:270 (00000320) > [Startup] ==============
-15:54:03:270 (00000320) > [Startup] 
-15:54:03:270 (00000320) > [Startup] Build: v1053.0.0515.2048
-15:54:03:270 (00000320) > [Startup] Windows 10.0 (build 19043.0)
-15:54:03:271 (00000320) > [Startup] Distribution platform: Steam
-15:54:03:271 (00000320) > [Startup] Game directory: C:\users\<username>\Documents\Ghost of Tsushima DIRECTOR'S CUT\
-15:54:03:271 (00000320) > [Startup] Working directory: Z:\mnt\data\Games\Pirate\Ghost of Tsushima DIRECTOR'S CUT
-15:54:03:271 (00000320) > [Startup] Run ID: 2080-4F6A-8D31-0096
-15:54:03:271 (00000320) > [Startup] 
-15:54:03:271 (00000320) > [Startup] Memory statistics:
-15:54:03:271 (00000320) > [Startup]   Total RAM = 31.1 GB (31895 MB)
-15:54:03:271 (00000320) > [Startup]   Avail RAM = 27.0 GB (27692 MB)
-15:54:03:271 (00000320) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
-15:54:03:271 (00000320) > [Startup]   Avail virtual memory = 131071.9 GB (134217576 MB)
-15:54:03:271 (00000320) > [Startup]   Total page file = 39.1 GB (40087 MB)
-15:54:03:271 (00000320) > [Startup]   Avail page file = 35.0 GB (35884 MB)
-15:54:03:271 (00000320) > [Startup] 
-15:54:03:271 (00000320) > [Steam] Wine version: "Proton - Experimental"
-15:54:03:271 (00000320) > [Steam] Initializing.
-15:54:03:271 (00000320) > [Steam] Successfully initialized.
-15:54:03:271 (00000320) > [Steam] Currently connected to 0 remote sessions
-15:54:03:271 (00000320) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
-15:54:03:480 (00000320) > [NxApp] PreInit
-15:54:03:480 (00000320) > [SwapChain] Initializing...
-15:54:03:480 (00000320) > [DXGI] Initializing...
-15:54:03:555 (00000320) > [NxApp] Streamline was successfully initialized.
-15:54:03:555 (00000320) > [DXGI] Successfully initialized.
-15:54:03:555 (00000320) > [Render] Enumerating adapters:
-15:54:03:555 (00000320) > [Render] 	Adapter 0:
-15:54:03:555 (00000320) > [Monitor] 		Description             : AMD Radeon RX 6800 XT (RADV NAVI21)
-15:54:03:555 (00000320) > [Monitor] 		Vendor                  : AMD (1002)
-15:54:03:555 (00000320) > [Monitor] 		Device                  : 73bf
-15:54:03:555 (00000320) > [Monitor] 		Sub system              : 0
-15:54:03:555 (00000320) > [Monitor] 		Revision                : 0
-15:54:03:555 (00000320) > [Monitor] 		Dedicated Video Memory  : 16368 MB
-15:54:03:555 (00000320) > [Monitor] 		Dedicated System Memory : 0000 MB
-15:54:03:555 (00000320) > [Monitor] 		Shared System Memory    : 15947 MB
-15:54:03:555 (00000320) > [Monitor] 
-15:54:03:555 (00000320) > [Render] Loading ADL...
-15:54:03:555 (00000320) > [Render] Failed to load ADL!
-15:54:03:555 (00000320) > [Render] Enumerating monitors:
-15:54:03:564 (00000320) > [Render] 	Monitor 0: handle = 0000000000000001, aspect = 1.78, rounded aspect = 1.78
-15:54:03:564 (00000320) > [Render] 
-15:54:03:564 (00000320) > [Render] 	Monitor handle = 0000000000000001, pixel aspect ratio = 1.00
-15:54:03:564 (00000320) > [SwapChain] Successfully initialized.
-15:54:03:564 (00000320) > [Render] Enumerating Display Modes:
-15:54:03:564 (00000320) > [Render] 	Monitor '1 (AMD Radeon RX 6800 XT (RADV NAVI21)(1))' (0000000000000001): rect(0 1920 0 1080)
-15:54:03:564 (00000320) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode  1 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode  2 :  960 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode  3 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode  4 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode  5 : 1152 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode  6 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode  7 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode  8 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode  9 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 10 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 11 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 12 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 13 : 1368 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 14 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 15 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 16 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 17 : 1440 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 18 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 19 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 20 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 21 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 22 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 23 : 1920 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 24 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] 		- Mode 25 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-15:54:03:564 (00000320) > [Render] ***** Additional Monitor Output Info *****
-15:54:03:564 (00000320) > [Render] 		BitsPerColor: 10
-15:54:03:564 (00000320) > [Render] 		Primaries: R=0.6400;0.3300  G=0.3000;0.6000  B=0.1500;0.0600  White-Point=0.3127;0.3290
-15:54:03:564 (00000320) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
-15:54:03:564 (00000320) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
-15:54:03:564 (00000320) > [Render] ******************************************
-15:54:03:564 (00000320) > [Render] 
-15:54:03:675 (00000320) > [NxReflex] Reflex support result:Result::eOk
-15:54:03:676 (00000320) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
-15:54:03:676 (00000320) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
-15:54:03:676 (00000320) > [NxApp] Querying GPU Driver Info...
-15:54:03:676 (00000320) > [NxApp] Enumerating available display adapters:
-15:54:03:676 (00000320) > [NxApp] 		AMD Radeon RX 6800 XT (RADV NAVI21) (active)
-15:54:03:676 (00000320) > [NxApp] Successfully found GPU Driver Info
-15:54:03:676 (00000320) > [D3D] Max supported feature level: 11.0
-15:54:03:676 (00000320) > [Render] Disabled D3D12 experimentals
-15:54:03:920 (00000320) > [Render] VMEM Budget: 15610 MB
-15:54:03:920 (00000320) > [Render] VMEM Available: 15607 MB
-15:54:03:921 (00000320) > [Render] GPU node count: 1
-15:54:03:921 (00000320) > [NxApp] PreInit successful.
-15:54:03:935 (00000320) > [NxUpscaler] XeSS init, code = 0
-15:54:03:935 (00000320) > [NxReflex] Reflex support result:Result::eOk
-15:54:03:935 (00000320) > [NxReflex] Reflex GetState result:Result::eOk
-15:54:03:935 (00000320) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
-15:54:03:936 (00000320) > [NxApp] Driver Desc: AMD Radeon RX 6800 XT (RADV NAVI21)
-15:54:03:936 (00000320) > [NxApp] Driver Version: 
-15:54:03:936 (00000320) > [**************************************************Display + Graphics Settings**************************************************] 
-15:54:03:936 (00000320) > [Settings] DirectX Version: 12
-15:54:03:936 (00000320) > [Settings] Window mode: Fullscreen
-15:54:03:936 (00000320) > [Settings] Fullscreen display mode:
-15:54:03:936 (00000320) > [Settings] 	Displaying on monitor: 0
-15:54:03:936 (00000320) > [Settings] 	Resolution: 1920x1080
-15:54:03:936 (00000320) > [Settings] 	HDR: Off
-15:54:03:936 (00000320) > [Settings] 	OS reported Refresh rate: 144
-15:54:03:936 (00000320) > [Settings] 	VSync: Half refresh rate
-15:54:03:936 (00000320) > [Settings] 	Reflex: Off
-15:54:03:936 (00000320) > [Settings] 	Frame generation: None
-15:54:03:936 (00000320) > [Settings] 	Resolution modifier 1.000000
-15:54:03:936 (00000320) > [Settings] 	Dynamic resolution FPS target: 60
-15:54:03:936 (00000320) > [Settings] Anti aliasing: TAA
+18:57:56:671 (00000328) > [Startup] Ghost of Tsushima DIRECTOR'S CUT
+18:57:56:671 (00000328) > [Startup] ==============
+18:57:56:671 (00000328) > [Startup] 
+18:57:56:671 (00000328) > [Startup] Build: v1053.0.0515.2048
+18:57:56:671 (00000328) > [Startup] Windows 10.0 (build 19043.0)
+18:57:56:671 (00000328) > [Startup] Distribution platform: Steam
+18:57:56:671 (00000328) > [Startup] Game directory: C:\users\<username>\Documents\Ghost of Tsushima DIRECTOR'S CUT\
+18:57:56:671 (00000328) > [Startup] Working directory: Z:\mnt\data\Games\Pirate\Ghost of Tsushima DIRECTOR'S CUT
+18:57:56:671 (00000328) > [Startup] Run ID: FFC0-7F11-6B88-01F2
+18:57:56:671 (00000328) > [Startup] 
+18:57:56:671 (00000328) > [Startup] Memory statistics:
+18:57:56:671 (00000328) > [Startup]   Total RAM = 31.1 GB (31895 MB)
+18:57:56:671 (00000328) > [Startup]   Avail RAM = 26.2 GB (26819 MB)
+18:57:56:671 (00000328) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+18:57:56:671 (00000328) > [Startup]   Avail virtual memory = 131071.9 GB (134217577 MB)
+18:57:56:671 (00000328) > [Startup]   Total page file = 39.1 GB (40087 MB)
+18:57:56:671 (00000328) > [Startup]   Avail page file = 34.0 GB (34807 MB)
+18:57:56:671 (00000328) > [Startup] 
+18:57:56:671 (00000328) > [Steam] Wine version: "Proton - Experimental"
+18:57:56:671 (00000328) > [Steam] Initializing.
+18:57:56:671 (00000328) > [Steam] Successfully initialized.
+18:57:56:671 (00000328) > [Steam] Currently connected to 0 remote sessions
+18:57:56:671 (00000328) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
+18:57:56:890 (00000328) > [NxApp] PreInit
+18:57:56:890 (00000328) > [SwapChain] Initializing...
+18:57:56:890 (00000328) > [DXGI] Initializing...
+18:57:56:965 (00000328) > [NxApp] Streamline was successfully initialized.
+18:57:56:965 (00000328) > [DXGI] Successfully initialized.
+18:57:56:965 (00000328) > [Render] Enumerating adapters:
+18:57:56:965 (00000328) > [Render] 	Adapter 0:
+18:57:56:965 (00000328) > [Monitor] 		Description             : AMD Radeon RX 6800 XT (RADV NAVI21)
+18:57:56:965 (00000328) > [Monitor] 		Vendor                  : AMD (1002)
+18:57:56:965 (00000328) > [Monitor] 		Device                  : 73bf
+18:57:56:965 (00000328) > [Monitor] 		Sub system              : 0
+18:57:56:965 (00000328) > [Monitor] 		Revision                : 0
+18:57:56:965 (00000328) > [Monitor] 		Dedicated Video Memory  : 16368 MB
+18:57:56:965 (00000328) > [Monitor] 		Dedicated System Memory : 0000 MB
+18:57:56:965 (00000328) > [Monitor] 		Shared System Memory    : 15947 MB
+18:57:56:965 (00000328) > [Monitor] 
+18:57:56:965 (00000328) > [Render] Loading ADL...
+18:57:56:966 (00000328) > [Render] Failed to load ADL!
+18:57:56:966 (00000328) > [Render] Enumerating monitors:
+18:57:56:976 (00000328) > [Render] 	Monitor 0: handle = 0000000000000001, aspect = 1.78, rounded aspect = 1.78
+18:57:56:976 (00000328) > [Render] 
+18:57:56:976 (00000328) > [Render] 	Monitor handle = 0000000000000001, pixel aspect ratio = 1.00
+18:57:56:976 (00000328) > [SwapChain] Successfully initialized.
+18:57:56:976 (00000328) > [Render] Enumerating Display Modes:
+18:57:56:976 (00000328) > [Render] 	Monitor '1 (AMD Radeon RX 6800 XT (RADV NAVI21)(1))' (0000000000000001): rect(0 1920 0 1080)
+18:57:56:976 (00000328) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode  1 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode  2 :  960 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode  3 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode  4 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode  5 : 1152 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode  6 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode  7 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode  8 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode  9 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 10 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 11 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 12 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 13 : 1368 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 14 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 15 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 16 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 17 : 1440 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 18 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 19 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 20 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 21 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 22 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 23 : 1920 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 24 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] 		- Mode 25 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:57:56:976 (00000328) > [Render] ***** Additional Monitor Output Info *****
+18:57:56:976 (00000328) > [Render] 		BitsPerColor: 10
+18:57:56:976 (00000328) > [Render] 		Primaries: R=0.6400;0.3300  G=0.3000;0.6000  B=0.1500;0.0600  White-Point=0.3127;0.3290
+18:57:56:976 (00000328) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+18:57:56:976 (00000328) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+18:57:56:976 (00000328) > [Render] ******************************************
+18:57:56:976 (00000328) > [Render] 
+18:57:57:253 (00000328) > [NxReflex] Reflex support result:Result::eOk
+18:57:57:253 (00000328) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
+18:57:57:253 (00000328) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+18:57:57:253 (00000328) > [NxApp] Querying GPU Driver Info...
+18:57:57:253 (00000328) > [NxApp] Enumerating available display adapters:
+18:57:57:254 (00000328) > [NxApp] 		AMD Radeon RX 6800 XT (RADV NAVI21) (active)
+18:57:57:254 (00000328) > [NxApp] Successfully found GPU Driver Info
+18:57:57:254 (00000328) > [D3D] Max supported feature level: 11.0
+18:57:57:254 (00000328) > [Render] Disabled D3D12 experimentals
+18:57:57:294 (00000328) > [Render] VMEM Budget: 15305 MB
+18:57:57:294 (00000328) > [Render] VMEM Available: 15303 MB
+18:57:57:295 (00000328) > [Render] GPU node count: 1
+18:57:57:295 (00000328) > [NxApp] PreInit successful.
+18:57:57:320 (00000328) > [NxUpscaler] XeSS init, code = 0
+18:57:57:320 (00000328) > [NxReflex] Reflex support result:Result::eOk
+18:57:57:320 (00000328) > [NxReflex] Reflex GetState result:Result::eOk
+18:57:57:320 (00000328) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+18:57:57:320 (00000328) > [NxApp] Driver Desc: AMD Radeon RX 6800 XT (RADV NAVI21)
+18:57:57:320 (00000328) > [NxApp] Driver Version: 
+18:57:57:320 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+18:57:57:320 (00000328) > [Settings] DirectX Version: 12
+18:57:57:320 (00000328) > [Settings] Window mode: Fullscreen
+18:57:57:321 (00000328) > [Settings] Fullscreen display mode:
+18:57:57:321 (00000328) > [Settings] 	Displaying on monitor: 0
+18:57:57:321 (00000328) > [Settings] 	Resolution: 1920x1080
+18:57:57:321 (00000328) > [Settings] 	HDR: Off
+18:57:57:321 (00000328) > [Settings] 	OS reported Refresh rate: 144
+18:57:57:321 (00000328) > [Settings] 	VSync: Half refresh rate
+18:57:57:321 (00000328) > [Settings] 	Reflex: Off
+18:57:57:321 (00000328) > [Settings] 	Frame generation: None
+18:57:57:321 (00000328) > [Settings] 	Resolution modifier 1.000000
+18:57:57:321 (00000328) > [Settings] 	Dynamic resolution FPS target: 60
+18:57:57:321 (00000328) > [Settings] Anti aliasing: TAA
 
-15:54:03:936 (00000320) > [Settings] Upscale method: None
+18:57:57:321 (00000328) > [Settings] Upscale method: None
 
-15:54:03:936 (00000320) > [Settings] Upscale quality: Quality
+18:57:57:321 (00000328) > [Settings] Upscale quality: Quality
 
-15:54:03:936 (00000320) > [Settings] Upscale sharpen value: 0.000000
+18:57:57:321 (00000328) > [Settings] Upscale sharpen value: 0.000000
 
-15:54:03:936 (00000320) > [Settings] Graphics Options:
-15:54:03:936 (00000320) > [Settings] 	Texture Quality: High
-15:54:03:936 (00000320) > [Settings] 	Texture Filtering: Anisotropic4x
-15:54:03:936 (00000320) > [Settings] 	Shadow Quality: High
-15:54:03:936 (00000320) > [Settings] 	Depth of Field: High
-15:54:03:936 (00000320) > [Settings] 	Level of Detail: High
-15:54:03:936 (00000320) > [Settings] 	Terrain Detail: High
-15:54:03:936 (00000320) > [Settings] 	Hair Quality: High
-15:54:03:936 (00000320) > [Settings] 	Ambient Occlusion: SSAO Quality
-15:54:03:936 (00000320) > [Settings] 	Screen Space Reflections: Half Res
-15:54:03:936 (00000320) > [Settings] 	Particle Lighting: High
+18:57:57:321 (00000328) > [Settings] Graphics Options:
+18:57:57:321 (00000328) > [Settings] 	Texture Quality: High
+18:57:57:321 (00000328) > [Settings] 	Texture Filtering: Anisotropic4x
+18:57:57:321 (00000328) > [Settings] 	Shadow Quality: High
+18:57:57:321 (00000328) > [Settings] 	Depth of Field: High
+18:57:57:321 (00000328) > [Settings] 	Level of Detail: High
+18:57:57:321 (00000328) > [Settings] 	Terrain Detail: High
+18:57:57:321 (00000328) > [Settings] 	Hair Quality: High
+18:57:57:321 (00000328) > [Settings] 	Ambient Occlusion: SSAO Quality
+18:57:57:321 (00000328) > [Settings] 	Screen Space Reflections: Half Res
+18:57:57:321 (00000328) > [Settings] 	Particle Lighting: High
 
-15:54:03:936 (00000320) > [Settings] 	Bloom: On
-15:54:03:936 (00000320) > [Settings] 	Vignette: On
-15:54:03:936 (00000320) > [Settings] 	Caustics: On
-15:54:03:936 (00000320) > [Settings] 	Motion Blur: 1.000000
-15:54:03:936 (00000320) > [Settings] 	FOV Correction: 1.000000
-15:54:03:936 (00000320) > [Settings] 	Film Grain Strength: 1.000000
-15:54:03:936 (00000320) > [Settings] 	Sharpness: 1.000000
-15:54:03:936 (00000320) > [Settings] 	Lens Flares: On
-15:54:03:936 (00000320) > [Settings] 	Screen Effects: On
-15:54:03:936 (00000320) > [**************************************************Display + Graphics Settings**************************************************] 
-15:54:03:936 (00000320) > [NxApp] Creating window...
-15:54:03:947 (00000468) > [GameWindow] UpdateState bVisible true
-15:54:03:951 (00000468) > [Input] Keyboard language: "English (India)" (id: 16393)
-15:54:03:951 (00000468) > [Input] ERROR: Failed to open registry key "SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00004009". (Error: "Success." code: 0x00000000)
-15:54:03:952 (00000468) > [Input] Mouse               "Wine HID device"   id 1 buttons 5 sampleRate 0 horizontalWheel no
-15:54:03:952 (00000468) > [Input] Keyboard            "Wine HID device"   type 0 subType 0 mode 1 function 12 indicators 3 total 101
-15:54:03:961 (00000468) > [Input] Using LibScePad
-15:54:03:962 (00000468) > [XInput] Enumerating available xusb hid devices:
+18:57:57:321 (00000328) > [Settings] 	Bloom: On
+18:57:57:321 (00000328) > [Settings] 	Vignette: On
+18:57:57:321 (00000328) > [Settings] 	Caustics: On
+18:57:57:321 (00000328) > [Settings] 	Motion Blur: 1.000000
+18:57:57:321 (00000328) > [Settings] 	FOV Correction: 1.000000
+18:57:57:321 (00000328) > [Settings] 	Film Grain Strength: 1.000000
+18:57:57:321 (00000328) > [Settings] 	Sharpness: 1.000000
+18:57:57:321 (00000328) > [Settings] 	Lens Flares: On
+18:57:57:321 (00000328) > [Settings] 	Screen Effects: On
+18:57:57:321 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+18:57:57:321 (00000328) > [NxApp] Creating window...
+18:57:57:332 (00000476) > [GameWindow] UpdateState bVisible true
+18:57:57:336 (00000476) > [Input] Keyboard language: "English (India)" (id: 16393)
+18:57:57:336 (00000476) > [Input] ERROR: Failed to open registry key "SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00004009". (Error: "Success." code: 0x00000000)
+18:57:57:337 (00000476) > [Input] Mouse               "Wine HID device"   id 1 buttons 5 sampleRate 0 horizontalWheel no
+18:57:57:337 (00000476) > [Input] Keyboard            "Wine HID device"   type 0 subType 0 mode 1 function 12 indicators 3 total 101
+18:57:57:337 (00000476) > [Input] Joystick            ""   product 736 vendor 1118 version 2307 usage 5 usagePage 1 xinput yes
+18:57:57:345 (00000476) > [Input] Using LibScePad
+18:57:57:346 (00000476) > [Input] Gamepads connected: 0 -> 1
+18:57:57:346 (00000476) > [Input] Gamepad for main player: 8
+18:57:57:346 (00000476) > [XInput] Enumerating available xusb hid devices:
 
-15:54:03:963 (00000320) > [NxApp] Window created.
-15:54:03:963 (00000320) > [NxApp] Initializing swapchain...
-15:54:03:963 (00000444) > [SwapChain] Creating...
-15:54:03:963 (00000444) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
-15:54:03:963 (00000444) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
-15:54:03:968 (00000444) > [DXGI] Created swapchain.
-15:54:03:978 (00000444) > [SwapChain] Gamma correction is enabled.
-15:54:03:978 (00000444) > [SwapChain] Successfully created.
-15:54:03:978 (00000444) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
-15:54:03:978 (00000444) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
-15:54:03:978 (00000320) > [NxApp] Swapchain initialized
-15:54:03:978 (00000320) > [NxApp] Initializing renderer...
-15:54:03:978 (00000320) > [NxApp] Renderer initialized
-15:54:03:978 (00000320) > [NxStorage] Could not determine device type at 'z:\mnt\data\games\pirate\ghost of tsushima director's cut'
-15:54:04:012 (00000320) > [NxStorage] DirectStorage initialization succeeded
-15:54:04:012 (00000320) > [CJobManager] Creating  10 worker threads, run on  11 cores
+18:57:57:347 (00000328) > [NxApp] Window created.
+18:57:57:347 (00000328) > [NxApp] Initializing swapchain...
+18:57:57:347 (00000452) > [SwapChain] Creating...
+18:57:57:347 (00000452) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+18:57:57:347 (00000452) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
+18:57:57:350 (00000452) > [DXGI] Created swapchain.
+18:57:57:355 (00000452) > [SwapChain] Gamma correction is enabled.
+18:57:57:355 (00000452) > [SwapChain] Successfully created.
+18:57:57:355 (00000452) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+18:57:57:355 (00000452) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
+18:57:57:355 (00000328) > [NxApp] Swapchain initialized
+18:57:57:355 (00000328) > [NxApp] Initializing renderer...
+18:57:57:355 (00000328) > [NxApp] Renderer initialized
+18:57:57:355 (00000328) > [NxStorage] Could not determine device type at 'z:\mnt\data\games\pirate\ghost of tsushima director's cut'
+18:57:57:375 (00000328) > [NxStorage] DirectStorage initialization succeeded
+18:57:57:375 (00000328) > [CJobManager] Creating  10 worker threads, run on  11 cores
 
-15:54:04:066 (00000320) > [Render] PSO cache file C:\users\<username>\AppData\Roaming\Sucker Punch Productions\Ghost of Tsushima DIRECTOR'S CUT\\user.pso not found, no pipelines read.
-15:54:04:076 (00000320) > [Render] Pipeline cache default.pso read succesfully, read 16192 pipelines, found 0 duplicates.
-15:54:04:083 (00000320) > [SCE] SDK is not detected
-15:54:04:497 (00000320) > [Steam] Stats received: 2
-15:54:11:434 (00000476) > [Input] new Windows.Gaming.Input raw-controller found 45e 2e0  
-
-15:54:12:984 (00000320) > [Input] Windows.Gaming.Input controller connected. index: 0
-15:54:12:984 (00000320) > [Input] XInput controller connected. index: 0
-15:54:12:984 (00000320) > [Input] Gamepads connected: 0 -> 2
-15:54:12:984 (00000320) > [Input] Gamepad for main player: 0
-15:54:12:998 (00000320) > [Input] XInput disabled, disconnecting controller. index: 0
-15:54:12:998 (00000320) > [Input] Gamepads connected: 2 -> 1
-15:54:12:998 (00000320) > [Input] Gamepad for main player: 0
-15:55:03:224 (00000328) > [Render] Working set: 3651MB Page file: 3569MB Video Budget: 15555MB Video Usage: 5656MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 63.850002
-15:56:03:221 (00000328) > [Render] Working set: 3731MB Page file: 3649MB Video Budget: 15555MB Video Usage: 6020MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 63.850002 Demoted: 0MB fps: 69.366669
-15:57:03:236 (00000328) > [Render] Working set: 3746MB Page file: 3664MB Video Budget: 15555MB Video Usage: 6058MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 69.366669 Demoted: 0MB fps: 68.100006
-15:58:03:248 (00000328) > [Render] Working set: 3751MB Page file: 3669MB Video Budget: 15555MB Video Usage: 5936MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 68.100006 Demoted: 0MB fps: 67.566673
-15:59:03:257 (00000328) > [Render] Working set: 3752MB Page file: 3669MB Video Budget: 15555MB Video Usage: 5935MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 67.566673 Demoted: 0MB fps: 68.450005
-16:00:03:256 (00000328) > [Render] Working set: 3813MB Page file: 3731MB Video Budget: 15555MB Video Usage: 6222MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 68.450005 Demoted: 0MB fps: 67.283340
-16:01:03:262 (00000328) > [Render] Working set: 3863MB Page file: 3781MB Video Budget: 15555MB Video Usage: 6278MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 67.283340 Demoted: 0MB fps: 69.483337
-16:02:03:270 (00000328) > [Render] Working set: 3893MB Page file: 3811MB Video Budget: 15547MB Video Usage: 6314MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 69.483337 Demoted: 0MB fps: 67.500000
-16:03:03:273 (00000328) > [Render] Working set: 3909MB Page file: 3827MB Video Budget: 15531MB Video Usage: 6325MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 67.500000 Demoted: 0MB fps: 65.966667
-16:04:03:281 (00000328) > [Render] Working set: 3926MB Page file: 3844MB Video Budget: 15555MB Video Usage: 6290MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 65.966667 Demoted: 0MB fps: 66.716667
-16:05:03:290 (00000328) > [Render] Working set: 3933MB Page file: 3851MB Video Budget: 15547MB Video Usage: 6293MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 66.716667 Demoted: 0MB fps: 67.300003
-16:06:03:298 (00000328) > [Render] Working set: 3937MB Page file: 3855MB Video Budget: 15547MB Video Usage: 6331MB Sys Budget: 15775MB Sys Usage: 122MB Demoted: 0MB fps: 67.300003 Demoted: 0MB fps: 68.783340
-16:07:03:299 (00000328) > [Render] Working set: 3946MB Page file: 3864MB Video Budget: 15527MB Video Usage: 6302MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.783340 Demoted: 0MB fps: 68.100006
-16:08:03:311 (00000328) > [Render] Working set: 3945MB Page file: 3863MB Video Budget: 15527MB Video Usage: 6310MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.100006 Demoted: 0MB fps: 68.816673
-16:09:03:318 (00000328) > [Render] Working set: 3947MB Page file: 3865MB Video Budget: 15519MB Video Usage: 6310MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.816673 Demoted: 0MB fps: 69.150002
-16:10:03:332 (00000328) > [Render] Working set: 3962MB Page file: 3880MB Video Budget: 15519MB Video Usage: 6304MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 69.150002 Demoted: 0MB fps: 66.866669
-16:11:03:330 (00000328) > [Render] Working set: 3969MB Page file: 3887MB Video Budget: 15519MB Video Usage: 6380MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 66.866669 Demoted: 0MB fps: 68.466667
-16:12:03:330 (00000328) > [Render] Working set: 3973MB Page file: 3891MB Video Budget: 15519MB Video Usage: 6375MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.466667 Demoted: 0MB fps: 66.683334
-16:13:03:331 (00000328) > [Render] Working set: 3983MB Page file: 3901MB Video Budget: 15519MB Video Usage: 6417MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 66.683334 Demoted: 0MB fps: 68.066673
-16:14:03:342 (00000328) > [Render] Working set: 3987MB Page file: 3905MB Video Budget: 15527MB Video Usage: 6396MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.066673 Demoted: 0MB fps: 68.833336
-16:15:03:356 (00000328) > [Render] Working set: 3988MB Page file: 3906MB Video Budget: 15527MB Video Usage: 6393MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.833336 Demoted: 0MB fps: 68.750000
-16:16:03:364 (00000328) > [Render] Working set: 3988MB Page file: 3906MB Video Budget: 15527MB Video Usage: 6453MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.750000 Demoted: 0MB fps: 69.666672
-16:17:03:366 (00000328) > [Render] Working set: 4001MB Page file: 3918MB Video Budget: 15519MB Video Usage: 6456MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 69.666672 Demoted: 0MB fps: 67.400002
-16:18:03:376 (00000328) > [Render] Working set: 4001MB Page file: 3919MB Video Budget: 15519MB Video Usage: 6432MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 67.400002 Demoted: 0MB fps: 68.083336
-16:19:03:388 (00000328) > [Render] Working set: 3995MB Page file: 3913MB Video Budget: 15527MB Video Usage: 6420MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.083336 Demoted: 0MB fps: 68.950005
-16:20:03:387 (00000328) > [Render] Working set: 4028MB Page file: 3946MB Video Budget: 15527MB Video Usage: 6442MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.950005 Demoted: 0MB fps: 67.383339
-16:21:03:387 (00000328) > [Render] Working set: 4030MB Page file: 3948MB Video Budget: 15511MB Video Usage: 6531MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 67.383339 Demoted: 0MB fps: 69.283340
-16:22:03:394 (00000328) > [Render] Working set: 4036MB Page file: 3954MB Video Budget: 15518MB Video Usage: 6466MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 69.283340 Demoted: 0MB fps: 68.516670
-16:23:03:404 (00000328) > [Render] Working set: 4030MB Page file: 3948MB Video Budget: 15518MB Video Usage: 6526MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.516670 Demoted: 0MB fps: 68.366669
-16:24:03:405 (00000328) > [Render] Working set: 4038MB Page file: 3956MB Video Budget: 15526MB Video Usage: 6554MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.366669 Demoted: 0MB fps: 69.350006
-16:25:03:410 (00000328) > [Render] Working set: 4056MB Page file: 3973MB Video Budget: 15518MB Video Usage: 6571MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 69.350006 Demoted: 0MB fps: 68.233337
-16:26:03:420 (00000328) > [Render] Working set: 4061MB Page file: 3979MB Video Budget: 15526MB Video Usage: 6556MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.233337 Demoted: 0MB fps: 68.983337
-16:27:03:419 (00000328) > [Render] Working set: 4041MB Page file: 3959MB Video Budget: 15518MB Video Usage: 6488MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.983337 Demoted: 0MB fps: 68.283340
-16:28:03:438 (00000328) > [Render] Working set: 4040MB Page file: 3958MB Video Budget: 15518MB Video Usage: 6517MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.283340 Demoted: 0MB fps: 70.200005
-16:29:03:441 (00000328) > [Render] Working set: 4044MB Page file: 3962MB Video Budget: 15510MB Video Usage: 6521MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 70.200005 Demoted: 0MB fps: 69.200005
-16:30:03:453 (00000328) > [Render] Working set: 4054MB Page file: 3972MB Video Budget: 15526MB Video Usage: 6473MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 69.200005 Demoted: 0MB fps: 67.966667
-16:31:03:465 (00000328) > [Render] Working set: 4077MB Page file: 3994MB Video Budget: 15526MB Video Usage: 6482MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 67.966667 Demoted: 0MB fps: 69.816673
-16:32:03:472 (00000328) > [Render] Working set: 4076MB Page file: 3994MB Video Budget: 15526MB Video Usage: 6482MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 69.816673 Demoted: 0MB fps: 68.533340
-16:33:03:485 (00000328) > [Render] Working set: 4061MB Page file: 3978MB Video Budget: 15526MB Video Usage: 6514MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.533340 Demoted: 0MB fps: 68.900002
-16:34:03:487 (00000328) > [Render] Working set: 4061MB Page file: 3979MB Video Budget: 15526MB Video Usage: 6515MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.900002 Demoted: 0MB fps: 69.316673
-16:35:03:504 (00000328) > [Render] Working set: 4079MB Page file: 3996MB Video Budget: 15526MB Video Usage: 6513MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 69.316673 Demoted: 0MB fps: 68.266670
-16:36:03:509 (00000328) > [Render] Working set: 4080MB Page file: 3998MB Video Budget: 15526MB Video Usage: 6492MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.266670 Demoted: 0MB fps: 68.800003
-16:37:03:519 (00000328) > [Render] Working set: 4081MB Page file: 3999MB Video Budget: 15519MB Video Usage: 6489MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 68.800003 Demoted: 0MB fps: 67.383339
-16:38:03:523 (00000328) > [Render] Working set: 4080MB Page file: 3998MB Video Budget: 15527MB Video Usage: 6534MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 67.383339 Demoted: 0MB fps: 69.866669
-16:39:03:525 (00000328) > [Render] Working set: 4080MB Page file: 3998MB Video Budget: 15527MB Video Usage: 6534MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 69.866669 Demoted: 0MB fps: 71.566673
-16:40:03:526 (00000328) > [Render] Working set: 4083MB Page file: 4001MB Video Budget: 15538MB Video Usage: 6480MB Sys Budget: 15785MB Sys Usage: 122MB Demoted: 0MB fps: 71.566673 Demoted: 0MB fps: 68.150002
-16:41:03:533 (00000328) > [Render] Working set: 4083MB Page file: 4000MB Video Budget: 15538MB Video Usage: 6534MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 68.150002 Demoted: 0MB fps: 71.033340
-16:42:03:532 (00000328) > [Render] Working set: 4084MB Page file: 4002MB Video Budget: 15538MB Video Usage: 6484MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 71.033340 Demoted: 0MB fps: 68.600006
-16:43:03:547 (00000328) > [Render] Working set: 4083MB Page file: 4001MB Video Budget: 15538MB Video Usage: 6534MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 68.600006 Demoted: 0MB fps: 69.766670
-16:44:03:556 (00000328) > [Render] Working set: 4084MB Page file: 4002MB Video Budget: 15538MB Video Usage: 6534MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 69.766670 Demoted: 0MB fps: 71.633339
-16:45:03:566 (00000328) > [Render] Working set: 4085MB Page file: 4002MB Video Budget: 15538MB Video Usage: 6534MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 71.633339 Demoted: 0MB fps: 71.316673
-16:46:03:579 (00000328) > [Render] Working set: 4085MB Page file: 4003MB Video Budget: 15538MB Video Usage: 6534MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 71.316673 Demoted: 0MB fps: 71.550003
-11:17:03:585 (00000328) > [Render] Working set: 4086MB Page file: 4004MB Video Budget: 15538MB Video Usage: 6534MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 71.550003 Demoted: 0MB fps: 70.133339
-16:48:03:594 (00000328) > [Render] Working set: 4087MB Page file: 4004MB Video Budget: 15536MB Video Usage: 6534MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 70.133339 Demoted: 0MB fps: 71.083336
-16:49:03:597 (00000328) > [Render] Working set: 4087MB Page file: 4005MB Video Budget: 15536MB Video Usage: 6534MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 71.083336 Demoted: 0MB fps: 71.266670
-16:50:03:610 (00000328) > [Render] Working set: 4088MB Page file: 4006MB Video Budget: 15536MB Video Usage: 6534MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 71.266670 Demoted: 0MB fps: 70.733337
-16:51:03:619 (00000328) > [Render] Working set: 4089MB Page file: 4006MB Video Budget: 15536MB Video Usage: 6534MB Sys Budget: 15787MB Sys Usage: 122MB Demoted: 0MB fps: 70.733337 Demoted: 0MB fps: 71.533340
-16:52:03:631 (00000328) > [Render] Working set: 4089MB Page file: 4007MB Video Budget: 15516MB Video Usage: 6534MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 71.533340 Demoted: 0MB fps: 71.033340
-16:53:03:634 (00000328) > [Render] Working set: 4090MB Page file: 4008MB Video Budget: 15516MB Video Usage: 6534MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 71.033340 Demoted: 0MB fps: 71.316673
-16:54:03:644 (00000328) > [Render] Working set: 4092MB Page file: 4010MB Video Budget: 15501MB Video Usage: 6488MB Sys Budget: 15799MB Sys Usage: 122MB Demoted: 0MB fps: 71.316673 Demoted: 0MB fps: 71.016670
-16:55:03:658 (00000328) > [Render] Working set: 4087MB Page file: 4005MB Video Budget: 15516MB Video Usage: 6461MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 71.016670 Demoted: 0MB fps: 68.200005
-16:56:03:657 (00000328) > [Render] Working set: 4094MB Page file: 4012MB Video Budget: 15516MB Video Usage: 6459MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 68.200005 Demoted: 0MB fps: 69.050003
-16:57:03:664 (00000328) > [Render] Working set: 4091MB Page file: 4009MB Video Budget: 15516MB Video Usage: 6466MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 69.050003 Demoted: 0MB fps: 68.450005
-16:58:03:678 (00000328) > [Render] Working set: 4129MB Page file: 4047MB Video Budget: 15516MB Video Usage: 6475MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 68.450005 Demoted: 0MB fps: 68.166672
-11:29:03:685 (00000328) > [Render] Working set: 4100MB Page file: 4018MB Video Budget: 15516MB Video Usage: 6468MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 68.166672 Demoted: 0MB fps: 68.783340
-17:00:03:690 (00000328) > [Render] Working set: 4103MB Page file: 4021MB Video Budget: 15516MB Video Usage: 6470MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 68.783340 Demoted: 0MB fps: 67.300003
-17:01:03:692 (00000328) > [Render] Working set: 4111MB Page file: 4029MB Video Budget: 15516MB Video Usage: 6435MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 67.300003 Demoted: 0MB fps: 68.800003
-17:02:03:708 (00000328) > [Render] Working set: 4097MB Page file: 4015MB Video Budget: 15516MB Video Usage: 6453MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 68.800003 Demoted: 0MB fps: 67.633339
-17:03:03:715 (00000328) > [Render] Working set: 4102MB Page file: 4020MB Video Budget: 15524MB Video Usage: 6614MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 67.633339 Demoted: 0MB fps: 69.883339
-17:04:03:726 (00000328) > [Render] Working set: 4105MB Page file: 4023MB Video Budget: 15524MB Video Usage: 6547MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 69.883339 Demoted: 0MB fps: 67.733337
-17:05:03:730 (00000328) > [Render] Working set: 4106MB Page file: 4024MB Video Budget: 15524MB Video Usage: 6554MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 67.733337 Demoted: 0MB fps: 67.666672
-17:06:03:735 (00000328) > [Render] Working set: 4116MB Page file: 4034MB Video Budget: 15516MB Video Usage: 6551MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 67.666672 Demoted: 0MB fps: 69.183334
-17:07:03:742 (00000328) > [Render] Working set: 4099MB Page file: 4017MB Video Budget: 15518MB Video Usage: 6570MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 69.183334 Demoted: 0MB fps: 68.633339
-17:08:03:749 (00000328) > [Render] Working set: 4101MB Page file: 4019MB Video Budget: 15510MB Video Usage: 6549MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.633339 Demoted: 0MB fps: 68.716667
-17:09:03:760 (00000328) > [Render] Working set: 4110MB Page file: 4027MB Video Budget: 15510MB Video Usage: 6602MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 68.716667 Demoted: 0MB fps: 69.166672
-17:10:03:764 (00000328) > [Render] Working set: 4126MB Page file: 4044MB Video Budget: 15518MB Video Usage: 6644MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 69.166672 Demoted: 0MB fps: 68.033340
-17:11:03:770 (00000328) > [Render] Working set: 4135MB Page file: 4053MB Video Budget: 15518MB Video Usage: 6740MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.033340 Demoted: 0MB fps: 68.666672
-17:12:03:772 (00000328) > [Render] Working set: 4134MB Page file: 4052MB Video Budget: 15510MB Video Usage: 6728MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.666672 Demoted: 0MB fps: 71.366669
-17:13:03:785 (00000328) > [Render] Working set: 4144MB Page file: 4062MB Video Budget: 15518MB Video Usage: 6707MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 71.366669 Demoted: 0MB fps: 68.166672
-17:14:03:797 (00000328) > [Render] Working set: 4164MB Page file: 4081MB Video Budget: 15518MB Video Usage: 6805MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.166672 Demoted: 0MB fps: 68.466667
-17:15:03:812 (00000328) > [Render] Working set: 4164MB Page file: 4081MB Video Budget: 15510MB Video Usage: 6725MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.466667 Demoted: 0MB fps: 67.900002
-17:16:03:810 (00000328) > [Render] Working set: 4166MB Page file: 4084MB Video Budget: 15518MB Video Usage: 6761MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 67.900002 Demoted: 0MB fps: 68.900002
-17:17:03:821 (00000328) > [Render] Working set: 4167MB Page file: 4085MB Video Budget: 15518MB Video Usage: 6762MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.900002 Demoted: 0MB fps: 68.083336
-17:18:03:838 (00000328) > [Render] Working set: 4169MB Page file: 4087MB Video Budget: 15518MB Video Usage: 6789MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.083336 Demoted: 0MB fps: 68.533340
-17:19:03:843 (00000328) > [Render] Working set: 4152MB Page file: 4070MB Video Budget: 15518MB Video Usage: 6855MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.533340 Demoted: 0MB fps: 69.166672
-17:20:03:858 (00000328) > [Render] Working set: 4154MB Page file: 4072MB Video Budget: 15518MB Video Usage: 6862MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 69.166672 Demoted: 0MB fps: 68.466667
-17:21:03:855 (00000328) > [Render] Working set: 4162MB Page file: 4079MB Video Budget: 15510MB Video Usage: 6922MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.466667 Demoted: 0MB fps: 69.216667
-17:22:03:865 (00000328) > [Render] Working set: 4169MB Page file: 4087MB Video Budget: 15518MB Video Usage: 6902MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 69.216667 Demoted: 0MB fps: 68.266670
-17:23:03:882 (00000328) > [Render] Working set: 4173MB Page file: 4091MB Video Budget: 15518MB Video Usage: 6873MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.266670 Demoted: 0MB fps: 69.033340
-17:24:03:883 (00000328) > [Render] Working set: 4177MB Page file: 4095MB Video Budget: 15510MB Video Usage: 6859MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 69.033340 Demoted: 0MB fps: 68.216667
-17:25:03:886 (00000328) > [Render] Working set: 4176MB Page file: 4094MB Video Budget: 15518MB Video Usage: 6888MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.216667 Demoted: 0MB fps: 68.416672
-17:26:03:888 (00000328) > [Render] Working set: 4176MB Page file: 4094MB Video Budget: 15518MB Video Usage: 6888MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.416672 Demoted: 0MB fps: 68.933334
-17:27:03:898 (00000328) > [Render] Working set: 4177MB Page file: 4094MB Video Budget: 15518MB Video Usage: 6887MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.933334 Demoted: 0MB fps: 68.083336
-17:28:03:892 (00000328) > [Render] Working set: 4180MB Page file: 4098MB Video Budget: 15518MB Video Usage: 6955MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.083336 Demoted: 0MB fps: 68.800003
-17:29:03:916 (00000328) > [Render] Working set: 4184MB Page file: 4102MB Video Budget: 15518MB Video Usage: 6953MB Sys Budget: 15791MB Sys Usage: 122MB Demoted: 0MB fps: 68.800003 Demoted: 0MB fps: 68.700005
-17:29:07:466 (00000320) > [NxApp] Destroying
-17:29:07:470 (00000320) > [DXGI] Destroyed swapchain.
-17:29:07:470 (00000320) > [SwapChain] Destroyed.
-17:29:07:470 (00000320) > [SwapChain] Released.
-17:29:07:471 (00000320) > [Render] Unloading ADL...
-17:29:07:471 (00000320) > [Render] Done unloading ADL
-17:29:07:471 (00000320) > [DXGI] Destroyed swapchain.
-17:29:07:471 (00000320) > [DXGI] Released.
---- NIXXES log closed ---
+18:57:57:431 (00000328) > [Render] PSO cache file C:\users\<username>\AppData\Roaming\Sucker Punch Productions\Ghost of Tsushima DIRECTOR'S CUT\\user.pso not found, no pipelines read.
+18:57:57:442 (00000328) > [Render] Pipeline cache default.pso read succesfully, read 16192 pipelines, found 0 duplicates.
+18:57:57:447 (00000328) > [SCE] SDK is not detected
+18:57:57:885 (00000328) > [Steam] Stats received: 2
+18:58:00:358 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+18:58:00:358 (00000328) > [Input] Gamepad for main player: 0
+18:58:00:358 (00000328) > [Input] Gamepads connected: 1 -> 2
+18:58:00:358 (00000328) > [Input] Gamepad for main player: 0
+18:58:00:372 (00000328) > [Input] XInput disabled, disconnecting controller. index: 0
+18:58:00:372 (00000328) > [Input] Gamepads connected: 2 -> 1
+18:58:00:372 (00000328) > [Input] Gamepad for main player: 0
+18:58:56:620 (00000336) > [Render] Working set: 3330MB Page file: 3245MB Video Budget: 15273MB Video Usage: 5148MB Sys Budget: 15766MB Sys Usage: 122MB Demoted: 0MB fps: 66.283340
+18:59:56:630 (00000336) > [Render] Working set: 3405MB Page file: 3320MB Video Budget: 15278MB Video Usage: 5912MB Sys Budget: 15766MB Sys Usage: 122MB Demoted: 0MB fps: 66.283340 Demoted: 0MB fps: 68.350006
