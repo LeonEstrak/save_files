@@ -1,84 +1,70 @@
 ---
 name: "Marvel's Spider-Man Remastered"
 drives:
+  drive-0: ""
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-12-08T14:49:53.014527600Z"
-    os: windows
+    when: "2024-06-19T16:21:53.116314980Z"
+    os: linux
     files:
-      "C:/Users/user/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs/metadata":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs/metadata":
         hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
         size: 0
-      "C:/Users/user/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs/settings.dat":
-        hash: 1a9447b7b4b3e719892c567e713b33b164f11e9d
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs/settings.dat":
+        hash: a96e8a8593d0aab242a26ac70aa7dc398eade76a
         size: 40
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/-userprefs.save":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/-userprefs.save":
         hash: ba792d0cdc8168e02336a9d9accfcc50a37d8e4a
         size: 1460
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s-manual-0.save":
-        hash: e95df21f09553119ab656257d224b21167425336
-        size: 113950
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save":
-        hash: ddf1ad273556eee487356679e8303b159146aa41
-        size: 113534
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup01":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s-manual-0.save":
+        hash: 58e165e696904bdfd90d641d55c6a783a5fbb679
+        size: 111278
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save":
+        hash: 377ff5ad20acb83e92ac7d95ad26b1d8932dbe39
+        size: 111278
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup01":
         hash: 956be9612e7daf0aad395a55026a3766f6a29b00
         size: 107982
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup02":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup02":
         hash: 4cbcd1fe0ee04c0991b3792de7424f19ba12075c
         size: 109854
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup03":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup03":
         hash: 631034bbc0e91ed3215ec849d13052a8fe9cbbab
         size: 106638
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup04":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup04":
         hash: 43bc6eb81ce6b506c19ef98f66b74a4b58b56b7b
         size: 110846
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup05":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup05":
         hash: 493bee3f1070ba6f8a6900b641089b89947fbc0f
         size: 105502
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup06":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup06":
         hash: 91bc0593ab2378d0988d94ba0ea7a0fc3407d429
         size: 106510
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup07":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup07":
         hash: e32b1684403715d4e3c843a7d4c19290d182bdb6
         size: 105294
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup08":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup08":
         hash: bd2d2b3c232ddc8ca4daa23133b404b67bfc438b
         size: 104302
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup09":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup09":
         hash: 15bb803c717c9958ac1d8d42c89c7a81ff6b4fd5
         size: 106318
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199604718700/slot0-s.save.backup10":
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup10":
         hash: 00a674828382171af47ea3c0d631269e283c4b16
         size: 104590
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199609290714/-userprefs.save":
-        hash: ba792d0cdc8168e02336a9d9accfcc50a37d8e4a
-        size: 1460
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199609290714/slot0-s-manual-0.save":
-        hash: 9068f888c239462d6f0c4b084a991ce1dcf3363a
-        size: 104270
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199609290714/slot0-s.save":
-        hash: 8016efc36622bae7f62d0f5ab48ab03d5279a00c
-        size: 105582
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199609290714/slot0-s.save.backup01":
-        hash: ecffc12a13a4d9230fd0b1b13be0517336b3141b
-        size: 105294
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199609290714/slot0-s.save.backup02":
-        hash: 06219c7c26db83e7c0d394e69b8271e9fb917342
-        size: 100558
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199609290714/slot0-s.save.backup03":
-        hash: 92fd91feb80f8a6c6ae1880bfc5038b29dc5d74e
-        size: 97838
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199609290714/slot0-s.save.backup04":
-        hash: 5566c65676c375a9c827f5c72884f85c01e9dba2
-        size: 95054
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/76561199609290714/slot0-s.save.backup05":
-        hash: eb4529a983a13c6a298b738145060ed6bff0fb86
-        size: 94862
-      "C:/Users/user/Documents/Marvel's Spider-Man Remastered/Marvel's Spider-Man Remastered.log":
-        hash: 6018727487a98be668bbdab6f997d81cf87ba081
-        size: 30520
+      "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/Marvel's Spider-Man Remastered.log":
+        hash: 75f2beaaf3da2b32db64148d4bd80ed0a34d2cd3
+        size: 65125
+      /mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/system.reg:
+        hash: 890bed6ee17479083e351dc665ef7cb106896e1a
+        size: 3814330
+      /mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/user.reg:
+        hash: 9ed231799ee070a535c715a74e4684933887fa49
+        size: 49278
+      /mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/userdef.reg:
+        hash: cef75b5510f2e20ad9e24a2eea7ecddcbd331ff9
+        size: 4190
     registry:
-      hash: f402b9b531c8460cda9fafcc066d873979acffae
+      hash: ~
     children: []
