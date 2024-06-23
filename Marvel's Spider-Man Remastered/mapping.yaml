@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-06-19T16:21:53.116314980Z"
+    when: "2024-06-23T11:00:02.297035982Z"
     os: linux
     files:
       "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs/metadata":
@@ -21,8 +21,8 @@ backups:
         hash: 58e165e696904bdfd90d641d55c6a783a5fbb679
         size: 111278
       "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save":
-        hash: 377ff5ad20acb83e92ac7d95ad26b1d8932dbe39
-        size: 111278
+        hash: cb49871d2ec64a6eff20f76c02f801558d4d8e8c
+        size: 114782
       "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup01":
         hash: 956be9612e7daf0aad395a55026a3766f6a29b00
         size: 107982
@@ -54,13 +54,13 @@ backups:
         hash: 00a674828382171af47ea3c0d631269e283c4b16
         size: 104590
       "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/Marvel's Spider-Man Remastered.log":
-        hash: 75f2beaaf3da2b32db64148d4bd80ed0a34d2cd3
-        size: 65125
+        hash: 2d881a0eb27abaedabea10513c075095cd958607
+        size: 20420
       /mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/system.reg:
-        hash: 890bed6ee17479083e351dc665ef7cb106896e1a
+        hash: 4536554d4213d1078fc87e677dfc6455a9831007
         size: 3814330
       /mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/user.reg:
-        hash: 9ed231799ee070a535c715a74e4684933887fa49
+        hash: 10352326c80ca206461a807ef8692413d6b5bd7a
         size: 49278
       /mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/userdef.reg:
         hash: cef75b5510f2e20ad9e24a2eea7ecddcbd331ff9
