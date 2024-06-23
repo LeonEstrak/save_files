@@ -1,422 +1,95 @@
-16:23:54:046 (00000328) > [Startup] Marvel's Spider-Man Remastered
-16:23:54:046 (00000328) > [Startup] ==============
-16:23:54:046 (00000328) > [Startup] 
-16:23:54:046 (00000328) > [Startup] Build: v1.812.1.0
-16:23:54:046 (00000328) > [Startup] Windows 10.0 (build 19043)
-16:23:54:046 (00000328) > [Startup] Game directory: C:\users\<username>\Documents\Marvel's Spider-Man Remastered\
-16:23:54:046 (00000328) > [Startup] 
-16:23:54:046 (00000328) > [Startup] Memory statistics:
-16:23:54:046 (00000328) > [Startup]   Total RAM = 31.1 GB (31895 MB)
-16:23:54:046 (00000328) > [Startup]   Avail RAM = 27.8 GB (28451 MB)
-16:23:54:046 (00000328) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
-16:23:54:046 (00000328) > [Startup]   Avail virtual memory = 131071.8 GB (134217558 MB)
-16:23:54:046 (00000328) > [Startup]   Total page file = 39.1 GB (40087 MB)
-16:23:54:046 (00000328) > [Startup]   Avail page file = 34.3 GB (35113 MB)
-16:23:54:046 (00000328) > [Startup] 
-16:23:54:046 (00000328) > [NxApp] PreInit
-16:23:54:046 (00000328) > [SwapChain] Initializing...
-16:23:54:046 (00000328) > [DXGI] Initializing...
-16:23:54:066 (00000328) > [DXGI] Successfully initialized.
-16:23:54:066 (00000328) > [Render] Enumerating adapters:
-16:23:54:066 (00000328) > [Render] 	Adapter 0:
-16:23:54:066 (00000328) > [Monitor] 		Description             : AMD Radeon RX 6800 XT (RADV NAVI21)
-16:23:54:066 (00000328) > [Monitor] 		Vendor                  : AMD (1002)
-16:23:54:066 (00000328) > [Monitor] 		Device                  : 73bf
-16:23:54:066 (00000328) > [Monitor] 		Sub system              : 0
-16:23:54:066 (00000328) > [Monitor] 		Revision                : 0
-16:23:54:066 (00000328) > [Monitor] 		Dedicated Video Memory  : 16368 MB
-16:23:54:066 (00000328) > [Monitor] 		Dedicated System Memory : 0000 MB
-16:23:54:066 (00000328) > [Monitor] 		Shared System Memory    : 15947 MB
-16:23:54:066 (00000328) > [Monitor] 
-16:23:54:066 (00000328) > [Render] Loading ADL...
-16:23:54:072 (00000328) > [Render] AGS init succeeded
-16:23:54:072 (00000328) > [Render] AGS Radeon Software Version: 23.10.2
-16:23:54:072 (00000328) > [Render] Done loading ADL and AGS
-16:23:54:072 (00000328) > [Render] Enumerating monitors:
-16:23:54:081 (00000328) > [Render] 	Monitor 0: handle = 0000000000000001, aspect = 1.78, rounded aspect = 1.78
-16:23:54:081 (00000328) > [Render] 
-16:23:54:081 (00000328) > [Render] 	Monitor handle = 0000000000000001, pixel aspect ratio = 1.00
-16:23:54:081 (00000328) > [SwapChain] Successfully initialized.
-16:23:54:081 (00000328) > [Render] Enumerating Display Modes:
-16:23:54:081 (00000328) > [Render] Querying ADL for Eyefinity modes
-16:23:54:081 (00000328) > [Render] ADL_Display_DisplayMapConfig_Get() failed
-16:23:54:081 (00000328) > [Render] 	Monitor '1 (AMD Radeon RX 6800 XT (RADV NAVI21)(1))' (0000000000000001):
-16:23:54:081 (00000328) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode  1 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode  2 :  960 x  600 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode  3 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode  4 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode  5 : 1152 x  720 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode  6 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode  7 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode  8 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode  9 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 10 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 11 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 12 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 13 : 1368 x  768 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 14 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 15 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 16 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 17 : 1440 x  960 @  60 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 18 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 19 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 20 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 21 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 22 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 23 : 1920 x  800 @  60 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 24 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] 		- Mode 25 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
-16:23:54:081 (00000328) > [Render] ***** Additional Monitor Output Info *****
-16:23:54:081 (00000328) > [Render] 		BitsPerColor: 10
-16:23:54:081 (00000328) > [Render] 		Primaries: R=0.6400;0.3300  G=0.3000;0.6000  B=0.1500;0.0600  White-Point=0.3127;0.3290
-16:23:54:081 (00000328) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
-16:23:54:081 (00000328) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
-16:23:54:081 (00000328) > [Render] ******************************************
-16:23:54:081 (00000328) > [Render] 
-16:23:54:144 (00000328) > [D3D] Max supported feature level: 11.0
-16:23:54:144 (00000328) > [Render] Disabled D3D12 experimentals
-16:23:54:183 (00000328) > [Render] VMEM Budget: 15522 MB
-16:23:54:183 (00000328) > [Render] VMEM Avaialbe: 15520 MB
-16:23:54:183 (00000328) > [Render] GPU node count: 1
-16:23:54:183 (00000328) > [NxApp] PreInit successful.
-16:23:54:189 (00000328) > [NxApp] Querying GPU Driver Info...
-16:23:54:189 (00000328) > [NxApp] Enumerating available display adapters:
-16:23:54:189 (00000328) > [NxApp] 		AMD Radeon RX 6800 XT (RADV NAVI21) (active)
-16:23:54:189 (00000328) > [NxApp] Successfully found GPU Driver Info
-16:23:56:830 (00000328) > [NxApp] Querying GPU Driver Info...
-16:23:56:830 (00000328) > [NxApp] Enumerating available display adapters:
-16:23:56:831 (00000328) > [NxApp] 		AMD Radeon RX 6800 XT (RADV NAVI21) (active)
-16:23:56:831 (00000328) > [NxApp] Successfully found GPU Driver Info
-16:23:56:831 (00000328) > [NxApp] Driver Desc: AMD Radeon RX 6800 XT (RADV NAVI21)
-16:23:56:831 (00000328) > [NxApp] Driver Version: 23.10.2
-16:23:56:831 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
-16:23:56:831 (00000328) > [Settings] DirectX Version: 12
-16:23:56:831 (00000328) > [Settings] Window mode: Fullscreen
-16:23:56:831 (00000328) > [Settings] Fullscreen display mode:
-16:23:56:831 (00000328) > [Settings] 	Displaying on monitor: 0
-16:23:56:831 (00000328) > [Settings] 	Resolution: 1920x1080
-16:23:56:831 (00000328) > [Settings] 	OS reported Refresh rate: 144
-16:23:56:831 (00000328) > [Settings] 	VSync: On
-16:23:56:831 (00000328) > [Settings] 	HDR: Off
-16:23:56:831 (00000328) > [Settings] 	Resolution modifier 1.000000
-16:23:56:831 (00000328) > [Settings] 	Dynamic resolution FPS target: 0
-16:23:56:831 (00000328) > [Settings] Anti aliasing: TAA
-
-16:23:56:831 (00000328) > [Settings] Upscale method: None
-
-16:23:56:831 (00000328) > [Settings] Upscale quality: Quality
-
-16:23:56:831 (00000328) > [Settings] Graphics Options:
-16:23:56:831 (00000328) > [Settings] 	RT Reflections: Off
-16:23:56:831 (00000328) > [Settings] 	Texture Quality: Ultra
-16:23:56:831 (00000328) > [Settings] 	Texture Filtering: Anisotropic8x
-16:23:56:831 (00000328) > [Settings] 	Shadow Quality: High
-16:23:56:831 (00000328) > [Settings] 	Depth of Field: High
-16:23:56:831 (00000328) > [Settings] 	Level of Detail: High
-16:23:56:831 (00000328) > [Settings] 	Vehicle Detail: High
-16:23:56:831 (00000328) > [Settings] 	Crowd Detail: High
-16:23:56:831 (00000328) > [Settings] 	Hair Quality: High
-16:23:56:831 (00000328) > [Settings] 	Ambient Occlusion: HBAO+
-16:23:56:831 (00000328) > [Settings] 	Screen Space Reflections: Normal
-16:23:56:831 (00000328) > [Settings] 	Particle Lighting: Very High
-
-16:23:56:831 (00000328) > [Settings] 	Bloom: On
-16:23:56:831 (00000328) > [Settings] 	Vignette: On
-16:23:56:831 (00000328) > [Settings] 	Chromatic Aberration: On
-16:23:56:831 (00000328) > [Settings] 	Motion Blur: 1.000000
-16:23:56:831 (00000328) > [Settings] 	FOV Correction: 1.000000
-16:23:56:831 (00000328) > [Settings] 	Film Grain Strength: 1.000000
-16:23:56:831 (00000328) > [Settings] 	Lens Flares: On
-16:23:56:831 (00000328) > [Settings] 	Screen Effects: On
-16:23:56:831 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
-16:23:56:831 (00000328) > [NxApp] Creating window...
-16:23:56:842 (00000460) > [GameWindow] UpdateState bVisible true
-16:23:56:846 (00000460) > [Input] Keyboard language: "English (India)" (id: 16393)
-16:23:56:850 (00000460) > [Input] Mouse               "Wine HID device"   id 1 buttons 5 sampleRate 0 horizontalWheel no
-16:23:56:850 (00000460) > [Input] Keyboard            "Wine HID device"   type 0 subType 0 mode 1 function 12 indicators 3 total 101
-16:23:56:850 (00000460) > [Input] Joystick            ""   product 736 vendor 1118 version 2307 usage 5 usagePage 1 xinput yes
-16:23:56:877 (00000460) > [Input] Using LibScePad
-16:23:56:880 (00000460) > [Input] Gamepads connected: 0 -> 1
-16:23:56:880 (00000460) > [Input] Gamepad for main player: 8
-16:23:56:880 (00000460) > [XInput] Enumerating available xusb hid devices:
-
-16:23:56:882 (00000328) > [NxApp] Window created.
-16:23:56:882 (00000328) > [NxApp] Initializing swapchain...
-16:23:56:882 (00000456) > [SwapChain] Creating...
-16:23:56:882 (00000456) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
-16:23:56:884 (00000456) > [DXGI] Created swapchain.
-16:23:56:898 (00000456) > [SwapChain] Gamma correction is enabled.
-16:23:56:898 (00000456) > [SwapChain] Successfully created.
-16:23:56:898 (00000456) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
-16:23:56:898 (00000328) > [NxApp] Swapchain initialized
-16:23:56:898 (00000328) > [NxApp] Initializing renderer...
-16:23:56:898 (00000328) > [NxApp] Renderer initialized
-16:23:56:929 (00000328) > [Render] File cache.pso contains 8933 pipelines and 0 duplicates
-16:23:56:929 (00000328) > [Render] File C:\users\<username>\AppData\Roaming\Insomniac Games\Marvel's Spider-Man Remastered\\cache.pso contains 14 pipelines and 0 duplicates
-16:23:56:929 (00000328) > [Render] Support for Shader Model 6.6: Yes
-16:23:56:929 (00000328) > [Render] Is UMA: No Is Cache Coherent: No
-16:23:56:929 (00000328) > [Render] Using Cpu Buffer Optimize: No
-16:23:58:593 (00000780) > [Audio] Device (re)initialized 0x0 'PulseAudio Output'
-16:23:58:623 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:23:58:629 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:23:59:860 (00000328) > [Save] Request load save type -1, control 128, target -1
-16:23:59:860 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:23:59:868 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:23:59:878 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
-16:23:59:879 (00000328) > [Input] Gamepad for main player: 0
-16:23:59:879 (00000328) > [Input] Gamepads connected: 1 -> 2
-16:23:59:879 (00000328) > [Input] Gamepad for main player: 0
-16:23:59:883 (00000328) > [Input] XInput disabled, disconnecting controller. index: 0
-16:23:59:883 (00000328) > [Input] Gamepads connected: 2 -> 1
-16:23:59:883 (00000328) > [Input] Gamepad for main player: 0
-16:23:59:884 (00000328) > [Save] Request load save type 0, control 128, target -1
-16:23:59:886 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:23:59:890 (00000328) > [Save] Request load save type 0, control 128, target -1
-16:23:59:896 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:23:59:907 (00000328) > [Save] Request load save type 0, control 128, target -1
-16:23:59:909 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:23:59:916 (00000328) > [Save] Request load save type 0, control 128, target -1
-16:23:59:923 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:23:59:930 (00000328) > [Save] Request load save type 0, control 128, target -1
-16:23:59:937 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:24:01:947 (00000328) > [Save] Request load save type 0, control 128, target -1
-16:24:05:554 (00000328) > [Save] Request save type 2, control 0
-16:25:08:246 (00000328) > [Save] Request save type 0, control 0
-16:25:14:624 (00000328) > [Save] Request save type 0, control 0
-16:25:47:575 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:576 (00000328) > [Save] Request save type 0, control 0
-16:25:47:577 (00000328) > [Save] Request save type 0, control 0
-16:25:47:577 (00000328) > [Save] Request save type 0, control 0
-16:26:16:437 (00000328) > [Save] Request save type 0, control 0
-16:26:16:437 (00000328) > [Save] Request save type 0, control 0
-16:26:16:444 (00000328) > [Save] Request save type 0, control 0
-16:26:34:046 (00000328) > [Save] Request save type 0, control 36
-16:26:36:813 (00000328) > [Save] Request save type 0, control 0
-16:27:28:381 (00000328) > [Save] Request save type 0, control 0
-16:27:28:381 (00000328) > [Save] Request save type 0, control 0
-16:27:28:387 (00000328) > [Save] Request save type 0, control 0
-16:28:05:780 (00000328) > [Save] Request save type 0, control 0
-16:28:17:647 (00000328) > [Save] Request save type 0, control 0
-16:28:17:653 (00000328) > [Save] Request save type 0, control 0
-16:28:17:653 (00000328) > [Save] Request save type 0, control 0
-16:28:17:659 (00000328) > [Save] Request save type 0, control 0
-16:28:51:399 (00000328) > [Save] Request save type 0, control 0
-16:28:51:399 (00000328) > [Save] Request save type 0, control 0
-16:28:51:399 (00000328) > [Save] Request save type 0, control 0
-16:28:53:577 (00000328) > [Save] Request save type 0, control 0
-16:28:53:578 (00000328) > [Save] Request save type 0, control 0
-16:28:53:578 (00000328) > [Save] Request save type 0, control 0
-16:28:58:790 (00000328) > [Save] Request save type 0, control 0
-16:29:12:548 (00000328) > [Save] Request save type 0, control 0
-16:29:12:548 (00000328) > [Save] Request save type 0, control 0
-16:29:12:548 (00000328) > [Save] Request save type 0, control 0
-16:29:31:754 (00000328) > [Save] Request save type 0, control 0
-16:29:31:754 (00000328) > [Save] Request save type 0, control 0
-16:29:31:754 (00000328) > [Save] Request save type 0, control 0
-16:29:31:754 (00000328) > [Save] Request save type 0, control 0
-16:29:31:754 (00000328) > [Save] Request save type 0, control 0
-16:29:31:754 (00000328) > [Save] Request save type 0, control 0
-16:29:39:635 (00000328) > [Save] Request save type 0, control 0
-16:29:39:636 (00000328) > [Save] Request save type 0, control 0
-16:29:39:636 (00000328) > [Save] Request save type 0, control 0
-16:29:39:636 (00000328) > [Save] Request save type 0, control 0
-16:29:39:636 (00000328) > [Save] Request save type 0, control 0
-16:29:39:636 (00000328) > [Save] Request save type 0, control 0
-16:29:42:239 (00000328) > [Save] Request save type 0, control 0
-16:29:42:240 (00000328) > [Save] Request save type 0, control 0
-16:29:42:240 (00000328) > [Save] Request save type 0, control 0
-16:29:42:240 (00000328) > [Save] Request save type 0, control 0
-16:29:42:240 (00000328) > [Save] Request save type 0, control 0
-16:29:42:240 (00000328) > [Save] Request save type 0, control 0
-16:29:46:807 (00000328) > [Save] Request save type 0, control 0
-16:29:46:807 (00000328) > [Save] Request save type 0, control 0
-16:29:46:807 (00000328) > [Save] Request save type 0, control 0
-16:29:46:807 (00000328) > [Save] Request save type 0, control 0
-16:29:46:807 (00000328) > [Save] Request save type 0, control 0
-16:29:46:807 (00000328) > [Save] Request save type 0, control 0
-16:29:50:577 (00000328) > [Save] Request save type 0, control 0
-16:29:50:577 (00000328) > [Save] Request save type 0, control 0
-16:29:50:577 (00000328) > [Save] Request save type 0, control 0
-16:29:50:577 (00000328) > [Save] Request save type 0, control 0
-16:29:50:577 (00000328) > [Save] Request save type 0, control 0
-16:29:50:577 (00000328) > [Save] Request save type 0, control 0
-16:29:54:176 (00000328) > [Save] Request save type 0, control 0
-16:29:54:176 (00000328) > [Save] Request save type 0, control 0
-16:29:54:176 (00000328) > [Save] Request save type 0, control 0
-16:29:54:176 (00000328) > [Save] Request save type 0, control 0
-16:29:54:176 (00000328) > [Save] Request save type 0, control 0
-16:29:54:176 (00000328) > [Save] Request save type 0, control 0
-16:30:00:561 (00000328) > [Save] Request save type 0, control 0
-16:30:00:562 (00000328) > [Save] Request save type 0, control 0
-16:30:00:562 (00000328) > [Save] Request save type 0, control 0
-16:30:00:562 (00000328) > [Save] Request save type 0, control 0
-16:30:00:566 (00000328) > [Save] Request save type 0, control 0
-16:30:00:567 (00000328) > [Save] Request save type 0, control 0
-16:30:04:527 (00000328) > [Save] Request save type 0, control 0
-16:30:04:535 (00000328) > [Save] Request save type 0, control 0
-16:30:07:739 (00000328) > [Save] Request save type 0, control 0
-16:30:07:739 (00000328) > [Save] Request save type 0, control 0
-16:30:07:744 (00000328) > [Save] Request save type 0, control 0
-16:31:05:577 (00000328) > [Save] Request save type 0, control 0
-16:31:05:577 (00000328) > [Save] Request save type 0, control 0
-16:31:05:577 (00000328) > [Save] Request save type 0, control 0
-16:31:09:013 (00000328) > [Save] Request save type 0, control 0
-16:31:09:013 (00000328) > [Save] Request save type 0, control 0
-16:31:09:013 (00000328) > [Save] Request save type 0, control 0
-16:31:14:021 (00000328) > [Save] Request save type 0, control 0
-16:31:25:098 (00000328) > [Save] Request save type 0, control 0
-16:31:25:098 (00000328) > [Save] Request save type 0, control 0
-16:31:25:098 (00000328) > [Save] Request save type 0, control 0
-16:31:46:626 (00000328) > [Save] Request save type 0, control 0
-16:31:46:626 (00000328) > [Save] Request save type 0, control 0
-16:31:46:626 (00000328) > [Save] Request save type 0, control 0
-16:31:46:626 (00000328) > [Save] Request save type 0, control 0
-16:31:46:626 (00000328) > [Save] Request save type 0, control 0
-16:31:46:626 (00000328) > [Save] Request save type 0, control 0
-16:31:54:963 (00000328) > [Save] Request save type 0, control 36
-16:32:00:245 (00000328) > [Save] Request save type 0, control 0
-16:32:00:246 (00000328) > [Save] Request save type 0, control 0
-16:32:00:246 (00000328) > [Save] Request save type 0, control 0
-16:32:00:246 (00000328) > [Save] Request save type 0, control 0
-16:32:00:246 (00000328) > [Save] Request save type 0, control 0
-16:32:00:246 (00000328) > [Save] Request save type 0, control 0
-16:32:04:217 (00000328) > [Save] Request save type 0, control 0
-16:32:04:217 (00000328) > [Save] Request save type 0, control 0
-16:32:04:217 (00000328) > [Save] Request save type 0, control 0
-16:32:04:217 (00000328) > [Save] Request save type 0, control 0
-16:32:04:217 (00000328) > [Save] Request save type 0, control 0
-16:32:04:217 (00000328) > [Save] Request save type 0, control 0
-16:32:18:885 (00000328) > [Save] Request save type 0, control 36
-16:32:24:819 (00000328) > [Save] Request save type 0, control 0
-16:32:24:819 (00000328) > [Save] Request save type 0, control 0
-16:32:24:819 (00000328) > [Save] Request save type 0, control 0
-16:32:24:819 (00000328) > [Save] Request save type 0, control 0
-16:32:24:820 (00000328) > [Save] Request save type 0, control 0
-16:32:24:820 (00000328) > [Save] Request save type 0, control 0
-16:32:27:930 (00000328) > [Save] Request save type 0, control 0
-16:32:27:930 (00000328) > [Save] Request save type 0, control 0
-16:32:27:930 (00000328) > [Save] Request save type 0, control 0
-16:32:27:930 (00000328) > [Save] Request save type 0, control 0
-16:32:27:930 (00000328) > [Save] Request save type 0, control 0
-16:32:27:930 (00000328) > [Save] Request save type 0, control 0
-16:32:34:848 (00000328) > [Save] Request save type 0, control 36
-16:32:47:118 (00000328) > [Save] Request save type 0, control 0
-16:32:47:118 (00000328) > [Save] Request save type 0, control 0
-16:32:47:118 (00000328) > [Save] Request save type 0, control 0
-16:32:47:118 (00000328) > [Save] Request save type 0, control 0
-16:32:47:118 (00000328) > [Save] Request save type 0, control 0
-16:32:47:118 (00000328) > [Save] Request save type 0, control 0
-16:32:54:814 (00000328) > [Save] Request save type 0, control 36
-16:33:04:247 (00000328) > [Save] Request save type 0, control 0
-16:33:04:247 (00000328) > [Save] Request save type 0, control 0
-16:33:04:247 (00000328) > [Save] Request save type 0, control 0
-16:33:04:247 (00000328) > [Save] Request save type 0, control 0
-16:33:04:247 (00000328) > [Save] Request save type 0, control 0
-16:33:04:247 (00000328) > [Save] Request save type 0, control 0
-16:33:04:247 (00000328) > [Save] Request save type 0, control 0
-16:33:04:247 (00000328) > [Save] Request save type 0, control 0
-16:33:04:247 (00000328) > [Save] Request save type 0, control 0
-16:33:16:385 (00000328) > [Save] Request save type 0, control 0
-16:33:16:385 (00000328) > [Save] Request save type 0, control 0
-16:33:16:385 (00000328) > [Save] Request save type 0, control 0
-16:33:16:385 (00000328) > [Save] Request save type 0, control 0
-16:33:16:385 (00000328) > [Save] Request save type 0, control 0
-16:33:16:385 (00000328) > [Save] Request save type 0, control 0
-16:33:17:509 (00000328) > [Save] Request save type 0, control 0
-16:33:17:518 (00000328) > [Save] Request save type 0, control 0
-16:33:20:805 (00000328) > [Save] Request save type 0, control 0
-16:33:20:805 (00000328) > [Save] Request save type 0, control 0
-16:33:20:817 (00000328) > [Save] Request save type 0, control 0
-16:34:02:104 (00000328) > [Save] Request save type 0, control 36
-16:34:04:814 (00000328) > [Save] Request save type 0, control 0
-16:34:50:981 (00000328) > [Save] Request save type 0, control 0
-16:34:50:981 (00000328) > [Save] Request save type 0, control 0
-16:34:50:981 (00000328) > [Save] Request save type 0, control 0
-16:35:03:250 (00000328) > [Save] Request save type 0, control 0
-16:35:03:250 (00000328) > [Save] Request save type 0, control 0
-16:35:03:250 (00000328) > [Save] Request save type 0, control 0
-16:35:05:349 (00000328) > [Save] Request save type 0, control 0
-16:35:10:482 (00000328) > [Save] Request save type 0, control 0
-16:35:10:482 (00000328) > [Save] Request save type 0, control 0
-16:35:10:482 (00000328) > [Save] Request save type 0, control 0
-16:35:22:766 (00000328) > [Save] Request save type 0, control 0
-16:35:22:766 (00000328) > [Save] Request save type 0, control 0
-16:35:22:766 (00000328) > [Save] Request save type 0, control 0
-16:35:28:273 (00000328) > [Save] Request save type 0, control 0
-16:35:37:507 (00000328) > [Save] Request save type 0, control 0
-16:35:37:507 (00000328) > [Save] Request save type 0, control 0
-16:35:37:508 (00000328) > [Save] Request save type 0, control 0
-16:35:38:266 (00000328) > [Save] Request save type 0, control 0
-16:35:38:266 (00000328) > [Save] Request save type 0, control 0
-16:35:38:276 (00000328) > [Save] Request save type 0, control 0
-16:35:51:158 (00000328) > [Save] Request save type 0, control 0
-16:35:51:158 (00000328) > [Save] Request save type 0, control 0
-16:35:51:159 (00000328) > [Save] Request save type 0, control 0
-16:35:59:046 (00000328) > [Save] Request save type 0, control 36
-16:37:01:846 (00000328) > [Save] Request save type 0, control 0
-16:37:01:846 (00000328) > [Save] Request save type 0, control 0
-16:37:01:853 (00000328) > [Save] Request save type 0, control 0
-16:37:19:392 (00000328) > [Save] Request save type 0, control 0
-16:37:19:392 (00000328) > [Save] Request save type 0, control 0
-16:37:19:392 (00000328) > [Save] Request save type 0, control 0
-16:37:32:325 (00000328) > [Save] Request save type 0, control 0
-16:37:32:325 (00000328) > [Save] Request save type 0, control 0
-16:37:32:332 (00000328) > [Save] Request save type 0, control 0
-16:37:39:416 (00000328) > [Save] Request load save type 0, control 64, target -1
-16:37:40:815 (00000328) > [Save] Request save type 0, control 68
-16:37:41:413 (00000328) > [Save] Request load save type 0, control 64, target -1
-16:37:43:715 (00000328) > [Save] Request save type 0, control 36
-16:37:43:836 (00000328) > [Save] Request load save type -1, control 128, target -1
-16:37:43:844 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:37:43:865 (00000840) > [Save] Request type 3 failed with code 0x00000002
-16:37:53:435 (00000328) > [Save] Request save type 2, control 0
-16:37:53:481 (00000780) > [Audio] Device removed 0x0
-16:37:53:539 (00000328) > [NxApp] Destroying
-16:37:53:549 (00000328) > [DXGI] Destroyed swapchain.
-16:37:53:549 (00000328) > [SwapChain] Destroyed.
-16:37:53:549 (00000328) > [SwapChain] Released.
-16:37:53:549 (00000328) > [Render] Unloading ADL...
-16:37:53:549 (00000328) > [Render] Done unloading ADL
-16:37:53:550 (00000328) > [DXGI] Destroyed swapchain.
-16:37:53:550 (00000328) > [DXGI] Released.
+20:33:19:838 (00000328) > [Startup] Marvel's Spider-Man Remastered
+20:33:19:838 (00000328) > [Startup] ==============
+20:33:19:838 (00000328) > [Startup] 
+20:33:19:838 (00000328) > [Startup] Build: v1.812.1.0
+20:33:19:838 (00000328) > [Startup] Windows 10.0 (build 19043)
+20:33:19:838 (00000328) > [Startup] Game directory: C:\users\<username>\Documents\Marvel's Spider-Man Remastered\
+20:33:19:838 (00000328) > [Startup] 
+20:33:19:838 (00000328) > [Startup] Memory statistics:
+20:33:19:838 (00000328) > [Startup]   Total RAM = 31.1 GB (31895 MB)
+20:33:19:838 (00000328) > [Startup]   Avail RAM = 27.7 GB (28353 MB)
+20:33:19:838 (00000328) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+20:33:19:838 (00000328) > [Startup]   Avail virtual memory = 131071.8 GB (134217559 MB)
+20:33:19:838 (00000328) > [Startup]   Total page file = 39.1 GB (40087 MB)
+20:33:19:838 (00000328) > [Startup]   Avail page file = 33.7 GB (34551 MB)
+20:33:19:838 (00000328) > [Startup] 
+20:33:19:838 (00000328) > [NxApp] PreInit
+20:33:19:838 (00000328) > [SwapChain] Initializing...
+20:33:19:838 (00000328) > [DXGI] Initializing...
+20:33:19:861 (00000328) > [DXGI] Successfully initialized.
+20:33:19:861 (00000328) > [Render] Enumerating adapters:
+20:33:19:861 (00000328) > [Render] 	Adapter 0:
+20:33:19:861 (00000328) > [Monitor] 		Description             : AMD Radeon RX 6800 XT (RADV NAVI21)
+20:33:19:861 (00000328) > [Monitor] 		Vendor                  : AMD (1002)
+20:33:19:861 (00000328) > [Monitor] 		Device                  : 73bf
+20:33:19:861 (00000328) > [Monitor] 		Sub system              : 0
+20:33:19:861 (00000328) > [Monitor] 		Revision                : 0
+20:33:19:861 (00000328) > [Monitor] 		Dedicated Video Memory  : 16368 MB
+20:33:19:861 (00000328) > [Monitor] 		Dedicated System Memory : 0000 MB
+20:33:19:861 (00000328) > [Monitor] 		Shared System Memory    : 15947 MB
+20:33:19:861 (00000328) > [Monitor] 
+20:33:19:861 (00000328) > [Render] Loading ADL...
+20:33:19:869 (00000328) > [Render] AGS init succeeded
+20:33:19:869 (00000328) > [Render] AGS Radeon Software Version: 23.10.2
+20:33:19:869 (00000328) > [Render] Done loading ADL and AGS
+20:33:19:869 (00000328) > [Render] Enumerating monitors:
+20:33:19:878 (00000328) > [Render] 	Monitor 0: handle = 0000000000000001, aspect = 1.78, rounded aspect = 1.78
+20:33:19:878 (00000328) > [Render] 
+20:33:19:879 (00000328) > [Render] 	Monitor handle = 0000000000000001, pixel aspect ratio = 1.00
+20:33:19:879 (00000328) > [SwapChain] Successfully initialized.
+20:33:19:879 (00000328) > [Render] Enumerating Display Modes:
+20:33:19:879 (00000328) > [Render] Querying ADL for Eyefinity modes
+20:33:19:879 (00000328) > [Render] ADL_Display_DisplayMapConfig_Get() failed
+20:33:19:879 (00000328) > [Render] 	Monitor '1 (AMD Radeon RX 6800 XT (RADV NAVI21)(1))' (0000000000000001):
+20:33:19:879 (00000328) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode  1 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode  2 :  960 x  600 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode  3 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode  4 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode  5 : 1152 x  720 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode  6 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode  7 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode  8 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode  9 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 10 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 11 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 12 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 13 : 1368 x  768 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 14 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 15 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 16 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 17 : 1440 x  960 @  60 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 18 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 19 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 20 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 21 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 22 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 23 : 1920 x  800 @  60 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 24 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] 		- Mode 25 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+20:33:19:879 (00000328) > [Render] ***** Additional Monitor Output Info *****
+20:33:19:879 (00000328) > [Render] 		BitsPerColor: 10
+20:33:19:879 (00000328) > [Render] 		Primaries: R=0.6400;0.3300  G=0.3000;0.6000  B=0.1500;0.0600  White-Point=0.3127;0.3290
+20:33:19:879 (00000328) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+20:33:19:879 (00000328) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+20:33:19:879 (00000328) > [Render] ******************************************
+20:33:19:879 (00000328) > [Render] 
+20:33:19:957 (00000328) > [D3D] Max supported feature level: 11.0
+20:33:19:957 (00000328) > [Render] Disabled D3D12 experimentals
+20:33:20:004 (00000328) > [Render] VMEM Budget: 15527 MB
+20:33:20:004 (00000328) > [Render] VMEM Avaialbe: 15525 MB
+20:33:20:004 (00000328) > [Render] GPU node count: 1
+20:33:20:004 (00000328) > [NxApp] PreInit successful.
+20:33:20:013 (00000328) > [NxApp] Querying GPU Driver Info...
+20:33:20:013 (00000328) > [NxApp] Enumerating available display adapters:
+20:33:20:014 (00000328) > [NxApp] 		AMD Radeon RX 6800 XT (RADV NAVI21) (active)
+20:33:20:014 (00000328) > [NxApp] Successfully found GPU Driver Info
+20:33:21:702 (00000328) > [NxApp] Destroying
+20:33:21:702 (00000328) > [DXGI] Destroyed swapchain.
+20:33:21:702 (00000328) > [SwapChain] Destroyed.
+20:33:21:702 (00000328) > [SwapChain] Released.
+20:33:21:702 (00000328) > [Render] Unloading ADL...
+20:33:21:702 (00000328) > [Render] Done unloading ADL
+20:33:21:702 (00000328) > [DXGI] Destroyed swapchain.
+20:33:21:702 (00000328) > [DXGI] Released.
 --- NIXXES log closed ---

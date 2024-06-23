@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-06-19T14:10:03.743671986Z"
+    when: "2024-06-23T15:10:03.030750467Z"
     os: linux
     files:
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/AppData/Roaming/Sucker Punch Productions/Ghost of Tsushima DIRECTOR'S CUT/crs/metadata":
@@ -13,9 +13,12 @@ backups:
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/AppData/Roaming/Sucker Punch Productions/Ghost of Tsushima DIRECTOR'S CUT/crs/settings.dat":
         hash: 9e8501eec516ca3c90862fe55a47ca0718bd6a2e
         size: 40
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/AppData/Roaming/Sucker Punch Productions/Ghost of Tsushima DIRECTOR'S CUT/user.pso":
+        hash: fc2a9364a59fb3ad3b6f1b6f5ce7d7099112c06b
+        size: 216
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/auto.sav":
-        hash: 6e4f5334165d2e354376b22f460016aa0855a609
-        size: 331967
+        hash: f449735e5bff67e7126bb5ea60ea351533defec2
+        size: 331939
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_00.sav":
         hash: 0d275e85b3ce5723f29606a685b0bbc645677604
         size: 331939
@@ -119,14 +122,14 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/Ghost of Tsushima DIRECTOR'S CUT.log":
-        hash: a02b657bf6e3731452a3139f58ffbea04ecd788b
-        size: 21821
+        hash: 6c33cbe06a1560fb576be59043941788b2ccf4af
+        size: 14699
       /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/system.reg:
-        hash: 08c50323b7aa5c7d350e74b8b73ce39c58d18705
-        size: 3740427
+        hash: 13bc1d98861c4f99f919223355fed12ffa92d4e9
+        size: 3741830
       /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/user.reg:
-        hash: 37dd3d1e259ae9a7923f14132a62970e18960891
-        size: 50244
+        hash: f00c845f9ffea74cf76afdfd55807c9314592f06
+        size: 50720
       /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/userdef.reg:
         hash: 87d26dae8598d851436ca58465f9497454d5eca0
         size: 4190

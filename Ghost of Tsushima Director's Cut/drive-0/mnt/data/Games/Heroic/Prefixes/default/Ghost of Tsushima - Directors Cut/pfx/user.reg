@@ -685,6 +685,10 @@ WINE REGISTRY Version 2
 #time=1daa7aff310848a
 "ProgId"="https"
 
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers] 1719072690
+#time=1dac4bed7fc98c4
+"Z:\\mnt\\data\\Games\\Pirate\\Super Mario 3D World + Bowser's Fury\\yuzu.exe"="RUNASADMIN"
+
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1715877709
 #time=1daa7aff30b9c36
 
@@ -1096,8 +1100,8 @@ WINE REGISTRY Version 2
 #time=1daba8cfdc9245a
 "guid"=hex:a4,12,12,25,06,2c,0c,47,ba,37,72,f2,a1,b7,38,ec
 
-[Software\\Wine\\Fonts] 1718803676
-#time=1dac24c7ec552ec
+[Software\\Wine\\Fonts] 1719155063
+#time=1dac57ea22cca0a
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
@@ -1233,6 +1237,11 @@ WINE REGISTRY Version 2
 "Palatino Linotype"="Times New Roman"
 "Segoe UI"="Times New Roman"
 "Verdana"="Times New Roman"
+
+[Software\\Wine\\MenuFiles] 1719072690
+#time=1dac4bed803e4d0
+"c:\\proton_shortcuts\\SM3DW + BF on Yuzu EA.desktop"="C:\\users\\Public\\Desktop\\SM3DW + BF on Yuzu EA.lnk"
+"c:\\proton_shortcuts\\SM3DW + BF on Yuzu.desktop"="C:\\users\\Public\\Desktop\\SM3DW + BF on Yuzu.lnk"
 
 [Software\\Wine\\WineDbg] 1715877709
 #time=1daa7aff30d3992
