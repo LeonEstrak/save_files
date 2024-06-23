@@ -206,3 +206,21 @@
 20:57:24:436 (00000336) > [Render] Working set: 1226MB Page file: 3541MB Video Budget: 15543MB Video Usage: 6034MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 69.066673 Demoted: 0MB fps: 70.466667
 20:58:24:439 (00000336) > [Render] Working set: 1232MB Page file: 3567MB Video Budget: 15543MB Video Usage: 6035MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 70.466667 Demoted: 0MB fps: 68.216667
 20:59:24:443 (00000336) > [Render] Working set: 1258MB Page file: 3578MB Video Budget: 15527MB Video Usage: 6075MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 68.216667 Demoted: 0MB fps: 67.816673
+21:00:24:452 (00000336) > [Render] Working set: 1307MB Page file: 3590MB Video Budget: 15543MB Video Usage: 6143MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 67.816673 Demoted: 0MB fps: 69.050003
+21:01:24:452 (00000336) > [Render] Working set: 1350MB Page file: 3618MB Video Budget: 15543MB Video Usage: 6193MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 69.050003 Demoted: 0MB fps: 68.216667
+21:02:24:463 (00000336) > [Render] Working set: 1260MB Page file: 3628MB Video Budget: 15535MB Video Usage: 6287MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 68.216667 Demoted: 0MB fps: 68.816673
+21:03:24:475 (00000336) > [Render] Working set: 1229MB Page file: 3623MB Video Budget: 15543MB Video Usage: 6251MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 68.816673 Demoted: 0MB fps: 68.366669
+21:04:24:484 (00000336) > [Render] Working set: 1238MB Page file: 3624MB Video Budget: 15543MB Video Usage: 6248MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 68.366669 Demoted: 0MB fps: 69.766670
+15:35:24:486 (00000336) > [Render] Working set: 1247MB Page file: 3624MB Video Budget: 15543MB Video Usage: 6284MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 69.766670 Demoted: 0MB fps: 70.716667
+21:06:24:491 (00000336) > [Render] Working set: 1248MB Page file: 3625MB Video Budget: 15543MB Video Usage: 6284MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 70.716667 Demoted: 0MB fps: 71.650002
+21:07:24:490 (00000336) > [Render] Working set: 1249MB Page file: 3626MB Video Budget: 15543MB Video Usage: 6284MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 71.650002 Demoted: 0MB fps: 71.766670
+21:08:24:496 (00000336) > [Render] Working set: 1250MB Page file: 3627MB Video Budget: 15543MB Video Usage: 6284MB Sys Budget: 15804MB Sys Usage: 122MB Demoted: 0MB fps: 71.766670 Demoted: 0MB fps: 71.366669
+21:09:20:552 (00000328) > [NxApp] Destroying
+21:09:20:577 (00000328) > [DXGI] Destroyed swapchain.
+21:09:20:577 (00000328) > [SwapChain] Destroyed.
+21:09:20:577 (00000328) > [SwapChain] Released.
+21:09:20:579 (00000328) > [Render] Unloading ADL...
+21:09:20:580 (00000328) > [Render] Done unloading ADL
+21:09:20:580 (00000328) > [DXGI] Destroyed swapchain.
+21:09:20:580 (00000328) > [DXGI] Released.
+--- NIXXES log closed ---
