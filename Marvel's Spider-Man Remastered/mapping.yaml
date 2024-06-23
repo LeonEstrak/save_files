@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-06-23T11:00:02.297035982Z"
+    when: "2024-06-23T11:10:02.476403027Z"
     os: linux
     files:
       "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs/metadata":
@@ -18,11 +18,11 @@ backups:
         hash: ba792d0cdc8168e02336a9d9accfcc50a37d8e4a
         size: 1460
       "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s-manual-0.save":
-        hash: 58e165e696904bdfd90d641d55c6a783a5fbb679
-        size: 111278
+        hash: 185e1076b0d15b60a6cacaa9b7c333f741583ccb
+        size: 115022
       "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save":
-        hash: cb49871d2ec64a6eff20f76c02f801558d4d8e8c
-        size: 114782
+        hash: 08c164080c003a290d619f6d2d5f90ede48eb919
+        size: 115022
       "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/76561199784782223/slot0-s.save.backup01":
         hash: 956be9612e7daf0aad395a55026a3766f6a29b00
         size: 107982
@@ -54,8 +54,8 @@ backups:
         hash: 00a674828382171af47ea3c0d631269e283c4b16
         size: 104590
       "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/Documents/Marvel's Spider-Man Remastered/Marvel's Spider-Man Remastered.log":
-        hash: 2d881a0eb27abaedabea10513c075095cd958607
-        size: 20420
+        hash: 40c9bf86b6a257b6e4514f511f23312912a4fa48
+        size: 28663
       /mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/system.reg:
         hash: 4536554d4213d1078fc87e677dfc6455a9831007
         size: 3814330
