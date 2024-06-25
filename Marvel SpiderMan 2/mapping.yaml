@@ -4,15 +4,15 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-06-25T14:30:02.825119138Z"
+    when: "2024-06-25T14:40:02.192524720Z"
     os: linux
     files:
       "/home/aniket/.var/app/com.heroicgameslauncher.hgl/.insomniac/pfx/drive_c/users/steamuser/.insomniac/InsomniacEngine/Marvel's Spider-Man 2/Marvel's Spider-Man 2-null-prefs/prefs.save":
         hash: 4411cedb56bfe2c85dfe4533e5e979b392332386
         size: 924
       "/home/aniket/.var/app/com.heroicgameslauncher.hgl/.insomniac/pfx/drive_c/users/steamuser/.insomniac/InsomniacEngine/Marvel's Spider-Man 2/Marvel's Spider-Man 2-slot1-game-autosave/game.save":
-        hash: 47d8223f34a7d966fa7af9e80e383637a5cbee26
-        size: 879348
+        hash: e3ab23bcd89c54ba794b99129475571e49f65a55
+        size: 858596
       "/home/aniket/.var/app/com.heroicgameslauncher.hgl/.insomniac/pfx/drive_c/users/steamuser/.insomniac/InsomniacEngine/Marvel's Spider-Man 2_imgui.ini":
         hash: 7b09f34ecf32de78c1d360bb821283dc9d5c45c5
         size: 119
