@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-06-23T15:40:02.096864320Z"
+    when: "2024-06-27T16:40:02.093761355Z"
     os: linux
     files:
       "/mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/drive_c/users/steamuser/AppData/Roaming/Insomniac Games/Marvel's Spider-Man Remastered/crs/metadata":
@@ -57,11 +57,11 @@ backups:
         hash: 08685b1a26adb842071c53050db597b51d1e52f3
         size: 6925
       /mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/system.reg:
-        hash: 81dd243d585aa1c4f5683aa7d1f17c8f72f3f40b
-        size: 3814330
+        hash: 74da23496cccc3942b8d2ccc4279da018dd38a5e
+        size: 3815580
       /mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/user.reg:
-        hash: f9e9976a27e84f86f04a9f2d5b7774ea26b70a08
-        size: 49278
+        hash: 52aabd7c8fb005a791d159c91b083d1a66770c6a
+        size: 49992
       /mnt/data/Games/Heroic/Prefixes/default/Spider-Man Remastered/pfx/userdef.reg:
         hash: cef75b5510f2e20ad9e24a2eea7ecddcbd331ff9
         size: 4190

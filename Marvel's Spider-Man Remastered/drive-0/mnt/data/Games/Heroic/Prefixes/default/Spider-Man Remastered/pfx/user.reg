@@ -807,8 +807,11 @@ WINE REGISTRY Version 2
 #time=1da7b372ef57bd6
 "ProgId"="https"
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers] 1713098586
-#time=1da8e694c8c6318
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers] 1719505733
+#time=1dac8af19d82152
+"Z:\\mnt\\data\\Games\\Pirate\\Luigi's Mansion 3\\emu\\Ryujinx.exe"="RUNASADMIN"
+"Z:\\mnt\\data\\Games\\Pirate\\Luigi's Mansion 3\\Yuzu.exe"="RUNASADMIN"
+"Z:\\mnt\\data\\Games\\Pirate\\Luigi's Mansion 3\\Yuzu_EA.exe"="RUNASADMIN"
 "Z:\\mnt\\data\\Games\\Pirate\\Spider-man Remastered\\Spider-Man.exe"="RUNASADMIN"
 
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1710987990
@@ -1023,8 +1026,8 @@ WINE REGISTRY Version 2
 #time=1dac25cdcd43910
 "guid"=hex:a9,4b,4f,06,c6,ae,0c,4f,82,d0,a3,bf,87,8e,b5,6a
 
-[Software\\Wine\\Fonts] 1719157166
-#time=1dac583879fc106
+[Software\\Wine\\Fonts] 1719505697
+#time=1dac8af0450cc9e
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
@@ -1161,8 +1164,12 @@ WINE REGISTRY Version 2
 "Segoe UI"="Times New Roman"
 "Verdana"="Times New Roman"
 
-[Software\\Wine\\MenuFiles] 1713099258
-#time=1da8e6adceb93c4
+[Software\\Wine\\MenuFiles] 1719505733
+#time=1dac8af19dd993e
+"c:\\proton_shortcuts\\Luigi's Mansion 3 (Ryujinx).desktop"="C:\\users\\Public\\Desktop\\Luigi's Mansion 3 (Ryujinx).lnk"
+"c:\\proton_shortcuts\\Luigi's Mansion 3 (Yuzu EA).desktop"="C:\\users\\Public\\Desktop\\Luigi's Mansion 3 (Yuzu EA).lnk"
+"c:\\proton_shortcuts\\Luigi's Mansion 3 (Yuzu Old).desktop"="C:\\users\\Public\\Desktop\\Luigi's Mansion 3 (Yuzu Old).lnk"
+"c:\\proton_shortcuts\\Luigi's Mansion 3 (Yuzu).desktop"="C:\\users\\Public\\Desktop\\Luigi's Mansion 3 (Yuzu).lnk"
 "c:\\proton_shortcuts\\Spider-man Remastered.desktop"="C:\\users\\Public\\Desktop\\Spider-man Remastered.lnk"
 
 [Software\\Wine\\WineDbg] 1710987990
