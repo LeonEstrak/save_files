@@ -1291,7 +1291,7 @@
                 {
                     "name": "QuickMapFilter",
                     "type": "int",
-                    "value": 6,
+                    "value": 10,
                     "default_value": 6,
                     "min_value": 0,
                     "max_value": 16,
