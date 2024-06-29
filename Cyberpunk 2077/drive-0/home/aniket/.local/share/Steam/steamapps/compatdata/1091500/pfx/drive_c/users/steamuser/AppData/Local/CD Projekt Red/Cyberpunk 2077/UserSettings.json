@@ -993,7 +993,7 @@
                 {
                     "name": "combatGadget",
                     "type": "name",
-                    "value": "IK_MiddleMouse",
+                    "value": "IK_Mouse5",
                     "default_value": "IK_MiddleMouse"
                 },
                 {
@@ -1332,7 +1332,7 @@
                 {
                     "name": "tag",
                     "type": "name",
-                    "value": "IK_MiddleMouse",
+                    "value": "IK_Mouse5",
                     "default_value": "IK_MiddleMouse"
                 },
                 {
@@ -2526,7 +2526,7 @@
                 {
                     "name": "vehicleReverseCam",
                     "type": "name",
-                    "value": "IK_MiddleMouse",
+                    "value": "IK_Mouse5",
                     "default_value": "IK_MiddleMouse"
                 },
                 {
