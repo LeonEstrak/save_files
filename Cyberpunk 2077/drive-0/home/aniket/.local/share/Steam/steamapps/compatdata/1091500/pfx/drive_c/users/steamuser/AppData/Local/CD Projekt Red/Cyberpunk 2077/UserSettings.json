@@ -1892,7 +1892,7 @@
                 {
                     "name": "CenterStamina",
                     "type": "bool",
-                    "value": false,
+                    "value": true,
                     "default_value": false
                 },
                 {
@@ -1905,8 +1905,8 @@
                     "name": "SpeedometerUnits",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "UI-Settings-UnitImperial",
-                    "index": 1,
+                    "value": "UI-Settings-UnitMetric",
+                    "index": 0,
                     "default_index": 1,
                     "values": [
                         "UI-Settings-UnitMetric",
