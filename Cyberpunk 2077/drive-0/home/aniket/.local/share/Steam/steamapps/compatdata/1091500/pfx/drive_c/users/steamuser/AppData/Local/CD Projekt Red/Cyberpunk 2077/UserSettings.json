@@ -7,7 +7,7 @@
                 {
                     "name": "FPP_MouseX",
                     "type": "float",
-                    "value": 5.0,
+                    "value": 8.0,
                     "default_value": 5.0,
                     "min_value": 1.0,
                     "max_value": 30.0,
@@ -22,7 +22,7 @@
                 {
                     "name": "FPP_MouseY",
                     "type": "float",
-                    "value": 5.0,
+                    "value": 8.0,
                     "default_value": 5.0,
                     "min_value": 1.0,
                     "max_value": 30.0,
@@ -441,8 +441,8 @@
                     "name": "QuickPresets",
                     "type": "string_list",
                     "is_dynamic": true,
-                    "value": "Ray Tracing Ultra",
-                    "index": 8
+                    "value": "Custom",
+                    "index": 0
                 },
                 {
                     "name": "ResolutionScaling",
@@ -632,7 +632,7 @@
                 {
                     "name": "RayTracing",
                     "type": "bool",
-                    "value": true,
+                    "value": false,
                     "default_value": false
                 },
                 {
@@ -670,7 +670,7 @@
                 {
                     "name": "RayTracedPathTracing",
                     "type": "bool",
-                    "value": false,
+                    "value": true,
                     "default_value": false
                 },
                 {
@@ -1231,8 +1231,8 @@
                     "name": "GameDifficulty",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "Hard",
-                    "index": 2,
+                    "value": "Easy",
+                    "index": 1,
                     "default_index": 2,
                     "values": [
                         "Story",
@@ -1285,7 +1285,7 @@
                 {
                     "name": "EnableTelemetry",
                     "type": "bool",
-                    "value": false,
+                    "value": true,
                     "default_value": false
                 },
                 {
