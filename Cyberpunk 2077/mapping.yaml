@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-06-30T10:20:02.351374073Z"
+    when: "2024-06-30T10:30:02.449591735Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/AppData/Local/CD Projekt Red/Cyberpunk 2077/CrashInfo.json:
@@ -179,14 +179,14 @@ backups:
         hash: 33a4f93f1664fdbfb9b5dc8dc87fab84f5e5a557
         size: 135440
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-8/metadata.9.json:
-        hash: 3f5108cea707ceb2d24d50b92312c83a70999a57
-        size: 2682
+        hash: f0ce00ab0a1a12843449707504d2a81755a5ed9c
+        size: 2710
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-8/sav.dat:
-        hash: 08d5115160b144a36a92333e6c12d896286de984
-        size: 1846703
+        hash: 086556413ed6cd8b018bf83ff8a3fe1eed9f1c09
+        size: 1935626
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-8/screenshot.png:
-        hash: 4a8c65a2dcee1fb592778000e4200191f9ae8277
-        size: 150427
+        hash: 6821b4d72a2c17a46f734ea7d0df7c5842344280
+        size: 82703
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-9/metadata.9.json:
         hash: 8e8022cc87ad75ded28e60b701a9e953cf94e909
         size: 2691
@@ -218,7 +218,7 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/user.gls:
-        hash: dc1765aba6230d6fef6b003fcc8b0f093e648a25
+        hash: 2797282381bd7d637db8713534380955cf75fdfb
         size: 931
     registry:
       hash: ~
