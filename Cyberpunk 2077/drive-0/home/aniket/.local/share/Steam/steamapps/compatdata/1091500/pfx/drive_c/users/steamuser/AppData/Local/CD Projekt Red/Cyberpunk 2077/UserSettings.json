@@ -714,7 +714,7 @@
                 {
                     "name": "MovementDodge",
                     "type": "bool",
-                    "value": false,
+                    "value": true,
                     "default_value": false
                 },
                 {
@@ -1467,7 +1467,7 @@
                 {
                     "name": "MaxMonitorBrightness",
                     "type": "float",
-                    "value": 270.0,
+                    "value": 500.0,
                     "default_value": 500.0,
                     "min_value": 300.0,
                     "max_value": 3000.0,
