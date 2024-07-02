@@ -1410,8 +1410,8 @@
                     "name": "VSync",
                     "type": "string_list",
                     "is_dynamic": true,
-                    "value": "UI-Settings-Video-QualitySetting-Off",
-                    "index": 0
+                    "value": "144",
+                    "index": 1
                 },
                 {
                     "name": "MaximumFPS_OnOff",
