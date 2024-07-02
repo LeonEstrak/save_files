@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-07-02T14:10:02.475409058Z"
+    when: "2024-07-02T14:20:02.813593346Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/AppData/Local/CD Projekt Red/Cyberpunk 2077/CrashInfo.json:
@@ -62,14 +62,14 @@ backups:
         hash: fcc05c02753402f1cf1e6db6c145ff2c6ac1dd3a
         size: 113368
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-13/metadata.9.json:
-        hash: 15270856b844a4f4c7babb8ef5a67551b17ef870
-        size: 2758
+        hash: c794d1655596bfa94035716b47dd4b793c432401
+        size: 2898
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-13/sav.dat:
-        hash: 73c616b5fa83ac6e5bde49cb9738040f260c2e86
-        size: 2192788
+        hash: 821091618ba5d23ac4a24e456863553a55b62724
+        size: 2087495
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-13/screenshot.png:
-        hash: 0de91ec708a0cf9252dd0bf1ec988a2a3c3e2c12
-        size: 61779
+        hash: d51fce3e585c2b50eed263b4ef537227f0482290
+        size: 46339
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-14/metadata.9.json:
         hash: c49eeeb30b0583ddf575c210ef1f5f8a5a70c20d
         size: 2763
@@ -272,7 +272,7 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/user.gls:
-        hash: 1cfba42023dfcb2c854541becba6745de5022d57
+        hash: c0947ca446e823c8e2db541a8cac109b7562c453
         size: 932
     registry:
       hash: ~
