@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-07-03T06:00:02.261168524Z"
+    when: "2024-07-03T06:10:02.554146508Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/AppData/Local/CD Projekt Red/Cyberpunk 2077/CrashInfo.json:
@@ -233,14 +233,14 @@ backups:
         hash: 7a539367c524f42a76665c25d72a972c16633e93
         size: 148765
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-4/metadata.9.json:
-        hash: 3be55838a5cd6373fd2ff72578f67fc25f4d6738
-        size: 2881
+        hash: c2805910300a86c816ce75168eee8841ac71a60d
+        size: 3062
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-4/sav.dat:
-        hash: feac868f3ad389d8a784de9a665840a57ff2fcae
-        size: 2191909
+        hash: 6ec38cfe12799bf20f6c1f914f37fc43c2bca606
+        size: 2559348
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-4/screenshot.png:
-        hash: 2eda426b9d59d263b34deeb600135c38c01523a3
-        size: 144152
+        hash: f5fb8f405fed6b0553466d0ea1b69228e2cec5be
+        size: 151097
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/QuickSave-5/metadata.9.json:
         hash: 0143c9a7acda061e5e18878ea191e2a92358f613
         size: 2855
@@ -290,8 +290,8 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/user.gls:
-        hash: 0485d75c2a74f92e98eca036bd4db3147eed724c
-        size: 931
+        hash: f342e1e7615682d038e5dd344fef000fc47e6def
+        size: 932
     registry:
       hash: ~
     children: []
