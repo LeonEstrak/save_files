@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-07-03T05:30:02.397238303Z"
+    when: "2024-07-03T05:40:02.610856244Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/AppData/Local/CD Projekt Red/Cyberpunk 2077/CrashInfo.json:
@@ -116,14 +116,14 @@ backups:
         hash: 50410fb4f2228601695f53ffd2d33e7a103951b3
         size: 142400
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-19/metadata.9.json:
-        hash: 1c6619028d1581972ecfd0429a4841aed0af6c3f
-        size: 3008
+        hash: 8ee12b7a4cd42502d1332b9c423685df15b471a5
+        size: 3053
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-19/sav.dat:
-        hash: 36d61e5abc94caffae25ab11a6c9a0452cd257db
-        size: 2548256
+        hash: c1aef25c74b7206391888209d8e4b278466acdab
+        size: 2736044
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-19/screenshot.png:
-        hash: 0469acb1ed736f4ef5e87dbe44367f571fe3695a
-        size: 136897
+        hash: 8433e381abc16892e6bf67ae19e8eaadde65e982
+        size: 70726
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-2/metadata.9.json:
         hash: 88737ddb14592d359fa565711386389c983076b5
         size: 3017
@@ -290,7 +290,7 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/user.gls:
-        hash: 7c19a5164ce9b79bcc8aacece68a9a5c1e2ba84a
+        hash: 2fe4fc271c9979794b554a742f060e5181e643d4
         size: 932
     registry:
       hash: ~
