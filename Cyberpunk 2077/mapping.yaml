@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-07-03T05:00:03.191161061Z"
+    when: "2024-07-03T05:10:01.997217941Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/AppData/Local/CD Projekt Red/Cyberpunk 2077/CrashInfo.json:
@@ -14,8 +14,8 @@ backups:
         hash: 2849825449582997f3fed78b60fbaf03a3bbbda6
         size: 87612
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/AppData/Local/CD Projekt Red/Cyberpunk 2077/cache/GamePipelineLibrary.cache:
-        hash: 5176433900fd7f9d3168647abc1b892238a87eb2
-        size: 1252360
+        hash: cf0d08ed3f6f38ce0b93a6e2dbf950842fba909f
+        size: 1252800
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-0/metadata.9.json:
         hash: a6868b4a711d23a16ec10fcca6101c1af5692330
         size: 3002
@@ -35,32 +35,32 @@ backups:
         hash: 433e3d69bc1381d7b7edbba2933003ecf23254e1
         size: 148180
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-10/metadata.9.json:
-        hash: 6035431f9253becccd541e4ebdf95b4c7679b56f
-        size: 2987
+        hash: 6530ba018e6ece1924f48abfe15ae44805ff85ee
+        size: 3025
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-10/sav.dat:
-        hash: a905b18a7fdcee22ff170e575d4e4cc4f82ce57b
-        size: 2534644
+        hash: d71fe7ce6d5006f4176f506d2ab757e8b5ef7e96
+        size: 2478110
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-10/screenshot.png:
-        hash: 681bb43299b15d1bdfb1563dfc9928b4c8f407f8
-        size: 7017
+        hash: 041e600510e098a76a30de4c01a87a90a64bc7c1
+        size: 178915
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-11/metadata.9.json:
-        hash: b6fc9abc5d61a24eb85363bac89a3639909a9e22
-        size: 2978
+        hash: d8b8525e85b145e541f05d1af5ede92d200cc13b
+        size: 3024
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-11/sav.dat:
-        hash: a1c6c2dc46fb2ae59bdd8c934450e51ee318a14b
-        size: 2536249
+        hash: d5d6eb97c21db7b7a8b2667303bf00eeefccfe7b
+        size: 2535187
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-11/screenshot.png:
-        hash: 63570ea53ab98a6453d7d15d9a7d9b95a6e0d0ae
-        size: 161575
+        hash: 698782cde8700015653a2735be4b41a50b682c17
+        size: 175356
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-12/metadata.9.json:
-        hash: 58394bc9cdee76124f36527abddfb3eedff502d1
-        size: 2987
+        hash: bc8d4be6bcf6bf8116d0f792b4a4e479592ab694
+        size: 3031
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-12/sav.dat:
-        hash: 4278cee59edac1304819e852f03781d9240676f7
-        size: 2539718
+        hash: 8553c49317250b9d38248391f31aa76ca42b4905
+        size: 2581909
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-12/screenshot.png:
-        hash: 51d9c2e0808c86dd9d1d19142d1069dfc0f76eb5
-        size: 131232
+        hash: f6f5e05f458fe4f532ee9fa808df3a242ce9f9cc
+        size: 182211
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/AutoSave-13/metadata.9.json:
         hash: 0ea02332baf87b2003d3749dd38a05a556f53594
         size: 2988
@@ -290,8 +290,8 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/user.gls:
-        hash: e448870c42a20c14ca4011cb1f172742237ef505
-        size: 931
+        hash: 6931f5b89a7156f9937cb57af15d572492507944
+        size: 932
     registry:
       hash: ~
     children: []
