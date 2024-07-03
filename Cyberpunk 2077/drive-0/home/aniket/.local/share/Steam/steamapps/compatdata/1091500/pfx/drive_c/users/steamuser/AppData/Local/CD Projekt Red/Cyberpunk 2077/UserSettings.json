@@ -1300,7 +1300,7 @@
                 {
                     "name": "CustomMapFilter",
                     "type": "int",
-                    "value": 0,
+                    "value": 5,
                     "default_value": 0,
                     "min_value": 0,
                     "max_value": 10000000,
