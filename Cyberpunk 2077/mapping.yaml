@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-07-06T11:00:02.300503008Z"
+    when: "2024-07-06T11:40:02.947491120Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/AppData/Local/CD Projekt Red/Cyberpunk 2077/CrashInfo.json:
@@ -290,7 +290,7 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /home/aniket/.local/share/Steam/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Saved Games/CD Projekt Red/Cyberpunk 2077/user.gls:
-        hash: f62931b143c354e9b5acf4a3e6f790292b52f419
+        hash: 6089e3236a9eba6fead844ed68ffa5172a9e7347
         size: 932
     registry:
       hash: ~
