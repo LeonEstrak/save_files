@@ -441,8 +441,8 @@
                     "name": "QuickPresets",
                     "type": "string_list",
                     "is_dynamic": true,
-                    "value": "Custom",
-                    "index": 0
+                    "value": "Ultra",
+                    "index": 4
                 },
                 {
                     "name": "ResolutionScaling",
@@ -515,8 +515,8 @@
                     "name": "FSR2",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "Auto",
-                    "index": 0,
+                    "value": "Quality",
+                    "index": 1,
                     "default_index": 0,
                     "values": [
                         "Auto",
@@ -638,27 +638,27 @@
                 {
                     "name": "RayTracedReflections",
                     "type": "bool",
-                    "value": true,
+                    "value": false,
                     "default_value": false
                 },
                 {
                     "name": "RayTracedSunShadows",
                     "type": "bool",
-                    "value": true,
+                    "value": false,
                     "default_value": false
                 },
                 {
                     "name": "RayTracedLocalShadows",
                     "type": "bool",
-                    "value": true,
+                    "value": false,
                     "default_value": false
                 },
                 {
                     "name": "RayTracedLighting",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "Ultra",
-                    "index": 2,
+                    "value": "Off",
+                    "index": 0,
                     "default_index": 0,
                     "values": [
                         "Off",
@@ -670,7 +670,7 @@
                 {
                     "name": "RayTracedPathTracing",
                     "type": "bool",
-                    "value": true,
+                    "value": false,
                     "default_value": false
                 },
                 {
@@ -1231,8 +1231,8 @@
                     "name": "GameDifficulty",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "Easy",
-                    "index": 1,
+                    "value": "Hard",
+                    "index": 2,
                     "default_index": 2,
                     "values": [
                         "Story",
@@ -1410,8 +1410,8 @@
                     "name": "VSync",
                     "type": "string_list",
                     "is_dynamic": true,
-                    "value": "144",
-                    "index": 1
+                    "value": "UI-Settings-Video-QualitySetting-Off",
+                    "index": 0
                 },
                 {
                     "name": "MaximumFPS_OnOff",
