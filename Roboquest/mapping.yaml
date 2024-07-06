@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-07-06T08:00:03.253089465Z"
+    when: "2024-07-06T08:10:02.282338439Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-0C5872FA4951CF35ACB0CBA0A25ADA24/CrashReportClient.ini:
@@ -72,8 +72,8 @@ backups:
         hash: c23e5303edd1fd49c4033c12effc4bab1a9b1444
         size: 1977
       /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/RQProfile.sav:
-        hash: 5561f1b52c795013e444756531ce3a39ff487d06
-        size: 71928
+        hash: b1083d1db279a75034f63d0541caf09afdc83398
+        size: 70717
       /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/RQProfileCopy.sav:
         hash: 43fee11dc2d346ad9e2d937113a26aed8d8c3fe8
         size: 71862
