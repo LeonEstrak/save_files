@@ -5,10 +5,10 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-05-26T15:47:25.994490956Z"
+    when: "2024-07-06T08:00:03.253089465Z"
     os: linux
     files:
-      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-0035D78F42B9CC1FDBCC199A18A4BF6A/CrashReportClient.ini:
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/CrashReportClient/UE4CC-Windows-0C5872FA4951CF35ACB0CBA0A25ADA24/CrashReportClient.ini:
         hash: fa7a70e0f89672e34f6dce3d55068cebc01f50db
         size: 112
       /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/ApexDestruction.ini:
@@ -21,8 +21,8 @@ backups:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
       /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Engine.ini:
-        hash: 1991a340145a793aedc0436d8b294f453cc4e22c
-        size: 1426
+        hash: e14fbc92e2687c17759a325a787c70d622791fb9
+        size: 1626
       /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/Config/WindowsNoEditor/Game.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
@@ -72,11 +72,11 @@ backups:
         hash: c23e5303edd1fd49c4033c12effc4bab1a9b1444
         size: 1977
       /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/RQProfile.sav:
+        hash: 5561f1b52c795013e444756531ce3a39ff487d06
+        size: 71928
+      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/RQProfileCopy.sav:
         hash: 43fee11dc2d346ad9e2d937113a26aed8d8c3fe8
         size: 71862
-      /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/RQProfileCopy.sav:
-        hash: 6354178573472ae8988fd676d532f6eb9baeb258
-        size: 68881
       /home/aniket/.local/share/Steam/steamapps/compatdata/692890/pfx/drive_c/users/steamuser/AppData/Local/RoboQuest/Saved/SaveGames/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
