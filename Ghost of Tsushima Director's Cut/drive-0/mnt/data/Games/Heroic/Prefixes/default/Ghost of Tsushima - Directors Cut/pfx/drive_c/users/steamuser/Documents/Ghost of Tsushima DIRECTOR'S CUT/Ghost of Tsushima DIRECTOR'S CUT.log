@@ -230,3 +230,17 @@
 21:57:46:604 (00000336) > [Render] Working set: 3719MB Page file: 3637MB Video Budget: 14898MB Video Usage: 5805MB Sys Budget: 15744MB Sys Usage: 122MB Demoted: 0MB fps: 144.000000 Demoted: 0MB fps: 144.000000
 21:58:46:610 (00000336) > [Render] Working set: 3720MB Page file: 3638MB Video Budget: 14898MB Video Usage: 5805MB Sys Budget: 15744MB Sys Usage: 122MB Demoted: 0MB fps: 144.000000 Demoted: 0MB fps: 144.000000
 21:59:46:604 (00000336) > [Render] Working set: 3722MB Page file: 3640MB Video Budget: 14898MB Video Usage: 5805MB Sys Budget: 15744MB Sys Usage: 122MB Demoted: 0MB fps: 144.000000 Demoted: 0MB fps: 143.983337
+22:00:46:625 (00000336) > [Render] Working set: 3723MB Page file: 3641MB Video Budget: 14898MB Video Usage: 5805MB Sys Budget: 15744MB Sys Usage: 122MB Demoted: 0MB fps: 143.983337 Demoted: 0MB fps: 144.033340
+22:01:46:635 (00000336) > [Render] Working set: 3725MB Page file: 3642MB Video Budget: 14898MB Video Usage: 5805MB Sys Budget: 15744MB Sys Usage: 122MB Demoted: 0MB fps: 144.033340 Demoted: 0MB fps: 144.016678
+22:02:46:645 (00000336) > [Render] Working set: 3727MB Page file: 3644MB Video Budget: 14898MB Video Usage: 5805MB Sys Budget: 15744MB Sys Usage: 122MB Demoted: 0MB fps: 144.016678 Demoted: 0MB fps: 144.016678
+22:03:46:656 (00000336) > [Render] Working set: 3729MB Page file: 3646MB Video Budget: 14898MB Video Usage: 5805MB Sys Budget: 15744MB Sys Usage: 122MB Demoted: 0MB fps: 144.016678 Demoted: 0MB fps: 144.016678
+22:04:46:666 (00000336) > [Render] Working set: 3730MB Page file: 3647MB Video Budget: 14898MB Video Usage: 5805MB Sys Budget: 15744MB Sys Usage: 122MB Demoted: 0MB fps: 144.016678 Demoted: 0MB fps: 144.016678
+22:05:39:102 (00000328) > [NxApp] Destroying
+22:05:39:104 (00000328) > [DXGI] Destroyed swapchain.
+22:05:39:104 (00000328) > [SwapChain] Destroyed.
+22:05:39:104 (00000328) > [SwapChain] Released.
+22:05:39:106 (00000328) > [Render] Unloading ADL...
+22:05:39:106 (00000328) > [Render] Done unloading ADL
+22:05:39:106 (00000328) > [DXGI] Destroyed swapchain.
+22:05:39:106 (00000328) > [DXGI] Released.
+--- NIXXES log closed ---
