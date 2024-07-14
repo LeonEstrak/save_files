@@ -250,3 +250,15 @@
 12:07:06:425 (00000336) > [Render] Working set: 3875MB Page file: 3788MB Video Budget: 15636MB Video Usage: 6178MB Sys Budget: 15811MB Sys Usage: 122MB Demoted: 0MB fps: 140.9
 12:08:06:439 (00000336) > [Render] Working set: 3872MB Page file: 3785MB Video Budget: 15636MB Video Usage: 6161MB Sys Budget: 15811MB Sys Usage: 122MB Demoted: 0MB fps: 143.3
 12:09:06:438 (00000336) > [Render] Working set: 3862MB Page file: 3775MB Video Budget: 15636MB Video Usage: 6152MB Sys Budget: 15811MB Sys Usage: 122MB Demoted: 0MB fps: 142.5
+12:10:06:443 (00000336) > [Render] Working set: 3865MB Page file: 3778MB Video Budget: 15636MB Video Usage: 6158MB Sys Budget: 15811MB Sys Usage: 122MB Demoted: 0MB fps: 142.9
+12:11:06:450 (00000336) > [Render] Working set: 3867MB Page file: 3780MB Video Budget: 15636MB Video Usage: 6154MB Sys Budget: 15811MB Sys Usage: 122MB Demoted: 0MB fps: 143.9
+12:12:06:458 (00000336) > [Render] Working set: 3876MB Page file: 3790MB Video Budget: 15636MB Video Usage: 6177MB Sys Budget: 15811MB Sys Usage: 122MB Demoted: 0MB fps: 142.2
+12:13:06:467 (00000336) > [Render] Working set: 3878MB Page file: 3792MB Video Budget: 15636MB Video Usage: 6144MB Sys Budget: 15811MB Sys Usage: 122MB Demoted: 0MB fps: 138.1
+12:13:43:021 (00000328) > [NxApp] Destroying
+12:13:43:021 (00000328) > [DXGI] Destroyed swapchain.
+12:13:43:021 (00000328) > [SwapChain] Destroyed.
+12:13:43:021 (00000328) > [SwapChain] Released.
+12:13:43:023 (00000328) > [Render] Unloading ADL...
+12:13:43:023 (00000328) > [Render] Done unloading ADL
+12:13:43:023 (00000328) > [DXGI] Destroyed swapchain.
+12:13:43:023 (00000328) > [DXGI] Released.
