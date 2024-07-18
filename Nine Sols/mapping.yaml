@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-07-18T06:00:01.892015190Z"
+    when: "2024-07-18T06:10:02.330343216Z"
     os: linux
     files:
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/Unity/a5725403-66de-4a66-bcfb-2e645ade7f65/Analytics/config:
@@ -14,23 +14,23 @@ backups:
         hash: 6f8ca0342abbe0ccea7aa6312bd5bfe055aee516
         size: 132
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/flags.txt:
-        hash: afcdd84759ffcbc428e33ba55925bcc394212d87
-        size: 3499992
+        hash: 9da42336d0df86323a5d35af434014100344baa0
+        size: 3500056
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/flags_backup.txt:
-        hash: 435106e97ca935f82ba3ae469c7ccab103b93169
-        size: 3499992
+        hash: acc6f66db1cd431f4730e47c564d694d32ac691b
+        size: 3500076
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/meta.txt:
-        hash: 5646a74a64f588801d0d758246b5c50f81182051
+        hash: 70488f69902e691a6557c5d6bb96b71ac0c1b0dd
         size: 576
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/meta_backup.txt:
-        hash: 5646a74a64f588801d0d758246b5c50f81182051
+        hash: 70488f69902e691a6557c5d6bb96b71ac0c1b0dd
         size: 576
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/system.reg:
         hash: e8d668e13feb2fa8c7c33217ca72216364744064
         size: 3735492
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/user.reg:
-        hash: b181bacb942a622281a6117179125ba93921eea7
-        size: 45824
+        hash: 4335d983c8002c2113e28bdf77e04b0838d9c4df
+        size: 45845
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/userdef.reg:
         hash: 2871ba079cd863de7ac3146f42bd3f31e5169f54
         size: 4190
