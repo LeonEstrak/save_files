@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-07-18T05:50:01.760331362Z"
+    when: "2024-07-18T06:00:01.892015190Z"
     os: linux
     files:
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/Unity/a5725403-66de-4a66-bcfb-2e645ade7f65/Analytics/config:
@@ -14,23 +14,23 @@ backups:
         hash: 6f8ca0342abbe0ccea7aa6312bd5bfe055aee516
         size: 132
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/flags.txt:
-        hash: ef5b4ceb39bb221677478c39f2539f0cb5770d1f
+        hash: afcdd84759ffcbc428e33ba55925bcc394212d87
         size: 3499992
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/flags_backup.txt:
-        hash: 16ac52da9cbec74f3baece4d2ccd23d391bccc91
+        hash: 435106e97ca935f82ba3ae469c7ccab103b93169
         size: 3499992
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/meta.txt:
-        hash: 781a1961897cc3a8161f8ba4481b69bc4b0d6c0c
+        hash: 5646a74a64f588801d0d758246b5c50f81182051
         size: 576
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/meta_backup.txt:
-        hash: 781a1961897cc3a8161f8ba4481b69bc4b0d6c0c
+        hash: 5646a74a64f588801d0d758246b5c50f81182051
         size: 576
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/system.reg:
         hash: e8d668e13feb2fa8c7c33217ca72216364744064
         size: 3735492
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/user.reg:
-        hash: 83a3f7febfcb666608261dbdf0d403de3a2aa0b2
-        size: 45802
+        hash: b181bacb942a622281a6117179125ba93921eea7
+        size: 45824
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/userdef.reg:
         hash: 2871ba079cd863de7ac3146f42bd3f31e5169f54
         size: 4190
