@@ -187,6 +187,7 @@
 		<Property name="SeenSubstances" value="PLANT_SNOW" />
 		<Property name="SeenSubstances" value="SET_PROD_POS" />
 		<Property name="SeenSubstances" value="CREATURE1" />
+		<Property name="SeenSubstances" value="WAR_STANDING_DN" />
 		<Property name="SeenSubstances" value="TRA_STANDING_DN" />
 		<Property name="SeenSubstances" value="GAS1" />
 		<Property name="SeenSubstances" value="TGUILD_STAND_UP" />
