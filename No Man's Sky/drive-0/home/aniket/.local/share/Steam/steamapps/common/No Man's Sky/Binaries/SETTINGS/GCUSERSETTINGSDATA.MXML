@@ -233,9 +233,11 @@
 		<Property name="SeenTechnologies" value="SHIPMINIGUN" />
 		<Property name="SeenTechnologies" value="SUB_ENGINE" />
 		<Property name="SeenTechnologies" value="MAINT_FUEL1" />
+		<Property name="SeenTechnologies" value="MAINT_FRIG8" />
 		<Property name="SeenTechnologies" value="UT_SHIPDRIFT" />
 		<Property name="SeenTechnologies" value="UT_RAD" />
 		<Property name="SeenTechnologies" value="MECH_PROT" />
+		<Property name="SeenTechnologies" value="MAINT_FRIG6" />
 		<Property name="SeenTechnologies" value="UT_SHIPMINI" />
 		<Property name="SeenTechnologies" value="POWERGLOVE" />
 		<Property name="SeenTechnologies" value="MAINT_FRIG2" />
@@ -353,6 +355,7 @@
 		<Property name="SeenTechnologies" value="MAINT_PORTAL16" />
 		<Property name="SeenTechnologies" value="F_HDRIVEBOOST3" />
 		<Property name="SeenTechnologies" value="SHIPROCKETS" />
+		<Property name="SeenTechnologies" value="MAINT_FRIG5" />
 		<Property name="SeenTechnologies" value="TERRAINEDITOR" />
 		<Property name="SeenTechnologies" value="MECH_LASER" />
 		<Property name="SeenTechnologies" value="MAINT_REFINER" />
@@ -1315,8 +1318,8 @@
 	<Property name="CrossSaves" value="false" />
 	<Property name="TemperatureUnit" value="Invalid" />
 	<Property name="UseOldMouseFlight" value="false" />
-	<Property name="LastSeenCommunityMission" value="-1" />
-	<Property name="LastSeenCommunityMissionTier" value="-1" />
+	<Property name="LastSeenCommunityMission" value="89" />
+	<Property name="LastSeenCommunityMissionTier" value="3" />
 	<Property name="MovementMode" value="Teleporter" />
 	<Property name="MovementDirectionPad" value="GcMovementDirection" />
 	<Property name="MovementDirectionHands" value="GcMovementDirection" />
