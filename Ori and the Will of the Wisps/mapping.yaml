@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-07-20T13:10:02.113592075Z"
+    when: "2024-07-20T13:20:02.201488105Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/ClockSkew.bindata:
@@ -39,19 +39,19 @@ backups:
         hash: f0d6987c44f997777edf2c80a61f66ef9390e452
         size: 1618
       /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0.uberstate:
-        hash: de8c4a7ff340fb2fb55c6df17bc3e7b6ce15436b
+        hash: 29baf710051d6b87c8319cd5945cace18c5a519c
         size: 12494
       /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup0.uberstate:
-        hash: b609677867273faf1683fddddaabb0de486ef976
+        hash: 0c56e5188a5d1a386887a4ffa9ef48d57e2f80b1
         size: 12494
       /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup1.uberstate:
-        hash: 8624c25a720dca9977f42d382f54c2accf9b6784
+        hash: 5614ba1ac56fedeab9c26ef36236b91a44cf6380
         size: 12494
       /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup2.uberstate:
-        hash: 0d888f9fc0197309ad22ca8cad275b0f96d1cc1d
+        hash: 4609068d7aae4f97b301535504bb93e2c727642f
         size: 12494
       /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup3.uberstate:
-        hash: 821eeb90236b8896381a59bfc936eabdd22627cc
+        hash: 09883407a6367a53f0fccae7de0ca15d9b9e0f52
         size: 12494
       /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup4.uberstate:
         hash: 29b3ed7da0ee3d5800c6d928547692c344a9db07
