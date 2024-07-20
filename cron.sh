@@ -8,7 +8,7 @@ directoryPath="/home/aniket/ludusavi-backup"
 
 /home/aniket/.cargo/bin/ludusavi backup --no-cloud-sync --force --path "$directoryPath" && \
 bash "$directoryPath"/backup.sh "$directoryPath"
-bash "$directoryPath"/generate_readme.py "$directoryPath"
+python3 "$directoryPath"/generate_readme.py "$directoryPath"
 
 echo "Script completed at: $(date)"
 echo "----------------------------"
