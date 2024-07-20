@@ -1,79 +1,80 @@
 ---
 name: Ori and the Will of the Wisps
 drives:
+  drive-0: ""
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2023-11-24T11:52:15.991269Z"
-    os: windows
+    when: "2024-07-20T13:10:02.113592075Z"
+    os: linux
     files:
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/ClockSkew.bindata":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/ClockSkew.bindata:
         hash: bd5907c94498b7a0e1f9cc81110711d305dbc26d
         size: 20
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/ControllerButtonRemaps.txt":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/ControllerButtonRemaps.txt:
         hash: 10516114880c0f93a75b26bb8ab4cb13b243ccea
         size: 1414
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/KeyRebindings.txt":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/KeyRebindings.txt:
         hash: e7f57b52cb83f9622e2e81a423def1714e8ae725
         size: 2487
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813PlayFabAchievements.bindata":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813PlayFabAchievements.bindata:
         hash: 9f13ecfda6af7e2ed1d4b1526d0c88e603e588e8
         size: 1163
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813PlayFabStatistics.bindata":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813PlayFabStatistics.bindata:
         hash: 19596261be3ce7e4acfa53a6734755bf12d47ef0
         size: 597
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813SteamAchievements.bindata":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813SteamAchievements.bindata:
         hash: 9b531d320ad57e9d1dac15ddea368e85890539c2
         size: 1980
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813XalAchievements.bindata":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/cacheForsteamUser-76561198062383813XalAchievements.bindata:
         hash: 9f13ecfda6af7e2ed1d4b1526d0c88e603e588e8
         size: 1163
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/race-hornbugNormal1AdjacentFriends.bindata":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/race-hornbugNormal1AdjacentFriends.bindata:
         hash: 306950b0f8b1635a41e5e910f346381fbe7c6796
         size: 1618
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/race-hornbugNormal1AdjacentMyScore.bindata":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/race-hornbugNormal1AdjacentMyScore.bindata:
         hash: 9cd898839bf3668dddd26b63d1833f5b7e1a4d6c
         size: 2498
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/race-watermillEscape1AdjacentFriends.bindata":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/race-watermillEscape1AdjacentFriends.bindata:
         hash: f0d6987c44f997777edf2c80a61f66ef9390e452
         size: 1618
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0.uberstate":
-        hash: 3ae7232011e0ea3ea26c814793433a3629bf4b67
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0.uberstate:
+        hash: de8c4a7ff340fb2fb55c6df17bc3e7b6ce15436b
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup0.uberstate":
-        hash: cdd6a8653e8dd12d9c0b2efb26726ecf9c2241f8
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup0.uberstate:
+        hash: b609677867273faf1683fddddaabb0de486ef976
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup1.uberstate":
-        hash: 4539a8e912af896a1dd9e4260a823fc14c75e34e
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup1.uberstate:
+        hash: 8624c25a720dca9977f42d382f54c2accf9b6784
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup2.uberstate":
-        hash: 08695d7c791a54b72e3d142c58ecefc0a9fe8482
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup2.uberstate:
+        hash: 0d888f9fc0197309ad22ca8cad275b0f96d1cc1d
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup3.uberstate":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup3.uberstate:
         hash: 821eeb90236b8896381a59bfc936eabdd22627cc
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup4.uberstate":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup4.uberstate:
         hash: 29b3ed7da0ee3d5800c6d928547692c344a9db07
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup5.uberstate":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup5.uberstate:
         hash: 7b39dbfe244b5f5f1bb7e214c8d4f5e3b94a07ea
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup6.uberstate":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup6.uberstate:
         hash: 74329ebb2257c8bd87240e0228590b9ef1d9d0d7
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup7.uberstate":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup7.uberstate:
         hash: baa183a83e1615604ef4e2444191c1af9c914fbe
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup8.uberstate":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup8.uberstate:
         hash: 41e847a4fe1b352c41d8211674ce4e1019d724e1
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup9.uberstate":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup9.uberstate:
         hash: 709080a976c1e12cd4097d03017bbb6cd86190e1
         size: 12494
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/settings.bin":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/settings.bin:
         hash: d515b7467a2ed1a4527d7a9647b75b2a3b4551d9
         size: 189
-      "C:/Users/user/AppData/Local/Ori and the Will of The Wisps/steam_autocloud.vdf":
+      /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
     registry:
