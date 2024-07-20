@@ -3,6 +3,33 @@ import subprocess
 import requests
 from datetime import datetime
 import argparse
+import re
+import logging
+
+DATE_FORMAT = "%d %B, %Y"
+
+# Function to read the current README.md and map game data to create a cache
+def read_existing_readme(readme_path:str) -> dict[tuple[str,str],str]:
+    game_data ={}
+    if os.path.exists(readme_path):
+        logging.info(f"{readme_path} exists !")
+        with open(readme_path, "r") as file:
+            lines = file.readlines()
+            for line in lines:  # Skip the header lines
+                parts = line.split('|')
+                if len(parts) >= 4:
+                    game_name_match = re.search(r'\!\[(.*?)\]\(', parts[1].strip())
+                    if not game_name_match:
+                        continue
+                    game_name = game_name_match.group(1)
+
+                    last_played = parts[2].strip()
+
+                    key = (game_name, last_played)
+                    # Store the extracted data in a dictionary
+                    game_data[key] = line
+                    logging.debug(f"{key}:{line}")
+    return game_data
 
 # Function to get the last commit date of a folder from Git history
 def get_last_commit_date(folder_path, base_path):
@@ -34,6 +61,7 @@ def get_steam_data(game_name):
             'cc': 'in'
         }
         response = requests.get(api_url, params=params)
+        logging.info(f"Invoked Steam API: {response.request.url}")
         response.raise_for_status()
         data = response.json()
         if data['total'] > 0 and 'items' in data:
@@ -49,21 +77,27 @@ def get_steam_data(game_name):
         return None, None
 
 def generate_readme(base_path):
-    games = []
+    # Create Cache
+    games = read_existing_readme(os.path.join(base_path,"README.md"))
+    list_of_games = list(games.keys())
+    logging.debug(list_of_games)
 
     for folder in os.listdir(base_path):
         folder_path = os.path.join(base_path, folder)
         if os.path.isdir(folder_path):
             last_played_dt = get_last_commit_date(folder, base_path)
+            game_name:str = folder.replace("_", ":")
             if last_played_dt:
-                game_name = folder.replace("_", ":")
-                steam_url, game_img = get_steam_data(game_name)
-                if steam_url and game_img:
-                    last_played_str = last_played_dt.strftime('%d %B, %Y')
-                    games.append((game_name, steam_url, game_img, last_played_str, last_played_dt))
+                last_played_str = last_played_dt.strftime(DATE_FORMAT)
+                key = (game_name, last_played_str)
+                logging.debug(key)
+                if key not in list_of_games: # If not in cache then hit Steam APIs
+                    steam_url, game_img = get_steam_data(game_name)
+                    if steam_url and game_img:
+                        games[key] = f"| [![{game_name}]({game_img})]({steam_url}) | {last_played_str} |\n"
 
     # Sort games by last played date in descending order
-    games.sort(key=lambda x: x[4], reverse=True)
+    list_of_games.sort(key=lambda x: datetime.strptime(x[1],DATE_FORMAT), reverse=True)
 
     # Create the README.md content
     readme_content = "# Game Save Files\n\n"
@@ -74,8 +108,8 @@ def generate_readme(base_path):
     readme_content += "|-----------|-------------|\n"
 
     # Add the games to the table
-    for game_name, steam_url, game_img, last_played_str, _ in games:
-        readme_content += f"| [![{game_name}]({game_img})]({steam_url}) | {last_played_str} |\n"
+    for game_key in list_of_games:
+        readme_content += games[game_key]
 
     # Write the README.md file
     with open(os.path.join(base_path, "README.md"), "w") as readme_file:
@@ -88,4 +122,5 @@ if __name__ == "__main__":
     parser.add_argument('base_path', type=str, help="Path to the directory containing the game save folders")
     args = parser.parse_args()
 
+    logging.basicConfig(level=logging.ERROR)
     generate_readme(args.base_path)
