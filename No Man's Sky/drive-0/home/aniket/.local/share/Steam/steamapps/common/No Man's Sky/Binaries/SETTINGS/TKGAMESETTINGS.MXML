@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data template="TkGameSettings">
+	<Property name="KeyMapping" />
+	<Property name="KeyMapping2" />
+	<Property name="LastKnownPadType" value="TkPadEnum.xml">
+		<Property name="Pad" value="XBoxOne" />
+	</Property>
+</Data>
