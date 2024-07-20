@@ -6,7 +6,7 @@ drives:
   drive-D: "D:"
 backups:
   - name: "."
-    when: "2024-07-20T08:20:02.503040971Z"
+    when: "2024-07-20T08:30:03.091239060Z"
     os: linux
     files:
       "/home/aniket/.local/share/Steam/steamapps/common/No Man's Sky/Binaries/SETTINGS/GCUSERSETTINGSDATA.MXML":
@@ -43,10 +43,10 @@ backups:
         hash: bb26059b23952b5d3d1b403bb2feb43f959077ca
         size: 384
       /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/mf_save.hg:
-        hash: 4fe404a80e51ba4407e67e4f22dd112776fe3af0
+        hash: 0666c0b899c9891d68d54c720dd266f8efbf385d
         size: 384
       /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/mf_save2.hg:
-        hash: c798a7c6d02b6ff066d3f610e5c0a1f2ce448eda
+        hash: 207cd291d5d700de2abf7d03b66cde51939f1385
         size: 384
       /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/mf_save3.hg:
         hash: 708d20c62286bbd57fe85dc73a2932788ab806cf
@@ -55,11 +55,11 @@ backups:
         hash: a400c24bf4d06111b9cf4bf3c5ef1e007d43d41a
         size: 384
       /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/save.hg:
-        hash: 0c07e4d87630d82d8eeb5bb1e2f0b2c0fb4b7d4a
-        size: 522935
+        hash: 9ead4f3bd8a31164313f8bde72e1a2bc04edf6ce
+        size: 523573
       /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/save2.hg:
-        hash: f31dc8cbb43e5b61048f76dc68f1ac2008505d8b
-        size: 522950
+        hash: 5ddddbf140d85ded37777e7944414040dd770513
+        size: 522778
       /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/save3.hg:
         hash: 8136207ab7c09b6400a38dd368682f9cb1d72b0f
         size: 30517
