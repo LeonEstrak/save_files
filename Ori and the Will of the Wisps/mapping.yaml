@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-07-20T13:50:03.096401792Z"
+    when: "2024-07-20T15:20:02.707148699Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/ClockSkew.bindata:
@@ -39,7 +39,7 @@ backups:
         hash: f0d6987c44f997777edf2c80a61f66ef9390e452
         size: 1618
       /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0.uberstate:
-        hash: bdaf9697be4ad096c668bcac6c8194bde2fb7f6c
+        hash: 79ebd03d9a22216e30d03fe16e7ec5e8ef4f91b8
         size: 12494
       /home/aniket/.local/share/Steam/steamapps/compatdata/1057090/pfx/drive_c/users/steamuser/AppData/Local/Ori and the Will of The Wisps/saveFile0_bkup0.uberstate:
         hash: 0c56e5188a5d1a386887a4ffa9ef48d57e2f80b1
