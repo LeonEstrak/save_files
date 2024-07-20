@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-07-18T06:30:02.103390910Z"
+    when: "2024-07-20T16:10:03.246273305Z"
     os: linux
     files:
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/Unity/a5725403-66de-4a66-bcfb-2e645ade7f65/Analytics/ArchivedEvents/172128413500007.c4a2adda/c:
@@ -37,15 +37,6 @@ backups:
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/meta_backup.txt:
         hash: 9e0992798dd076d85592f19b7fa67d26e0d502ff
         size: 576
-      /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/system.reg:
-        hash: e8d668e13feb2fa8c7c33217ca72216364744064
-        size: 3735492
-      /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/user.reg:
-        hash: 0fe7c3d948e2f6371f3465534fa0c864853ff8b6
-        size: 45888
-      /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/userdef.reg:
-        hash: 2871ba079cd863de7ac3146f42bd3f31e5169f54
-        size: 4190
     registry:
       hash: ~
     children: []
