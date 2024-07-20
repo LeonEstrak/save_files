@@ -4,6 +4,7 @@ This repository contains save files for the following games:
 
 | Game Name | Last Played |
 |-----------|-------------|
+| [![Ori and the Will of the Wisps](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_231x87.jpg?t=1701967625)](https://store.steampowered.com/app/1057090/) | 20 July, 2024 |
 | [![No Man's Sky](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/capsule_231x87_alt_assets_24.jpg?t=1721300183)](https://store.steampowered.com/app/275850/) | 20 July, 2024 |
 | [![Nine Sols](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/capsule_231x87.jpg?t=1721379703)](https://store.steampowered.com/app/1809540/) | 18 July, 2024 |
 | [![Roboquest](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/capsule_231x87.jpg?t=1717681007)](https://store.steampowered.com/app/692890/) | 16 July, 2024 |
@@ -31,7 +32,7 @@ This repository contains save files for the following games:
 | [![Horizon Zero Dawn](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/capsule_231x87.jpg?t=1717621265)](https://store.steampowered.com/app/1151640/) | 18 March, 2024 |
 | [![Forza Horizon 5](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_231x87.jpg?t=1721149726)](https://store.steampowered.com/app/1551360/) | 18 March, 2024 |
 | [![Pacific Drive](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/capsule_231x87.jpg?t=1721286389)](https://store.steampowered.com/app/1458140/) | 18 March, 2024 |
-| [![Dome Keeper](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/capsule_231x87_alt_assets_10.jpg?t=1719321644)](https://store.steampowered.com/app/1637320/) | 03 March, 2024 |
+| [![Dome Keeper](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/capsule_231x87.jpg?t=1719321644)](https://store.steampowered.com/app/1637320/) | 03 March, 2024 |
 | [![Persona 3 Reload](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/capsule_231x87.jpg?t=1721234613)](https://store.steampowered.com/app/2161700/) | 21 February, 2024 |
 | [![Armored Core VI: Fires of Rubicon](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/capsule_231x87.jpg?t=1709304761)](https://store.steampowered.com/app/1888160/) | 20 February, 2024 |
 | [![Kena: Bridge of Spirits](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/capsule_231x87.jpg?t=1664298117)](https://store.steampowered.com/app/1954200/) | 12 February, 2024 |
@@ -48,7 +49,6 @@ This repository contains save files for the following games:
 | [![Dead Cells](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/capsule_231x87.jpg?t=1717495895)](https://store.steampowered.com/app/588650/) | 25 December, 2023 |
 | [![Remnant II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/capsule_231x87.jpg?t=1717104501)](https://store.steampowered.com/app/1282100/) | 01 December, 2023 |
 | [![Firewatch](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383870/capsule_231x87.jpg?t=1688484486)](https://store.steampowered.com/app/383870/) | 24 November, 2023 |
-| [![Ori and the Will of the Wisps](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_231x87.jpg?t=1701967625)](https://store.steampowered.com/app/1057090/) | 24 November, 2023 |
 | [![God of War](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/capsule_231x87.jpg?t=1721154083)](https://store.steampowered.com/app/1593500/) | 21 November, 2023 |
 | [![Ghostrunner 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144740/capsule_231x87.jpg?t=1720810982)](https://store.steampowered.com/app/2144740/) | 19 November, 2023 |
 | [![Days Gone](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/capsule_231x87.jpg?t=1717621222)](https://store.steampowered.com/app/1259420/) | 17 November, 2023 |

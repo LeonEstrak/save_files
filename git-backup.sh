@@ -55,8 +55,3 @@ echo -e "\nPushing changes to the remote repository..."
 git push
 echo "Changes pushed to the remote repository.\n"
 
-# Sleep for 3 seconds
-echo -e "\nScript execution completed. Sleeping for 3 seconds..."
-sleep 3
-echo "Sleep completed. Exiting script."
-
