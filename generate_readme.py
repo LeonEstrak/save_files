@@ -48,8 +48,26 @@ def get_steam_data(game_name):
         print(f"Exception getting Steam data for game {game_name}: {e}")
         return None, None
 
+# Function to read the current README.md and map game names to their last played date
+def read_existing_readme(readme_path):
+    game_data = {}
+    if os.path.exists(readme_path):
+        with open(readme_path, "r") as file:
+            lines = file.readlines()
+            for line in lines[2:]:  # Skip the header lines
+                parts = line.split('|')
+                if len(parts) >= 3:
+                    game_name = parts[1].strip().split('](')[0][2:]  # Extract game name from Markdown
+                    last_played = parts[2].strip()
+                    game_data[(game_name, last_played)] = line
+    return game_data
+
+# Function to generate or update README.md file
 def generate_readme(base_path):
+    existing_game_data = read_existing_readme(os.path.join(base_path, "README.md"))
     games = []
+    new_lines = []
+    added_lines = set()
 
     for folder in os.listdir(base_path):
         folder_path = os.path.join(base_path, folder)
@@ -57,31 +75,32 @@ def generate_readme(base_path):
             last_played_dt = get_last_commit_date(folder, base_path)
             if last_played_dt:
                 game_name = folder.replace("_", ":")
-                steam_url, game_img = get_steam_data(game_name)
-                if steam_url and game_img:
-                    last_played_str = last_played_dt.strftime('%d %B, %Y')
-                    games.append((game_name, steam_url, game_img, last_played_str, last_played_dt))
+                last_played_str = last_played_dt.strftime('%d %B, %Y')
+                game_info = (game_name, last_played_str)
+                if game_info in existing_game_data:
+                    # Use existing line if available
+                    new_lines.append(existing_game_data[game_info])
+                    added_lines.add(game_info)
+                else:
+                    # Create a new line for the game
+                    steam_url, game_img = get_steam_data(game_name)
+                    new_line = f"| ![{game_name}]({game_img}) [{game_name}]({steam_url}) | {last_played_str} |\n"
+                    new_lines.append(new_line)
+                    added_lines.add(game_info)
 
-    # Sort games by last played date in descending order
-    games.sort(key=lambda x: x[4], reverse=True)
-
-    # Create the README.md content
+    # Create the new README.md content
     readme_content = "# Game Save Files\n\n"
     readme_content += "This repository contains save files for the following games:\n\n"
-
-    # Create the table header
     readme_content += "| Game Name | Last Played |\n"
     readme_content += "|-----------|-------------|\n"
-
-    # Add the games to the table
-    for game_name, steam_url, game_img, last_played_str, _ in games:
-        readme_content += f"| [![{game_name}]({game_img})]({steam_url}) | {last_played_str} |\n"
+    for line in new_lines:
+        readme_content += line
 
     # Write the README.md file
     with open(os.path.join(base_path, "README.md"), "w") as readme_file:
         readme_file.write(readme_content)
 
-    print("README.md generated successfully!")
+    print("README.md updated successfully!")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate a README.md file for game save files.")
@@ -89,4 +108,3 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     generate_readme(args.base_path)
-
