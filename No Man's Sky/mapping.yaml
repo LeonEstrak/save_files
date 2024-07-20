@@ -6,7 +6,7 @@ drives:
   drive-D: "D:"
 backups:
   - name: "."
-    when: "2024-07-20T08:30:03.091239060Z"
+    when: "2024-07-20T08:40:02.370314016Z"
     os: linux
     files:
       "/home/aniket/.local/share/Steam/steamapps/common/No Man's Sky/Binaries/SETTINGS/GCUSERSETTINGSDATA.MXML":
@@ -43,7 +43,7 @@ backups:
         hash: bb26059b23952b5d3d1b403bb2feb43f959077ca
         size: 384
       /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/mf_save.hg:
-        hash: 0666c0b899c9891d68d54c720dd266f8efbf385d
+        hash: aa69b85ef80d25c916154d8cd26a62ce49853253
         size: 384
       /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/mf_save2.hg:
         hash: 207cd291d5d700de2abf7d03b66cde51939f1385
@@ -55,8 +55,8 @@ backups:
         hash: a400c24bf4d06111b9cf4bf3c5ef1e007d43d41a
         size: 384
       /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/save.hg:
-        hash: 9ead4f3bd8a31164313f8bde72e1a2bc04edf6ce
-        size: 523573
+        hash: 33ec78ad8314520e958c65727ccf35ef830cb1b2
+        size: 523788
       /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/save2.hg:
         hash: 5ddddbf140d85ded37777e7944414040dd770513
         size: 522778
