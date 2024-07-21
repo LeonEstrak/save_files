@@ -4,21 +4,9 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-07-20T16:10:03.246273305Z"
+    when: "2024-07-21T12:10:02.087238568Z"
     os: linux
     files:
-      /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/Unity/a5725403-66de-4a66-bcfb-2e645ade7f65/Analytics/ArchivedEvents/172128413500007.c4a2adda/c:
-        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
-        size: 1
-      /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/Unity/a5725403-66de-4a66-bcfb-2e645ade7f65/Analytics/ArchivedEvents/172128413500007.c4a2adda/e:
-        hash: 4adbc7863b7f3234f180b78b883dfb79cad96c9f
-        size: 697
-      /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/Unity/a5725403-66de-4a66-bcfb-2e645ade7f65/Analytics/ArchivedEvents/172128413500007.c4a2adda/g:
-        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
-        size: 1
-      /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/Unity/a5725403-66de-4a66-bcfb-2e645ade7f65/Analytics/ArchivedEvents/172128413500007.c4a2adda/s:
-        hash: d57768a23d873a76942773a72f5073baf2b9c2b6
-        size: 462
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/Unity/a5725403-66de-4a66-bcfb-2e645ade7f65/Analytics/config:
         hash: a351bea1932270bafbe468584058fef20dcfc31e
         size: 293
@@ -26,16 +14,16 @@ backups:
         hash: 6f8ca0342abbe0ccea7aa6312bd5bfe055aee516
         size: 132
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/flags.txt:
-        hash: 458b67fb67b0036fb21554825e059c880d52b33b
+        hash: 6a66d4879ba8f83c1ee230c33be1bc021cc996ca
         size: 3499928
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/flags_backup.txt:
-        hash: 1c4243b73f0095283c5e5ba87d0cb67c7f284239
-        size: 3499864
+        hash: ae08b0cc744e5f319f92c59094ea1fc50e8c7d6c
+        size: 3499928
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/meta.txt:
-        hash: 9e0992798dd076d85592f19b7fa67d26e0d502ff
+        hash: e28e64febdf723e5392daf04c6cdfa38f362aaef
         size: 576
       /mnt/data/Games/Heroic/Prefixes/default/Nine Sols/pfx/drive_c/users/steamuser/AppData/LocalLow/RedCandleGames/NineSols/saveslot0/meta_backup.txt:
-        hash: 9e0992798dd076d85592f19b7fa67d26e0d502ff
+        hash: e28e64febdf723e5392daf04c6cdfa38f362aaef
         size: 576
     registry:
       hash: ~
