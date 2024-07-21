@@ -114,13 +114,15 @@ def generate_readme(base_path):
     for [game_name,game_pic_data,last_played] in list_of_games:
         if game_pic_data == "": # Fire steam API call
             steam_url, game_img = get_steam_data(game_name)
-            game_pic_data = f"[![{game_name}]({game_img})]({steam_url})"
+            if steam_url and game_img:
+                game_pic_data = f"[![{game_name}]({game_img})]({steam_url})"
 
         logging.debug(f"Writing data for {game_name,last_played}")
 
-        if game_pic_data: # Only add if we have the image
-            logging.error(f"")
-            readme_content += f"| {game_pic_data} | {last_played} |\n"
+        if game_pic_data == "" or game_pic_data is None: # Only add if we have the image
+            logging.error(f"Data for {game_name} is missing")
+            continue
+        readme_content += f"| {game_pic_data} | {last_played} |\n"
 
     # Write the README.md file
     with open(os.path.join(base_path, "README.md"), "w") as readme_file:
