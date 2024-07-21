@@ -15,7 +15,7 @@ def read_existing_readme(readme_path:str) -> dict[str,list[str]]:
         logging.info(f"{readme_path} exists !")
         with open(readme_path, "r") as file:
             lines = file.readlines()
-            for line in lines:  # Skip the header lines
+            for line in lines:
                 parts = line.split('|')
                 if len(parts) >= 4:
                     game_name_match = re.search(r'\!\[(.*?)\]\(', parts[1].strip())
@@ -27,8 +27,10 @@ def read_existing_readme(readme_path:str) -> dict[str,list[str]]:
                     last_played = parts[2].strip()
 
                     key = game_name
+
                     # Store the extracted data in a dictionary
                     game_name_to_data_mapping[key] = [game_name,game_pic_column,last_played]
+
     return game_name_to_data_mapping
 
 # Function to get the last commit date of a folder from Git history
@@ -82,9 +84,11 @@ def generate_readme(base_path):
 
     for folder in os.listdir(base_path):
         folder_path = os.path.join(base_path, folder)
+        if folder == ".git":
+            continue
         if os.path.isdir(folder_path):
             last_played_date = get_last_commit_date(folder, base_path)
-            game_name:str = folder.replace("_", ":")
+            game_name:str = folder.replace("_", ":") # ludusavi replaces : with _
             if not last_played_date:
                 continue
             last_played_str = last_played_date.strftime(DATE_FORMAT)
@@ -108,13 +112,15 @@ def generate_readme(base_path):
 
     # Add the games to the table
     for [game_name,game_pic_data,last_played] in list_of_games:
-        if game_pic_data == "":
+        if game_pic_data == "": # Fire steam API call
             steam_url, game_img = get_steam_data(game_name)
             game_pic_data = f"[![{game_name}]({game_img})]({steam_url})"
 
         logging.debug(f"Writing data for {game_name,last_played}")
 
-        readme_content += f"| {game_pic_data} | {last_played} |\n"
+        if game_pic_data: # Only add if we have the image
+            logging.error(f"")
+            readme_content += f"| {game_pic_data} | {last_played} |\n"
 
     # Write the README.md file
     with open(os.path.join(base_path, "README.md"), "w") as readme_file:
