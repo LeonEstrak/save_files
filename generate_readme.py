@@ -104,8 +104,7 @@ def generate_readme(base_path):
 
     # Create the README.md content
     readme_content = "# 🎮 Game Save Files Repository\n\n"
-    readme_content += "## Introduction\n"
-    readme_content += "Welcome to the Game Save Files repository! This repository contains save files for various games that I have played. Each save file is stored in a separate folder named after the game.\n\n"
+    readme_content += "Welcome to the Game Save Files repository! This repository contains save files for various games that I have played. Each save file is stored in a ludusavi compatible manner.\n\n"
 
     # Create the table header
     readme_content += "| Game Name | Last Played |\n"
