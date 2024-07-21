@@ -6,7 +6,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 |-----------|-------------|
 | [![Ori and the Will of the Wisps](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_231x87.jpg?t=1701967625)](https://store.steampowered.com/app/1057090/) | 21 July, 2024 |
 | [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 21 July, 2024 |
-| [![Nine Sols](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/capsule_231x87.jpg?t=1721379703)](https://store.steampowered.com/app/1809540/) | 20 July, 2024 |
+| [![Nine Sols](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/capsule_231x87.jpg?t=1721379703)](https://store.steampowered.com/app/1809540/) | 21 July, 2024 |
 | [![No Man's Sky](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/capsule_231x87_alt_assets_24.jpg?t=1721300183)](https://store.steampowered.com/app/275850/) | 20 July, 2024 |
 | [![Roboquest](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/capsule_231x87.jpg?t=1717681007)](https://store.steampowered.com/app/692890/) | 16 July, 2024 |
 | [![Ghost of Tsushima Director's Cut](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg?t=1717622497)](https://store.steampowered.com/app/2215430/) | 14 July, 2024 |
