@@ -1,6 +1,7 @@
-# Game Save Files
+# 🎮 Game Save Files Repository
 
-This repository contains save files for the following games:
+## Introduction
+Welcome to the Game Save Files repository! This repository contains save files for various games that I have played. Each save file is stored in a separate folder named after the game.
 
 | Game Name | Last Played |
 |-----------|-------------|
