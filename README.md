@@ -4,6 +4,8 @@ Welcome to the Game Save Files repository! This repository contains save files f
 
 | Game Name | Last Played |
 |-----------|-------------|
+| [![Balatro](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/capsule_231x87.jpg?t=1721294443)](https://store.steampowered.com/app/2379780/) | 23 July, 2024 |
+| [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 23 July, 2024 |
 | [![Ori and the Will of the Wisps](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_231x87.jpg?t=1701967625)](https://store.steampowered.com/app/1057090/) | 21 July, 2024 |
 | [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 21 July, 2024 |
 | [![Nine Sols](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/capsule_231x87.jpg?t=1721379703)](https://store.steampowered.com/app/1809540/) | 21 July, 2024 |
@@ -11,8 +13,6 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Roboquest](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/capsule_231x87.jpg?t=1717681007)](https://store.steampowered.com/app/692890/) | 16 July, 2024 |
 | [![Ghost of Tsushima Director's Cut](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg?t=1717622497)](https://store.steampowered.com/app/2215430/) | 14 July, 2024 |
 | [![Cyberpunk 2077](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_231x87.jpg?t=1718101184)](https://store.steampowered.com/app/1091500/) | 09 July, 2024 |
-| [![Balatro](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/capsule_231x87.jpg?t=1721294443)](https://store.steampowered.com/app/2379780/) | 09 July, 2024 |
-| [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 06 July, 2024 |
 | [![Marvel's Spider-Man Remastered](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/capsule_231x87.jpg?t=1717621493)](https://store.steampowered.com/app/1817070/) | 27 June, 2024 |
 | [![Satisfactory](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/capsule_231x87.jpg?t=1718088881)](https://store.steampowered.com/app/526870/) | 17 June, 2024 |
 | [![Doom Eternal](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/capsule_231x87.jpg?t=1702308063)](https://store.steampowered.com/app/782330/) | 17 June, 2024 |
