@@ -4,21 +4,21 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-07-09T13:30:04.007016418Z"
+    when: "2024-07-23T15:40:04.369895283Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro/1/meta.jkr:
         hash: 3c59011d7b74cfa777bc5226b6cdc7d6e751a771
         size: 1992
       /home/aniket/.local/share/Steam/steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro/1/profile.jkr:
-        hash: ed8b4e8a07ceca845d949071d9bde3eff20de212
-        size: 2213
+        hash: d5c55f3f8a785572bf0ef2833d89259629a6635b
+        size: 2229
       /home/aniket/.local/share/Steam/steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro/1/save.jkr:
-        hash: 305df78997f7d9e683df68d7f6d9b2a094d8da18
-        size: 8583
+        hash: 848b07cb6f7da1f18cba1e07cd754afc78695a56
+        size: 7023
       /home/aniket/.local/share/Steam/steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro/settings.jkr:
-        hash: 13841534c40bd11e9ef8b8b7e973f27badb1c40a
-        size: 835
+        hash: a04c1c07170171919f902c0df111d6c1cfa35547
+        size: 771
       /home/aniket/.local/share/Steam/steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
