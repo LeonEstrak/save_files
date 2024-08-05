@@ -190,3 +190,13 @@
 20:29:50:837 (00000320) > [Input] XInput disabled, disconnecting controller. index: 0
 20:29:50:837 (00000320) > [Input] Gamepads connected: 2 -> 1
 20:29:50:837 (00000320) > [Input] Gamepad for main player: 0
+20:30:41:405 (00000328) > [Render] Working set: 3307MB Page file: 3229MB Video Budget: 15664MB Video Usage: 4785MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 134.3
+20:31:41:412 (00000328) > [Render] Working set: 3309MB Page file: 3230MB Video Budget: 15664MB Video Usage: 4785MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 144.0
+20:32:41:411 (00000328) > [Render] Working set: 3310MB Page file: 3232MB Video Budget: 15664MB Video Usage: 4785MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 144.0
+20:33:41:424 (00000328) > [Render] Working set: 3329MB Page file: 3251MB Video Budget: 15664MB Video Usage: 5260MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 143.1
+20:34:41:423 (00000328) > [Render] Working set: 3377MB Page file: 3298MB Video Budget: 15664MB Video Usage: 5406MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 143.8
+20:35:41:434 (00000328) > [Render] Working set: 3378MB Page file: 3300MB Video Budget: 15664MB Video Usage: 5397MB Sys Budget: 15797MB Sys Usage: 122MB Demoted: 0MB fps: 144.0
+20:36:41:450 (00000328) > [Render] Working set: 3380MB Page file: 3301MB Video Budget: 15664MB Video Usage: 5397MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 144.0
+15:07:41:467 (00000328) > [Render] Working set: 3381MB Page file: 3302MB Video Budget: 15664MB Video Usage: 5397MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 144.0
+20:38:41:466 (00000328) > [Render] Working set: 3382MB Page file: 3304MB Video Budget: 15664MB Video Usage: 5397MB Sys Budget: 15795MB Sys Usage: 122MB Demoted: 0MB fps: 144.0
+20:39:41:470 (00000328) > [Render] Working set: 3384MB Page file: 3305MB Video Budget: 15620MB Video Usage: 5397MB Sys Budget: 15807MB Sys Usage: 122MB Demoted: 0MB fps: 144.0

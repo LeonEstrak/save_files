@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-05T15:00:02.312840739Z"
+    when: "2024-08-05T15:10:02.359583994Z"
     os: linux
     files:
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/AppData/Roaming/Sucker Punch Productions/Ghost of Tsushima DIRECTOR'S CUT/crs/metadata":
@@ -17,8 +17,8 @@ backups:
         hash: fc2a9364a59fb3ad3b6f1b6f5ce7d7099112c06b
         size: 216
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/auto.sav":
-        hash: 02de07510a9cdfebb01a85a5ec95403e52dad2c0
-        size: 333930
+        hash: 6143d36a1c097b6859f68f654e0d12f7b4c21953
+        size: 333958
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_00.sav":
         hash: f256a6cffa677e9b988bbe5248de5faa39a1e854
         size: 333962
@@ -131,13 +131,13 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/Ghost of Tsushima DIRECTOR'S CUT.log":
-        hash: ea1ee66ae3affdc86ec782b94ab2c3d19cf056f3
-        size: 14777
+        hash: 4ad4f9b40063da7c0f2beeabe6d24b02f54d21bc
+        size: 16547
       /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/system.reg:
-        hash: 375ac1eab029e215afbd6a695eeaa190218d56a5
+        hash: 443c96d9fa1ec61204fecb20a553265e786d9845
         size: 3741829
       /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/user.reg:
-        hash: b510480944e471aaa8c999e2135f4e87a8834930
+        hash: 7816ab761d90b9a1c98daa5338fae2fd92500088
         size: 50720
       /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/userdef.reg:
         hash: 87d26dae8598d851436ca58465f9497454d5eca0
