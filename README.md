@@ -8,6 +8,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 05 August, 2024 |
 | [![Fallout 4](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg?t=1717972401)](https://store.steampowered.com/app/377160/) | 05 August, 2024 |
 | [![Ghost of Tsushima Director's Cut](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg?t=1717622497)](https://store.steampowered.com/app/2215430/) | 05 August, 2024 |
+| [![Yakuza: Like a Dragon](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/capsule_231x87.jpg?t=1717588355)](https://store.steampowered.com/app/1235140/) | 05 August, 2024 |
 | [![Balatro](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/capsule_231x87.jpg?t=1721294443)](https://store.steampowered.com/app/2379780/) | 23 July, 2024 |
 | [![Ori and the Will of the Wisps](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_231x87.jpg?t=1701967625)](https://store.steampowered.com/app/1057090/) | 21 July, 2024 |
 | [![Nine Sols](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/capsule_231x87.jpg?t=1721379703)](https://store.steampowered.com/app/1809540/) | 21 July, 2024 |
