@@ -4,10 +4,11 @@ Welcome to the Game Save Files repository! This repository contains save files f
 
 | Game Name | Last Played |
 |-----------|-------------|
+| [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 05 August, 2024 |
+| [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 05 August, 2024 |
+| [![Fallout 4](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg?t=1717972401)](https://store.steampowered.com/app/377160/) | 05 August, 2024 |
 | [![Balatro](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/capsule_231x87.jpg?t=1721294443)](https://store.steampowered.com/app/2379780/) | 23 July, 2024 |
-| [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 23 July, 2024 |
 | [![Ori and the Will of the Wisps](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_231x87.jpg?t=1701967625)](https://store.steampowered.com/app/1057090/) | 21 July, 2024 |
-| [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 21 July, 2024 |
 | [![Nine Sols](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/capsule_231x87.jpg?t=1721379703)](https://store.steampowered.com/app/1809540/) | 21 July, 2024 |
 | [![No Man's Sky](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/capsule_231x87_alt_assets_24.jpg?t=1721300183)](https://store.steampowered.com/app/275850/) | 20 July, 2024 |
 | [![Roboquest](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/capsule_231x87.jpg?t=1717681007)](https://store.steampowered.com/app/692890/) | 16 July, 2024 |
@@ -25,7 +26,6 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Mafia: Definitive Edition](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/capsule_231x87.jpg?t=1632420251)](https://store.steampowered.com/app/1030840/) | 26 May, 2024 |
 | [![Thronefall](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/capsule_231x87.jpg?t=1721038386)](https://store.steampowered.com/app/2239150/) | 26 May, 2024 |
 | [![Deep Rock Galactic](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/capsule_231x87_alt_assets_25.jpg?t=1718884008)](https://store.steampowered.com/app/548430/) | 26 May, 2024 |
-| [![Fallout 4](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg?t=1717972401)](https://store.steampowered.com/app/377160/) | 26 May, 2024 |
 | [![Horizon Forbidden West](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/capsule_231x87.jpg?t=1717622622)](https://store.steampowered.com/app/2420110/) | 09 April, 2024 |
 | [![Marvel's Guardians of the Galaxy](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/capsule_231x87.jpg?t=1709581505)](https://store.steampowered.com/app/1088850/) | 23 March, 2024 |
 | [![Final Fantasy VII Remake Intergrade](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_231x87.jpg?t=1696383548)](https://store.steampowered.com/app/1462040/) | 19 March, 2024 |
