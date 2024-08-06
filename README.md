@@ -6,7 +6,8 @@ Welcome to the Game Save Files repository! This repository contains save files f
 |-----------|-------------|
 | [![Ghost of Tsushima Director's Cut](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg?t=1717622497)](https://store.steampowered.com/app/2215430/) | 06 August, 2024 |
 | [![Yakuza: Like a Dragon](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/capsule_231x87.jpg?t=1717588355)](https://store.steampowered.com/app/1235140/) | 06 August, 2024 |
-| [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 05 August, 2024 |
+| [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 06 August, 2024 |
+| [![Oxygen Not Included](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/capsule_231x87.jpg?t=1721328489)](https://store.steampowered.com/app/457140/) | 06 August, 2024 |
 | [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 05 August, 2024 |
 | [![Fallout 4](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg?t=1717972401)](https://store.steampowered.com/app/377160/) | 05 August, 2024 |
 | [![Balatro](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/capsule_231x87.jpg?t=1721294443)](https://store.steampowered.com/app/2379780/) | 23 July, 2024 |
@@ -18,7 +19,6 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Marvel's Spider-Man Remastered](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/capsule_231x87.jpg?t=1717621493)](https://store.steampowered.com/app/1817070/) | 27 June, 2024 |
 | [![Satisfactory](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/capsule_231x87.jpg?t=1718088881)](https://store.steampowered.com/app/526870/) | 17 June, 2024 |
 | [![Doom Eternal](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/capsule_231x87.jpg?t=1702308063)](https://store.steampowered.com/app/782330/) | 17 June, 2024 |
-| [![Oxygen Not Included](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/capsule_231x87.jpg?t=1721328489)](https://store.steampowered.com/app/457140/) | 15 June, 2024 |
 | [![State of Decay 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/capsule_231x87.jpg?t=1698336135)](https://store.steampowered.com/app/495420/) | 14 June, 2024 |
 | [![Hi-Fi Rush](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/capsule_231x87.jpg?t=1715602824)](https://store.steampowered.com/app/1817230/) | 12 June, 2024 |
 | [![Risk of Rain 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1699992764)](https://store.steampowered.com/app/632360/) | 09 June, 2024 |
