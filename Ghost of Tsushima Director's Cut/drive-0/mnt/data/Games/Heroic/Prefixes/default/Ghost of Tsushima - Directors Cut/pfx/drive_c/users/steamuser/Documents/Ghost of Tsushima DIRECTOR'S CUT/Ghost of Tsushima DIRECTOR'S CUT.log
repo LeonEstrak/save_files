@@ -267,3 +267,19 @@
 19:47:44:275 (00000332) > [Render] Working set: 3957MB Page file: 3870MB Video Budget: 15365MB Video Usage: 5865MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 144.0
 19:48:44:287 (00000332) > [Render] Working set: 3959MB Page file: 3872MB Video Budget: 15365MB Video Usage: 5872MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 144.0
 19:49:44:293 (00000332) > [Render] Working set: 3960MB Page file: 3873MB Video Budget: 15365MB Video Usage: 5939MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 143.7
+19:50:44:299 (00000332) > [Render] Working set: 3961MB Page file: 3874MB Video Budget: 15365MB Video Usage: 5871MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 143.8
+19:51:44:318 (00000332) > [Render] Working set: 3955MB Page file: 3868MB Video Budget: 15350MB Video Usage: 5867MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 142.8
+19:52:44:320 (00000332) > [Render] Working set: 3957MB Page file: 3870MB Video Budget: 15365MB Video Usage: 5868MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 143.3
+19:53:44:328 (00000332) > [Render] Working set: 3963MB Page file: 3876MB Video Budget: 15365MB Video Usage: 5867MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 143.1
+19:54:44:328 (00000332) > [Render] Working set: 3960MB Page file: 3873MB Video Budget: 15365MB Video Usage: 5863MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 143.9
+19:55:44:335 (00000332) > [Render] Working set: 3962MB Page file: 3875MB Video Budget: 15365MB Video Usage: 5866MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 144.0
+19:56:44:341 (00000332) > [Render] Working set: 3962MB Page file: 3875MB Video Budget: 15365MB Video Usage: 5868MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 142.7
+19:57:44:352 (00000332) > [Render] Working set: 3962MB Page file: 3875MB Video Budget: 15364MB Video Usage: 5868MB Sys Budget: 15863MB Sys Usage: 122MB Demoted: 0MB fps: 144.0
+19:58:25:373 (00000324) > [NxApp] Destroying
+19:58:25:373 (00000324) > [DXGI] Destroyed swapchain.
+19:58:25:373 (00000324) > [SwapChain] Destroyed.
+19:58:25:373 (00000324) > [SwapChain] Released.
+19:58:25:374 (00000324) > [Render] Unloading ADL...
+19:58:25:374 (00000324) > [Render] Done unloading ADL
+19:58:25:374 (00000324) > [DXGI] Destroyed swapchain.
+19:58:25:374 (00000324) > [DXGI] Released.
