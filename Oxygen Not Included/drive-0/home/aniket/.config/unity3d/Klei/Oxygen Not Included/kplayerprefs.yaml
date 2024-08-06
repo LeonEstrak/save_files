@@ -6,7 +6,7 @@ strings:
   SandboxTools.SelectedDisease: FoodPoisoning
   SandboxTools.SelectedStory: MorbRoverMaker
 ints:
-  SESSION_ID: 1
+  SESSION_ID: 3
   LowResTextures: 0
   ResolutionWidth: 1920
   ResolutionHeight: 1080
