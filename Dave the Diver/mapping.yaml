@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-08-07T14:40:02.661468716Z"
+    when: "2024-08-07T14:50:02.675567649Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1868140/pfx/drive_c/users/steamuser/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/102118085/GameSave_00_GD.sav:
@@ -33,8 +33,8 @@ backups:
         hash: 3d58976e36b38cae62bfac5f771172bacdda8357
         size: 3747951
       /home/aniket/.local/share/Steam/steamapps/compatdata/1868140/pfx/user.reg:
-        hash: bea5afcdae794e98eb24af120db804e3a9bc0adf
-        size: 82924
+        hash: e521ca73e0146937d30ed8142cbd8debe638dca7
+        size: 83000
       /home/aniket/.local/share/Steam/steamapps/compatdata/1868140/pfx/userdef.reg:
         hash: 73e918c3f6ef78c9a98f29f4fca2fe71667eacd8
         size: 4190

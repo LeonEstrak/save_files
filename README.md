@@ -6,6 +6,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 |-----------|-------------|
 | [![No Man's Sky](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/capsule_231x87_alt_assets_24.jpg?t=1721300183)](https://store.steampowered.com/app/275850/) | 07 August, 2024 |
 | [![Dinkum](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/capsule_231x87.jpg?t=1714095914)](https://store.steampowered.com/app/1062520/) | 07 August, 2024 |
+| [![Dave the Diver](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_231x87.jpg?t=1716447953)](https://store.steampowered.com/app/1868140/) | 07 August, 2024 |
 | [![Ghost of Tsushima Director's Cut](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg?t=1717622497)](https://store.steampowered.com/app/2215430/) | 06 August, 2024 |
 | [![Yakuza: Like a Dragon](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/capsule_231x87.jpg?t=1717588355)](https://store.steampowered.com/app/1235140/) | 06 August, 2024 |
 | [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 06 August, 2024 |
@@ -24,7 +25,6 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Hi-Fi Rush](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/capsule_231x87.jpg?t=1715602824)](https://store.steampowered.com/app/1817230/) | 12 June, 2024 |
 | [![Risk of Rain 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1699992764)](https://store.steampowered.com/app/632360/) | 09 June, 2024 |
 | [![Jujutsu Kaisen: Cursed Clash](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1877020/capsule_231x87.jpg?t=1717020320)](https://store.steampowered.com/app/1877020/) | 09 June, 2024 |
-| [![Dave the Diver](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_231x87.jpg?t=1716447953)](https://store.steampowered.com/app/1868140/) | 26 May, 2024 |
 | [![Mafia: Definitive Edition](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/capsule_231x87.jpg?t=1632420251)](https://store.steampowered.com/app/1030840/) | 26 May, 2024 |
 | [![Thronefall](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/capsule_231x87.jpg?t=1721038386)](https://store.steampowered.com/app/2239150/) | 26 May, 2024 |
 | [![Deep Rock Galactic](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/capsule_231x87_alt_assets_25.jpg?t=1718884008)](https://store.steampowered.com/app/548430/) | 26 May, 2024 |
