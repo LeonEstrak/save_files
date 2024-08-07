@@ -24,3 +24,74 @@ Coroutine couldn't be started because the the game object 'InvSlot(Clone)' is in
 Starting server [SteamSockets].
 Server started listening
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (VoiceChatSource).
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkFishingRod+<controllRod>d__52.MoveNext () [0x00093] in <989055bd37cb4ad48cc4ae4d81258812>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <4fae2288737c4dfda349689bbefabfcc>:0 
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+NetworkFishingRod:startControls()
+FishingRodCastAndReel:Start()
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkFishingRod+<controllRod>d__52.MoveNext () [0x00093] in <989055bd37cb4ad48cc4ae4d81258812>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <4fae2288737c4dfda349689bbefabfcc>:0 
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+NetworkFishingRod:startControls()
+FishingRodCastAndReel:Start()
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkFishingRod+<controllRod>d__52.MoveNext () [0x00093] in <989055bd37cb4ad48cc4ae4d81258812>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <4fae2288737c4dfda349689bbefabfcc>:0 
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+NetworkFishingRod:startControls()
+FishingRodCastAndReel:Start()
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkFishingRod+<controllRod>d__52.MoveNext () [0x00093] in <989055bd37cb4ad48cc4ae4d81258812>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <4fae2288737c4dfda349689bbefabfcc>:0 
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+NetworkFishingRod:startControls()
+FishingRodCastAndReel:Start()
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkFishingRod+<controllRod>d__52.MoveNext () [0x00093] in <989055bd37cb4ad48cc4ae4d81258812>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <4fae2288737c4dfda349689bbefabfcc>:0 
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+NetworkFishingRod:startControls()
+FishingRodCastAndReel:Start()
+
+STEAM - Leaving lobby 0
+STEAM - Disconnected
+Transport shut down - was server.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+ArgumentException: Value does not fall within the expected range.
+  at NetworkMapSharer.OnDestroy () [0x0001b] in <989055bd37cb4ad48cc4ae4d81258812>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at FishingRodCastAndReel.completeReel (System.Boolean beingDisabled) [0x00105] in <989055bd37cb4ad48cc4ae4d81258812>:0 
+  at FishingRodCastAndReel.OnDisable () [0x00037] in <989055bd37cb4ad48cc4ae4d81258812>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ParticleManager.emitParticleAtPosition (UnityEngine.ParticleSystem partToMove, UnityEngine.Vector3 position, System.Int32 emitAmount) [0x00000] in <989055bd37cb4ad48cc4ae4d81258812>:0 
+  at ControlVehicle.OnDestroy () [0x0002a] in <989055bd37cb4ad48cc4ae4d81258812>:0 
+
+UnloadTime: 115.624600 ms
+
+Unloading 9335 unused Assets to reduce memory usage. Loaded Objects now: 202501.
+Total: 74.573000 ms (FindLiveObjects: 5.992100 ms CreateObjectMapping: 6.799100 ms MarkObjects: 52.351200 ms  DeleteObjects: 9.430100 ms)
+
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 2bc -> priority: 1 
+  Thread -> id: 2c0 -> priority: 1 
+  Thread -> id: 2c4 -> priority: 1 
+  Thread -> id: 2cc -> priority: 1 
+  Thread -> id: 2d0 -> priority: 1 
+  Thread -> id: 2c8 -> priority: 1 
+  Thread -> id: 2d4 -> priority: 1 
+  Thread -> id: 2d8 -> priority: 1 
+  Thread -> id: 2dc -> priority: 1 
+  Thread -> id: 2e0 -> priority: 1 

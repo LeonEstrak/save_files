@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-08-07T14:20:01.940728128Z"
+    when: "2024-08-07T14:30:02.931320362Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1062520/pfx/drive_c/users/steamuser/AppData/LocalLow/James Bendon/Dinkum/I2Source_I2Languages11J-x5-VCyyy89052xxRmm8hO4SqL65mELsd5xnLy4s8.loc:
@@ -15,8 +15,8 @@ backups:
         hash: 274487714922b07da65e461773e87c2983d34944
         size: 1632
       /home/aniket/.local/share/Steam/steamapps/compatdata/1062520/pfx/drive_c/users/steamuser/AppData/LocalLow/James Bendon/Dinkum/Player.log:
-        hash: ad32f5ba8db9d6b4465e2968c1df6fe6b7f69500
-        size: 1314
+        hash: 87e8dc118b000feb4d383e6ebf2ba5e8b8b4c052
+        size: 5675
       /home/aniket/.local/share/Steam/steamapps/compatdata/1062520/pfx/drive_c/users/steamuser/AppData/LocalLow/James Bendon/Dinkum/Slot0/Container.es3:
         hash: 10559ce40aefe9d3a692702344bd02fbb70f9d8e
         size: 1328
