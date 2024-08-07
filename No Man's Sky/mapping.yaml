@@ -6,69 +6,18 @@ drives:
   drive-D: "D:"
 backups:
   - name: "."
-    when: "2024-07-20T09:50:02.189165190Z"
+    when: "2024-08-07T12:20:02.423792083Z"
     os: linux
     files:
       "/home/aniket/.local/share/Steam/steamapps/common/No Man's Sky/Binaries/SETTINGS/GCUSERSETTINGSDATA.MXML":
         hash: 7d9c60bf415db20bbb90a5520f2a3f6144d8582e
         size: 76982
-      "/home/aniket/.local/share/Steam/steamapps/common/No Man's Sky/Binaries/SETTINGS/HDR/TKHDRLUT_DEFAULT_1000.cube":
-        hash: 4ba9fa488cf1b14ae21ee5b7cda63cc7ed529b29
-        size: 7340997
-      "/home/aniket/.local/share/Steam/steamapps/common/No Man's Sky/Binaries/SETTINGS/HDR/TKHDRLUT_DEFAULT_400.cube":
-        hash: 7a3d1065f15cc1371785d1c8002473a49f084366
-        size: 7340997
-      "/home/aniket/.local/share/Steam/steamapps/common/No Man's Sky/Binaries/SETTINGS/HDR/TKHDRLUT_DEFAULT_600.cube":
-        hash: f1ecc31aac6c7e3530e4b2a0e61f425e97c27b43
-        size: 7340997
       "/home/aniket/.local/share/Steam/steamapps/common/No Man's Sky/Binaries/SETTINGS/TKGAMESETTINGS.MXML":
         hash: ecdc8c09220afb2287f77fa72660ed7b1c055b91
         size: 261
       "/home/aniket/.local/share/Steam/steamapps/common/No Man's Sky/Binaries/SETTINGS/TKGRAPHICSSETTINGS.MXML":
         hash: 3a324236545d3ba15163e95801f4c60288846ff6
         size: 3271
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/accountdata.hg:
-        hash: 3949a9eafc0eef4b9415d318370daece965bb958
-        size: 20779
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/cache/INTRO_FEED_CACHE.JSON:
-        hash: 7216a269c23bc457e7ee547b4c60bde3b63abeef
-        size: 20384
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/cache/INTRO_FEED_CACHE.MFT:
-        hash: f34b64eacb6939def1275b2134f3569aa0af63f9
-        size: 4
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/cache/SEASON_DATA_CACHE.JSON:
-        hash: 0c6a065413ef002da2652b2c9df4f24fa2fe7c93
-        size: 129611
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/mf_accountdata.hg:
-        hash: d9f8be12852642d643ad4b9e112a4d3a59ceaa7b
-        size: 384
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/mf_save.hg:
-        hash: d425eee53da529db8663ab69128110be962f89be
-        size: 384
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/mf_save2.hg:
-        hash: dd5d0073fc72bba14a79e5dc4dacfd8479dda999
-        size: 384
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/mf_save3.hg:
-        hash: 708d20c62286bbd57fe85dc73a2932788ab806cf
-        size: 384
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/mf_save4.hg:
-        hash: a400c24bf4d06111b9cf4bf3c5ef1e007d43d41a
-        size: 384
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/save.hg:
-        hash: f9f374b24e8e405e36d8a65a9b48983fd3af8905
-        size: 526027
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/save2.hg:
-        hash: 734ef1e5acaadb90de9a09a87fada8a91eeba37c
-        size: 525933
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/save3.hg:
-        hash: 8136207ab7c09b6400a38dd368682f9cb1d72b0f
-        size: 30517
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/save4.hg:
-        hash: 9b6a6d0686d6da47adf5e02606529e877378a8b1
-        size: 30687
-      /home/aniket/.local/share/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198062383813/steam_autocloud.vdf:
-        hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
-        size: 52
     registry:
       hash: ~
     children: []
