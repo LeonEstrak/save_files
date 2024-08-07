@@ -1,0 +1,38 @@
+Mono path[0] = 'Z:/home/deck/.local/share/Steam/steamapps/common/Dinkum/Dinkum_Data/Managed'
+Mono config path = 'Z:/home/deck/.local/share/Steam/steamapps/common/Dinkum/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.48f1 (b805b124c6b7)
+[Subsystems] Discovering subsystems at path Z:/home/deck/.local/share/Steam/steamapps/common/Dinkum/Dinkum_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon Graphics (RADV VANGOGH) (ID=0x1435)
+    Vendor:   
+    VRAM:     6101 MB
+    Driver:   31.0.21902.5
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.219 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+Using XInput
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.674300 ms
+Setting the cache settings here
+Starting server [SteamSockets].
+Server started listening
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (VoiceChatSource).
+STEAM - Leaving lobby 0
+STEAM - Disconnected
+STEAM - Leaving lobby 0
+STEAM - Disconnected
+Transport shut down - was server.
+ArgumentException: Value does not fall within the expected range.
+  at NetworkMapSharer.OnDestroy () [0x00000] in <fd1c94f5c9d44e97b4c637b2292385d4>:0 
+
+UnloadTime: 311.769600 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 298 -> priority: 1 
+  Thread -> id: 29c -> priority: 1 
+  Thread -> id: 2a0 -> priority: 1 
+  Thread -> id: 2a4 -> priority: 1 

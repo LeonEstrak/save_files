@@ -1,0 +1,26 @@
+Mono path[0] = 'Z:/home/aniket/.local/share/Steam/steamapps/common/Dinkum/Dinkum_Data/Managed'
+Mono config path = 'Z:/home/aniket/.local/share/Steam/steamapps/common/Dinkum/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.48f1 (b805b124c6b7)
+[Subsystems] Discovering subsystems at path Z:/home/aniket/.local/share/Steam/steamapps/common/Dinkum/Dinkum_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6800 XT (RADV NAVI21) (ID=0x73bf)
+    Vendor:   
+    VRAM:     16368 MB
+    Driver:   31.0.21902.5
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.093 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+Using XInput
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.522800 ms
+Setting the cache settings here
+Coroutine couldn't be started because the the game object 'InvSlot(Clone)' is inactive!
+Coroutine couldn't be started because the the game object 'InvSlot(Clone)' is inactive!
+Starting server [SteamSockets].
+Server started listening
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (VoiceChatSource).
