@@ -73503,8 +73503,8 @@ WINE REGISTRY Version 2
 "CommonPictures"=str(2):"%PUBLIC%\\Pictures"
 "CommonVideo"=str(2):"%PUBLIC%\\Videos"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1713451327
-#time=1da919e96ae979e
+[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1723210265
+#time=1daea60627c8eb6
 "@Droid Sans Fallback (TrueType)"="Z:\\run\\host\\fonts\\google-droid-sans-fonts\\DroidSansFallbackFull.ttf"
 "@Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
 "@Noto Sans CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
@@ -73879,6 +73879,7 @@ WINE REGISTRY Version 2
 "Source Code Pro Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro-fonts\\SourceCodePro-MediumIt.otf"
 "Source Code Pro Semibold (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro-fonts\\SourceCodePro-Semibold.otf"
 "Source Code Pro Semibold Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro-fonts\\SourceCodePro-SemiboldIt.otf"
+"Standard Symbols PS (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\StandardSymbolsPS.otf"
 "STIX Two Math Regular (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoMath-Regular.otf"
 "STIX Two Text Bold (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoText-Bold.otf"
 "STIX Two Text Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoText-BoldItalic.otf"
@@ -74706,8 +74707,8 @@ WINE REGISTRY Version 2
 "MinLevel"=dword:00012000
 "RecommendedLevel"=dword:00012000
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{25DA76D0-033C-4235-9002-19F48894AC6F}] 1717079729
-#time=1dab29e9e5ead14
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{25DA76D0-033C-4235-9002-19F48894AC6F}] 1723210272
+#time=1daea60671f2f78
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{25DA76D0-033C-4235-9002-19F48894AC6F}\\Properties] 1716112555
@@ -74725,18 +74726,18 @@ WINE REGISTRY Version 2
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{283321FD-DE52-4819-AEBC-F1341CB77784}] 1717079729
-#time=1dab29e9e5ebfd4
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{283321FD-DE52-4819-AEBC-F1341CB77784}] 1723210272
+#time=1daea60671f557a
 "DeviceState"=dword:00000001
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{283321FD-DE52-4819-AEBC-F1341CB77784}\\Properties] 1717075577
-#time=1dab294f386597c
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{283321FD-DE52-4819-AEBC-F1341CB77784}\\Properties] 1723210272
+#time=1daea60671e968a
 "{026E516E-B814-414B-83CD-856D6FEF4822},2"="Monitor of Built-in Audio Digital Stereo (IEC958)"
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000002
 "{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{283321FD-DE52-4819-AEBC-F1341CB77784}"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Monitor of Built-in Audio Digital Stereo (IEC958)"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Monitor of Built-in Audio Digital Stereo (IEC958)"
-"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_8086&DEV_7A50\\45&1CB77784"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_8086&DEV_7A50\\48&1CB77784"
 "{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
@@ -74744,18 +74745,18 @@ WINE REGISTRY Version 2
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{9EE8CC5F-5830-430D-9BC0-CE67EE9F9ACB}] 1717079729
-#time=1dab29e9e5edc12
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{9EE8CC5F-5830-430D-9BC0-CE67EE9F9ACB}] 1723210272
+#time=1daea60671f41ca
 "DeviceState"=dword:00000001
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{9EE8CC5F-5830-430D-9BC0-CE67EE9F9ACB}\\Properties] 1717075577
-#time=1dab294f386662e
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{9EE8CC5F-5830-430D-9BC0-CE67EE9F9ACB}\\Properties] 1723210272
+#time=1daea60671eac24
 "{026E516E-B814-414B-83CD-856D6FEF4822},2"="Monitor of Razer USB Sound Card Analog Stereo"
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000002
 "{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{9EE8CC5F-5830-430D-9BC0-CE67EE9F9ACB}"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Monitor of Razer USB Sound Card Analog Stereo"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Monitor of Razer USB Sound Card Analog Stereo"
-"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.USB\\VID_1532&PID_0529\\86&EE9F9ACB"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.USB\\VID_1532&PID_0529\\46&EE9F9ACB"
 "{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
@@ -74763,18 +74764,18 @@ WINE REGISTRY Version 2
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{B0F30C33-1D58-4687-8B43-9B579F2262C4}] 1717079729
-#time=1dab29e9e5eeb3a
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{B0F30C33-1D58-4687-8B43-9B579F2262C4}] 1723210272
+#time=1daea60671f4c1a
 "DeviceState"=dword:00000001
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{B0F30C33-1D58-4687-8B43-9B579F2262C4}\\Properties] 1717075577
-#time=1dab294f3867272
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{B0F30C33-1D58-4687-8B43-9B579F2262C4}\\Properties] 1723210272
+#time=1daea60671ebef8
 "{026E516E-B814-414B-83CD-856D6FEF4822},2"="Razer USB Sound Card Analog Stereo"
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000004
 "{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{B0F30C33-1D58-4687-8B43-9B579F2262C4}"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Razer USB Sound Card Analog Stereo"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Razer USB Sound Card Analog Stereo"
-"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.USB\\VID_1532&PID_0529\\87&9F2262C4"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.USB\\VID_1532&PID_0529\\47&9F2262C4"
 "{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
@@ -74782,18 +74783,18 @@ WINE REGISTRY Version 2
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{E22ED205-FC70-47AF-B460-30CC9DE5CE97}] 1717079729
-#time=1dab29e9e5eb5b6
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{E22ED205-FC70-47AF-B460-30CC9DE5CE97}] 1723210272
+#time=1daea60671f3806
 "DeviceState"=dword:00000001
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{E22ED205-FC70-47AF-B460-30CC9DE5CE97}\\Properties] 1717075577
-#time=1dab294f3868082
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{E22ED205-FC70-47AF-B460-30CC9DE5CE97}\\Properties] 1723210272
+#time=1daea60671ed28a
 "{026E516E-B814-414B-83CD-856D6FEF4822},2"="Monitor of Navi 21/23 HDMI/DP Audio Controller"
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000002
 "{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{E22ED205-FC70-47AF-B460-30CC9DE5CE97}"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Monitor of Navi 21/23 HDMI/DP Audio Controller"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Monitor of Navi 21/23 HDMI/DP Audio Controller"
-"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1002&DEV_AB28\\44&9DE5CE97"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1002&DEV_AB28\\45&9DE5CE97"
 "{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
@@ -74801,18 +74802,18 @@ WINE REGISTRY Version 2
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{EF14BE01-977A-42E0-8F00-466F1FC2C1CB}] 1717079729
-#time=1dab29e9e5ecc7c
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{EF14BE01-977A-42E0-8F00-466F1FC2C1CB}] 1723210272
+#time=1daea60671f5ff2
 "DeviceState"=dword:00000001
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{EF14BE01-977A-42E0-8F00-466F1FC2C1CB}\\Properties] 1717075577
-#time=1dab294f38691d0
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Capture\\{EF14BE01-977A-42E0-8F00-466F1FC2C1CB}\\Properties] 1723210272
+#time=1daea60671edd20
 "{026E516E-B814-414B-83CD-856D6FEF4822},2"="Built-in Audio Analog Stereo"
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000004
 "{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{EF14BE01-977A-42E0-8F00-466F1FC2C1CB}"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Built-in Audio Analog Stereo"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Built-in Audio Analog Stereo"
-"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_8086&DEV_7A50\\46&1FC2C1CB"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_8086&DEV_7A50\\49&1FC2C1CB"
 "{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
@@ -74820,19 +74821,19 @@ WINE REGISTRY Version 2
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{12D5B537-B365-4670-915A-EB87097F5DDE}] 1717079729
-#time=1dab29e9e5ea436
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{12D5B537-B365-4670-915A-EB87097F5DDE}] 1723210272
+#time=1daea60671f1d1c
 "DeviceState"=dword:00000001
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{12D5B537-B365-4670-915A-EB87097F5DDE}\\Properties] 1717075577
-#time=1dab294f386a238
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{12D5B537-B365-4670-915A-EB87097F5DDE}\\Properties] 1723210272
+#time=1daea60671ee6da
 "{026E516E-B814-414B-83CD-856D6FEF4822},2"="Razer USB Sound Card Analog Stereo"
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000001
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},3"=dword:00000003
 "{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{12D5B537-B365-4670-915A-EB87097F5DDE}"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Razer USB Sound Card Analog Stereo"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Razer USB Sound Card Analog Stereo"
-"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.USB\\VID_1532&PID_0529\\86&097F5DDE"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.USB\\VID_1532&PID_0529\\46&097F5DDE"
 "{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
@@ -74840,19 +74841,19 @@ WINE REGISTRY Version 2
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{67A3B5C9-C81F-42D7-B42F-A9E42AE115ED}] 1717079729
-#time=1dab29e9e5e9a9a
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{67A3B5C9-C81F-42D7-B42F-A9E42AE115ED}] 1723210272
+#time=1daea60671f26ae
 "DeviceState"=dword:00000001
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{67A3B5C9-C81F-42D7-B42F-A9E42AE115ED}\\Properties] 1717075577
-#time=1dab294f386b124
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{67A3B5C9-C81F-42D7-B42F-A9E42AE115ED}\\Properties] 1723210272
+#time=1daea60671ef012
 "{026E516E-B814-414B-83CD-856D6FEF4822},2"="Built-in Audio Digital Stereo (IEC958)"
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000001
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},3"=dword:00000003
 "{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{67A3B5C9-C81F-42D7-B42F-A9E42AE115ED}"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Built-in Audio Digital Stereo (IEC958)"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Built-in Audio Digital Stereo (IEC958)"
-"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_8086&DEV_7A50\\45&2AE115ED"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_8086&DEV_7A50\\48&2AE115ED"
 "{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
@@ -74860,19 +74861,19 @@ WINE REGISTRY Version 2
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{6C451764-4E0E-4544-A9D4-E10E2BC4FBF9}] 1717079729
-#time=1dab29e9e5e90e0
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{6C451764-4E0E-4544-A9D4-E10E2BC4FBF9}] 1723210272
+#time=1daea60671f1362
 "DeviceState"=dword:00000001
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{6C451764-4E0E-4544-A9D4-E10E2BC4FBF9}\\Properties] 1717075577
-#time=1dab294f386bfb6
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{6C451764-4E0E-4544-A9D4-E10E2BC4FBF9}\\Properties] 1723210272
+#time=1daea60671efa6c
 "{026E516E-B814-414B-83CD-856D6FEF4822},2"="Navi 21/23 HDMI/DP Audio Controller Digital Stereo (HDMI 3)"
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000001
 "{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},3"=dword:00000003
 "{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{6C451764-4E0E-4544-A9D4-E10E2BC4FBF9}"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Navi 21/23 HDMI/DP Audio Controller Digital Stereo (HDMI 3)"
 "{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Navi 21/23 HDMI/DP Audio Controller Digital Stereo (HDMI 3)"
-"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1002&DEV_AB28\\44&2BC4FBF9"
+"{B3F8FA53-0004-438E-9003-51A46E139BFC},2"="{1}.HDAUDIO\\FUNC_01&VEN_1002&DEV_AB28\\45&2BC4FBF9"
 "{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,80,bb,00,00,00,ee,\
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
@@ -74880,8 +74881,8 @@ WINE REGISTRY Version 2
   02,00,04,00,10,00,16,00,10,00,03,00,00,00,01,00,00,00,00,00,10,00,80,00,00,\
   aa,00,38,9b,71
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{FD47D9CC-4218-4135-9CE2-0C195C87405B}] 1717079729
-#time=1dab29e9e5e8726
+[Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{FD47D9CC-4218-4135-9CE2-0C195C87405B}] 1723210272
+#time=1daea60671f0994
 "DeviceState"=dword:00000001
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\MMDevices\\Audio\\Render\\{FD47D9CC-4218-4135-9CE2-0C195C87405B}\\Properties] 1716112555
@@ -76986,8 +76987,8 @@ WINE REGISTRY Version 2
 #time=1da8be5b5f340b4
 "MAPI"="1"
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion] 1717079724
-#time=1dab29e9b737882
+[Software\\Microsoft\\Windows NT\\CurrentVersion] 1723210267
+#time=1daea60642ae4e2
 "CurrentBuild"="19043"
 "CurrentBuildNumber"="19043"
 "CurrentMajorVersionNumber"=dword:0000000a
@@ -77064,8 +77065,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\FontMapper] 1712822167
 #time=1da8be5b5f0b952
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1713451327
-#time=1da919e96ae9776
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1723210265
+#time=1daea60627c8e84
 "@Droid Sans Fallback (TrueType)"="Z:\\run\\host\\fonts\\google-droid-sans-fonts\\DroidSansFallbackFull.ttf"
 "@Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
 "@Noto Sans CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
@@ -77454,6 +77455,7 @@ WINE REGISTRY Version 2
 "Source Code Pro Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro-fonts\\SourceCodePro-MediumIt.otf"
 "Source Code Pro Semibold (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro-fonts\\SourceCodePro-Semibold.otf"
 "Source Code Pro Semibold Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro-fonts\\SourceCodePro-SemiboldIt.otf"
+"Standard Symbols PS (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\StandardSymbolsPS.otf"
 "STIX Two Math Regular (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoMath-Regular.otf"
 "STIX Two Text Bold (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoText-Bold.otf"
 "STIX Two Text Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoText-BoldItalic.otf"
@@ -87873,8 +87875,8 @@ WINE REGISTRY Version 2
 [Software\\Wow6432Node\\Valve\\Steam\\Apps\\0] 1716112546
 #time=1daa9d2b865ff5c
 
-[Software\\Wow6432Node\\Valve\\Steam\\Apps\\228980] 1717079721
-#time=1dab29e99c5e2d6
+[Software\\Wow6432Node\\Valve\\Steam\\Apps\\228980] 1723210265
+#time=1daea6062c63020
 
 [Software\\Wow6432Node\\Valve\\Steam\\Apps\\CommonRedist\\vcredist\\2019] 1716112548
 #time=1daa9d2b97db9fc
@@ -87912,14 +87914,14 @@ WINE REGISTRY Version 2
 @="Disk drives"
 "Class"="DiskDrive"
 
-[System\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}] 1717079724
-#time=1dab29e9b85d5e0
+[System\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}] 1723210268
+#time=1daea60643bfff2
 "Class"="Display"
 
-[System\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000] 1717079724
-#time=1dab29e9b85dda6
-"DriverDate"="5-30-2024"
-"DriverDateData"=hex:b2,bb,85,9b,9e,b2,da,01
+[System\\CurrentControlSet\\Control\\Class\\{4D36E968-E325-11CE-BFC1-08002BE10318}\\0000] 1723210268
+#time=1daea60643c0718
+"DriverDate"="8-9-2024"
+"DriverDateData"=hex:e4,d2,3b,64,60,ea,da,01
 "DriverDesc"="AMD Radeon RX 6800 XT (RADV NAVI21)"
 "DriverVersion"="31.0.21902.5"
 "HardwareInformation.AdapterString"=hex:41,00,4d,00,44,00,20,00,52,00,61,00,64,\
@@ -87948,12 +87950,12 @@ WINE REGISTRY Version 2
   00,30,00,30,00,32,00,42,00,45,00,31,00,30,00,33,00,31,00,38,00,7d,00,5c,00,\
   30,00,30,00,30,00,30,00
 
-[System\\CurrentControlSet\\Control\\Class\\{4D36E96E-E325-11CE-BFC1-08002BE10318}] 1717079724
-#time=1dab29e9b85ea1c
+[System\\CurrentControlSet\\Control\\Class\\{4D36E96E-E325-11CE-BFC1-08002BE10318}] 1723210268
+#time=1daea60643c1384
 "Class"="Monitor"
 
-[System\\CurrentControlSet\\Control\\Class\\{4D36E96E-E325-11CE-BFC1-08002BE10318}\\0000] 1717079724
-#time=1dab29e9b85ea1c
+[System\\CurrentControlSet\\Control\\Class\\{4D36E96E-E325-11CE-BFC1-08002BE10318}\\0000] 1723210268
+#time=1daea60643c1384
 
 [System\\CurrentControlSet\\Control\\Class\\{4d36e978-e325-11ce-bfc1-08002be10318}] 1712822167
 #time=1da8be5b5eff724
@@ -88044,16 +88046,16 @@ WINE REGISTRY Version 2
 #time=1da8be5b383c934
 "DeviceInstance"="PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{1CA05180-A699-450A-9A0C-DE4FBE3DDD89}\\##?#PCI#VEN_1002&DEV_73BF&SUBSYS_00000000&REV_00#00000000#{1CA05180-A699-450A-9A0C-DE4FBE3DDD89}] 1717079724
-#time=1dab29e9b83ff7c
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{1CA05180-A699-450A-9A0C-DE4FBE3DDD89}\\##?#PCI#VEN_1002&DEV_73BF&SUBSYS_00000000&REV_00#00000000#{1CA05180-A699-450A-9A0C-DE4FBE3DDD89}] 1723210268
+#time=1daea60643a2e7a
 "DeviceInstance"="PCI\\VEN_1002&DEV_73BF&SUBSYS_00000000&REV_00\\00000000"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}] 1712822170
 #time=1da8be5b7b75304
 "DeviceInstance"="HID\\VID_845E&PID_0001\\0&0000&0&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}\\#] 1717079724
-#time=1dab29e9b55d0a2
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}\\#] 1723210267
+#time=1daea6064140eac
 "SymbolicLink"="\\\\?\\hid#vid_845e&pid_0001#0&0000&0&0&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_045e&pid_02e0&ig_00#2307&0500573f5e040000e002000003090000.0&0&0&1#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1716112545
@@ -88068,24 +88070,24 @@ WINE REGISTRY Version 2
 #time=1da8be5b7b72bd6
 "DeviceInstance"="HID\\VID_845E&PID_0001\\0&0000&0&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1717079724
-#time=1dab29e9b55cd3c
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0001#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1723210267
+#time=1daea6064140a60
 "SymbolicLink"="\\\\?\\hid#vid_845e&pid_0001#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}] 1712822170
 #time=1da8be5b7beff6e
 "DeviceInstance"="HID\\VID_845E&PID_0002\\0&0000&0&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1717079724
-#time=1dab29e9b56370e
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}\\#] 1723210267
+#time=1daea6064145fa6
 "SymbolicLink"="\\\\?\\hid#vid_845e&pid_0002#0&0000&0&0&0#{4d1e55b2-f16f-11cf-88cb-001111000030}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{5B45201D-F2F2-4F3B-85BB-30FF1F953599}\\##?#PCI#VEN_0000&DEV_0000&SUBSYS_00000000&REV_00#00000000#{5B45201D-F2F2-4F3B-85BB-30FF1F953599}] 1712822163
 #time=1da8be5b383bdae
 "DeviceInstance"="PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{5B45201D-F2F2-4F3B-85BB-30FF1F953599}\\##?#PCI#VEN_1002&DEV_73BF&SUBSYS_00000000&REV_00#00000000#{5B45201D-F2F2-4F3B-85BB-30FF1F953599}] 1717079724
-#time=1dab29e9b83fe3c
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{5B45201D-F2F2-4F3B-85BB-30FF1F953599}\\##?#PCI#VEN_1002&DEV_73BF&SUBSYS_00000000&REV_00#00000000#{5B45201D-F2F2-4F3B-85BB-30FF1F953599}] 1723210268
+#time=1daea60643a2d3a
 "DeviceInstance"="PCI\\VEN_1002&DEV_73BF&SUBSYS_00000000&REV_00\\00000000"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{6C53D5FD-6480-440F-B618-476750C5E1A6}\\##?#hid#vid_045e&pid_02e0&xi_00#2307&0500573f5e040000e002000003090000.0&0&0&1#{6c53d5fd-6480-440f-b618-476750c5e1a6}] 1716112545
@@ -88100,12 +88102,12 @@ WINE REGISTRY Version 2
 #time=1da8be5b7bf267e
 "DeviceInstance"="HID\\VID_845E&PID_0002\\0&0000&0&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{884B96C3-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}\\#] 1717079724
-#time=1dab29e9b563be6
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{884B96C3-56EF-11D1-BC8C-00A0C91405DD}\\##?#hid#vid_845e&pid_0002#0&0000&0&0&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}\\#] 1723210267
+#time=1daea6064146262
 "SymbolicLink"="\\\\?\\hid#vid_845e&pid_0002#0&0000&0&0&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}\\##?#DISPLAY#Default_Monitor#0000&0000#{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}] 1717079725
-#time=1dab29e9c069554
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}\\##?#DISPLAY#Default_Monitor#0000&0000#{E6F07B5F-EE97-4A90-B076-33F57BF4EAA7}] 1723210268
+#time=1daea6064b9cce8
 "DeviceInstance"="DISPLAY\\DEFAULT_MONITOR\\0000&0000"
 
 [System\\CurrentControlSet\\Control\\hivelist] 1712822167
@@ -88759,16 +88761,16 @@ WINE REGISTRY Version 2
 #time=1da8be5b6035530
 "CSDVersion"=dword:00000000
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000] 1717079724
-#time=1dab29e9b85e5e4
+[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000] 1723210268
+#time=1daea60643c0f10
 "Class"="Monitor"
 "ClassGUID"="{4D36E96E-E325-11CE-BFC1-08002BE10318}"
 "DeviceDesc"="Generic Non-PnP Monitor"
 "Driver"="{4D36E96E-E325-11CE-BFC1-08002BE10318}\\0000"
 "HardwareID"=str(7):"MONITOR\\Default_Monitor\0"
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Device Parameters] 1717079724
-#time=1dab29e9b85e576
+[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Device Parameters] 1723210268
+#time=1daea60643c0e98
 "EDID"=hex:00,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,01,04,a0,20,\
   12,00,06,00,00,00,00,00,00,00,00,00,00,00,00,00,01,01,01,01,01,01,01,01,01,\
   01,01,01,01,01,01,01,c2,b0,80,f0,72,38,61,40,a8,d0,35,00,20,12,00,00,00,1c,\
@@ -88776,29 +88778,29 @@ WINE REGISTRY Version 2
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,10,00,00,00,00,00,00,00,00,00,00,\
   00,00,00,00,00,10
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0002] 1717079724
-#time=1dab29e9b85e6ac
+[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0002] 1723210268
+#time=1daea60643c0fe2
 @=hex(ffff0007):03,00,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0003] 1717079724
-#time=1dab29e9b85e724
+[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0003] 1723210268
+#time=1daea60643c105a
 @=hex(ffff1003):00,00,00,00,00,00,00,00,80,07,00,00,38,04,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0004] 1717079724
-#time=1dab29e9b85e792
+[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0004] 1723210268
+#time=1daea60643c10d2
 @=hex(ffff1003):00,00,00,00,00,00,00,00,80,07,00,00,38,04,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0005] 1717079724
-#time=1dab29e9b85e80a
+[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{233a9ef3-afc4-4abd-b564-c32f21f1535b}\\0005] 1723210268
+#time=1daea60643c1154
 @=hex(ffff0012):5c,00,5c,00,2e,00,5c,00,44,00,49,00,53,00,50,00,4c,00,41,00,59,\
   00,31,00,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0001] 1717079724
-#time=1dab29e9b85e936
+[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0001] 1723210268
+#time=1daea60643c1294
 @=hex(ffff0008):f2,03,00,00,00,00,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0002] 1717079724
-#time=1dab29e9b85e9ae
+[System\\CurrentControlSet\\Enum\\DISPLAY\\Default_Monitor\\0000&0000\\Properties\\{CA085853-16CE-48AA-B114-DE9C72334223}\\0002] 1723210268
+#time=1daea60643c130c
 @=hex(ffff0007):00,00,00,00
 
 [System\\CurrentControlSet\\Enum\\HID\\VID_045E&PID_02E0&IG_00\\2307&0500573F5E040000E002000003090000.0&0&0&1] 1716112545
@@ -88872,8 +88874,8 @@ WINE REGISTRY Version 2
 #time=1da919e96d93c42
 @=hex(ffff000d):00,00,00,00,03,00,00,00,00,00,00,00,00,00,00,00
 
-[System\\CurrentControlSet\\Enum\\PCI\\VEN_1002&DEV_73BF&SUBSYS_00000000&REV_00\\00000000\\Properties\\{540B947E-8B40-45BC-A8A2-6A0B894CBDA2}\\0005] 1717079724
-#time=1dab29e9b85d4dc
+[System\\CurrentControlSet\\Enum\\PCI\\VEN_1002&DEV_73BF&SUBSYS_00000000&REV_00\\00000000\\Properties\\{540B947E-8B40-45BC-A8A2-6A0B894CBDA2}\\0005] 1723210268
+#time=1daea60643bff02
 @=hex(ffff0011):01,00,00,00
 
 [System\\CurrentControlSet\\Enum\\PCI\\VEN_1002&DEV_73BF&SUBSYS_00000000&REV_00\\00000000\\Properties\\{60B193CB-5276-4D0F-96FC-F173ABAD3EC6}\\0002] 1713451328

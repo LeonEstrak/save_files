@@ -160,8 +160,8 @@ WINE REGISTRY Version 2
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
 
-[Control Panel\\International] 1717079724
-#time=1dab29e9ba76bf6
+[Control Panel\\International] 1723210268
+#time=1daea606452950a
 "iCalendarType"="1"
 "iCountry"="1"
 "iCurrDigits"="2"
@@ -204,13 +204,13 @@ WINE REGISTRY Version 2
 "sTimeFormat"="h:mm:ss tt"
 "sYearMonth"="MMMM yyyy"
 
-[Control Panel\\International\\Geo] 1717079724
-#time=1dab29e9ba76c78
+[Control Panel\\International\\Geo] 1723210268
+#time=1daea606452958c
 "Name"="US"
 "Nation"="244"
 
-[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1717079724
-#time=1dab29e9ba7685e
+[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1723210268
+#time=1daea6064529172
 "Currencies"="USD"
 
 [Control Panel\\Keyboard] 1712822163
@@ -243,12 +243,12 @@ WINE REGISTRY Version 2
 "TEMP"="C:\\users\\steamuser\\Temp"
 "TMP"="C:\\users\\steamuser\\Temp"
 
-[Keyboard Layout\\Preload] 1717079724
-#time=1dab29e9baa41c8
+[Keyboard Layout\\Preload] 1723210268
+#time=1daea6064558882
 "1"="00000409"
 
-[Software\\Hopoo Games, LLC\\Risk of Rain 2] 1717079727
-#time=1dab29e9d3a0122
+[Software\\Hopoo Games, LLC\\Risk of Rain 2] 1723210270
+#time=1daea6065ee9e40
 "HasShownFirstTimePopup_h3858764215"=dword:00000001
 "Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
 "Screenmanager Fullscreen mode_h3630240806"=dword:00000001
@@ -260,9 +260,9 @@ WINE REGISTRY Version 2
 "Screenmanager Resolution Width_h182942802"=dword:00000780
 "Screenmanager Stereo 3D_h1665754519"=dword:00000001
 "ShownFirstTimePopup_h1332532461"=dword:00000001
-"unity.player_session_count_h922449978"=hex:35,00
-"unity.player_sessionid_h1351336811"=hex:38,31,33,33,33,38,35,35,35,33,39,35,\
-  32,38,38,36,36,38,35,00
+"unity.player_session_count_h922449978"=hex:36,00
+"unity.player_sessionid_h1351336811"=hex:33,34,33,32,33,36,31,37,31,35,32,30,\
+  35,39,30,36,33,35,35,00
 "UnitySelectMonitor_h17969598"=dword:00000000
 
 [Software\\Microsoft\\Internet Explorer\\Main] 1712822167
@@ -889,13 +889,13 @@ WINE REGISTRY Version 2
 #time=1daa9d2be2fa7bc
 "guid"=hex:5f,cc,e8,9e,30,58,0d,43,9b,c0,ce,67,ee,9f,9a,cb
 
-[Software\\Wine\\Fonts] 1717079724
-#time=1dab29e9b54dd3c
+[Software\\Wine\\Fonts] 1723210267
+#time=1daea60641312c2
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1713451327
-#time=1da919e96ae97c6
+[Software\\Wine\\Fonts\\External Fonts] 1723210265
+#time=1daea60627c8ee8
 "@Droid Sans Fallback (TrueType)"="Z:\\run\\host\\fonts\\google-droid-sans-fonts\\DroidSansFallbackFull.ttf"
 "@Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
 "@Noto Sans CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
@@ -1266,6 +1266,7 @@ WINE REGISTRY Version 2
 "Source Code Pro Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro-fonts\\SourceCodePro-MediumIt.otf"
 "Source Code Pro Semibold (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro-fonts\\SourceCodePro-Semibold.otf"
 "Source Code Pro Semibold Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro-fonts\\SourceCodePro-SemiboldIt.otf"
+"Standard Symbols PS (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\StandardSymbolsPS.otf"
 "STIX Two Math Regular (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoMath-Regular.otf"
 "STIX Two Text Bold (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoText-Bold.otf"
 "STIX Two Text Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoText-BoldItalic.otf"
