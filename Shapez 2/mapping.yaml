@@ -1,0 +1,15 @@
+---
+name: Shapez 2
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-08-16T15:50:03.005166542Z"
+    os: linux
+    files:
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v1-2024-8-16--21-16-37--9224340.spz2:
+        hash: e4d625ac4f405b84972ff137a2fa45ea2f6af3b8
+        size: 8574
+    registry:
+      hash: ~
+    children: []
