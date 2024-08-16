@@ -4,6 +4,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 
 | Game Name | Last Played |
 |-----------|-------------|
+| [![Shapez 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/capsule_231x87.jpg?t=1723750887)](https://store.steampowered.com/app/2162800/) | 16 August, 2024 |
 | [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 10 August, 2024 |
 | [![Roboquest](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/capsule_231x87.jpg?t=1717681007)](https://store.steampowered.com/app/692890/) | 09 August, 2024 |
 | [![Risk of Rain 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1699992764)](https://store.steampowered.com/app/632360/) | 09 August, 2024 |
