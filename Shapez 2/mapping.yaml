@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-17T15:00:02.406116243Z"
+    when: "2024-08-17T15:10:02.940153317Z"
     os: linux
     files:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/blueprints/Preserve NE-SW.spz2bp:
@@ -16,12 +16,6 @@ backups:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v1-2024-8-16--21-16-37--9224340.spz2:
         hash: e4d625ac4f405b84972ff137a2fa45ea2f6af3b8
         size: 8574
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v17-2024-8-16--22-37-04--8959440.spz2:
-        hash: 1390f81e4b5f545e0232da81e74b11035e14a75c
-        size: 12061
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v18-2024-8-16--22-42-04--9038560.spz2:
-        hash: ec813d347f62b87e34434d29ffb7b38328dee4f7
-        size: 12103
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v19-2024-8-16--22-47-04--9068780.spz2:
         hash: 9b7c8e0469cd252dfd1a903b3eb25d0948fe1181
         size: 12023
@@ -88,6 +82,12 @@ backups:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v40-2024-8-17--20-29-21--9628870.spz2:
         hash: 3db6a1e8c7d13a7743ca128b08b4da9003a6662a
         size: 35874
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v41-2024-8-17--20-34-21--9690900.spz2:
+        hash: 1d2b72a89d68ec60cf34c8a49331082d4928303a
+        size: 36448
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v42-2024-8-17--20-39-21--9739960.spz2:
+        hash: 7b9c2683e3db7f6ea00f7e5e948e2df1ef65c7be
+        size: 37025
     registry:
       hash: ~
     children: []
