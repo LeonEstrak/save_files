@@ -4,9 +4,15 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-17T13:40:02.635380918Z"
+    when: "2024-08-17T13:50:02.994674715Z"
     os: linux
     files:
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/blueprints/Preserve NE-SW.spz2bp:
+        hash: 7fdaf6e81b267a4e3725136967c67646cb06961c
+        size: 723
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/blueprints/Preserve NW-SE Cutter.spz2bp:
+        hash: 358049fe0904d057bbbe47657352da5af3b1b450
+        size: 727
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v1-2024-8-16--21-16-37--9224340.spz2:
         hash: e4d625ac4f405b84972ff137a2fa45ea2f6af3b8
         size: 8574
@@ -64,12 +70,12 @@ backups:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v27-2024-8-17--19-08-41--5351390.spz2:
         hash: 82a6ec569d488354bb2e8ab0ee87bad2cda2d77f
         size: 14012
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v4-2024-8-16--21-31-37--9431460.spz2:
-        hash: 701463a96afbdcfcaaf6ffbebf902bf6221298c7
-        size: 11121
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v5-2024-8-16--21-36-37--9452610.spz2:
-        hash: 4f7fcbbcf972f9293bc8ed228ac12e9696a9d415
-        size: 11609
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v28-2024-8-17--19-13-41--5370490.spz2:
+        hash: 12643a6006c563398f3fedfb3e7b225d61ff1e0f
+        size: 14021
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v29-2024-8-17--19-18-41--5385320.spz2:
+        hash: 4c835dc4f9d859e55aad7bda5211c0c45c8db71b
+        size: 13994
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v6-2024-8-16--21-41-37--9500540.spz2:
         hash: 47957dbefa1443b494f3c2f476e09860e8f32838
         size: 10822
