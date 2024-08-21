@@ -4,9 +4,9 @@ Welcome to the Game Save Files repository! This repository contains save files f
 
 | Game Name | Last Played |
 |-----------|-------------|
+| [![Shapez 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/capsule_231x87.jpg?t=1723750887)](https://store.steampowered.com/app/2162800/) | 21 August, 2024 |
 | [![Yakuza: Like a Dragon](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/capsule_231x87.jpg?t=1717588355)](https://store.steampowered.com/app/1235140/) | 19 August, 2024 |
 | [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 17 August, 2024 |
-| [![Shapez 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/capsule_231x87.jpg?t=1723750887)](https://store.steampowered.com/app/2162800/) | 17 August, 2024 |
 | [![Roboquest](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/capsule_231x87.jpg?t=1717681007)](https://store.steampowered.com/app/692890/) | 09 August, 2024 |
 | [![Risk of Rain 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1699992764)](https://store.steampowered.com/app/632360/) | 09 August, 2024 |
 | [![No Man's Sky](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/capsule_231x87_alt_assets_24.jpg?t=1721300183)](https://store.steampowered.com/app/275850/) | 07 August, 2024 |
