@@ -1416,13 +1416,13 @@
                 {
                     "name": "MaximumFPS_OnOff",
                     "type": "bool",
-                    "value": false,
+                    "value": true,
                     "default_value": false
                 },
                 {
                     "name": "MaximumFPS_Value",
                     "type": "int",
-                    "value": 30,
+                    "value": 144,
                     "default_value": 30,
                     "min_value": 10,
                     "max_value": 240,
