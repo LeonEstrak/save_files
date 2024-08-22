@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-08-07T15:20:02.826552790Z"
+    when: "2024-08-22T10:20:01.990472281Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1868140/pfx/drive_c/users/steamuser/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/102118085/GameSave_00_GD.sav:
@@ -39,26 +39,26 @@ backups:
         hash: 73e918c3f6ef78c9a98f29f4fca2fe71667eacd8
         size: 4190
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_00_GD.sav:
-        hash: b0fb6521597050e140548aefd1d1e6cd75741b3e
-        size: 85121
+        hash: 79a29fd55f7fb09894dcf2bf6adae6ba636ca8de
+        size: 96408
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_00_PZ.sav:
-        hash: 98a5b96b7a7cc8aa3f9b028d4b76c1671e6d6bb7
-        size: 24997
+        hash: d84033de36032e409fba31a2800fe4d5c41845d0
+        size: 43727
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_00_UO.sav:
-        hash: 56b3376cdb7f4b3537d4e25d4e76f0c631717a3b
-        size: 569
+        hash: 57fffbfa9469f2db0260fc397416d160423e0ef2
+        size: 568
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_01_GD.sav:
-        hash: 9c15e56ceb3eafdb49da9d9ab985a830b7fbc911
-        size: 82952
+        hash: 58f27529c91a1b87da33f3ad221c569f74f09afa
+        size: 95774
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_01_PZ.sav:
-        hash: 9ecaa20d827483806a21c9a6501edeada941a9e5
-        size: 24997
+        hash: 12495a6233932e3ca41a73756178593432ea9c40
+        size: 43727
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_02_GD.sav:
-        hash: 4b5092f65abfcf2c0c512729a164d46723449be6
-        size: 79879
+        hash: 90c7022e70daa58e79393bd8efa0e26b509ce4a2
+        size: 91142
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_02_PZ.sav:
-        hash: 1d1b9f97271685270b7aa9fcb7c1e3c57b479d1d
-        size: 24997
+        hash: e90769de0ef5d34ce75d5c95d022d20213fc4701
+        size: 43727
     registry:
       hash: ~
     children: []
