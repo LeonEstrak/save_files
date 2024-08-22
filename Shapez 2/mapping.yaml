@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-22T13:30:02.801330853Z"
+    when: "2024-08-22T13:40:02.617989354Z"
     os: linux
     files:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v1-2024-8-16--21-16-37--9224340.spz2:
@@ -13,12 +13,6 @@ backups:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v51-2024-8-17--21-24-10--4384190.spz2:
         hash: 7bfd9d47f7000c9414256aa6fec585b189e2d4e3
         size: 45003
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v71-2024-8-18--20-13-04--9223620.spz2:
-        hash: d019e5aae0a5e8a483b1e9718b59ae7b0a4261d1
-        size: 81672
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v72-2024-8-18--20-18-04--9317550.spz2:
-        hash: 506426eba6876afc5af60ef30a3af9598fd851a9
-        size: 84565
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v73-2024-8-18--20-23-04--9338330.spz2:
         hash: 7fd36723bef080fe9a22e1c3dfd1c816a4ff1d84
         size: 88613
@@ -82,6 +76,12 @@ backups:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v93-2024-8-22--18-56-45--6138060.spz2:
         hash: b50d66494efee9f3f9b7ee51ce744b8d91cd3fdb
         size: 111207
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v94-2024-8-22--19-01-45--6225930.spz2:
+        hash: 27c7de0f19cec10abec25da970b37a766eb65c3f
+        size: 116493
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v95-2024-8-22--19-06-45--6215330.spz2:
+        hash: 9323e80b10c89d921f15ac707187151e8da7af51
+        size: 117693
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
