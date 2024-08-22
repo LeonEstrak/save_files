@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-22T14:10:02.506530431Z"
+    when: "2024-08-22T14:20:02.466147065Z"
     os: linux
     files:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v1-2024-8-16--21-16-37--9224340.spz2:
@@ -16,15 +16,15 @@ backups:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v101-2024-8-22--19-36-45--6703780.spz2:
         hash: 40e180e33b83d12c537bcedf0595e880ef2ab2d7
         size: 119360
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v102-2024-8-22--19-41-45--6672350.spz2:
+        hash: c6fcfe84672d3c6432d063abccb5c04891920ebb
+        size: 119445
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v103-2024-8-22--19-46-45--6724260.spz2:
+        hash: a1f83699b7c65d676fea641885072580f90ca240
+        size: 119323
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v51-2024-8-17--21-24-10--4384190.spz2:
         hash: 7bfd9d47f7000c9414256aa6fec585b189e2d4e3
         size: 45003
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v79-2024-8-18--20-53-04--9715810.spz2:
-        hash: 8cdce7d6c5fa9b2354623f56eeb713b98978d5ab
-        size: 106054
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v80-2024-8-18--20-53-42--8794930.spz2:
-        hash: 83a9c69738bbec4764b4af518aa16005259e34f8
-        size: 106248
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v81-2024-8-22--17-55-50--4587260.spz2:
         hash: ef9f56bcaa84eb57c4aaf1a41ef9d88e2d4f2a7f
         size: 104711
