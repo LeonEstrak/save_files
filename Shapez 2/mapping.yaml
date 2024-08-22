@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-22T16:20:02.816518352Z"
+    when: "2024-08-22T16:30:03.021412556Z"
     os: linux
     files:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v1-2024-8-16--21-16-37--9224340.spz2:
@@ -13,12 +13,6 @@ backups:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v101-2024-8-22--19-36-45--6703780.spz2:
         hash: 40e180e33b83d12c537bcedf0595e880ef2ab2d7
         size: 119360
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v106-2024-8-22--20-01-45--6856960.spz2:
-        hash: 76dcd3bd1abd9f7350d7e1c0c0714baad895c526
-        size: 119021
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v107-2024-8-22--20-06-45--6903940.spz2:
-        hash: 68d467c40ce11aa7529bd967c2ab632a1101ba27
-        size: 119230
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v108-2024-8-22--20-11-45--6954080.spz2:
         hash: b9d58cd411a78e4e2299fb5dcc52b4fedea2901f
         size: 119379
@@ -79,6 +73,12 @@ backups:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v127-2024-8-22--21-46-45--7983540.spz2:
         hash: 4e0ca9dda466d409d3a2c60f9acf16d92db07654
         size: 119163
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v128-2024-8-22--21-51-45--7960690.spz2:
+        hash: 79fc211bc2e4e97e4e7d2e632f1e8af72ba34f73
+        size: 119211
+      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v129-2024-8-22--21-56-45--8006440.spz2:
+        hash: 22f9656350e376e4458f50d6251a5d711948753c
+        size: 119269
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v51-2024-8-17--21-24-10--4384190.spz2:
         hash: 7bfd9d47f7000c9414256aa6fec585b189e2d4e3
         size: 45003
