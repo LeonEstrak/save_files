@@ -4,9 +4,12 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-26T16:10:02.880676587Z"
+    when: "2024-08-26T17:30:02.272833086Z"
     os: linux
     files:
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/boot.vcfg:
+        hash: 8c182f87193637892ee164b914505ce6715d1d51
+        size: 36
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_1v1_match.cfg:
         hash: 6027fed7362414e626e36b16da917706ab141444
         size: 153
@@ -68,8 +71,8 @@ backups:
         hash: e065a0114f61cf7dc7067f2d13bd8204fe428e1d
         size: 73
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/machine_convars.vcfg:
-        hash: cdbc955311e404fc4ca1032f32e102c814388e96
-        size: 7423
+        hash: 838c36c733b8494e336c162ba381e2cfe0c0bedb
+        size: 7424
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/machine_convars_default.vcfg:
         hash: 12dce703863f0c6ed6b375b1f799f9bdd41bb7a6
         size: 256
@@ -94,6 +97,15 @@ backups:
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/user_keys_0_slot0.vcfg_lastclouded:
         hash: d3ba0723f44217840ac5279688621a418e8eab16
         size: 62
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/user_keys_0_slot1.vcfg:
+        hash: 0aaa877feef1eb431d0fea131c389472d4944fa0
+        size: 16
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/user_keys_0_slot2.vcfg:
+        hash: 0aaa877feef1eb431d0fea131c389472d4944fa0
+        size: 16
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/user_keys_0_slot3.vcfg:
+        hash: 0aaa877feef1eb431d0fea131c389472d4944fa0
+        size: 16
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/user_keys_default.vcfg:
         hash: 9f3557f8fb657edbaaa43e410040e9c62512b714
         size: 818
@@ -112,6 +124,9 @@ backups:
       /home/aniket/.local/share/Steam/userdata/102118085/1422450/remote/cfg/citadelkeys_personal.lst:
         hash: 5fcb9c218caa8d305657c7babd6f4cf0026b58a4
         size: 2525
+      /home/aniket/.local/share/Steam/userdata/102118085/1422450/remote/cfg/pending_replay_requests.lst:
+        hash: f3729c42d2e8b8161024ac4e30276a2362ff6585
+        size: 28
       /home/aniket/.local/share/Steam/userdata/102118085/1422450/remote/user_convars.vcfg:
         hash: 15ab8800a15f2856b26b0cccb787ce8e44e58b76
         size: 1350
