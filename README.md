@@ -6,6 +6,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 |-----------|-------------|
 | [![Dave the Diver](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_231x87.jpg?t=1716447953)](https://store.steampowered.com/app/1868140/) | 26 August, 2024 |
 | [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 26 August, 2024 |
+| [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 26 August, 2024 |
 | [![Shapez 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/capsule_231x87.jpg?t=1723750887)](https://store.steampowered.com/app/2162800/) | 23 August, 2024 |
 | [![Balatro](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/capsule_231x87.jpg?t=1721294443)](https://store.steampowered.com/app/2379780/) | 22 August, 2024 |
 | [![Cyberpunk 2077](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_231x87.jpg?t=1718101184)](https://store.steampowered.com/app/1091500/) | 21 August, 2024 |
