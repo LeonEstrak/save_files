@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-29T17:00:02.894978099Z"
+    when: "2024-08-29T17:10:02.885875672Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/boot.vcfg:
@@ -71,8 +71,8 @@ backups:
         hash: e065a0114f61cf7dc7067f2d13bd8204fe428e1d
         size: 73
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/machine_convars.vcfg:
-        hash: 838c36c733b8494e336c162ba381e2cfe0c0bedb
-        size: 7424
+        hash: 6e3e2769cad54f7ee0a8c2749116261966f07d8e
+        size: 7525
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/machine_convars_default.vcfg:
         hash: 12dce703863f0c6ed6b375b1f799f9bdd41bb7a6
         size: 256
