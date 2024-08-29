@@ -77,9 +77,6 @@
 		{
 			"Key"		"MOUSE3"
 		}
-		"AltCastModifier"
-		{
-		}
 		"ReplayDeath"
 		{
 			"Key"		"R"
@@ -123,7 +120,7 @@
 		}
 		"Ping"
 		{
-			"Key"		"MOUSE3"
+			"Key"		"MOUSE5"
 		}
 		"MouseWheel"
 		{
