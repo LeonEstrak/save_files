@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-30T14:50:02.376037415Z"
+    when: "2024-08-30T15:40:02.429231379Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/boot.vcfg:
@@ -119,8 +119,8 @@ backups:
         hash: 809dd29c2c6d43028e21b01a8bf30753654f31b5
         size: 309
       /home/aniket/.local/share/Steam/userdata/102118085/1422450/remote/cfg/cached_hero_builds.kv3:
-        hash: 88e50c25262065d77ba2a2b4b976d91c7cd1eff4
-        size: 3428
+        hash: 778876a331b3ed8f6b9294a908ea4b09706a1776
+        size: 4021
       /home/aniket/.local/share/Steam/userdata/102118085/1422450/remote/cfg/citadelkeys_personal.lst:
         hash: 328e59979457f1c3bd79e50d50fb6d1d6653dae2
         size: 2584
