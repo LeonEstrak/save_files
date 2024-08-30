@@ -2,7 +2,7 @@
 {
 	"Name"		"DEFAULT"
 	"Version"		"1"
-	"AlgorithmicUpdateVersion"		"3"
+	"AlgorithmicUpdateVersion"		"2"
 	"Keys"
 	{
 		"AbilityMelee"
@@ -158,15 +158,6 @@
 		{
 			"Key"		"J"
 		}
-		"SpectatorNextTarget"
-		{
-			"Key"		"SPACE"
-		}
-		"SpectatorPrevTarget"
-		{
-			"Key"		"SPACE"
-			"Modifier"		"ALT"
-		}
 		"SpectatorChase"
 		{
 			"Key"		"MWHEELDOWN"
@@ -186,15 +177,6 @@
 		"ToggleReplayCamera"
 		{
 			"Key"		"C"
-		}
-		"ReplayNextTarget"
-		{
-			"Key"		"SPACE"
-		}
-		"ReplayPrevTarget"
-		{
-			"Key"		"SPACE"
-			"Modifier"		"ALT"
 		}
 		"ReplayChase"
 		{
@@ -239,6 +221,33 @@
 		"CancelAbility"
 		{
 			"Key"		"SPACE"
+		}
+		"AltCastModifier"
+		{
+		}
+		"ToggleSpectatorTeam"
+		{
+			"Key"		"SPACE"
+		}
+		"SpectatorNextTarget"
+		{
+			"Key"		"MOUSE1"
+		}
+		"SpectatorPrevTarget"
+		{
+			"Key"		"MOUSE2"
+		}
+		"ToggleReplayTeam"
+		{
+			"Key"		"SPACE"
+		}
+		"ReplayNextTarget"
+		{
+			"Key"		"MOUSE1"
+		}
+		"ReplayPrevTarget"
+		{
+			"Key"		"MOUSE2"
 		}
 	}
 }
