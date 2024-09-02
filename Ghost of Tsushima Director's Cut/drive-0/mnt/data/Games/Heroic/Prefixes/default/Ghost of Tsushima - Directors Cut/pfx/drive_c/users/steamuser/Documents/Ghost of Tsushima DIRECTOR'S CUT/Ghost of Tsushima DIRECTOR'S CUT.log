@@ -179,3 +179,19 @@
 22:10:00:832 (00000328) > [Render] Pipeline cache C:\users\<username>\AppData\Roaming\Sucker Punch Productions\Ghost of Tsushima DIRECTOR'S CUT\\user.pso read succesfully, read 6 pipelines, found 0 duplicates.
 22:10:00:842 (00000328) > [Render] Pipeline cache default.pso read succesfully, read 16192 pipelines, found 0 duplicates.
 22:10:01:267 (00000328) > [Steam] Stats received: 2
+22:10:03:764 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+22:10:03:764 (00000328) > [Input] Gamepads connected: 1 -> 2
+22:10:03:764 (00000328) > [Input] Gamepad for main player: 0
+22:10:03:781 (00000328) > [Input] XInput disabled, disconnecting controller. index: 0
+22:10:03:781 (00000328) > [Input] Gamepads connected: 2 -> 1
+22:10:03:781 (00000328) > [Input] Gamepad for main player: 0
+22:11:00:314 (00000336) > [Render] Working set: 3189MB Page file: 3107MB Video Budget: 15386MB Video Usage: 4383MB Sys Budget: 15866MB Sys Usage: 122MB Demoted: 0MB fps: 58.4
+22:12:00:331 (00000336) > [Render] Working set: 3223MB Page file: 3140MB Video Budget: 15386MB Video Usage: 4931MB Sys Budget: 15866MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+16:43:00:348 (00000336) > [Render] Working set: 3237MB Page file: 3154MB Video Budget: 15386MB Video Usage: 5015MB Sys Budget: 15864MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+22:14:00:348 (00000336) > [Render] Working set: 3245MB Page file: 3163MB Video Budget: 15386MB Video Usage: 5026MB Sys Budget: 15864MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+22:15:00:348 (00000336) > [Render] Working set: 3266MB Page file: 3184MB Video Budget: 15386MB Video Usage: 5065MB Sys Budget: 15864MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+22:16:00:365 (00000336) > [Render] Working set: 3307MB Page file: 3224MB Video Budget: 15386MB Video Usage: 5513MB Sys Budget: 15864MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+22:17:00:381 (00000336) > [Render] Working set: 3338MB Page file: 3256MB Video Budget: 15386MB Video Usage: 5813MB Sys Budget: 15864MB Sys Usage: 122MB Demoted: 0MB fps: 59.8
+22:18:00:396 (00000336) > [Render] Working set: 3343MB Page file: 3261MB Video Budget: 15386MB Video Usage: 5799MB Sys Budget: 15864MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+22:19:00:415 (00000336) > [Render] Working set: 3345MB Page file: 3263MB Video Budget: 15386MB Video Usage: 5798MB Sys Budget: 15864MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+22:20:00:431 (00000336) > [Render] Working set: 3346MB Page file: 3264MB Video Budget: 15386MB Video Usage: 5798MB Sys Budget: 15864MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
