@@ -235,3 +235,13 @@
 22:58:00:718 (00000336) > [Render] Working set: 3502MB Page file: 3416MB Video Budget: 15357MB Video Usage: 5974MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
 22:59:00:735 (00000336) > [Render] Working set: 3504MB Page file: 3419MB Video Budget: 15357MB Video Usage: 5921MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
 23:00:00:752 (00000336) > [Render] Working set: 3500MB Page file: 3414MB Video Budget: 15357MB Video Usage: 5917MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+23:01:00:752 (00000336) > [Render] Working set: 3504MB Page file: 3418MB Video Budget: 15357MB Video Usage: 5917MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+23:02:00:769 (00000336) > [Render] Working set: 3503MB Page file: 3417MB Video Budget: 15357MB Video Usage: 5920MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+23:03:00:784 (00000336) > [Render] Working set: 3506MB Page file: 3421MB Video Budget: 15357MB Video Usage: 5920MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+23:04:00:784 (00000336) > [Render] Working set: 3496MB Page file: 3411MB Video Budget: 15357MB Video Usage: 5901MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+23:05:00:802 (00000336) > [Render] Working set: 3498MB Page file: 3413MB Video Budget: 15357MB Video Usage: 5905MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+23:06:00:802 (00000336) > [Render] Working set: 3501MB Page file: 3415MB Video Budget: 15357MB Video Usage: 5907MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+17:37:00:802 (00000336) > [Render] Working set: 3602MB Page file: 3517MB Video Budget: 15357MB Video Usage: 5990MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 59.9
+23:08:00:817 (00000336) > [Render] Working set: 3649MB Page file: 3563MB Video Budget: 15347MB Video Usage: 6061MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 59.9
+23:09:00:803 (00000336) > [Render] Working set: 3668MB Page file: 3583MB Video Budget: 15355MB Video Usage: 6071MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 59.9
+23:10:00:819 (00000336) > [Render] Working set: 3669MB Page file: 3583MB Video Budget: 15355MB Video Usage: 6062MB Sys Budget: 15870MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
