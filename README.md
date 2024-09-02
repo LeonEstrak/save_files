@@ -5,6 +5,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | Game Name | Last Played |
 |-----------|-------------|
 | [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 02 September, 2024 |
+| [![Ghost of Tsushima Director's Cut](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg?t=1717622497)](https://store.steampowered.com/app/2215430/) | 02 September, 2024 |
 | [![Dave the Diver](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_231x87.jpg?t=1716447953)](https://store.steampowered.com/app/1868140/) | 26 August, 2024 |
 | [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 26 August, 2024 |
 | [![Shapez 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/capsule_231x87.jpg?t=1723750887)](https://store.steampowered.com/app/2162800/) | 23 August, 2024 |
@@ -15,7 +16,6 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Risk of Rain 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1699992764)](https://store.steampowered.com/app/632360/) | 09 August, 2024 |
 | [![No Man's Sky](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/capsule_231x87_alt_assets_24.jpg?t=1721300183)](https://store.steampowered.com/app/275850/) | 07 August, 2024 |
 | [![Dinkum](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/capsule_231x87.jpg?t=1714095914)](https://store.steampowered.com/app/1062520/) | 07 August, 2024 |
-| [![Ghost of Tsushima Director's Cut](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg?t=1717622497)](https://store.steampowered.com/app/2215430/) | 06 August, 2024 |
 | [![Oxygen Not Included](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/capsule_231x87.jpg?t=1721328489)](https://store.steampowered.com/app/457140/) | 06 August, 2024 |
 | [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 05 August, 2024 |
 | [![Fallout 4](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg?t=1717972401)](https://store.steampowered.com/app/377160/) | 05 August, 2024 |
