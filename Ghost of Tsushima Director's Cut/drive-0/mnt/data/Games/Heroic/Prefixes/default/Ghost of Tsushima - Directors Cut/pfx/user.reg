@@ -1056,9 +1056,17 @@ WINE REGISTRY Version 2
 #time=1daaa00ad941054
 "guid"=hex:a4,6b,9b,36,0b,23,69,4f,b8,da,87,86,e6,73,73,08
 
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_03_00.1.hdmi-stereo-extra3] 1725254810
+#time=1dafcf8b6b9cdf4
+"guid"=hex:50,08,34,3e,9b,2e,7a,44,8f,39,72,52,3c,75,29,af
+
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-Razer_Razer_USB_Sound_Card_00000000-00.analog-stereo] 1716132284
 #time=1daaa00ad941c66
 "guid"=hex:d8,1f,6e,f7,77,47,d6,41,85,fb,57,c2,c1,4a,41,dd
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,auto_null] 1725254511
+#time=1dafcf804973d5a
+"guid"=hex:25,31,87,ea,ae,0c,b8,4a,91,bf,dc,34,f4,f0,b5,cc
 
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,bluez_output.E8_EE_CC_C4_CA_AF.1] 1717907924
 #time=1daba26e952ae6c
@@ -1088,9 +1096,17 @@ WINE REGISTRY Version 2
 #time=1daaa00ad943c8c
 "guid"=hex:bf,c4,28,62,3b,cc,a1,49,95,85,cf,7f,a0,79,90,b2
 
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_03_00.1.hdmi-stereo-extra3.monitor] 1725254810
+#time=1dafcf8b6b9e32a
+"guid"=hex:86,d2,68,bd,7d,fb,c8,48,af,7d,bf,16,b1,74,5f,ba
+
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-Razer_Razer_USB_Sound_Card_00000000-00.analog-stereo.monitor] 1716132284
 #time=1daaa00ad94486c
 "guid"=hex:73,70,e3,43,7f,fe,b8,41,a3,b3,3c,ee,bb,5d,04,58
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,auto_null.monitor] 1725254511
+#time=1dafcf804975362
+"guid"=hex:6b,89,2e,7f,3c,1b,ef,4b,94,e9,5d,a0,6f,cc,00,a3
 
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,bluez_output.E8_EE_CC_C4_CA_AF.1.monitor] 1717907924
 #time=1daba26e952f3f4
@@ -1100,8 +1116,8 @@ WINE REGISTRY Version 2
 #time=1daba8cfdc9245a
 "guid"=hex:a4,12,12,25,06,2c,0c,47,ba,37,72,f2,a1,b7,38,ec
 
-[Software\\Wine\\Fonts] 1722949423
-#time=1dae801109d4c90
+[Software\\Wine\\Fonts] 1725254810
+#time=1dafcf8b67b8260
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
