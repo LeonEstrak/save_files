@@ -1116,8 +1116,8 @@ WINE REGISTRY Version 2
 #time=1daba8cfdc9245a
 "guid"=hex:a4,12,12,25,06,2c,0c,47,ba,37,72,f2,a1,b7,38,ec
 
-[Software\\Wine\\Fonts] 1725254810
-#time=1dafcf8b67b8260
+[Software\\Wine\\Fonts] 1725295199
+#time=1dafd56c00f0f0a
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
