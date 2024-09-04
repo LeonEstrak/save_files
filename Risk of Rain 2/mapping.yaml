@@ -6,18 +6,84 @@ drives:
   drive-D: "D:"
 backups:
   - name: "."
-    when: "2024-08-09T13:40:02.605412179Z"
+    when: "2024-09-04T10:30:02.295597144Z"
     os: linux
     files:
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/autoexec.cfg:
+        hash: d46d60e0b857935419bb599ba55d73e5e193ec63
+        size: 65
       /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/config.cfg:
-        hash: 39941c96c71eeb0eeffe6a0239eb8bab059c6ab4
-        size: 957
+        hash: 05675d0bf14d8b422f7ca499318f6c62b4697608
+        size: 918
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/create_broken_drones.cfg:
+        hash: 336ecb13900d561a263522e971f6f2cc11b1ba13
+        size: 610
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/dlc2items.cfg:
+        hash: 0b21538a291cdbdc52195837a5376a4a7351a116
+        size: 530
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/dlc2items1.cfg:
+        hash: f259cb55f73c3bc5a5061d1df50c7f5613674a5c
+        size: 172
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/dlc2items2.cfg:
+        hash: 8096aac26d217d4b2af5aa8db120c6c965f60d6e
+        size: 398
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/dlc2items3.cfg:
+        hash: 1e339a2410d6195ddb2f2918c9f63d05ac0f40ba
+        size: 419
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/give_all.cfg:
+        hash: b3692adea72a50e13620da27fdb9c91276bdd308
+        size: 1052
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/give_heretic_items.cfg:
+        hash: 62ce7646dd29b7c597a10c9e4d672e8572931a0a
+        size: 146
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/goto_moon2_boss.cfg:
+        hash: 657ed0487e7b5a10bc06fd7bb26f84a9852ee22c
+        size: 34
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/goto_moon_boss.cfg:
+        hash: 5a2c269ac9f6a06931691eb23f2a53f4c419ad6e
+        size: 35
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/lategame.cfg:
+        hash: 0beb43661ba06436e6b935fd82934fb83dd0385d
+        size: 149
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/midgame.cfg:
+        hash: 3f0ce48b18c9f9e28dda6f8357f8dd2be1fc97bd
+        size: 144
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/peace.cfg:
+        hash: b9b312bea467c70a4b54b8938e02c712449d3a8e
+        size: 52
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/platformconfig ps4.cfg:
+        hash: 57218c316b6921e2cd61027a2387edc31a2d9471
+        size: 3
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/platformconfig switch.cfg:
+        hash: 57218c316b6921e2cd61027a2387edc31a2d9471
+        size: 3
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/platformconfig xb1.cfg:
+        hash: 57218c316b6921e2cd61027a2387edc31a2d9471
+        size: 3
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/prep_test.cfg:
+        hash: 838b544b690ae5bfe892b5b66b61eeb9a5d1058f
+        size: 106
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/scanner.cfg:
+        hash: 24a7a45c8c5ab0e31221008a9d567c41a4cfb3d4
+        size: 58
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/server_startup.cfg:
+        hash: 300dae6624bf0a6c39633a43303e5292cc36ba78
+        size: 1410
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/test.cfg:
+        hash: c56f551806211300fc9bae1f34d436d8d3d9d3ff
+        size: 179
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/testchef.cfg:
+        hash: 085fae60408baef8183dae877386a58c8cc5213e
+        size: 202
+      /home/aniket/.local/share/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/testproconkill.cfg:
+        hash: 158e81a52cee99eb2d5524f7351616913545f037
+        size: 322
       /home/aniket/.local/share/Steam/steamapps/compatdata/632360/pfx/system.reg:
-        hash: fc146fa15cfa831aee2f3fb8579ed5d9b6ac5eb4
+        hash: 6b5dec616a92e30b08c0225c31b9261a03534adf
         size: 3789891
       /home/aniket/.local/share/Steam/steamapps/compatdata/632360/pfx/user.reg:
-        hash: 27c3793da701e94f50e62a8cbf75855cde1be0a9
-        size: 72605
+        hash: abb5c9b79acc1de2cd1a65a4447f8416ab103ecb
+        size: 72604
       /home/aniket/.local/share/Steam/steamapps/compatdata/632360/pfx/userdef.reg:
         hash: cfd796ea957c639a17b4f8cdafc93e2a7a80705c
         size: 4190

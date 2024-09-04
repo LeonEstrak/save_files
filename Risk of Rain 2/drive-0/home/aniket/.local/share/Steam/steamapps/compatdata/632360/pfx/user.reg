@@ -160,58 +160,58 @@ WINE REGISTRY Version 2
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
 
-[Control Panel\\International] 1723210268
-#time=1daea606452950a
+[Control Panel\\International] 1725445247
+#time=1dafeb41b92e56e
 "iCalendarType"="1"
-"iCountry"="1"
+"iCountry"="91"
 "iCurrDigits"="2"
 "iCurrency"="0"
-"iDate"="0"
+"iDate"="1"
 "iDigits"="2"
 "iFirstDayOfWeek"="6"
 "iFirstWeekOfYear"="0"
 "iLZero"="1"
-"iMeasure"="1"
+"iMeasure"="0"
 "iNegCurr"="0"
 "iNegNumber"="1"
-"iPaperSize"="1"
+"iPaperSize"="9"
 "iTime"="0"
 "iTimePrefix"="0"
 "iTLZero"="0"
-"Locale"="00000409"
-"LocaleName"="en-US"
+"Locale"="00004009"
+"LocaleName"="en-IN"
 "NumShape"="1"
-"s1159"="AM"
-"s2359"="PM"
-"sCountry"="United States"
-"sCurrency"="$"
+"s1159"="am"
+"s2359"="pm"
+"sCountry"="India"
+"sCurrency"="\x20b9"
 "sDate"="/"
 "sDecimal"="."
-"sGrouping"="3;0"
-"sLanguage"="ENU"
+"sGrouping"="3;2;0"
+"sLanguage"="ENN"
 "sList"=","
-"sLongDate"="dddd, MMMM d, yyyy"
+"sLongDate"="dddd d MMMM, yyyy"
 "sMonDecimalSep"="."
 "sMonGrouping"="3;0"
 "sMonThousandSep"=","
 "sNativeDigits"="0123456789"
 "sNegativeSign"="-"
 "sPositiveSign"=""
-"sShortDate"="M/d/yyyy"
+"sShortDate"="d/M/yyyy"
 "sShortTime"="h:mm tt"
 "sThousand"=","
 "sTime"=":"
 "sTimeFormat"="h:mm:ss tt"
 "sYearMonth"="MMMM yyyy"
 
-[Control Panel\\International\\Geo] 1723210268
-#time=1daea606452958c
-"Name"="US"
-"Nation"="244"
+[Control Panel\\International\\Geo] 1725445247
+#time=1dafeb41b92e5f0
+"Name"="IN"
+"Nation"="113"
 
-[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1723210268
-#time=1daea6064529172
-"Currencies"="USD"
+[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1725445247
+#time=1dafeb41b92e19a
+"Currencies"="INR"
 
 [Control Panel\\Keyboard] 1712822163
 #time=1da8be5b37a305e
@@ -243,9 +243,9 @@ WINE REGISTRY Version 2
 "TEMP"="C:\\users\\steamuser\\Temp"
 "TMP"="C:\\users\\steamuser\\Temp"
 
-[Keyboard Layout\\Preload] 1723210268
-#time=1daea6064558882
-"1"="00000409"
+[Keyboard Layout\\Preload] 1725445247
+#time=1dafeb41bb039de
+"1"="00004009"
 
 [Software\\Hopoo Games, LLC\\Risk of Rain 2] 1723210270
 #time=1daea6065ee9e40
@@ -889,8 +889,8 @@ WINE REGISTRY Version 2
 #time=1daa9d2be2fa7bc
 "guid"=hex:5f,cc,e8,9e,30,58,0d,43,9b,c0,ce,67,ee,9f,9a,cb
 
-[Software\\Wine\\Fonts] 1723210267
-#time=1daea60641312c2
+[Software\\Wine\\Fonts] 1725445247
+#time=1dafeb41baf9dd0
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
