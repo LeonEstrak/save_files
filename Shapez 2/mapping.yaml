@@ -4,87 +4,93 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-23T15:40:02.690867252Z"
+    when: "2024-09-04T14:10:02.321996097Z"
     os: linux
     files:
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v1-2024-8-16--21-16-37--9224340.spz2:
-        hash: e4d625ac4f405b84972ff137a2fa45ea2f6af3b8
-        size: 8574
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v101-2024-8-22--19-36-45--6703780.spz2:
-        hash: 40e180e33b83d12c537bcedf0595e880ef2ab2d7
-        size: 119360
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v121-2024-8-22--21-16-45--7694180.spz2:
-        hash: 0beab2449d73b5ec9ca62c84bbcf6be1a8db7bc4
-        size: 119283
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v122-2024-8-22--21-21-45--7671380.spz2:
-        hash: 1dce2955208b5d6b93bcbd46830ec15dc9f72f49
-        size: 119559
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v123-2024-8-22--21-26-45--7790160.spz2:
-        hash: b28b803175578143934ecd9d73f675e20c029d91
-        size: 119213
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v124-2024-8-22--21-31-45--7840140.spz2:
-        hash: 2389997c548c895deb042c9e571225634363a81a
-        size: 119214
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v125-2024-8-22--21-36-45--7889950.spz2:
-        hash: 145e339684d21ec4216603fda54b1a74d2ffd9c9
-        size: 119244
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v126-2024-8-22--21-41-45--7959400.spz2:
-        hash: 8244cb0d2246bfc5521b4f91e29fc64922a7a667
-        size: 119301
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v127-2024-8-22--21-46-45--7983540.spz2:
-        hash: 4e0ca9dda466d409d3a2c60f9acf16d92db07654
-        size: 119163
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v128-2024-8-22--21-51-45--7960690.spz2:
-        hash: 79fc211bc2e4e97e4e7d2e632f1e8af72ba34f73
-        size: 119211
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v129-2024-8-22--21-56-45--8006440.spz2:
-        hash: 22f9656350e376e4458f50d6251a5d711948753c
-        size: 119269
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v130-2024-8-22--22-01-45--8122660.spz2:
-        hash: 979c09465a8f66570e766bd6abb8e03693f5624f
-        size: 119100
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v131-2024-8-22--22-06-45--8173920.spz2:
-        hash: 3ed08ccfb4ff968aeff97237d5b07e24eb351938
-        size: 119199
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v132-2024-8-22--22-11-45--8227330.spz2:
-        hash: 15d0528eb5b5c66f4ba8384def4e1fb5aa70c364
-        size: 118951
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v133-2024-8-22--22-16-45--8356520.spz2:
-        hash: 9f30e8b0960400c21160eda31f0e43668a9ae58b
-        size: 119188
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v134-2024-8-22--22-21-45--8319290.spz2:
-        hash: 7d02585fdc26eb7f3e14bb1a68137489bd4c6a89
-        size: 119427
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v135-2024-8-22--22-26-45--8413680.spz2:
-        hash: 1a7cd77bd72d135516b66b08d62501cd9910c1f6
-        size: 119305
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v136-2024-8-22--22-26-49--6231110.spz2:
-        hash: 4c1e4fc3f89fdcc2812d8d8d961544892715c127
-        size: 119519
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v137-2024-8-23--20-38-46--8554190.spz2:
-        hash: 7f5d0df16cb72fa230a1d1ac1124515f25252fe8
-        size: 144600
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v138-2024-8-23--20-43-46--8626830.spz2:
-        hash: 9fe530673874deba91fc15be18c59b748fcf30a9
-        size: 144697
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v139-2024-8-23--20-48-46--8642290.spz2:
-        hash: da8734d55aba7993f7dcf84618c6c8df221bd643
-        size: 145571
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v140-2024-8-23--20-53-46--8676390.spz2:
-        hash: e2c3b05aeb9d6fba1e3822d24d60425facc99fb4
-        size: 145336
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v141-2024-8-23--20-58-46--8768330.spz2:
-        hash: 82256457d9cda5dfb8843852184f2651e9e628e4
-        size: 144292
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v142-2024-8-23--21-00-29--6350750.spz2:
-        hash: 3efb06338a7ef8855029ec31f0e820f565581049
-        size: 144669
-      /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v51-2024-8-17--21-24-10--4384190.spz2:
-        hash: 7bfd9d47f7000c9414256aa6fec585b189e2d4e3
-        size: 45003
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v1-2024-8-16--21-16-37--9224340.spz2:
+        hash: e4d625ac4f405b84972ff137a2fa45ea2f6af3b8
+        size: 8574
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v101-2024-8-22--19-36-45--6703780.spz2:
+        hash: 40e180e33b83d12c537bcedf0595e880ef2ab2d7
+        size: 119360
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v122-2024-8-22--21-21-45--7671380.spz2:
+        hash: 1dce2955208b5d6b93bcbd46830ec15dc9f72f49
+        size: 119559
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v123-2024-8-22--21-26-45--7790160.spz2:
+        hash: b28b803175578143934ecd9d73f675e20c029d91
+        size: 119213
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v124-2024-8-22--21-31-45--7840140.spz2:
+        hash: 2389997c548c895deb042c9e571225634363a81a
+        size: 119214
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v125-2024-8-22--21-36-45--7889950.spz2:
+        hash: 145e339684d21ec4216603fda54b1a74d2ffd9c9
+        size: 119244
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v126-2024-8-22--21-41-45--7959400.spz2:
+        hash: 8244cb0d2246bfc5521b4f91e29fc64922a7a667
+        size: 119301
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v127-2024-8-22--21-46-45--7983540.spz2:
+        hash: 4e0ca9dda466d409d3a2c60f9acf16d92db07654
+        size: 119163
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v128-2024-8-22--21-51-45--7960690.spz2:
+        hash: 79fc211bc2e4e97e4e7d2e632f1e8af72ba34f73
+        size: 119211
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v129-2024-8-22--21-56-45--8006440.spz2:
+        hash: 22f9656350e376e4458f50d6251a5d711948753c
+        size: 119269
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v130-2024-8-22--22-01-45--8122660.spz2:
+        hash: 979c09465a8f66570e766bd6abb8e03693f5624f
+        size: 119100
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v131-2024-8-22--22-06-45--8173920.spz2:
+        hash: 3ed08ccfb4ff968aeff97237d5b07e24eb351938
+        size: 119199
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v132-2024-8-22--22-11-45--8227330.spz2:
+        hash: 15d0528eb5b5c66f4ba8384def4e1fb5aa70c364
+        size: 118951
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v133-2024-8-22--22-16-45--8356520.spz2:
+        hash: 9f30e8b0960400c21160eda31f0e43668a9ae58b
+        size: 119188
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v134-2024-8-22--22-21-45--8319290.spz2:
+        hash: 7d02585fdc26eb7f3e14bb1a68137489bd4c6a89
+        size: 119427
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v135-2024-8-22--22-26-45--8413680.spz2:
+        hash: 1a7cd77bd72d135516b66b08d62501cd9910c1f6
+        size: 119305
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v136-2024-8-22--22-26-49--6231110.spz2:
+        hash: 4c1e4fc3f89fdcc2812d8d8d961544892715c127
+        size: 119519
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v137-2024-8-23--20-38-46--8554190.spz2:
+        hash: 7f5d0df16cb72fa230a1d1ac1124515f25252fe8
+        size: 144600
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v138-2024-8-23--20-43-46--8626830.spz2:
+        hash: 9fe530673874deba91fc15be18c59b748fcf30a9
+        size: 144697
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v139-2024-8-23--20-48-46--8642290.spz2:
+        hash: da8734d55aba7993f7dcf84618c6c8df221bd643
+        size: 145571
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v140-2024-8-23--20-53-46--8676390.spz2:
+        hash: e2c3b05aeb9d6fba1e3822d24d60425facc99fb4
+        size: 145336
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v141-2024-8-23--20-58-46--8768330.spz2:
+        hash: 82256457d9cda5dfb8843852184f2651e9e628e4
+        size: 144292
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v142-2024-8-23--21-00-29--6350750.spz2:
+        hash: 3efb06338a7ef8855029ec31f0e820f565581049
+        size: 144669
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v143-2024-9-04--19-39-42--6551989.spz2:
+        hash: c89fdc15f3e070c75ceb45385802b12792213a87
+        size: 168459
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v51-2024-8-17--21-24-10--4384190.spz2:
+        hash: 7bfd9d47f7000c9414256aa6fec585b189e2d4e3
+        size: 45003
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/steam_autocloud.vdf:
+        hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
+        size: 52
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/settings.json:
+        hash: ef5755fffa6e5587b5de938c21158597a8400b90
+        size: 14675
     registry:
       hash: ~
     children: []
