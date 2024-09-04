@@ -252,5 +252,17 @@
   "keybinding.debug.normal-speed.1.override": "0",
   "keybinding.debug.fast-speed.0.override": "0",
   "keybinding.debug.fast-speed.1.override": "0",
-  "debug-views": ""
+  "debug-views": "",
+  "music.pack-status.default": "1",
+  "console.debug-generic-command": "translations.reload",
+  "render-stats-visible": "0",
+  "visualization.waypoints.enabled": "1",
+  "visualization.island-grid.enabled": "1",
+  "visualization.shape-resources.enabled": "1",
+  "visualization.super-chunk-coordinates.enabled": "1",
+  "visualization.space-path.enabled": "1",
+  "visualization.wagon-cargo.enabled": "1",
+  "visualization.train-cargo.enabled": "1",
+  "visualization.building-conflict-indicators.enabled": "1",
+  "debug-stats-visible": "0"
 }
