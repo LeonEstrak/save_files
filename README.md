@@ -5,6 +5,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | Game Name | Last Played |
 |-----------|-------------|
 | [![Ghost of Tsushima Director's Cut](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg?t=1717622497)](https://store.steampowered.com/app/2215430/) | 07 September, 2024 |
+| [![Final Fantasy VII Remake Intergrade](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_231x87.jpg?t=1696383548)](https://store.steampowered.com/app/1462040/) | 07 September, 2024 |
 | [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 06 September, 2024 |
 | [![Risk of Rain 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1699992764)](https://store.steampowered.com/app/632360/) | 06 September, 2024 |
 | [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 05 September, 2024 |
@@ -32,7 +33,6 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Deep Rock Galactic](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/capsule_231x87_alt_assets_25.jpg?t=1718884008)](https://store.steampowered.com/app/548430/) | 26 May, 2024 |
 | [![Horizon Forbidden West](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/capsule_231x87.jpg?t=1717622622)](https://store.steampowered.com/app/2420110/) | 09 April, 2024 |
 | [![Marvel's Guardians of the Galaxy](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/capsule_231x87.jpg?t=1709581505)](https://store.steampowered.com/app/1088850/) | 23 March, 2024 |
-| [![Final Fantasy VII Remake Intergrade](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_231x87.jpg?t=1696383548)](https://store.steampowered.com/app/1462040/) | 19 March, 2024 |
 | [![Horizon Zero Dawn](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/capsule_231x87.jpg?t=1717621265)](https://store.steampowered.com/app/1151640/) | 18 March, 2024 |
 | [![Forza Horizon 5](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_231x87.jpg?t=1721149726)](https://store.steampowered.com/app/1551360/) | 18 March, 2024 |
 | [![Pacific Drive](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/capsule_231x87.jpg?t=1721286389)](https://store.steampowered.com/app/1458140/) | 18 March, 2024 |
