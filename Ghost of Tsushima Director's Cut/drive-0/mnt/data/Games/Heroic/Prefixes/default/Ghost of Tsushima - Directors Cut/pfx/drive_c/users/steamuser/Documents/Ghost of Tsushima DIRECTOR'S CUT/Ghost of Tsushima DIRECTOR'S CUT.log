@@ -462,3 +462,21 @@
 10:17:23:418 (00000336) > [Render] Working set: 177MB Page file: 4012MB Video Budget: 15024MB Video Usage: 6491MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
 15:48:23:434 (00000336) > [Render] Working set: 172MB Page file: 4013MB Video Budget: 15024MB Video Usage: 6491MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
 15:49:23:435 (00000336) > [Render] Working set: 174MB Page file: 4014MB Video Budget: 15024MB Video Usage: 6491MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+15:50:23:451 (00000336) > [Render] Working set: 173MB Page file: 4014MB Video Budget: 15024MB Video Usage: 6491MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+15:51:23:451 (00000336) > [Render] Working set: 172MB Page file: 4014MB Video Budget: 15024MB Video Usage: 6491MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+15:52:23:452 (00000336) > [Render] Working set: 165MB Page file: 4015MB Video Budget: 15024MB Video Usage: 6491MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+15:53:23:468 (00000336) > [Render] Working set: 163MB Page file: 4015MB Video Budget: 15024MB Video Usage: 6491MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+15:54:23:468 (00000336) > [Render] Working set: 165MB Page file: 4016MB Video Budget: 15024MB Video Usage: 6491MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+15:55:23:469 (00000336) > [Render] Working set: 165MB Page file: 4017MB Video Budget: 14996MB Video Usage: 6491MB Sys Budget: 15783MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+15:56:23:485 (00000336) > [Render] Working set: 167MB Page file: 4017MB Video Budget: 15016MB Video Usage: 6491MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 60.0
+15:57:23:485 (00000336) > [Render] Working set: 180MB Page file: 4018MB Video Budget: 15212MB Video Usage: 6491MB Sys Budget: 15793MB Sys Usage: 122MB Demoted: 0MB fps: 59.8
+15:58:23:486 (00000336) > [Render] Working set: 181MB Page file: 4019MB Video Budget: 14996MB Video Usage: 6491MB Sys Budget: 15779MB Sys Usage: 122MB Demoted: 0MB fps: 59.9
+15:59:23:503 (00000336) > [Render] Working set: 187MB Page file: 4019MB Video Budget: 15032MB Video Usage: 6491MB Sys Budget: 15789MB Sys Usage: 122MB Demoted: 0MB fps: 59.8
+15:59:55:415 (00000328) > [NxApp] Destroying
+15:59:55:415 (00000328) > [DXGI] Destroyed swapchain.
+15:59:55:415 (00000328) > [SwapChain] Destroyed.
+15:59:55:415 (00000328) > [SwapChain] Released.
+15:59:55:425 (00000328) > [Render] Unloading ADL...
+15:59:55:425 (00000328) > [Render] Done unloading ADL
+15:59:55:425 (00000328) > [DXGI] Destroyed swapchain.
+15:59:55:425 (00000328) > [DXGI] Released.

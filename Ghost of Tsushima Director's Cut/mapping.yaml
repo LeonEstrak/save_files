@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-09-07T10:20:02.295063578Z"
+    when: "2024-09-07T10:30:05.739800129Z"
     os: linux
     files:
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/AppData/Roaming/Sucker Punch Productions/Ghost of Tsushima DIRECTOR'S CUT/crs/metadata":
@@ -139,12 +139,15 @@ backups:
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0029.sav":
         hash: 53881b0edcc137bf9f47ae977f66db52f1736f66
         size: 335670
+      "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/manual_0030.sav":
+        hash: 2de6d57b55d11806aebe68f947c9d5cd47e90643
+        size: 336797
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/steam_autocloud.vdf":
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/Ghost of Tsushima DIRECTOR'S CUT.log":
-        hash: 2e2a8939fdf3ece0db593428c7014b41b9a793eb
-        size: 62892
+        hash: 7758a1b2fcbee9e06104c12134378722744d4da9
+        size: 65049
       /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/system.reg:
         hash: d4cdbf1857d4c1f08461697e841ac2e838289e03
         size: 3755584
