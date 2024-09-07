@@ -1,28 +1,35 @@
 ---
 name: Final Fantasy VII Remake Intergrade
 drives:
+  drive-0: ""
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-03-18T17:51:52.988046300Z"
-    os: windows
+    when: "2024-09-07T14:00:03.256707833Z"
+    os: linux
     files:
-      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-57C2051146F5C4F0CE4118A27E7111E1/CrashReportClient.ini":
+      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-57C2051146F5C4F0CE4118A27E7111E1/CrashReportClient.ini:
         hash: 4d7189219dac0807612df409dedd78a21507983b
         size: 114
-      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake000.sav":
+      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-6FDB33F942296D1E9CD50C9F7747B184/CrashReportClient.ini:
+        hash: 4d7189219dac0807612df409dedd78a21507983b
+        size: 114
+      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-8B4332E34209150724D309842667E232/CrashReportClient.ini:
+        hash: 4d7189219dac0807612df409dedd78a21507983b
+        size: 114
+      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake000.sav:
         hash: 41e6eb6bf4432228e3064cd2b4ff9e2a8e12d085
         size: 9434752
-      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake001.sav":
+      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake001.sav:
         hash: 16d28ba4d4090d7dc4a8a34b60c87a8e1f4325c9
         size: 9434752
-      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake002.sav":
+      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake002.sav:
         hash: 81a72b28dcf400353ed1e2c8b96a3871d442adc8
         size: 9434752
-      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remakecommon.sav":
+      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remakecommon.sav:
         hash: e7d9c6a120fb1fa1931ffd3bee528c364b248748
         size: 1056
-      "C:/Users/user/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remakedevice.sav":
+      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remakedevice.sav:
         hash: eebe3004880f2db5db24d0b2fe1eaa31fe8198b2
         size: 1056
     registry:
