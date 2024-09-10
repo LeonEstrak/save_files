@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-08-05T11:40:05.322767126Z"
+    when: "2024-09-10T17:00:03.059528283Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/betaPreferences/steam_autocloud.vdf:
@@ -35,10 +35,10 @@ backups:
         hash: 81bea2f8ed498799690940b57de7a94def3e4bdb
         size: 183
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSDataVagabond:
-        hash: f0e8b23d1ce7a1449ee4ecd94e6d4f268737d120
+        hash: e98b827088171806b452f7ba604be19bcb7ed735
         size: 188
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSDataVagabond.backUp:
-        hash: 0069cbb3366f4aacc87e92fb3265c14a7490edad
+        hash: 2cea88ca7709673d1069e4cd7108474a92034204
         size: 188
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSDataWatcher:
         hash: bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
@@ -65,7 +65,7 @@ backups:
         hash: 6d7b115f9d597e0b868b50a9c7c64bc458edf2d6
         size: 103
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSaveSlots.backUp:
-        hash: b8ca3ac20784c4201796b9edc97ef9e3c4901fff
+        hash: 6d7b115f9d597e0b868b50a9c7c64bc458edf2d6
         size: 103
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSeenBosses:
         hash: ec4d724edc56e9b3d3451f89cb7d045795edd74b
@@ -118,6 +118,12 @@ backups:
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/saves/DEFECT.autosave.backUp:
         hash: 4733b11e7742248dad3e45564c06106d47b1b346
         size: 19328
+      /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/saves/IRONCLAD.autosave:
+        hash: 7a4f6707ee2e1c7d78925f982a0f2e3a653edfdf
+        size: 15820
+      /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/saves/IRONCLAD.autosave.backUp:
+        hash: 9e6a56eebaaa545c0611d883347f4fdab9e3e123
+        size: 15652
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/saves/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
