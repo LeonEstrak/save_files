@@ -1,0 +1,15 @@
+---
+name: "Another Crab's Treasure"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-09-11T11:20:02.115234694Z"
+    os: linux
+    files:
+      /mnt/data/Games/Heroic/Prefixes/default/Another Crabs Treasure/pfx/drive_c/users/steamuser/AppData/LocalLow/Aggro Crab/AnotherCrabsTreasure/Save1/SaveFile_0.CRAB:
+        hash: 4339b27560d48563d2b22c75b7f7a577b5763062
+        size: 54775
+    registry:
+      hash: ~
+    children: []
