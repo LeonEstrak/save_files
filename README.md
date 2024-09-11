@@ -5,6 +5,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | Game Name | Last Played |
 |-----------|-------------|
 | [![Dave the Diver](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_231x87.jpg?t=1716447953)](https://store.steampowered.com/app/1868140/) | 11 September, 2024 |
+| [![Another Crab's Treasure](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/capsule_231x87.jpg?t=1723838250)](https://store.steampowered.com/app/1887840/) | 11 September, 2024 |
 | [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 10 September, 2024 |
 | [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 10 September, 2024 |
 | [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 08 September, 2024 |
