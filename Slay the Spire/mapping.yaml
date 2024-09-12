@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-09-10T17:00:03.059528283Z"
+    when: "2024-09-12T15:30:02.510080943Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/betaPreferences/steam_autocloud.vdf:
@@ -35,10 +35,10 @@ backups:
         hash: 81bea2f8ed498799690940b57de7a94def3e4bdb
         size: 183
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSDataVagabond:
-        hash: e98b827088171806b452f7ba604be19bcb7ed735
+        hash: 0ba934c1a48ab43550187c4b73cb39cfe776b2d8
         size: 188
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSDataVagabond.backUp:
-        hash: 2cea88ca7709673d1069e4cd7108474a92034204
+        hash: 8b8076f621e78ab3187f8aabc23dac30d383f240
         size: 188
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSDataWatcher:
         hash: bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
@@ -56,23 +56,23 @@ backups:
         hash: bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
         size: 2
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSPlayer:
-        hash: 3d9b9d92fc1315c4aafa7db6d54f2ec2af3c9465
+        hash: c55f815f8e5e8a9b1002b80c4333767cb889157a
         size: 182
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSPlayer.backUp:
         hash: 3d9b9d92fc1315c4aafa7db6d54f2ec2af3c9465
         size: 182
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSaveSlots:
-        hash: 6d7b115f9d597e0b868b50a9c7c64bc458edf2d6
+        hash: e36d8103ede2e5e966a38bf317585b35a79d9148
         size: 103
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSaveSlots.backUp:
         hash: 6d7b115f9d597e0b868b50a9c7c64bc458edf2d6
         size: 103
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSeenBosses:
+        hash: 9c1b140a2f7a095f61efa3e5127d9e0e00008146
+        size: 140
+      /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSeenBosses.backUp:
         hash: ec4d724edc56e9b3d3451f89cb7d045795edd74b
         size: 124
-      /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSeenBosses.backUp:
-        hash: 300ef729d84b5d5020b253e7c31ea6204c872b27
-        size: 109
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSeenCards:
         hash: 12f120c52148f20881b5ce5f0119b78a1b899763
         size: 5136
@@ -80,11 +80,11 @@ backups:
         hash: 1186522772523772ba5c85e751bff5bfb0926fde
         size: 5117
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSeenRelics:
+        hash: 3ab1b94f628d107ac84601d9fd6abe9fa337e956
+        size: 2861
+      /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSeenRelics.backUp:
         hash: 8e454f93c634349cbad65d2e769ba7c801332e51
         size: 2841
-      /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSeenRelics.backUp:
-        hash: 5e44a28a1635c36e2b318d3ba3e3e20f9ee6a9c9
-        size: 2819
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSSound:
         hash: d1ab39d859349e3408456bcce974d6e090cbf923
         size: 52
@@ -98,11 +98,11 @@ backups:
         hash: f216f91b7f6770d573e63a62160e11a6969a1b0e
         size: 249
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSUnlockProgress:
+        hash: 9e413dc459b0f2aa6b8a9d42f14383df6e4aeecc
+        size: 464
+      /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSUnlockProgress.backUp:
         hash: 7c8441da61d39af402847072c1cc95a41ccb2346
         size: 463
-      /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSUnlockProgress.backUp:
-        hash: 6c14939f3c9cfe02dba2d1a589dd3138ad2fb9af
-        size: 462
       /home/aniket/.local/share/Steam/steamapps/common/SlayTheSpire/preferences/STSUnlocks:
         hash: 7139732afbae43f5cb0af5e8917a1b88e044b1f8
         size: 561
