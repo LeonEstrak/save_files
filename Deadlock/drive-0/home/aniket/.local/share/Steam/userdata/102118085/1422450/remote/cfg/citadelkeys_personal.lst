@@ -222,9 +222,6 @@
 		{
 			"Key"		"SPACE"
 		}
-		"AltCastModifier"
-		{
-		}
 		"ToggleSpectatorTeam"
 		{
 			"Key"		"SPACE"
@@ -248,6 +245,34 @@
 		"ReplayPrevTarget"
 		{
 			"Key"		"MOUSE2"
+		}
+		"AltCast"
+		{
+			"Key"		"MOUSE3"
+		}
+		"AbilityUpgrade1"
+		{
+			"Key"		"1"
+			"Modifier"		"ALT"
+		}
+		"AbilityUpgrade2"
+		{
+			"Key"		"2"
+			"Modifier"		"ALT"
+		}
+		"AbilityUpgrade3"
+		{
+			"Key"		"3"
+			"Modifier"		"ALT"
+		}
+		"AbilityUpgrade4"
+		{
+			"Key"		"4"
+			"Modifier"		"ALT"
+		}
+		"SpectatorToggleFreeCursor"
+		{
+			"Key"		"J"
 		}
 	}
 }

@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-09-14T12:30:04.596651564Z"
+    when: "2024-09-14T13:10:02.688417934Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/boot.vcfg:
@@ -71,8 +71,8 @@ backups:
         hash: e065a0114f61cf7dc7067f2d13bd8204fe428e1d
         size: 73
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/machine_convars.vcfg:
-        hash: fd229e425bf2d577d399bbe4ec5985e16ad67b38
-        size: 7776
+        hash: ae0b52426230571a77ce4a90f827e67f1dcfa923
+        size: 7992
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/machine_convars_default.vcfg:
         hash: 12dce703863f0c6ed6b375b1f799f9bdd41bb7a6
         size: 256
@@ -122,8 +122,8 @@ backups:
         hash: fbc723c6ffae7bcb26f3b2631a916c4c2697362c
         size: 12012
       /home/aniket/.local/share/Steam/userdata/102118085/1422450/remote/cfg/citadelkeys_personal.lst:
-        hash: 328e59979457f1c3bd79e50d50fb6d1d6653dae2
-        size: 2584
+        hash: 3d32ff365ada60c920bd51918dd176ee8d62e207
+        size: 2899
       /home/aniket/.local/share/Steam/userdata/102118085/1422450/remote/cfg/pending_replay_requests.lst:
         hash: f3729c42d2e8b8161024ac4e30276a2362ff6585
         size: 28

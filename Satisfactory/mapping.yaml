@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-09-14T13:00:03.099733394Z"
+    when: "2024-09-14T13:10:02.526775920Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/ApexDestruction.ini:
@@ -38,8 +38,8 @@ backups:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Engine.ini:
-        hash: 46236de1c4e1d456b6660f81dd0a1f0834ebf199
-        size: 5286
+        hash: c88b175a509f99f946096919a885193b953ad642
+        size: 5086
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/EnhancedInput.ini:
         hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
         size: 2

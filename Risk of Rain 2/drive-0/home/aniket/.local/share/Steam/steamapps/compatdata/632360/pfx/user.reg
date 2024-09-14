@@ -693,15 +693,15 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1712822167
 #time=1da8be5b5f01740
 
-[Software\\Valve\\Steam] 1716639116
-#time=1daae9cbcc1f712
+[Software\\Valve\\Steam] 1726318945
+#time=1db06a6585a9240
 "language"="english"
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Valve\\Steam\\ActiveProcess] 1716639119
-#time=1daae9cbe9ac906
-"PID"=dword:00000020
+[Software\\Valve\\Steam\\ActiveProcess] 1726318944
+#time=1db06a657a487f2
+"PID"=dword:0000fffe
 "SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
 "SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
@@ -764,8 +764,8 @@ WINE REGISTRY Version 2
 #time=1da8be5b6041c40
 "LimitNumberOfResolutions"="32"
 
-[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1716639116
-#time=1daae9cbcc1efce
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1726318945
+#time=1db06a6585a8bc4
 
 [Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1712822167
 #time=1da8be5b6043450
@@ -825,8 +825,8 @@ WINE REGISTRY Version 2
 "RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
 "RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
 
-[Software\\Wine\\DllOverrides] 1712822167
-#time=1da8be5b603f6ca
+[Software\\Wine\\DllOverrides] 1726318944
+#time=1db06a657a4765e
 "api-ms-win-crt-conio-l1-1-0"="native,builtin"
 "api-ms-win-crt-heap-l1-1-0"="native,builtin"
 "api-ms-win-crt-locale-l1-1-0"="native,builtin"
@@ -844,7 +844,10 @@ WINE REGISTRY Version 2
 "msvcp110"="native,builtin"
 "msvcp120"="native,builtin"
 "msvcp140"="native,builtin"
+"msvcp140_1"="native,builtin"
+"msvcp140_2"="native,builtin"
 "msvcp140_atomic_wait"="native,builtin"
+"msvcp140_codecvt_ids"="native,builtin"
 "msvcr100"="native,builtin"
 "msvcr110"="native,builtin"
 "msvcr120"="native,builtin"
@@ -856,6 +859,7 @@ WINE REGISTRY Version 2
 "vcomp120"="native,builtin"
 "vcomp140"="native,builtin"
 "vcruntime140"="native,builtin"
+"vcruntime140_1"="native,builtin"
 
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_00_1f.3.iec958-stereo] 1716112555
 #time=1daa9d2be2f60f4
@@ -889,8 +893,8 @@ WINE REGISTRY Version 2
 #time=1daa9d2be2fa7bc
 "guid"=hex:5f,cc,e8,9e,30,58,0d,43,9b,c0,ce,67,ee,9f,9a,cb
 
-[Software\\Wine\\Fonts] 1725640921
-#time=1db007bb2725b0e
+[Software\\Wine\\Fonts] 1726318942
+#time=1db06a65666c68e
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
