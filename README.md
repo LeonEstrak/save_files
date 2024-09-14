@@ -5,6 +5,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | Game Name | Last Played |
 |-----------|-------------|
 | [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 14 September, 2024 |
+| [![Satisfactory](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/capsule_231x87.jpg?t=1718088881)](https://store.steampowered.com/app/526870/) | 14 September, 2024 |
 | [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 12 September, 2024 |
 | [![Dave the Diver](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_231x87.jpg?t=1716447953)](https://store.steampowered.com/app/1868140/) | 11 September, 2024 |
 | [![Another Crab's Treasure](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/capsule_231x87.jpg?t=1723838250)](https://store.steampowered.com/app/1887840/) | 11 September, 2024 |
@@ -24,7 +25,6 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Ori and the Will of the Wisps](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_231x87.jpg?t=1701967625)](https://store.steampowered.com/app/1057090/) | 21 July, 2024 |
 | [![Nine Sols](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/capsule_231x87.jpg?t=1721379703)](https://store.steampowered.com/app/1809540/) | 21 July, 2024 |
 | [![Marvel's Spider-Man Remastered](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/capsule_231x87.jpg?t=1717621493)](https://store.steampowered.com/app/1817070/) | 27 June, 2024 |
-| [![Satisfactory](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/capsule_231x87.jpg?t=1718088881)](https://store.steampowered.com/app/526870/) | 17 June, 2024 |
 | [![Doom Eternal](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/capsule_231x87.jpg?t=1702308063)](https://store.steampowered.com/app/782330/) | 17 June, 2024 |
 | [![State of Decay 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/capsule_231x87.jpg?t=1698336135)](https://store.steampowered.com/app/495420/) | 14 June, 2024 |
 | [![Hi-Fi Rush](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/capsule_231x87.jpg?t=1715602824)](https://store.steampowered.com/app/1817230/) | 12 June, 2024 |

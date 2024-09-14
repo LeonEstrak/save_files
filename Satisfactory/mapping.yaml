@@ -4,39 +4,123 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-09-14T12:50:03.096883241Z"
+    when: "2024-09-14T13:00:03.099733394Z"
     os: linux
     files:
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/ApexDestruction.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Bridge.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Compat.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/ConcertSyncCore.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/ConsoleVariables.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/ControlRig.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/DatasmithContent.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/DeformerGraph.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/DeviceProfiles.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/EditorScriptingUtilities.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Engine.ini:
+        hash: 46236de1c4e1d456b6660f81dd0a1f0834ebf199
+        size: 5286
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/EnhancedInput.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/FullBodyIK.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/GLTFExporter.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Game.ini:
+        hash: b4136287ce7cfa750dd2a189ae67a651220f4923
+        size: 121
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/GameUserSettings.ini:
+        hash: 95ebdf782cdd637982cace2f3cd43c060eaaadde
+        size: 1349
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/GameplayTags.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/HairStrands.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Hardware.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/IKRig.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Input.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/InstallBundle.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Interchange.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Metasound.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/ModelViewViewModel.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/MovieRenderPipeline.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Niagara.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/OnlineIntegration.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Paper2D.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/RuntimeOptions.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Scalability.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/StructUtils.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Synthesis.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/ToolPresets.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/TraceUtilities.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/VariantManagerContent.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/Config/Windows/Wwise.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/CustomSave.sav:
         hash: 69556a7ead4e5586e5b80928c710c56b0a802684
         size: 675977
-      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/HueHue_autosave_0.sav:
-        hash: 250d24826b447b86f1587685d2f15aae33ec22dd
-        size: 178407
-      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/HueHue_autosave_1.sav:
-        hash: a0bb46bda238dcbd67bcf3e5d143b8ef7a7d1299
-        size: 178373
-      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/HueHue_autosave_2.sav:
-        hash: c46f59b28921f259344664e3908c4daa61ce5446
-        size: 179056
-      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Jaba-Jaba-Joo_autosave_0.sav:
-        hash: 03840735a3b365a7939c0c8f602d3fc09db0bc29
-        size: 132485
-      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Jaba-Jaba-Joo_autosave_1.sav:
-        hash: 544bc97ff6553c71991e5620158337395390afa5
-        size: 130048
-      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Jaba-Jaba-Joo_autosave_2.sav:
-        hash: 15fded6e5b6370dfc1f1c034c10ca9005a545fc3
-        size: 131852
-      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/New Beginnings_autosave_0.sav:
-        hash: cdf92d70fabb2a45d8ab2a7c9b927862c1c10683
-        size: 501840
-      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/New Beginnings_autosave_1.sav:
-        hash: fd50e6df8639881c584ab9db6152ed6b8b4b4928
-        size: 483460
-      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/New Beginnings_autosave_2.sav:
-        hash: 9cf14dfcf7f609a52e1779fce944799cf0cc4de5
-        size: 499322
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_130122-220728.sav:
         hash: b40162f8e514f35c1105058de5dbf1f1ade9ec29
         size: 541065
@@ -76,6 +160,9 @@ backups:
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Northern Forest_autosave_2.sav:
         hash: 236a0bdf3eb5e09036455eacd9c331adc234dbf4
         size: 591410
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/OnePointZero_autosave_0.sav:
+        hash: 7c2571cf6655ec2935632e4b5eefa573416ff392
+        size: 164772
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/Yeeett_autosave_0.sav:
         hash: 493f5b99ba5e3f869ff2e982c9b3625448584e4b
         size: 664716
@@ -106,6 +193,9 @@ backups:
       /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/76561198062383813/time lapse.sav:
         hash: 5fd729b08b5f82db8ef9df4970edcf711c956d49
         size: 1229738
+      /home/aniket/.local/share/Steam/steamapps/compatdata/526870/pfx/drive_c/users/steamuser/AppData/Local/FactoryGame/Saved/SaveGames/ServerManager_V2.sav:
+        hash: 4b133a5183f508642715c705abe72c076bbcf39f
+        size: 104
     registry:
       hash: ~
     children: []
