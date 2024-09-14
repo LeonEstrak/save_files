@@ -9,7 +9,6 @@
 		"k"		"lastinv"
 		"k"		"toggle r_wireframe"
 
-		"j"		"hud_free_cursor_toggle"
 		"c"		"citadel_spectator_camera_mode_cycle"
 
 		"SEMICOLON"	"inv_cycle -1"
