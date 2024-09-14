@@ -5,16 +5,10 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-09-07T15:20:02.349695009Z"
+    when: "2024-09-14T14:50:02.760072902Z"
     os: linux
     files:
-      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-57C2051146F5C4F0CE4118A27E7111E1/CrashReportClient.ini:
-        hash: 4d7189219dac0807612df409dedd78a21507983b
-        size: 114
-      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-6FDB33F942296D1E9CD50C9F7747B184/CrashReportClient.ini:
-        hash: 4d7189219dac0807612df409dedd78a21507983b
-        size: 114
-      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-8B4332E34209150724D309842667E232/CrashReportClient.ini:
+      /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Saved/Config/CrashReportClient/UE4CC-Windows-E96BC38E42305A5F740494BFC15652B2/CrashReportClient.ini:
         hash: 4d7189219dac0807612df409dedd78a21507983b
         size: 114
       /mnt/data/Games/Heroic/Prefixes/default/Final Fantasy VII - Remake/pfx/drive_c/users/steamuser/Documents/My Games/FINAL FANTASY VII REMAKE/Steam/76561197960270388/ff7remake000.sav:
