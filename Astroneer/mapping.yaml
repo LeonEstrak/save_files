@@ -5,21 +5,51 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-09-15T16:50:02.021126387Z"
+    when: "2024-09-15T17:00:02.443479910Z"
     os: linux
     files:
-      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/SaveGames/OLD$2023.04.14-22.34.33.savegame:
-        hash: 6849546c35f5c77ee94edc5153a878c2df3bd989
-        size: 1798912
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/AstroServerSettings.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Compat.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/DeviceProfiles.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/EditorScriptingUtilities.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Engine.ini:
+        hash: e366554d3d6df0a87397a95a9eb1ff03653b7cda
+        size: 961
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Game.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/GameUserSettings.ini:
+        hash: 1d391e78389aed53b6c18c1b10a97cfc150d4622
+        size: 1851
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/GameplayTags.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Hardware.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Input.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Paper2D.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/PhysXVehicles.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/Scalability.ini:
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
       /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/SaveGames/PersistentLocalPlayerData.savecfg:
-        hash: 8f2396877834653302e4e58be772d167ec82c696
-        size: 5606
-      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/SaveGames/SAVE_1$2023.04.14-22.33.22.savegame:
-        hash: 815c30df1626141967cee7663f4f44733343cfdb
-        size: 759699
-      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/SaveGames/SAVE_2$2024.02.26-21.50.55.savegame:
-        hash: afc17987473415aaa6e6ad7a2e7a8acc807f7045
-        size: 618215
+        hash: a5c3d9103c5dc2b1c2cf2ded53f43e1ce0338082
+        size: 5638
       /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/SaveGames/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
