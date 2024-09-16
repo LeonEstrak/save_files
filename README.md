@@ -5,7 +5,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | Game Name | Last Played |
 |-----------|-------------|
 | [![Astroneer](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/capsule_231x87.jpg?t=1701658983)](https://store.steampowered.com/app/361420/) | 16 September, 2024 |
-| [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 14 September, 2024 |
+| [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 16 September, 2024 |
 | [![Satisfactory](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/capsule_231x87.jpg?t=1718088881)](https://store.steampowered.com/app/526870/) | 14 September, 2024 |
 | [![Risk of Rain 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1699992764)](https://store.steampowered.com/app/632360/) | 14 September, 2024 |
 | [![Another Crab's Treasure](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/capsule_231x87.jpg?t=1723838250)](https://store.steampowered.com/app/1887840/) | 14 September, 2024 |
