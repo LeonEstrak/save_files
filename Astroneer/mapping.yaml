@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-09-16T09:20:02.407602386Z"
+    when: "2024-09-16T09:30:02.433999780Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/Config/WindowsNoEditor/AstroServerSettings.ini:
@@ -50,9 +50,9 @@ backups:
       /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/SaveGames/PersistentLocalPlayerData.savecfg:
         hash: cff93d62c69a139a671ae17632f8cb22deaf699d
         size: 5780
-      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/SaveGames/SAVE_1$2024.09.16-14.49.15.savegame:
-        hash: f92eb7057797256015dd2d08bfcc81527db28539
-        size: 703463
+      /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/SaveGames/SAVE_1$2024.09.16-14.59.12.savegame:
+        hash: bfba305f8f5f709e7d5c49d0dd199656ba6c5ce4
+        size: 756192
       /home/aniket/.local/share/Steam/steamapps/compatdata/361420/pfx/drive_c/users/steamuser/AppData/Local/Astro/Saved/SaveGames/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
