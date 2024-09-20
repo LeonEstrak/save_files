@@ -7,8 +7,8 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 20 September, 2024 |
 | [![Dave the Diver](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_231x87.jpg?t=1716447953)](https://store.steampowered.com/app/1868140/) | 20 September, 2024 |
 | [![Yakuza: Like a Dragon](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/capsule_231x87.jpg?t=1717588355)](https://store.steampowered.com/app/1235140/) | 20 September, 2024 |
+| [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 20 September, 2024 |
 | [![Astroneer](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/capsule_231x87.jpg?t=1701658983)](https://store.steampowered.com/app/361420/) | 16 September, 2024 |
-| [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 16 September, 2024 |
 | [![Satisfactory](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/capsule_231x87.jpg?t=1718088881)](https://store.steampowered.com/app/526870/) | 14 September, 2024 |
 | [![Risk of Rain 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1699992764)](https://store.steampowered.com/app/632360/) | 14 September, 2024 |
 | [![Another Crab's Treasure](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/capsule_231x87.jpg?t=1723838250)](https://store.steampowered.com/app/1887840/) | 14 September, 2024 |
