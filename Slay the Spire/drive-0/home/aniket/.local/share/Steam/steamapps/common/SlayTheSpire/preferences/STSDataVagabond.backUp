@@ -1,10 +1,10 @@
 {
-  "TOTAL_FLOORS": "398",
-  "ENEMY_KILL": "359",
+  "TOTAL_FLOORS": "436",
+  "ENEMY_KILL": "402",
   "WIN_STREAK": "0",
-  "LOSE_COUNT": "15",
-  "PLAYTIME": "39264",
+  "LOSE_COUNT": "17",
+  "PLAYTIME": "41365",
   "HIGHEST_FLOOR": "50",
-  "HIGHEST_SCORE": "488",
-  "BOSS_KILL": "13"
+  "HIGHEST_SCORE": "574",
+  "BOSS_KILL": "15"
 }

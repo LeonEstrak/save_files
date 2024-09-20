@@ -5,7 +5,7 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-09-11T10:20:02.841699885Z"
+    when: "2024-09-20T05:00:04.480902784Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1868140/pfx/drive_c/users/steamuser/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/102118085/GameSave_00_GD.sav:
@@ -39,25 +39,25 @@ backups:
         hash: 73e918c3f6ef78c9a98f29f4fca2fe71667eacd8
         size: 4190
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_00_GD.sav:
-        hash: 7e2b215ce8fe6167a34e817dcc2f114bb9532cf6
-        size: 96425
+        hash: 8cc9d8170475701feafaca6005401c2bc11e998d
+        size: 97249
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_00_PZ.sav:
-        hash: d84033de36032e409fba31a2800fe4d5c41845d0
-        size: 43727
+        hash: 670af3d691097fc03a44ba9ec538c455928296e6
+        size: 73844
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_00_UO.sav:
-        hash: ceaab18a551bf2efe910a9f24a6008b34e9f62b8
-        size: 568
+        hash: 2596d966c299cba13e12ca201b5f008f8c2c5416
+        size: 567
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_01_GD.sav:
+        hash: d7735a3449ea216ef1b64ff67766d151f99dc409
+        size: 99864
+      /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_01_PZ.sav:
+        hash: edd4203097f6fc692375a023c7d2a038a27dca98
+        size: 73844
+      /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_02_GD.sav:
         hash: 58f27529c91a1b87da33f3ad221c569f74f09afa
         size: 95774
-      /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_01_PZ.sav:
-        hash: 12495a6233932e3ca41a73756178593432ea9c40
-        size: 43727
-      /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_02_GD.sav:
-        hash: 90c7022e70daa58e79393bd8efa0e26b509ce4a2
-        size: 91142
       /home/aniket/.local/share/Steam/userdata/102118085/1868140/remote/GameSave_02_PZ.sav:
-        hash: e90769de0ef5d34ce75d5c95d022d20213fc4701
+        hash: 12495a6233932e3ca41a73756178593432ea9c40
         size: 43727
     registry:
       hash: ~
