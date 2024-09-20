@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-09-20T13:40:02.104929672Z"
+    when: "2024-09-20T13:50:01.657989074Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/1235140/pfx/drive_c/users/steamuser/AppData/Roaming/Sega/YakuzaLikeADragon/102118085/save001/data.sav:
@@ -20,17 +20,17 @@ backups:
         hash: 2b1020eea878738ca27c1651abe058244374c461
         size: 116864
       /home/aniket/.local/share/Steam/steamapps/compatdata/1235140/pfx/drive_c/users/steamuser/AppData/Roaming/Sega/YakuzaLikeADragon/102118085/save031/data.sav:
-        hash: f75b5f34c96a2ca63ceb4a4b1cf280dbcd4725a0
-        size: 888360
+        hash: 54164ca3431b2449cd2e5d22badaaad9d846f32f
+        size: 888546
       /home/aniket/.local/share/Steam/steamapps/compatdata/1235140/pfx/drive_c/users/steamuser/AppData/Roaming/Sega/YakuzaLikeADragon/102118085/save031/save031_icon0.dds:
-        hash: 6d8c526d1316fe94a3c67abf49045ab349750d55
+        hash: bf235fed43320672eb4cd2a7b9b284ec3ea12f7c
         size: 116864
       /home/aniket/.local/share/Steam/steamapps/compatdata/1235140/pfx/drive_c/users/steamuser/AppData/Roaming/Sega/YakuzaLikeADragon/102118085/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /home/aniket/.local/share/Steam/steamapps/compatdata/1235140/pfx/drive_c/users/steamuser/AppData/Roaming/Sega/YakuzaLikeADragon/102118085/system/data.sys:
-        hash: 50a3ec806492f648d221e6405b2c176bf540329c
-        size: 98990
+        hash: f86a3a240444e58fdb230b51817d330d6cbfe6a2
+        size: 98989
       /home/aniket/.local/share/Steam/steamapps/compatdata/1235140/pfx/drive_c/users/steamuser/AppData/Roaming/Sega/YakuzaLikeADragon/graphics.ini:
         hash: 3632b2818afc0df4a681de94847cb05539b3e866
         size: 489
