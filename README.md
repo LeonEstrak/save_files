@@ -5,6 +5,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | Game Name | Last Played |
 |-----------|-------------|
 | [![Roboquest](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692890/capsule_231x87.jpg?t=1717681007)](https://store.steampowered.com/app/692890/) | 21 September, 2024 |
+| [![Shapez 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/capsule_231x87.jpg?t=1723750887)](https://store.steampowered.com/app/2162800/) | 21 September, 2024 |
 | [![Slay the Spire](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/capsule_231x87.jpg?t=1713847689)](https://store.steampowered.com/app/2868840/) | 20 September, 2024 |
 | [![Dave the Diver](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_231x87.jpg?t=1716447953)](https://store.steampowered.com/app/1868140/) | 20 September, 2024 |
 | [![Yakuza: Like a Dragon](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/capsule_231x87.jpg?t=1717588355)](https://store.steampowered.com/app/1235140/) | 20 September, 2024 |
@@ -16,7 +17,6 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Final Fantasy VII Remake Intergrade](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_231x87.jpg?t=1696383548)](https://store.steampowered.com/app/1462040/) | 14 September, 2024 |
 | [![Hades II](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 08 September, 2024 |
 | [![Ghost of Tsushima Director's Cut](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg?t=1717622497)](https://store.steampowered.com/app/2215430/) | 07 September, 2024 |
-| [![Shapez 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/capsule_231x87.jpg?t=1723750887)](https://store.steampowered.com/app/2162800/) | 04 September, 2024 |
 | [![Balatro](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/capsule_231x87.jpg?t=1721294443)](https://store.steampowered.com/app/2379780/) | 22 August, 2024 |
 | [![Cyberpunk 2077](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_231x87.jpg?t=1718101184)](https://store.steampowered.com/app/1091500/) | 21 August, 2024 |
 | [![No Man's Sky](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/capsule_231x87_alt_assets_24.jpg?t=1721300183)](https://store.steampowered.com/app/275850/) | 07 August, 2024 |

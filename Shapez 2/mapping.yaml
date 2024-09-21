@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-09-21T13:40:01.666102483Z"
+    when: "2024-09-21T13:50:01.121600135Z"
     os: linux
     files:
       /home/aniket/.config/unity3d/tobspr Games/shapez 2/savegames/steam_autocloud.vdf:
@@ -16,12 +16,6 @@ backups:
       /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v101-2024-8-22--19-36-45--6703780.spz2:
         hash: 40e180e33b83d12c537bcedf0595e880ef2ab2d7
         size: 119360
-      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v133-2024-8-22--22-16-45--8356520.spz2:
-        hash: 9f30e8b0960400c21160eda31f0e43668a9ae58b
-        size: 119188
-      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v134-2024-8-22--22-21-45--8319290.spz2:
-        hash: 7d02585fdc26eb7f3e14bb1a68137489bd4c6a89
-        size: 119427
       /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v135-2024-8-22--22-26-45--8413680.spz2:
         hash: 1a7cd77bd72d135516b66b08d62501cd9910c1f6
         size: 119305
@@ -82,6 +76,12 @@ backups:
       /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v154-2024-9-21--19-06-04--5141078.spz2:
         hash: 6a837293a989bd0d7456a998b0fce3f72a1c71e4
         size: 231141
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v155-2024-9-21--19-11-04--5190146.spz2:
+        hash: f7d5af69a07d4be1c7c31f10d64919b474a9388a
+        size: 239438
+      /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v156-2024-9-21--19-16-04--5268239.spz2:
+        hash: 4f37e27f0568cc31ad848af62fddba555498f2a5
+        size: 274072
       /home/aniket/.local/share/Steam/steamapps/compatdata/2162800/pfx/drive_c/users/steamuser/AppData/LocalLow/tobspr Games/shapez 2/savegames/36079567-378d-480e-9bd0-a6406317511d/backup-v51-2024-8-17--21-24-10--4384190.spz2:
         hash: 7bfd9d47f7000c9414256aa6fec585b189e2d4e3
         size: 45003
