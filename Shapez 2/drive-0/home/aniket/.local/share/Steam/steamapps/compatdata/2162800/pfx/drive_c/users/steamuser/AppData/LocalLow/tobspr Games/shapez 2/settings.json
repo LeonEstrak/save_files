@@ -99,7 +99,7 @@
   "keybinding.camera.mouse-drag-modifier.0.override": "0",
   "keybinding.camera.mouse-drag-modifier.1.override": "0",
   "keybinding.camera.angle-drag-modifier.0.override": "0",
-  "keybinding.camera.angle-drag-modifier.1.override": "0",
+  "keybinding.camera.angle-drag-modifier.1.override": "1",
   "keybinding.camera.select-layer-up.0.override": "0",
   "keybinding.camera.select-layer-up.1.override": "0",
   "keybinding.camera.select-layer-down.0.override": "0",
@@ -264,5 +264,9 @@
   "visualization.wagon-cargo.enabled": "1",
   "visualization.train-cargo.enabled": "1",
   "visualization.building-conflict-indicators.enabled": "1",
-  "debug-stats-visible": "0"
+  "debug-stats-visible": "0",
+  "keybinding.camera.angle-drag-modifier.1.code": "327",
+  "keybinding.camera.angle-drag-modifier.1.controller-source": "0",
+  "keybinding.camera.angle-drag-modifier.1.modifier0": "0",
+  "keybinding.camera.angle-drag-modifier.1.modifier1": "0"
 }
