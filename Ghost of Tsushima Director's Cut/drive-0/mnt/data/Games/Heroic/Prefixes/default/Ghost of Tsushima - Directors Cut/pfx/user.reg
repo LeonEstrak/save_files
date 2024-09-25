@@ -891,13 +891,13 @@ WINE REGISTRY Version 2
 "u_action_switchreticle_1"=dword:00000010
 "u_action_switchreticle_2"=dword:000003e8
 
-[Software\\Valve\\Steam] 1716730183
-#time=1daaf70c4ca5650
+[Software\\Valve\\Steam] 1727268714
+#time=1db0f49b30e21ec
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Valve\\Steam\\ActiveProcess] 1716730183
-#time=1daaf70c4e32928
+[Software\\Valve\\Steam\\ActiveProcess] 1727268715
+#time=1db0f49b322f27a
 "PID"=dword:00000020
 "SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
 "SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
@@ -955,8 +955,8 @@ WINE REGISTRY Version 2
 #time=1daa7aff3287c70
 "LimitNumberOfResolutions"="32"
 
-[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1716730183
-#time=1daaf70c4ca4fc0
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1727268714
+#time=1db0f49b30e1b48
 
 [Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1715877710
 #time=1daa7aff328a196
@@ -1016,8 +1016,8 @@ WINE REGISTRY Version 2
 "RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
 "RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
 
-[Software\\Wine\\DllOverrides] 1715877710
-#time=1daa7aff328425a
+[Software\\Wine\\DllOverrides] 1727268714
+#time=1db0f49b2b44e06
 "api-ms-win-crt-conio-l1-1-0"="native,builtin"
 "api-ms-win-crt-heap-l1-1-0"="native,builtin"
 "api-ms-win-crt-locale-l1-1-0"="native,builtin"
@@ -1035,7 +1035,10 @@ WINE REGISTRY Version 2
 "msvcp110"="native,builtin"
 "msvcp120"="native,builtin"
 "msvcp140"="native,builtin"
+"msvcp140_1"="native,builtin"
+"msvcp140_2"="native,builtin"
 "msvcp140_atomic_wait"="native,builtin"
+"msvcp140_codecvt_ids"="native,builtin"
 "msvcr100"="native,builtin"
 "msvcr110"="native,builtin"
 "msvcr120"="native,builtin"
@@ -1047,6 +1050,7 @@ WINE REGISTRY Version 2
 "vcomp120"="native,builtin"
 "vcomp140"="native,builtin"
 "vcruntime140"="native,builtin"
+"vcruntime140_1"="native,builtin"
 
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_00_1f.3.iec958-stereo] 1716132284
 #time=1daaa00ad9428dc
@@ -1067,6 +1071,10 @@ WINE REGISTRY Version 2
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,auto_null] 1725254511
 #time=1dafcf804973d5a
 "guid"=hex:25,31,87,ea,ae,0c,b8,4a,91,bf,dc,34,f4,f0,b5,cc
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,bluez_output.7C_63_05_57_50_DF.1] 1727268716
+#time=1db0f49b41de7fc
+"guid"=hex:0b,6c,47,94,ff,9b,32,4b,8a,a2,b9,5f,31,da,c7,20
 
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,bluez_output.E8_EE_CC_C4_CA_AF.1] 1717907924
 #time=1daba26e952ae6c
@@ -1108,6 +1116,14 @@ WINE REGISTRY Version 2
 #time=1dafcf804975362
 "guid"=hex:6b,89,2e,7f,3c,1b,ef,4b,94,e9,5d,a0,6f,cc,00,a3
 
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,bluez_input.E8:EE:CC:C4:CA:AF] 1727268716
+#time=1db0f49b41e23fc
+"guid"=hex:4b,9f,67,cd,cf,2b,7c,4c,b3,69,dd,68,ac,0f,ae,0c
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,bluez_output.7C_63_05_57_50_DF.1.monitor] 1727268716
+#time=1db0f49b41e3842
+"guid"=hex:21,4c,33,f0,6d,28,a8,4f,87,cb,dd,c3,2f,f9,d7,55
+
 [Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,bluez_output.E8_EE_CC_C4_CA_AF.1.monitor] 1717907924
 #time=1daba26e952f3f4
 "guid"=hex:ba,cc,46,b2,56,86,3c,44,96,c5,72,c6,c0,15,a9,84
@@ -1116,8 +1132,8 @@ WINE REGISTRY Version 2
 #time=1daba8cfdc9245a
 "guid"=hex:a4,12,12,25,06,2c,0c,47,ba,37,72,f2,a1,b7,38,ec
 
-[Software\\Wine\\Fonts] 1725687740
-#time=1db00e8b4ebd0be
+[Software\\Wine\\Fonts] 1727268716
+#time=1db0f49b3c17da0
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
