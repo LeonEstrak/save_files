@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-09-25T12:30:01.277668374Z"
+    when: "2024-09-27T03:10:01.864320358Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/boot.vcfg:
@@ -13,6 +13,9 @@ backups:
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_1v1_match.cfg:
         hash: 6027fed7362414e626e36b16da917706ab141444
         size: 153
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_audio.cfg:
+        hash: f8aa22c7c59193f44c3e5f11a5d9917b14af3565
+        size: 972
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_6v6_spectator.cfg:
         hash: b636b0b68f50aeaf6d8b884aedb273f9994d5386
         size: 677
@@ -74,8 +77,8 @@ backups:
         hash: 53506f72e018fc978e02910ccaa5633908e18f81
         size: 7989
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/machine_convars_default.vcfg:
-        hash: 12dce703863f0c6ed6b375b1f799f9bdd41bb7a6
-        size: 256
+        hash: ebddd80ba6c57e20855685d8fed1c4c329897603
+        size: 217
       /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/ps5_controller_mapping.vdf:
         hash: 66f464fdc3a28ef5c14155bafe0ea35c86238ff6
         size: 31329
