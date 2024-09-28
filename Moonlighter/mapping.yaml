@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-09-28T15:50:01.725947294Z"
+    when: "2024-09-28T16:00:01.171633577Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/606150/pfx/drive_c/users/steamuser/AppData/LocalLow/11BitStudios/Moonlighter/Unity/f522e32a-6e64-4c70-afbd-bf0463165292/Analytics/config:
@@ -26,8 +26,8 @@ backups:
         hash: 13ac5fc6115988483d1bf1b8ba9585e87d45d583
         size: 1868
       /home/aniket/.local/share/Steam/userdata/102118085/606150/remote/gameslot:
-        hash: c058649826e14c4739f86935544ca27b00285e55
-        size: 107791
+        hash: 668dcf2dda81282d514edf8750dafc9a9be04e41
+        size: 93711
       /home/aniket/.local/share/Steam/userdata/102118085/606150/remote/guiBindings:
         hash: e57b2b10e7f885837260e0e6321318d7dc3be1a4
         size: 2188
