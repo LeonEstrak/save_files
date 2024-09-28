@@ -54,6 +54,8 @@
 				"Item3"		"#Item3"
 				"Item4"		"#Item4"
 				"Mantle"		"#JumpMantle"
+				"Zipline"			"#Zipline"
+				"CancelAbility"		"#CancelAbility"
 				"OpenHeroSheet"		"#OpenHeroSheet"
 				"Roll"		"#Roll"
 				"Crouch"		"#Crouch"
@@ -187,6 +189,8 @@
 			"Item3"		"Item 3"
 			"Item4"		"Item 4"
 			"JumpMantle"		"Jump/Mantle"
+			"Zipline"		"Zipline"
+			"CancelAbility"		"Cancel Ability"
 			"OpenHeroSheet"		"Buy"
 			"OpenMenu"		"Menu"
 			"Roll"		"Roll"
@@ -2251,6 +2255,13 @@
 						"bindings"
 						{
 							"binding"		"game_action GameControls Mantle"
+						}
+					}
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"game_action GameControls Zipline"
 						}
 					}
 				}

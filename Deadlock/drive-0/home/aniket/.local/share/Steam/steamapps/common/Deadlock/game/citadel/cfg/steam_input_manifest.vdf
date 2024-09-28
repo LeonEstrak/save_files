@@ -67,6 +67,8 @@
 				"Item4"				"#Item4"
 
 				"Mantle"			"#JumpMantle"
+				"Zipline"			"#Zipline"
+				"CancelAbility"			"#CancelAbility"
 
 				"OpenHeroSheet" 	"#OpenHeroSheet"
 
@@ -216,6 +218,8 @@
 			"Item3" "Item 3"
 			"Item4" "Item 4"
 			"JumpMantle" "Jump/Mantle"
+			"Zipline"	"Zipline"
+			"CancelAbility" "Cancel Ability"
 			"OpenHeroSheet" "Buy"
 			"OpenMenu" "Menu"
 			"Roll" "Roll"
