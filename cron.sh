@@ -4,9 +4,9 @@ set -x
 echo "----------------------------"
 echo "Script started at: $(date)"
 
-directoryPath="/home/aniket/ludusavi-backup"
+directoryPath="/home/aniket/save_files"
 
-/home/aniket/.cargo/bin/ludusavi backup --no-cloud-sync --force --path "$directoryPath" && \
+/home/aniket/.local/bin/ludusavi backup --no-cloud-sync --force --path "$directoryPath" && \
 python3 "$directoryPath"/generate_readme.py "$directoryPath"
 bash "$directoryPath"/git-backup.sh "$directoryPath"
 
