@@ -4,21 +4,15 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-09-28T16:00:01.171633577Z"
+    when: "2024-10-02T06:41:57.511382473Z"
     os: linux
     files:
-      /home/aniket/.local/share/Steam/steamapps/compatdata/606150/pfx/drive_c/users/steamuser/AppData/LocalLow/11BitStudios/Moonlighter/Unity/f522e32a-6e64-4c70-afbd-bf0463165292/Analytics/config:
-        hash: a351bea1932270bafbe468584058fef20dcfc31e
-        size: 293
-      /home/aniket/.local/share/Steam/steamapps/compatdata/606150/pfx/drive_c/users/steamuser/AppData/LocalLow/11BitStudios/Moonlighter/Unity/f522e32a-6e64-4c70-afbd-bf0463165292/Analytics/values:
-        hash: 1ca95205bfffa72203b7fa6b99f3c78ab53da841
-        size: 134
       /home/aniket/.local/share/Steam/steamapps/compatdata/606150/pfx/system.reg:
-        hash: 4b5a2a2c0a10b2d5278d2c3e78784c7b7118bd86
-        size: 3817018
+        hash: b43774125c4675219678b42c2d23e9ef5831f814
+        size: 3732820
       /home/aniket/.local/share/Steam/steamapps/compatdata/606150/pfx/user.reg:
-        hash: b45c591699fd7b9d97132ae69db2cbf4a404240e
-        size: 74143
+        hash: 3c15e514fa140835a20fdd59550cc98ab6797390
+        size: 79164
       /home/aniket/.local/share/Steam/steamapps/compatdata/606150/pfx/userdef.reg:
         hash: bf6b7807c94cd335974a6f5c45ce04a3c6374305
         size: 4190
@@ -26,8 +20,8 @@ backups:
         hash: 13ac5fc6115988483d1bf1b8ba9585e87d45d583
         size: 1868
       /home/aniket/.local/share/Steam/userdata/102118085/606150/remote/gameslot:
-        hash: 668dcf2dda81282d514edf8750dafc9a9be04e41
-        size: 93711
+        hash: 4b206ff6b003f26153e5430b3881bdbc6264c99b
+        size: 95148
       /home/aniket/.local/share/Steam/userdata/102118085/606150/remote/guiBindings:
         hash: e57b2b10e7f885837260e0e6321318d7dc3be1a4
         size: 2188

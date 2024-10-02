@@ -1,5 +1,5 @@
 WINE REGISTRY Version 2
-;; All keys relative to REGISTRY\\User\\S-1-5-21-2115965369-2239186812-1000-1000
+;; All keys relative to REGISTRY\\User\\S-1-5-21-737983298-3774893617-1000-1000
 
 #arch=win64
 
@@ -362,8 +362,9 @@ WINE REGISTRY Version 2
 "{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
 "{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1715877709
-#time=1daa7aff2e3b9aa
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1727709522
+#time=1db134c090a0312
+"ProxyEnable"=dword:00000000
 "User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1715877709
@@ -891,13 +892,13 @@ WINE REGISTRY Version 2
 "u_action_switchreticle_1"=dword:00000010
 "u_action_switchreticle_2"=dword:000003e8
 
-[Software\\Valve\\Steam] 1727268714
-#time=1db0f49b30e21ec
+[Software\\Valve\\Steam] 1727709522
+#time=1db134c0906c45e
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Valve\\Steam\\ActiveProcess] 1727268715
-#time=1db0f49b322f27a
+[Software\\Valve\\Steam\\ActiveProcess] 1727709522
+#time=1db134c091e250e
 "PID"=dword:00000020
 "SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
 "SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
@@ -955,8 +956,8 @@ WINE REGISTRY Version 2
 #time=1daa7aff3287c70
 "LimitNumberOfResolutions"="32"
 
-[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1727268714
-#time=1db0f49b30e1b48
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1727709522
+#time=1db134c0906bdba
 
 [Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1715877710
 #time=1daa7aff328a196
@@ -1010,6 +1011,10 @@ WINE REGISTRY Version 2
 [Software\\Wine\\AppDefaults\\starwarssquadrons.exe\\DllOverrides] 1715877710
 #time=1daa7aff329f122
 "atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\TDUSC.exe\\DllOverrides] 1727709521
+#time=1db134c088cac46
+"xinput1_3"="native,builtin"
 
 [Software\\Wine\\Debug] 1715877709
 #time=1daa7aff30d34ce
@@ -1132,13 +1137,13 @@ WINE REGISTRY Version 2
 #time=1daba8cfdc9245a
 "guid"=hex:a4,12,12,25,06,2c,0c,47,ba,37,72,f2,a1,b7,38,ec
 
-[Software\\Wine\\Fonts] 1727526693
-#time=1db11a25a4c5f28
+[Software\\Wine\\Fonts] 1727712726
+#time=1db13537e9de6f0
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1718533442
-#time=1dabfd74eb9c32a
+[Software\\Wine\\Fonts\\External Fonts] 1727709520
+#time=1db134c07d5c4f4
 "C059-BdIta (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\C059-BdIta.otf"
 "C059-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\C059-Bold.otf"
 "C059-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\C059-Italic.otf"
@@ -1198,7 +1203,6 @@ WINE REGISTRY Version 2
 "Liberation Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\liberation-fonts\\LiberationSerif-Bold.ttf"
 "Liberation Serif Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\liberation-fonts\\LiberationSerif-BoldItalic.ttf"
 "Liberation Serif Italic (TrueType)"="Z:\\usr\\share\\fonts\\liberation-fonts\\LiberationSerif-Italic.ttf"
-"MScore for scores (TrueType)"="Z:\\run\\host\\fonts\\mscore-fonts\\mscore.ttf"
 "NimbusMonoPS-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusMonoPS-Bold.otf"
 "NimbusMonoPS-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusMonoPS-BoldItalic.otf"
 "NimbusMonoPS-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusMonoPS-Italic.otf"
@@ -1215,7 +1219,6 @@ WINE REGISTRY Version 2
 "NimbusSansNarrow-BoldOblique (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSansNarrow-BoldOblique.otf"
 "NimbusSansNarrow-Oblique (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSansNarrow-Oblique.otf"
 "NimbusSansNarrow-Regular (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusSansNarrow-Regular.otf"
-"OpenSymbol (TrueType)"="Z:\\run\\host\\fonts\\opensymbol\\opens___.ttf"
 "P052-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\P052-Bold.otf"
 "P052-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\P052-BoldItalic.otf"
 "P052-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\P052-Italic.otf"
@@ -1279,16 +1282,20 @@ WINE REGISTRY Version 2
 #time=1daa7aff30d3992
 "ShowCrashDialog"=dword:00000000
 
-[Volatile Environment] 1716132284
-#time=1daaa00acffbd0a
+[Software\\Wine\\X11 Driver] 1727709520
+#time=1db134c07fc03c6
+"KeyboardLayoutList"=str(7):"United States keyboard layout\0United States keyboard layout (phantom key version)\0United States keyboard layout (dvorak)\0United States International keyboard layout\0British keyboard layout\0German keyboard layout\0Swiss German keyboard layout\0Swiss French keyboard layout\0Swedish keyboard layout\0Estonian keyboard layout\0Norwegian keyboard layout\0Danish keyboard layout\0French keyboard layout\0Canadian French keyboard layout\0Canadian French keyboard layout (CA_fr)\0Canadian keyboard layout\0Belgian keyboard layout\0Portuguese keyboard layout\0Brazilian ABNT-2 keyboard layout\0Brazilian ABNT-2 keyboard layout ALT GR\0Finnish keyboard layout\0Bulgarian bds keyboard layout\0Bulgarian phonetic keyboard layout\0Belarusian keyboard layout\0Russian keyboard layout\0Russian keyboard layout (phantom key version)\0Russian keyboard layout KOI8-R\0Russian keyboard layout cp1251\0Russian phonetic keyboard layout\0Ukrainian keyboard layout KOI8-U\0Ukrainian keyboard layout (standard)\0Russian keyboard layout (standard)\0Spanish keyboard layout\0Italian keyboard layout\0Icelandic keyboard layout\0Hungarian keyboard layout\0Polish (programmer's) keyboard layout\0Slovenian keyboard layout\0Serbian keyboard layout sr\0Serbian keyboard layout us,sr\0Croatian keyboard layout\0Croatian keyboard layout (specific)\0Japanese 106 keyboard layout\0Japanese Mac keyboard layout\0Japanese pc98x1 keyboard layout\0Slovak keyboard layout\0Slovak and Czech keyboard layout without dead keys\0Czech keyboard layout\0Czech keyboard layout cz\0Czech keyboard layout cz_qwerty\0Latin American keyboard layout\0Lithuanian (Baltic) keyboard layout\0Turkish keyboard layout\0Turkish keyboard layout tr\0Turkish keyboard layout trf\0Israelian keyboard layout\0Israelian phonetic keyboard layout\0Israelian Saharon keyboard layout\0VNC keyboard layout\0Greek keyboard layout\0Thai (Kedmanee)  keyboard layout\0Dutch keyboard layout\0"
+
+[Volatile Environment] 1727709522
+#time=1db134c0909ebc0
 "APPDATA"="C:\\users\\steamuser\\AppData\\Roaming"
 "CLIENTNAME"="Console"
 "HOMEDRIVE"="C:"
 "HOMEPATH"="\\users\\steamuser"
 "HOMESHARE"=""
 "LOCALAPPDATA"="C:\\users\\steamuser\\AppData\\Local"
-"LOGONSERVER"="\\\\NOBARA"
+"LOGONSERVER"="\\\\BAZZITE"
 "SESSIONNAME"="Console"
-"USERDOMAIN"="NOBARA"
+"USERDOMAIN"="BAZZITE"
 "USERNAME"="steamuser"
 "USERPROFILE"="C:\\users\\steamuser"

@@ -1,0 +1,8 @@
+# By Aniket Chakraborty
+# Licensed under GPL V2
+#
+
+[Timer]
+OnCalendar=*:0/10
+Unit=ludusavi.backup.service 
+

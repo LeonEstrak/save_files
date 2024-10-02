@@ -1,46 +1,11 @@
 WINE REGISTRY Version 2
-;; All keys relative to REGISTRY\\User\\S-1-5-21-2115965369-2239186812-1000-1000
+;; All keys relative to REGISTRY\\User\\S-1-5-21-737983298-3774893617-1000-1000
 
 #arch=win64
 
 [AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1727104853
 #time=1db0dcc2e41e080
 @=""
-
-[Console] 1727535448
-#time=1db11b6bce7a2b4
-"ColorTable00"=dword:00000000
-"ColorTable01"=dword:00800000
-"ColorTable02"=dword:00008000
-"ColorTable03"=dword:00808000
-"ColorTable04"=dword:00000080
-"ColorTable05"=dword:00800080
-"ColorTable06"=dword:00008080
-"ColorTable07"=dword:00c0c0c0
-"ColorTable08"=dword:00808080
-"ColorTable09"=dword:00ff0000
-"ColorTable10"=dword:0000ff00
-"ColorTable11"=dword:00ffff00
-"ColorTable12"=dword:000000ff
-"ColorTable13"=dword:00ff00ff
-"ColorTable14"=dword:0000ffff
-"ColorTable15"=dword:00ffffff
-"CursorSize"=dword:00000019
-"CursorVisible"=dword:00000001
-"EditionMode"=dword:00000000
-"FaceName"="Courier New"
-"FontFamily"=dword:00000036
-"FontSize"=dword:00100008
-"FontWeight"=dword:00000190
-"HistoryBufferSize"=dword:00000032
-"HistoryNoDup"=dword:00000000
-"InsertMode"=dword:00000001
-"MenuMask"=dword:00000000
-"PopupColors"=dword:000000f5
-"QuickEdit"=dword:00000000
-"ScreenBufferSize"=dword:00960050
-"ScreenColors"=dword:0000000f
-"WindowSize"=dword:00190050
 
 [Control Panel\\Accessibility\\AudioDescription] 1727104847
 #time=1db0dcc2ab7b200
@@ -160,58 +125,58 @@ WINE REGISTRY Version 2
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
 
-[Control Panel\\International] 1727535471
-#time=1db11b6ca763ba2
+[Control Panel\\International] 1727711270
+#time=1db13501ac09108
 "iCalendarType"="1"
-"iCountry"="1"
+"iCountry"="91"
 "iCurrDigits"="2"
 "iCurrency"="0"
-"iDate"="0"
+"iDate"="1"
 "iDigits"="2"
 "iFirstDayOfWeek"="6"
 "iFirstWeekOfYear"="0"
 "iLZero"="1"
-"iMeasure"="1"
+"iMeasure"="0"
 "iNegCurr"="0"
 "iNegNumber"="1"
-"iPaperSize"="1"
+"iPaperSize"="9"
 "iTime"="0"
 "iTimePrefix"="0"
 "iTLZero"="0"
-"Locale"="00000409"
-"LocaleName"="en-US"
+"Locale"="00004009"
+"LocaleName"="en-IN"
 "NumShape"="1"
-"s1159"="AM"
-"s2359"="PM"
-"sCountry"="United States"
-"sCurrency"="$"
+"s1159"="am"
+"s2359"="pm"
+"sCountry"="India"
+"sCurrency"="\x20b9"
 "sDate"="/"
 "sDecimal"="."
-"sGrouping"="3;0"
-"sLanguage"="ENU"
+"sGrouping"="3;2;0"
+"sLanguage"="ENN"
 "sList"=","
-"sLongDate"="dddd, MMMM d, yyyy"
+"sLongDate"="dddd d MMMM, yyyy"
 "sMonDecimalSep"="."
 "sMonGrouping"="3;0"
 "sMonThousandSep"=","
 "sNativeDigits"="0123456789"
 "sNegativeSign"="-"
 "sPositiveSign"=""
-"sShortDate"="M/d/yyyy"
+"sShortDate"="d/M/yyyy"
 "sShortTime"="h:mm tt"
 "sThousand"=","
 "sTime"=":"
 "sTimeFormat"="h:mm:ss tt"
 "sYearMonth"="MMMM yyyy"
 
-[Control Panel\\International\\Geo] 1727535471
-#time=1db11b6ca763c24
-"Name"="US"
-"Nation"="244"
+[Control Panel\\International\\Geo] 1727711270
+#time=1db13501ac0918a
+"Name"="IN"
+"Nation"="113"
 
-[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1727535471
-#time=1db11b6ca7637ec
-"Currencies"="USD"
+[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1727711270
+#time=1db13501ac08d52
+"Currencies"="INR"
 
 [Control Panel\\Keyboard] 1727104847
 #time=1db0dcc2ab78dca
@@ -243,23 +208,9 @@ WINE REGISTRY Version 2
 "TEMP"="C:\\users\\steamuser\\Temp"
 "TMP"="C:\\users\\steamuser\\Temp"
 
-[Keyboard Layout\\Preload] 1727535471
-#time=1db11b6ca7a3d88
-"1"="00000409"
-
-[Software\\11BitStudios\\Moonlighter] 1727535474
-#time=1db11b6cbe791c0
-"Screenmanager Fullscreen mode_h3630240806"=dword:00000003
-"Screenmanager Resolution Height_h2627697771"=dword:00000438
-"Screenmanager Resolution Use Native_h1405027254"=dword:00000001
-"Screenmanager Resolution Width_h182942802"=dword:00000780
-"unity.cloud_userid_h2665564582"=hex:38,37,65,30,37,31,34,36,33,35,37,64,37,63,\
-  63,34,64,61,36,36,38,37,34,33,33,35,30,61,37,66,66,33,00
-"unity.player_session_count_h922449978"=hex:31,00
-"unity.player_sessionid_h1351336811"=hex:37,31,36,36,30,39,37,37,34,31,36,32,\
-  34,39,30,39,36,39,32,00
-"UnityGraphicsQuality_h1669003810"=dword:00000000
-"UnitySelectMonitor_h17969598"=dword:00000000
+[Keyboard Layout\\Preload] 1727711270
+#time=1db13501addbfda
+"1"="00004009"
 
 [Software\\Microsoft\\Internet Explorer\\Main] 1727104853
 #time=1db0dcc2e3780cc
@@ -285,15 +236,6 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1727104857
 #time=1db0dcc3080616e
 
-[Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates] 1727535449
-#time=1db11b6bd43a15e
-
-[Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs] 1727535449
-#time=1db11b6bd43a1f4
-
-[Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs] 1727535449
-#time=1db11b6bd43a28a
-
 [Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1727104857
 #time=1db0dcc30806eb6
 
@@ -302,15 +244,6 @@ WINE REGISTRY Version 2
 
 [Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1727104857
 #time=1db0dcc308072f8
-
-[Software\\Microsoft\\SystemCertificates\\Root\\Certificates] 1727535449
-#time=1db11b6bd406372
-
-[Software\\Microsoft\\SystemCertificates\\Root\\CRLs] 1727535449
-#time=1db11b6bd40646c
-
-[Software\\Microsoft\\SystemCertificates\\Root\\CTLs] 1727535449
-#time=1db11b6bd406566
 
 [Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1727104857
 #time=1db0dcc3080805e
@@ -692,10 +625,6 @@ WINE REGISTRY Version 2
 "WindowFrame"="0 0 0"
 "WindowText"="0 0 0"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Wintrust\\Trust Providers\\Software Publishing] 1727535449
-#time=1db11b6bd3fd2d6
-"State"=dword:00023c00
-
 [Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\ftp\\UserChoice] 1727104853
 #time=1db0dcc2e42403e
 "ProgId"="ftp"
@@ -711,24 +640,17 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1727104853
 #time=1db0dcc2e3b9df6
 
-[Software\\Valve\\Steam] 1727535471
-#time=1db11b6ca6faf80
-"language"="english"
+[Software\\Valve\\Steam] 1727104857
+#time=1db0dcc305358e0
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Valve\\Steam\\ActiveProcess] 1727535471
-#time=1db11b6ca6e55d6
-"PID"=dword:00000020
+[Software\\Valve\\Steam\\ActiveProcess] 1727104853
+#time=1db0dcc2e57a4a6
+"PID"=dword:0000fffe
 "SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
 "SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
-
-[Software\\Valve\\Steam\\Apps\\606150] 1727535471
-#time=1db11b6ca6fb188
-"Installed"=dword:00000001
-"Running"=dword:00000001
-"Updating"=dword:00000000
 
 [Software\\Wine\\AppDefaults\\Avengers.exe\\DllOverrides] 1727104853
 #time=1db0dcc2e575ec4
@@ -875,56 +797,59 @@ WINE REGISTRY Version 2
 "vcomp140"="native,builtin"
 "vcruntime140"="native,builtin"
 
-[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_03_00.1.hdmi-stereo-extra2] 1727535472
-#time=1db11b6cad93d56
-"guid"=hex:69,b2,a8,c9,b5,56,be,4b,a1,c2,a7,70,44,8d,95,4e
-
-[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-Razer_Razer_USB_Sound_Card_00000000-00.analog-stereo] 1727535472
-#time=1db11b6cad9492c
-"guid"=hex:c3,36,6b,5e,af,ef,23,45,a6,5a,1d,ea,75,6f,8e,c4
-
-[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,bluez_output.E8_EE_CC_C4_CA_AF.1] 1727535472
-#time=1db11b6cad9552a
-"guid"=hex:a1,68,84,3b,10,5d,94,43,9d,48,55,d1,39,b4,38,f4
-
-[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-Razer_Razer_USB_Sound_Card_00000000-00.analog-stereo] 1727535472
-#time=1db11b6cad981f8
-"guid"=hex:0c,ca,eb,6c,c2,59,a1,40,9d,9a,87,9d,3c,5d,ed,7c
-
-[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_03_00.1.hdmi-stereo-extra2.monitor] 1727535472
-#time=1db11b6cad969e8
-"guid"=hex:b0,8b,5d,32,10,aa,0e,47,8b,5e,d6,c1,bd,4f,f6,3d
-
-[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-Razer_Razer_USB_Sound_Card_00000000-00.analog-stereo.monitor] 1727535472
-#time=1db11b6cad97596
-"guid"=hex:c9,fb,84,1c,a0,87,8a,43,8c,f9,22,a0,fe,cb,35,b1
-
-[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,bluez_input.E8:EE:CC:C4:CA:AF] 1727535472
-#time=1db11b6cad98e5a
-"guid"=hex:0e,03,56,41,e3,07,13,4b,bb,18,9d,a6,84,f6,10,a7
-
-[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,bluez_output.E8_EE_CC_C4_CA_AF.1.monitor] 1727535472
-#time=1db11b6cad99c2e
-"guid"=hex:eb,61,e5,5b,4c,2a,6a,47,bf,98,09,31,44,2e,72,11
-
-[Software\\Wine\\Fonts] 1727535471
-#time=1db11b6ca24a422
+[Software\\Wine\\Fonts] 1727711270
+#time=1db13501adca352
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1727535445
-#time=1db11b6bb011700
+[Software\\Wine\\Fonts\\External Fonts] 1727711270
+#time=1db13501addb0d0
 "@Droid Sans Fallback (TrueType)"="Z:\\run\\host\\fonts\\google-droid-sans-fonts\\DroidSansFallbackFull.ttf"
-"@Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
-"@Noto Sans CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
-"@Noto Sans CJK KR (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
-"@Noto Sans CJK SC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
-"@Noto Sans CJK TC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
-"@Noto Sans Mono CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-mono-cjk-vf-fonts\\NotoSansMonoCJK-VF.ttc"
-"@Noto Sans Mono CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-mono-cjk-vf-fonts\\NotoSansMonoCJK-VF.ttc"
-"@Noto Sans Mono CJK KR (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-mono-cjk-vf-fonts\\NotoSansMonoCJK-VF.ttc"
-"@Noto Sans Mono CJK SC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-mono-cjk-vf-fonts\\NotoSansMonoCJK-VF.ttc"
-"@Noto Sans Mono CJK TC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-mono-cjk-vf-fonts\\NotoSansMonoCJK-VF.ttc"
+"@Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"@Noto Sans CJK HK Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Black.ttc"
+"@Noto Sans CJK HK Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"@Noto Sans CJK HK DemiLight (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-DemiLight.ttc"
+"@Noto Sans CJK HK Light (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Light.ttc"
+"@Noto Sans CJK HK Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Medium.ttc"
+"@Noto Sans CJK HK Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Thin.ttc"
+"@Noto Sans CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"@Noto Sans CJK JP Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Black.ttc"
+"@Noto Sans CJK JP Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"@Noto Sans CJK JP DemiLight (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-DemiLight.ttc"
+"@Noto Sans CJK JP Light (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Light.ttc"
+"@Noto Sans CJK JP Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Medium.ttc"
+"@Noto Sans CJK JP Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Thin.ttc"
+"@Noto Sans CJK KR (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"@Noto Sans CJK KR Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Black.ttc"
+"@Noto Sans CJK KR Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"@Noto Sans CJK KR DemiLight (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-DemiLight.ttc"
+"@Noto Sans CJK KR Light (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Light.ttc"
+"@Noto Sans CJK KR Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Medium.ttc"
+"@Noto Sans CJK KR Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Thin.ttc"
+"@Noto Sans CJK SC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"@Noto Sans CJK SC Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Black.ttc"
+"@Noto Sans CJK SC Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"@Noto Sans CJK SC DemiLight (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-DemiLight.ttc"
+"@Noto Sans CJK SC Light (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Light.ttc"
+"@Noto Sans CJK SC Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Medium.ttc"
+"@Noto Sans CJK SC Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Thin.ttc"
+"@Noto Sans CJK TC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"@Noto Sans CJK TC Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Black.ttc"
+"@Noto Sans CJK TC Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"@Noto Sans CJK TC DemiLight (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-DemiLight.ttc"
+"@Noto Sans CJK TC Light (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Light.ttc"
+"@Noto Sans CJK TC Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Medium.ttc"
+"@Noto Sans CJK TC Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Thin.ttc"
+"@Noto Sans Mono CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"@Noto Sans Mono CJK HK Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"@Noto Sans Mono CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"@Noto Sans Mono CJK JP Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"@Noto Sans Mono CJK KR (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"@Noto Sans Mono CJK KR Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"@Noto Sans Mono CJK SC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"@Noto Sans Mono CJK SC Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"@Noto Sans Mono CJK TC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"@Noto Sans Mono CJK TC Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
 "@Noto Serif CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-serif-cjk-vf-fonts\\NotoSerifCJK-VF.ttc"
 "@Noto Serif CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-serif-cjk-vf-fonts\\NotoSerifCJK-VF.ttc"
 "@Noto Serif CJK KR (TrueType)"="Z:\\run\\host\\fonts\\google-noto-serif-cjk-vf-fonts\\NotoSerifCJK-VF.ttc"
@@ -934,24 +859,11 @@ WINE REGISTRY Version 2
 "C059-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\C059-Bold.otf"
 "C059-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\C059-Italic.otf"
 "C059-Roman (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\C059-Roman.otf"
-"Caladea (TrueType)"="Z:\\run\\host\\fonts\\google-crosextra-caladea-fonts\\Caladea-Regular.ttf"
-"Caladea Bold (TrueType)"="Z:\\run\\host\\fonts\\google-crosextra-caladea-fonts\\Caladea-Bold.ttf"
-"Caladea Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\google-crosextra-caladea-fonts\\Caladea-BoldItalic.ttf"
-"Caladea Italic (TrueType)"="Z:\\run\\host\\fonts\\google-crosextra-caladea-fonts\\Caladea-Italic.ttf"
 "Cantarell Bold (TrueType)"="Z:\\run\\host\\fonts\\abattis-cantarell-fonts\\Cantarell-Bold.otf"
 "Cantarell Extra Bold (TrueType)"="Z:\\run\\host\\fonts\\abattis-cantarell-fonts\\Cantarell-ExtraBold.otf"
 "Cantarell Light (TrueType)"="Z:\\run\\host\\fonts\\abattis-cantarell-fonts\\Cantarell-Light.otf"
 "Cantarell Regular (TrueType)"="Z:\\run\\host\\fonts\\abattis-cantarell-fonts\\Cantarell-Regular.otf"
 "Cantarell Thin (TrueType)"="Z:\\run\\host\\fonts\\abattis-cantarell-fonts\\Cantarell-Thin.otf"
-"Carlito (TrueType)"="Z:\\run\\host\\fonts\\google-carlito-fonts\\Carlito-Regular.ttf"
-"Carlito Bold (TrueType)"="Z:\\run\\host\\fonts\\google-carlito-fonts\\Carlito-Bold.ttf"
-"Carlito Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\google-carlito-fonts\\Carlito-BoldItalic.ttf"
-"Carlito Italic (TrueType)"="Z:\\run\\host\\fonts\\google-carlito-fonts\\Carlito-Italic.ttf"
-"Comfortaa Bold (TrueType)"="Z:\\run\\host\\fonts\\aajohan-comfortaa-fonts\\Comfortaa-Bold.otf"
-"Comfortaa Light (TrueType)"="Z:\\run\\host\\fonts\\aajohan-comfortaa-fonts\\Comfortaa-Light.otf"
-"Comfortaa Medium (TrueType)"="Z:\\run\\host\\fonts\\aajohan-comfortaa-fonts\\Comfortaa-Medium.otf"
-"Comfortaa Regular (TrueType)"="Z:\\run\\host\\fonts\\aajohan-comfortaa-fonts\\Comfortaa-Regular.otf"
-"Comfortaa SemiBold (TrueType)"="Z:\\run\\host\\fonts\\aajohan-comfortaa-fonts\\Comfortaa-SemiBold.otf"
 "D050000L (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\D050000L.otf"
 "DejaVu Sans (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans.ttf"
 "DejaVu Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans-Bold.ttf"
@@ -982,7 +894,31 @@ WINE REGISTRY Version 2
 "Droid Sans Tamil (TrueType)"="Z:\\run\\host\\fonts\\google-droid-sans-fonts\\DroidSansTamil-Regular.ttf"
 "Droid Sans Tamil Bold (TrueType)"="Z:\\run\\host\\fonts\\google-droid-sans-fonts\\DroidSansTamil-Bold.ttf"
 "Droid Sans Thai (TrueType)"="Z:\\run\\host\\fonts\\google-droid-sans-fonts\\DroidSansThai.ttf"
+"Fira Code Bold (TrueType)"="Z:\\run\\host\\fonts\\fira-code\\FiraCode-Bold.ttf"
+"Fira Code Light (TrueType)"="Z:\\run\\host\\fonts\\fira-code\\FiraCode-Light.ttf"
+"Fira Code Medium (TrueType)"="Z:\\run\\host\\fonts\\fira-code\\FiraCode-Medium.ttf"
+"Fira Code Regular (TrueType)"="Z:\\run\\host\\fonts\\fira-code\\FiraCode-Regular.ttf"
+"Fira Code Retina (TrueType)"="Z:\\run\\host\\fonts\\fira-code\\FiraCode-Retina.ttf"
+"Fira Code SemiBold (TrueType)"="Z:\\run\\host\\fonts\\fira-code\\FiraCode-SemiBold.ttf"
 "Jomolhari (TrueType)"="Z:\\run\\host\\fonts\\jomolhari-fonts\\Jomolhari-alpha3c-0605331.ttf"
+"Lato Black (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-Black.ttf"
+"Lato Black Italic (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-BlackItalic.ttf"
+"Lato Bold (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-Bold.ttf"
+"Lato Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-BoldItalic.ttf"
+"Lato Hairline (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-Hairline.ttf"
+"Lato Hairline Italic (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-HairlineItalic.ttf"
+"Lato Heavy (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-Heavy.ttf"
+"Lato Heavy Italic (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-HeavyItalic.ttf"
+"Lato Italic (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-Italic.ttf"
+"Lato Light (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-Light.ttf"
+"Lato Light Italic (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-LightItalic.ttf"
+"Lato Medium (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-Medium.ttf"
+"Lato Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-MediumItalic.ttf"
+"Lato Regular (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-Regular.ttf"
+"Lato Semibold (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-Semibold.ttf"
+"Lato Semibold Italic (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-SemiboldItalic.ttf"
+"Lato Thin (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-Thin.ttf"
+"Lato Thin Italic (TrueType)"="Z:\\run\\host\\fonts\\lato-fonts\\Lato-ThinItalic.ttf"
 "Liberation Mono (TrueType)"="Z:\\run\\host\\fonts\\liberation-mono\\LiberationMono-Regular.ttf"
 "Liberation Mono Bold (TrueType)"="Z:\\run\\host\\fonts\\liberation-mono\\LiberationMono-Bold.ttf"
 "Liberation Mono Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\liberation-mono\\LiberationMono-BoldItalic.ttf"
@@ -991,17 +927,12 @@ WINE REGISTRY Version 2
 "Liberation Sans Bold (TrueType)"="Z:\\run\\host\\fonts\\liberation-sans\\LiberationSans-Bold.ttf"
 "Liberation Sans Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\liberation-sans\\LiberationSans-BoldItalic.ttf"
 "Liberation Sans Italic (TrueType)"="Z:\\run\\host\\fonts\\liberation-sans\\LiberationSans-Italic.ttf"
-"Liberation Sans Narrow (TrueType)"="Z:\\run\\host\\fonts\\liberation-narrow\\LiberationSansNarrow.ttf"
-"Liberation Sans Narrow Bold (TrueType)"="Z:\\run\\host\\fonts\\liberation-narrow\\LiberationSansNarrow-Bold.ttf"
-"Liberation Sans Narrow Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\liberation-narrow\\LiberationSansNarrow-BoldItalic.ttf"
-"Liberation Sans Narrow Italic (TrueType)"="Z:\\run\\host\\fonts\\liberation-narrow\\LiberationSansNarrow-Italic.ttf"
 "Liberation Serif (TrueType)"="Z:\\run\\host\\fonts\\liberation-serif\\LiberationSerif-Regular.ttf"
 "Liberation Serif Bold (TrueType)"="Z:\\run\\host\\fonts\\liberation-serif\\LiberationSerif-Bold.ttf"
 "Liberation Serif Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\liberation-serif\\LiberationSerif-BoldItalic.ttf"
 "Liberation Serif Italic (TrueType)"="Z:\\run\\host\\fonts\\liberation-serif\\LiberationSerif-Italic.ttf"
 "Madan2 (TrueType)"="Z:\\run\\host\\fonts\\madan-fonts\\madan.ttf"
 "Mingzat (TrueType)"="Z:\\run\\host\\fonts\\sil-mingzat-fonts\\Mingzat-Regular.ttf"
-"MScore for scores (TrueType)"="Z:\\run\\host\\fonts\\mscore-fonts\\mscore.ttf"
 "NimbusMonoPS-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusMonoPS-Bold.otf"
 "NimbusMonoPS-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusMonoPS-BoldItalic.otf"
 "NimbusMonoPS-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\NimbusMonoPS-Italic.otf"
@@ -1021,6 +952,10 @@ WINE REGISTRY Version 2
 "Noto Naskh Arabic Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoNaskhArabic[wght].ttf"
 "Noto Sans Arabic Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansArabic[wght].ttf"
 "Noto Sans Armenian Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansArmenian[wght].ttf"
+"Noto Sans Balinese Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansBalinese-Bold.ttf"
+"Noto Sans Balinese Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansBalinese-Medium.ttf"
+"Noto Sans Balinese Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansBalinese-Regular.ttf"
+"Noto Sans Balinese SemiBold (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansBalinese-SemiBold.ttf"
 "Noto Sans Bengali Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansBengali[wght].ttf"
 "Noto Sans Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSans-Black.ttf"
 "Noto Sans Black Italic (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSans-BlackItalic.ttf"
@@ -1028,11 +963,41 @@ WINE REGISTRY Version 2
 "Noto Sans Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSans-BoldItalic.ttf"
 "Noto Sans Canadian Aboriginal Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansCanadianAboriginal[wght].ttf"
 "Noto Sans Cherokee Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansCherokee[wght].ttf"
-"Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
-"Noto Sans CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
-"Noto Sans CJK KR (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
-"Noto Sans CJK SC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
-"Noto Sans CJK TC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-vf-fonts\\NotoSansCJK-VF.ttc"
+"Noto Sans CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"Noto Sans CJK HK Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Black.ttc"
+"Noto Sans CJK HK Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"Noto Sans CJK HK DemiLight (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-DemiLight.ttc"
+"Noto Sans CJK HK Light (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Light.ttc"
+"Noto Sans CJK HK Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Medium.ttc"
+"Noto Sans CJK HK Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Thin.ttc"
+"Noto Sans CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"Noto Sans CJK JP Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Black.ttc"
+"Noto Sans CJK JP Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"Noto Sans CJK JP DemiLight (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-DemiLight.ttc"
+"Noto Sans CJK JP Light (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Light.ttc"
+"Noto Sans CJK JP Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Medium.ttc"
+"Noto Sans CJK JP Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Thin.ttc"
+"Noto Sans CJK KR (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"Noto Sans CJK KR Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Black.ttc"
+"Noto Sans CJK KR Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"Noto Sans CJK KR DemiLight (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-DemiLight.ttc"
+"Noto Sans CJK KR Light (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Light.ttc"
+"Noto Sans CJK KR Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Medium.ttc"
+"Noto Sans CJK KR Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Thin.ttc"
+"Noto Sans CJK SC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"Noto Sans CJK SC Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Black.ttc"
+"Noto Sans CJK SC Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"Noto Sans CJK SC DemiLight (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-DemiLight.ttc"
+"Noto Sans CJK SC Light (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Light.ttc"
+"Noto Sans CJK SC Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Medium.ttc"
+"Noto Sans CJK SC Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Thin.ttc"
+"Noto Sans CJK TC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"Noto Sans CJK TC Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Black.ttc"
+"Noto Sans CJK TC Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"Noto Sans CJK TC DemiLight (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-DemiLight.ttc"
+"Noto Sans CJK TC Light (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Light.ttc"
+"Noto Sans CJK TC Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Medium.ttc"
+"Noto Sans CJK TC Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Thin.ttc"
 "Noto Sans Condensed (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSans-Condensed.ttf"
 "Noto Sans Condensed Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSans-CondensedBlack.ttf"
 "Noto Sans Condensed Black Italic (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSans-CondensedBlackItalic.ttf"
@@ -1080,6 +1045,8 @@ WINE REGISTRY Version 2
 "Noto Sans Gurmukhi Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansGurmukhi[wght].ttf"
 "Noto Sans Hebrew Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansHebrew[wght].ttf"
 "Noto Sans Italic (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSans-Italic.ttf"
+"Noto Sans Javanese Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansJavanese-Bold.ttf"
+"Noto Sans Javanese Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansJavanese-Regular.ttf"
 "Noto Sans Kannada Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansKannada[wght].ttf"
 "Noto Sans Khmer Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansKhmer[wght].ttf"
 "Noto Sans Lao Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansLao[wght].ttf"
@@ -1091,11 +1058,16 @@ WINE REGISTRY Version 2
 "Noto Sans Meetei Mayek Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansMeeteiMayek[wght].ttf"
 "Noto Sans Mono Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansMono-Black.ttf"
 "Noto Sans Mono Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansMono-Bold.ttf"
-"Noto Sans Mono CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-mono-cjk-vf-fonts\\NotoSansMonoCJK-VF.ttc"
-"Noto Sans Mono CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-mono-cjk-vf-fonts\\NotoSansMonoCJK-VF.ttc"
-"Noto Sans Mono CJK KR (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-mono-cjk-vf-fonts\\NotoSansMonoCJK-VF.ttc"
-"Noto Sans Mono CJK SC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-mono-cjk-vf-fonts\\NotoSansMonoCJK-VF.ttc"
-"Noto Sans Mono CJK TC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-mono-cjk-vf-fonts\\NotoSansMonoCJK-VF.ttc"
+"Noto Sans Mono CJK HK (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"Noto Sans Mono CJK HK Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"Noto Sans Mono CJK JP (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"Noto Sans Mono CJK JP Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"Noto Sans Mono CJK KR (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"Noto Sans Mono CJK KR Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"Noto Sans Mono CJK SC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"Noto Sans Mono CJK SC Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
+"Noto Sans Mono CJK TC (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Regular.ttc"
+"Noto Sans Mono CJK TC Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto-sans-cjk-fonts\\NotoSansCJK-Bold.ttc"
 "Noto Sans Mono Condensed (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansMono-Condensed.ttf"
 "Noto Sans Mono Condensed Black (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansMono-CondensedBlack.ttf"
 "Noto Sans Mono Condensed Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansMono-CondensedBold.ttf"
@@ -1154,6 +1126,10 @@ WINE REGISTRY Version 2
 "Noto Sans SemiCondensed Thin (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSans-SemiCondensedThin.ttf"
 "Noto Sans SemiCondensed Thin Italic (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSans-SemiCondensedThinItalic.ttf"
 "Noto Sans Sinhala Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansSinhala[wght].ttf"
+"Noto Sans Sundanese Bold (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansSundanese-Bold.ttf"
+"Noto Sans Sundanese Medium (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansSundanese-Medium.ttf"
+"Noto Sans Sundanese Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansSundanese-Regular.ttf"
+"Noto Sans Sundanese SemiBold (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansSundanese-SemiBold.ttf"
 "Noto Sans Symbols 2 Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto\\NotoSansSymbols2-Regular.ttf"
 "Noto Sans Symbols Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansSymbols[wght].ttf"
 "Noto Sans Tamil Regular (TrueType)"="Z:\\run\\host\\fonts\\google-noto-vf\\NotoSansTamil[wght].ttf"
@@ -1267,7 +1243,6 @@ WINE REGISTRY Version 2
 "Open Sans Light Italic (TrueType)"="Z:\\run\\host\\fonts\\open-sans\\OpenSans-LightItalic.ttf"
 "Open Sans Semibold (TrueType)"="Z:\\run\\host\\fonts\\open-sans\\OpenSans-Semibold.ttf"
 "Open Sans Semibold Italic (TrueType)"="Z:\\run\\host\\fonts\\open-sans\\OpenSans-SemiboldItalic.ttf"
-"OpenSymbol (TrueType)"="Z:\\run\\host\\fonts\\opensymbol\\opens___.ttf"
 "P052-Bold (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\P052-Bold.otf"
 "P052-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\P052-BoldItalic.otf"
 "P052-Italic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\P052-Italic.otf"
@@ -1304,6 +1279,9 @@ WINE REGISTRY Version 2
 "STIX Two Text Regular (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoText-Regular.otf"
 "STIX Two Text SemiBold (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoText-SemiBold.otf"
 "STIX Two Text SemiBold Italic (TrueType)"="Z:\\run\\host\\fonts\\stix-fonts\\STIXTwoText-SemiBoldItalic.otf"
+"Symbola (TrueType)"="Z:\\run\\host\\fonts\\gdouros-symbola\\Symbola.ttf"
+"Symbols Nerd Font (TrueType)"="Z:\\run\\host\\fonts\\nerd-fonts\\SymbolsNerdFont-Regular.ttf"
+"Symbols Nerd Font Mono (TrueType)"="Z:\\run\\host\\fonts\\nerd-fonts\\SymbolsNerdFontMono-Regular.ttf"
 "URWBookman-Demi (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWBookman-Demi.otf"
 "URWBookman-DemiItalic (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWBookman-DemiItalic.otf"
 "URWBookman-Light (TrueType)"="Z:\\run\\host\\fonts\\urw-base35\\URWBookman-Light.otf"
@@ -1325,16 +1303,16 @@ WINE REGISTRY Version 2
 #time=1db0dcc2e3f267e
 "ShowCrashDialog"=dword:00000000
 
-[Volatile Environment] 1727535445
-#time=1db11b6bb271fea
+[Volatile Environment] 1727711270
+#time=1db13501aff0348
 "APPDATA"="C:\\users\\steamuser\\AppData\\Roaming"
 "CLIENTNAME"="Console"
 "HOMEDRIVE"="C:"
 "HOMEPATH"="\\users\\steamuser"
 "HOMESHARE"=""
 "LOCALAPPDATA"="C:\\users\\steamuser\\AppData\\Local"
-"LOGONSERVER"="\\\\NOBARA"
+"LOGONSERVER"="\\\\BAZZITE"
 "SESSIONNAME"="Console"
-"USERDOMAIN"="NOBARA"
+"USERDOMAIN"="BAZZITE"
 "USERNAME"="steamuser"
 "USERPROFILE"="C:\\users\\steamuser"
