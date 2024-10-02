@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-02T13:20:02.574471386Z"
+    when: "2024-10-02T13:30:02.567193031Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE0:
@@ -20,11 +20,11 @@ backups:
         hash: 7e7fe22791d5eb626e9f7f8d3ac21d53da50e68f
         size: 1034073
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE2:
-        hash: 2f47adeca0b4e50d578737f54ea9b01b0f9c1dd5
-        size: 1285986
+        hash: bccb046878f3c64e7d93b34a49b98b04d456ab96
+        size: 1301660
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE3:
-        hash: f925a1e42e9b1b1ec059ae01baa645578ca76009
-        size: 1294777
+        hash: b535034b0b5efff38d7a5d463b5ceb5fad608b61
+        size: 1306083
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE4:
         hash: ecb92fb474e3e180516a46f6ecb03fd9d2cb593c
         size: 1295287
