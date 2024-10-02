@@ -7,6 +7,7 @@ Description=Run the periodic game backup using Ludusavi
 Wants=ludusavi.backup.timer
 
 [Service]
+User=aniket
 ExecStart=/bin/bash /home/aniket/save_files/cron.sh
 
 [Install]

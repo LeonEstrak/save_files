@@ -1,8 +1,13 @@
 # By Aniket Chakraborty
 # Licensed under GPL V2
 #
+[Unit]
+Description=Runs the ludusavi backup automation every 10 mins
+Requires=ludusavi.backup.service
 
 [Timer]
 OnCalendar=*:0/10
 Unit=ludusavi.backup.service 
 
+[Install]
+WantedBy=timers.target
