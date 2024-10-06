@@ -1,0 +1,30 @@
+---
+name: Monster Hunter Rise
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-10-06T14:47:00.485807079Z"
+    os: linux
+    files:
+      /home/aniket/.local/share/Steam/steamapps/common/MonsterHunterRise/config.ini:
+        hash: b1faa66c868deed035f6f15d6a317484ccf41952
+        size: 708
+      /home/aniket/.local/share/Steam/userdata/102118085/1446780/remote/win64_save/SS1_data001Slot.bin:
+        hash: c8777b44f2c146f46b04ba39a7f7351c3a6b5ab1
+        size: 2912
+      /home/aniket/.local/share/Steam/userdata/102118085/1446780/remote/win64_save/SS1_data002Slot.bin:
+        hash: 2149555a9f5ccf89608e6223251969468a3dc82e
+        size: 257364
+      /home/aniket/.local/share/Steam/userdata/102118085/1446780/remote/win64_save/SS1_data302Slot.bin:
+        hash: 7dea0032532df51c0443df56d3d452ef9298d1e7
+        size: 22860
+      /home/aniket/.local/share/Steam/userdata/102118085/1446780/remote/win64_save/data00-1.bin:
+        hash: 19c0c217355428c36548af9c2f839e29bf20b066
+        size: 529564
+      /home/aniket/.local/share/Steam/userdata/102118085/1446780/remote/win64_save/data001Slot.bin:
+        hash: 682e31927cce893c204393efe158c6f4d14608bb
+        size: 6834844
+    registry:
+      hash: ~
+    children: []

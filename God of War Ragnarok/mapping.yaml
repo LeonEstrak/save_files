@@ -4,47 +4,47 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-02T14:20:02.767392164Z"
+    when: "2024-10-06T14:47:00.501133904Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE0:
-        hash: f42e6b8a74fdc12426d3586c8b298ff092ddc59e
-        size: 1395078
+        hash: bd4cb3f7cb6a369779374d52cc52d58040aadc51
+        size: 1724999
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE1:
-        hash: 519a567ab6c58ee9f20719a599bf5033925ed71f
-        size: 1398280
+        hash: cb6e0cde3114a4cc5a438278e6b407b78d8582ad
+        size: 1726193
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE10:
-        hash: 1ebdc6b8cc9bddbb90fca616c410eebce0111015
-        size: 1161703
+        hash: 852c6b2b8fc63534649b0dddb13b2103cffa8332
+        size: 1727704
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE11:
         hash: 7e7fe22791d5eb626e9f7f8d3ac21d53da50e68f
         size: 1034073
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE2:
-        hash: 81b40d1d6d24612616f5eef0e20a03bdb161ef69
-        size: 1397867
+        hash: eebef7c7ed42511be0e79dc848ccbe71a1119489
+        size: 1726029
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE3:
-        hash: efbea834afd1945412d4ea6ac322f929dfc6f890
-        size: 1390997
+        hash: cc9d7ab840049e2391a16dfb253a98f6a6b1d4b7
+        size: 1725849
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE4:
-        hash: 33a05b78c2798304fdb3e20491d61aa4def6343b
-        size: 1390967
+        hash: df5b83e59c857410ad9e73af7099cae72e28087c
+        size: 1727073
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE5:
-        hash: 436c386c29c64be6a5e44349af05a23dc4ab9ff6
-        size: 1391048
+        hash: a9ec1a39da9a17dafe3747fd2da2b0f1410d4ff4
+        size: 1728178
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE6:
-        hash: 670dcd684dd1efce2f676ad229ae8b9f78e818c7
-        size: 1394617
+        hash: cd17d91df8255e56094006f1f9be0fe01746bfd7
+        size: 1727704
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE7:
-        hash: 1de82dd9c0a0e14735b6b7e947fd59674283acdb
-        size: 1394993
+        hash: 147776186cb6f3f9e49fffb5edad1d34b4cfc31c
+        size: 1722197
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE8:
-        hash: b702c74b416b31784fa7c8bcb641c4a013fa3d2d
-        size: 1395367
+        hash: 54e632966c70cfa323907bffb0e01946c1f6ce75
+        size: 1722810
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE9:
-        hash: 75bb43ed829fbdded72d2c5b7221796a32cf2ddb
-        size: 1395083
+        hash: a9784eca04d92a58b0913e88f29a73862d198401
+        size: 1724123
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/userpreferences:
-        hash: 26ae477642b8535f3ddabd6b37758ab220b50875
+        hash: 1178f5366c2f04b25ab655f07b4ca308c6ed5fdb
         size: 696
     registry:
       hash: ~

@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-02T06:41:57.511382473Z"
+    when: "2024-10-06T14:47:00.525122133Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/606150/pfx/system.reg:
@@ -20,8 +20,8 @@ backups:
         hash: 13ac5fc6115988483d1bf1b8ba9585e87d45d583
         size: 1868
       /home/aniket/.local/share/Steam/userdata/102118085/606150/remote/gameslot:
-        hash: 4b206ff6b003f26153e5430b3881bdbc6264c99b
-        size: 95148
+        hash: e2a0e60b1f4689ab9d37de76e147af94fb69465d
+        size: 98574
       /home/aniket/.local/share/Steam/userdata/102118085/606150/remote/guiBindings:
         hash: e57b2b10e7f885837260e0e6321318d7dc3be1a4
         size: 2188
