@@ -4,12 +4,12 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-07T14:10:49.754380992Z"
+    when: "2024-10-08T11:27:57.860542226Z"
     os: linux
     files:
       /mnt/data/Games/Pirate/Monster Hunter World - Iceborne/graphics_option.ini:
-        hash: 2bb994fe34b6f99d938256be2814559563b5bf32
-        size: 775
+        hash: 4ef53b40d8098f2155d8717ee3350339f809a638
+        size: 801
     registry:
       hash: ~
     children: []
