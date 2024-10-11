@@ -6,6 +6,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 |-----------|-------------|
 | [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 11 October, 2024 |
 | [![God of War Ragnarok](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/capsule_231x87.jpg?t=1727469877)](https://store.steampowered.com/app/2322010/) | 11 October, 2024 |
+| [![Kingdom: Two Crowns](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/capsule_231x87.jpg?t=1721032794)](https://store.steampowered.com/app/701160/) | 11 October, 2024 |
 | [![Monster Hunter: World](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/capsule_231x87.jpg?t=1711328912)](https://store.steampowered.com/app/582010/) | 08 October, 2024 |
 | [![Moonlighter](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/capsule_231x87.jpg?t=1724926248)](https://store.steampowered.com/app/606150/) | 06 October, 2024 |
 | [![Monster Hunter Rise](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1715075183)](https://store.steampowered.com/app/1446780/) | 06 October, 2024 |
@@ -79,7 +80,6 @@ Welcome to the Game Save Files repository! This repository contains save files f
 | [![Trek to Yomi](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370050/capsule_231x87.jpg?t=1710929180)](https://store.steampowered.com/app/1370050/) | 12 October, 2023 |
 | [![Hades](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/capsule_231x87.jpg?t=1715727000)](https://store.steampowered.com/app/1145350/) | 09 October, 2023 |
 | [![Forza Motorsport](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440510/capsule_231x87.jpg?t=1718133058)](https://store.steampowered.com/app/2440510/) | 07 October, 2023 |
-| [![Kingdom: Two Crowns](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/capsule_231x87.jpg?t=1721032794)](https://store.steampowered.com/app/701160/) | 30 September, 2023 |
 | [![Control](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/capsule_231x87.jpg?t=1720000308)](https://store.steampowered.com/app/870780/) | 24 September, 2023 |
 | [![En Garde!](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654660/capsule_231x87.jpg?t=1718181958)](https://store.steampowered.com/app/1654660/) | 24 September, 2023 |
 | [![Hi-Fi RUSH](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/capsule_231x87.jpg?t=1715602824)](https://store.steampowered.com/app/1817230/) | 24 September, 2023 |
