@@ -4,9 +4,90 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-11T15:10:46.778642039Z"
+    when: "2024-10-11T15:30:47.093530421Z"
     os: linux
     files:
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_1v1_match.cfg:
+        hash: 6027fed7362414e626e36b16da917706ab141444
+        size: 153
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_audio.cfg:
+        hash: f8aa22c7c59193f44c3e5f11a5d9917b14af3565
+        size: 972
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_6v6_spectator.cfg:
+        hash: b636b0b68f50aeaf6d8b884aedb273f9994d5386
+        size: 677
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_build_test.cfg:
+        hash: ed2dc4724311abe4b32b2b10969c257e92f8cf03
+        size: 678
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_practice_1v1.cfg:
+        hash: 8cdcf84361fa53b55f75953cfc4cc1ea619e9e56
+        size: 110
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_practice_2v2_guided.cfg:
+        hash: 5b7a71997fd98763be975b7a385c8f4efcf22f1d
+        size: 1134
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_practice_6v6.cfg:
+        hash: dbf681c29faeb890f89ae71183236a998a738226
+        size: 1221
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_practice_6v6_easy.cfg:
+        hash: d9e6098caf4ec0c144930cae5437a14835838614
+        size: 1252
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_practice_6v6_guided.cfg:
+        hash: 7289bfa4c3af79466f6d50436dd19b6ba0c14ba4
+        size: 1157
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_practice_6v6_hard.cfg:
+        hash: a045f1a00006792df6fd769a70b36d7928da7d48
+        size: 1256
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_practice_6v6_medium.cfg:
+        hash: 01f696314cf73c4980e246389259ab0f7a78d2a2
+        size: 1255
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_botmatch_test.cfg:
+        hash: 6bf0237ee21b8fc2bf7817df04de47c22da76351
+        size: 618
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_dev_intro_test.cfg:
+        hash: 1ff4874873ec450bf730d8b2dbf6d76cb1a5ea46
+        size: 380
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_lane_challenge.cfg:
+        hash: 010dea39c2a6415b83cfcb5ef005bddf569ad45d
+        size: 1194
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_lane_challenge_end.cfg:
+        hash: 023d4fb8a7fea65985f51ee10fca57ec32793ac7
+        size: 113
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_sandbox_match.cfg:
+        hash: 83e5e1632fc999816dfd1fc5562084e77a83181e
+        size: 149
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/citadel_server.cfg:
+        hash: 3f393ea5b1f408e4fd632e928c0d5bda47c37611
+        size: 474
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/configdefaults.linux.vcfg:
+        hash: c3e875e6eb5d69b91a73b002bee141ff3f57392c
+        size: 18
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/configdefaults.osx.vcfg:
+        hash: c3e875e6eb5d69b91a73b002bee141ff3f57392c
+        size: 18
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/configdefaults.pc.vcfg:
+        hash: c3e875e6eb5d69b91a73b002bee141ff3f57392c
+        size: 18
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/configschema.vcfg:
+        hash: e065a0114f61cf7dc7067f2d13bd8204fe428e1d
+        size: 73
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/machine_convars_default.vcfg:
+        hash: ebddd80ba6c57e20855685d8fed1c4c329897603
+        size: 217
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/ps5_controller_mapping.vdf:
+        hash: 3c5e2b06dcbd25d917b4fcfe7b6902c0ae285f05
+        size: 31583
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/steam_input_manifest.vdf:
+        hash: 4cdd8e74724001aef2bccfd6ea8e662194ef2835
+        size: 6067
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/steamdeck_mapping.vdf:
+        hash: bf5cc1652fd1b0f07c6c6c72eb4d95ed288f5290
+        size: 36598
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/user_keys_default.vcfg:
+        hash: 9f3557f8fb657edbaaa43e410040e9c62512b714
+        size: 818
+      /home/aniket/.local/share/Steam/steamapps/common/Deadlock/game/citadel/cfg/user_keys_dev_default.vcfg:
+        hash: c99ff6d29277a085ff3403bc363d3bf4df0077ca
+        size: 1044
       /home/aniket/.local/share/Steam/userdata/102118085/1422450/remote/cfg/cached_hero_builds.kv3:
         hash: fbc723c6ffae7bcb26f3b2631a916c4c2697362c
         size: 12012
