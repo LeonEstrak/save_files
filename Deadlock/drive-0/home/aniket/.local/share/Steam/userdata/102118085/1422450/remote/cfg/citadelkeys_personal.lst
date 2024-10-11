@@ -274,5 +274,33 @@
 		{
 			"Key"		"J"
 		}
+		"ItemQuickCastMode"
+		{
+			"Key"		"0"
+		}
+		"Zipline"
+		{
+			"Key"		"SPACE"
+		}
+		"PushToTalkParty"
+		{
+			"Key"		"NONE"
+		}
+		"SpectatorFOWTeamAmber"
+		{
+			"Key"		"F3"
+		}
+		"SpectatorFOWTeamSapphire"
+		{
+			"Key"		"F4"
+		}
+		"SpectatorFOWTeamBoth"
+		{
+			"Key"		"F1"
+		}
+		"SpectatorFOWTeamTarget"
+		{
+			"Key"		"F2"
+		}
 	}
 }
