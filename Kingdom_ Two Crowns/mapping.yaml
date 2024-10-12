@@ -5,12 +5,12 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2024-10-12T11:20:03.612366385Z"
+    when: "2024-10-12T11:30:03.294242321Z"
     os: linux
     files:
       /home/aniket/.config/unity3d/noio/KingdomTwoCrowns/Release/global-v35:
-        hash: 3286569348c4702698feaa0cfb8c5e77096eafd5
-        size: 44508
+        hash: 847b315168cb504a136972c2a9610e1842f85a3d
+        size: 90968
       /home/aniket/.config/unity3d/noio/KingdomTwoCrowns/Release/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
