@@ -1,0 +1,36 @@
+---
+name: "Metaphor: ReFantazio"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2024-10-12T14:50:01.963789263Z"
+    os: linux
+    files:
+      /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/db/metadata:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/db/settings.dat:
+        hash: abd118f800f8708cb4fd9c3c3a1045d17dbefdb4
+        size: 40
+      /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/pcconfig.dat:
+        hash: 4cdf460346492d9bba326d0ed545bc5c28bd787f
+        size: 2850
+      /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/save_demo0000.sav:
+        hash: c8f644322c2feeb35fccb7161acb44d21e1820bc
+        size: 1622004
+      /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/save_demo0001.sav:
+        hash: 82a392071fdfe866d9e981a59fd56506b65c00bf
+        size: 1622000
+      /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/save_demo0002.sav:
+        hash: cfe3cfa2e44c0ff8c7145e53b446e5183bc2b4a5
+        size: 1486877
+      /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/steam_autocloud.vdf:
+        hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
+        size: 52
+      /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/system_demo.sav:
+        hash: 424bc06ba2508ca49dcf1605875d9be2185f012a
+        size: 151
+    registry:
+      hash: ~
+    children: []
