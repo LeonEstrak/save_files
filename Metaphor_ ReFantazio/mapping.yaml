@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-12T14:50:01.963789263Z"
+    when: "2024-10-12T15:50:03.251425068Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/db/metadata:
@@ -14,11 +14,11 @@ backups:
         hash: abd118f800f8708cb4fd9c3c3a1045d17dbefdb4
         size: 40
       /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/pcconfig.dat:
-        hash: 4cdf460346492d9bba326d0ed545bc5c28bd787f
+        hash: 2e925414ba9085c1c34b71375448e2ff39f7b620
         size: 2850
       /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/save_demo0000.sav:
-        hash: c8f644322c2feeb35fccb7161acb44d21e1820bc
-        size: 1622004
+        hash: 6deefc253777a47d4fc35b859b6bda9f8471fd0c
+        size: 1622746
       /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/save_demo0001.sav:
         hash: 82a392071fdfe866d9e981a59fd56506b65c00bf
         size: 1622000
