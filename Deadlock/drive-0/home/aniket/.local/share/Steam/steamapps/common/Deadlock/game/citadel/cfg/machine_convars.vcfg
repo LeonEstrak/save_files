@@ -126,7 +126,7 @@
 		"closecaption"		"false"
 		"commentary"		"false"
 		"db_default_bot_difficulty"		"1"
-		"deadlock_early_development_warning_disabled"		"false"
+		"deadlock_early_development_warning_disabled"		"true"
 		"deadlock_post_match_survey_disabled"		"false"
 		"debugoverlay_text_scale"		"1.000000"
 		"demo_flush"		"false"
