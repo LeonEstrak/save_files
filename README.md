@@ -4,9 +4,9 @@ Welcome to the Game Save Files repository! This repository contains save files f
 
 | Game Name | Last Played |
 |-----------|-------------|
+| [![Kingdom: Two Crowns](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/capsule_231x87.jpg?t=1721032794)](https://store.steampowered.com/app/701160/) | 12 October, 2024 |
 | [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 11 October, 2024 |
 | [![God of War Ragnarok](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/capsule_231x87.jpg?t=1727469877)](https://store.steampowered.com/app/2322010/) | 11 October, 2024 |
-| [![Kingdom: Two Crowns](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/capsule_231x87.jpg?t=1721032794)](https://store.steampowered.com/app/701160/) | 11 October, 2024 |
 | [![Monster Hunter: World](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/capsule_231x87.jpg?t=1711328912)](https://store.steampowered.com/app/582010/) | 08 October, 2024 |
 | [![Moonlighter](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/capsule_231x87.jpg?t=1724926248)](https://store.steampowered.com/app/606150/) | 06 October, 2024 |
 | [![Monster Hunter Rise](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1715075183)](https://store.steampowered.com/app/1446780/) | 06 October, 2024 |
