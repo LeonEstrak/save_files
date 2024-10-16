@@ -82,6 +82,7 @@
 		"citadel_observer_roaming_speed"		"600.000000"
 		"citadel_per_unit_hotkeys_checked"		"false"
 		"citadel_previous_umuted_audio_level"		"1.000000"
+		"citadel_ranked_popup_shown"		"false"
 		"citadel_replay_manager_download_chunk_size"		"1048576"
 		"citadel_replay_manager_download_simultaneous_requests"		"3"
 		"citadel_show_npe_bots_modal"		"true"
