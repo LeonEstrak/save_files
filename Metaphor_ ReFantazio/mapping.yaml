@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-18T09:10:06.472505461Z"
+    when: "2024-10-18T09:20:06.371729209Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/db/metadata:
@@ -38,22 +38,22 @@ backups:
         hash: abd118f800f8708cb4fd9c3c3a1045d17dbefdb4
         size: 40
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/pcconfig.dat:
-        hash: b5e335f3b31c83beca628f3b46edc635b1eb1edc
+        hash: d2136d3dab7004504599d414494c018f0335c0fe
         size: 2850
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0000.sav:
-        hash: 42dcad2e40e759e3b2a9e9bff3b363b19d991463
-        size: 1639635
+        hash: 724fe50f9d77ae4c8f64c732c955ef9eadbcfdc7
+        size: 1639878
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0001.sav:
         hash: 20b64ac3bb8a5ab56aa9d5c1addc775b1ef66852
         size: 1623826
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0002.sav:
-        hash: 2c967f76fcad9148050beda5a43d27e18902035e
-        size: 1622964
+        hash: 3155baedb200b838cfd7bd5785e7032949dc7845
+        size: 1639541
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/steam_autocloud.vdf:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/system_demo.sav:
-        hash: 424bc06ba2508ca49dcf1605875d9be2185f012a
+        hash: d8ea6580b35082b8cd356b479e5f198f120c95d3
         size: 151
     registry:
       hash: ~
