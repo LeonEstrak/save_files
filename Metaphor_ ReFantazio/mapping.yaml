@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-19T15:30:01.084053826Z"
+    when: "2024-10-19T15:40:01.073862786Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/db/metadata:
@@ -41,17 +41,17 @@ backups:
         hash: b5e335f3b31c83beca628f3b46edc635b1eb1edc
         size: 2850
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0000.sav:
-        hash: fa8dc79998130061ec7b47234165fb0e7281af6d
-        size: 1774848
+        hash: 4466d516e81406b3d7da1e6f9e3573c7c662c065
+        size: 1781810
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0001.sav:
         hash: 23532aa5a6f401615d87f1ef8fc38761c28d8f08
         size: 1774490
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0002.sav:
-        hash: f2dfc85bbeb254f10f90d9ce936f94c30a6d96f0
-        size: 1746660
+        hash: 43884944933216c42edf7135137a39e1bb261032
+        size: 1774692
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0003.sav:
-        hash: 87c31f9dcf2643314bf082cce0a1ef7db1eae129
-        size: 1756184
+        hash: 821e5ac7a9f78ff5ef51583804a6499b85155235
+        size: 1781311
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0004.sav:
         hash: 3fa31f28f398debae47c71bdcd33c3323a525a82
         size: 1757170
@@ -59,7 +59,7 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/system_demo.sav:
-        hash: d3b27c78a6f27a4ac47c2b10a4398ff1c341ee14
+        hash: 31f26401a7eb5b9cce31e2cf53edacd7d28adaf1
         size: 151
     registry:
       hash: ~
