@@ -4,15 +4,15 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-19T07:00:06.664711422Z"
+    when: "2024-10-19T07:10:06.173886890Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE0:
-        hash: a6f9f9bb3433fdb2de616e2f7ccfbb56d03a8748
-        size: 2270626
+        hash: 7cd1fbefddcdb9b8143a819282a348329ceb03ec
+        size: 2347026
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE1:
-        hash: 1f2949676e3996a664ab8b9fcadf0051cb0511a4
-        size: 2271359
+        hash: 3b9cc58f027b275e06fc4511525a761b9a4000da
+        size: 2347604
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE10:
         hash: 2bd409501bba7dc9631ab728c149afcc81d14990
         size: 2224149
@@ -20,17 +20,17 @@ backups:
         hash: 7e7fe22791d5eb626e9f7f8d3ac21d53da50e68f
         size: 1034073
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE2:
-        hash: 5ccadab5f92946a00ede2779b2386d34989c0bc9
-        size: 2275198
+        hash: f02751c23c371a1b8785dbc1c5159f1d9d916d33
+        size: 2348030
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE3:
-        hash: 6bcf78d7cadf1fe09e6e4c562548d6e6f218cf60
-        size: 2280515
+        hash: 8c05a53a501588bc19905f10f80d1b3f88e84e3e
+        size: 2348835
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE4:
-        hash: 4281d93792744c5abf8a0514baf3375290160f72
-        size: 2280603
+        hash: 9a33cb63682cb135b40532d25fc9bd050e8512ab
+        size: 2348371
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE5:
-        hash: 65c02ca8bf5d9c7ee012c7e8d02541a2cbd35c92
-        size: 2280095
+        hash: b57be08ba05a0c652595722ebc29ba2508539119
+        size: 2349877
       /home/aniket/.local/share/Steam/steamapps/compatdata/2284916235/pfx/drive_c/users/steamuser/Saved Games/God of War Ragnarök/722420763/GOWRSAVE6:
         hash: 0fbf0f79c79b27effe58ef302e1c2d4e68369a98
         size: 2280558
