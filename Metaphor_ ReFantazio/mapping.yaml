@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-19T16:00:01.053018693Z"
+    when: "2024-10-20T05:20:04.623080822Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/db/metadata:
@@ -41,7 +41,7 @@ backups:
         hash: b5e335f3b31c83beca628f3b46edc635b1eb1edc
         size: 2850
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0000.sav:
-        hash: 3c88c8f923136ab3364ab52afb1ca042c1a6aada
+        hash: 7478672312572f448fbbfaa9677fd65b975b529d
         size: 1781810
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0001.sav:
         hash: 23532aa5a6f401615d87f1ef8fc38761c28d8f08
