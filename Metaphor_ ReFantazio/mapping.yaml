@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-22T14:20:06.429256851Z"
+    when: "2024-10-22T14:50:03.346839705Z"
     os: linux
     files:
       /home/aniket/.local/share/Steam/steamapps/compatdata/3130330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561198062383813/db/metadata:
@@ -41,7 +41,7 @@ backups:
         hash: b5e335f3b31c83beca628f3b46edc635b1eb1edc
         size: 2850
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0000.sav:
-        hash: 43300e4329751e6e9170ae7bc9bd084996ae52be
+        hash: 0e20a21a31d2ef7794075ebb86430042fd8ddb78
         size: 1799757
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0001.sav:
         hash: d726d9bf86a650d9ab8397742d23ce7af383f7a5
@@ -50,8 +50,8 @@ backups:
         hash: bdfa4055a46f70f228a0fb62383a87c425f01a99
         size: 1797980
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0003.sav:
-        hash: 821e5ac7a9f78ff5ef51583804a6499b85155235
-        size: 1781311
+        hash: 3891b09faf888c2672a98bd3d5093d3357476c88
+        size: 1797765
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/save_demo0004.sav:
         hash: 2ec927245b2920eded31751877f8b73890ae0b67
         size: 1781573
@@ -59,7 +59,7 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       /mnt/data/Games/Heroic/Prefixes/default/Metaphor ReFantazio/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561197960267366/system_demo.sav:
-        hash: 593a03d591154d6de11509971360f8deecd3f5ad
+        hash: 31f26401a7eb5b9cce31e2cf53edacd7d28adaf1
         size: 151
     registry:
       hash: ~
