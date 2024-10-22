@@ -4,7 +4,7 @@ Welcome to the Game Save Files repository! This repository contains save files f
 
 | Game Name | Last Played |
 |-----------|-------------|
-| [![Metaphor: ReFantazio](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/capsule_231x87.jpg?t=1728670959)](https://store.steampowered.com/app/2679460/) | 20 October, 2024 |
+| [![Metaphor: ReFantazio](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/capsule_231x87.jpg?t=1728670959)](https://store.steampowered.com/app/2679460/) | 22 October, 2024 |
 | [![God of War Ragnarok](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/capsule_231x87.jpg?t=1727469877)](https://store.steampowered.com/app/2322010/) | 19 October, 2024 |
 | [![Deadlock](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/cb84593a7056ddc04337c77295b33ce8d95b485e/capsule_231x87.jpg?t=1724458181)](https://store.steampowered.com/app/1422450/) | 19 October, 2024 |
 | [![Kingdom: Two Crowns](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/capsule_231x87.jpg?t=1721032794)](https://store.steampowered.com/app/701160/) | 12 October, 2024 |
