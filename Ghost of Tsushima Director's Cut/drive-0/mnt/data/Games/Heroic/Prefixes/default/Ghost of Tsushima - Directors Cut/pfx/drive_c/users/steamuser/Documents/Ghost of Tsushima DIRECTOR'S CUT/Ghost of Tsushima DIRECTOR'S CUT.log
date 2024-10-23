@@ -316,3 +316,25 @@
 09:09:58:662 (00000328) > [Input] XInput controller connected. index: 0
 09:10:01:675 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
 09:10:01:675 (00000328) > [Input] XInput controller connected. index: 0
+09:10:04:671 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:10:04:671 (00000328) > [Input] XInput controller connected. index: 0
+09:10:07:686 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:10:07:686 (00000328) > [Input] XInput controller connected. index: 0
+09:10:10:693 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:10:10:693 (00000328) > [Input] XInput controller connected. index: 0
+09:10:13:700 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:10:13:700 (00000328) > [Input] XInput controller connected. index: 0
+09:10:16:704 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:10:16:704 (00000328) > [Input] XInput controller connected. index: 0
+09:10:19:708 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:10:19:708 (00000328) > [Input] XInput controller connected. index: 0
+09:10:22:721 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:10:22:721 (00000328) > [Input] XInput controller connected. index: 0
+09:10:23:562 (00000328) > [NxApp] Destroying
+09:10:23:563 (00000328) > [DXGI] Destroyed swapchain.
+09:10:23:563 (00000328) > [SwapChain] Destroyed.
+09:10:23:563 (00000328) > [SwapChain] Released.
+09:10:23:567 (00000328) > [Render] Unloading ADL...
+09:10:23:567 (00000328) > [Render] Done unloading ADL
+09:10:23:567 (00000328) > [DXGI] Destroyed swapchain.
+09:10:23:567 (00000328) > [DXGI] Released.
