@@ -4,7 +4,7 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2024-10-02T06:41:57.816532067Z"
+    when: "2024-10-23T03:40:01.989756811Z"
     os: linux
     files:
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/AppData/Roaming/Sucker Punch Productions/Ghost of Tsushima DIRECTOR'S CUT/crs/metadata":
@@ -17,7 +17,7 @@ backups:
         hash: f079d27778e5a2dcd911e854750d7cbfaf59b9df
         size: 1848
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/auto.sav":
-        hash: 60ff73019de4a9c8408b52124494c7bca0242fbb
+        hash: 6d5386e5220d575d4ed00e3a2860c6f55b0c611b
         size: 339560
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/76561197960271872/backup_00.sav":
         hash: 9acd5e8e94bdd2f314b90c30a6849cfa3b3d3642
@@ -152,13 +152,13 @@ backups:
         hash: eea0ef9c6da6c000ad812a9b2faeca5a36d35a4c
         size: 52
       "/mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/drive_c/users/steamuser/Documents/Ghost of Tsushima DIRECTOR'S CUT/Ghost of Tsushima DIRECTOR'S CUT.log":
-        hash: b550d3ac2c97d4607d817f7cef1c1cb3080e0192
-        size: 15622
+        hash: 346b571af40131f1c83434c563d3ac40bc7171a1
+        size: 23613
       /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/system.reg:
-        hash: a00c14403dd30b1f33a2708ae60392f36c3a408e
-        size: 3804312
+        hash: 882f95169a14e70e8dccf9a6d951c589d83dbaa6
+        size: 3804305
       /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/user.reg:
-        hash: 8baaf7fce76fe3e0d88b6185c09fce3b627d6204
+        hash: 84de597ede3c89a76d8b198ef0ce9779b7579814
         size: 54124
       /mnt/data/Games/Heroic/Prefixes/default/Ghost of Tsushima - Directors Cut/pfx/userdef.reg:
         hash: 87d26dae8598d851436ca58465f9497454d5eca0

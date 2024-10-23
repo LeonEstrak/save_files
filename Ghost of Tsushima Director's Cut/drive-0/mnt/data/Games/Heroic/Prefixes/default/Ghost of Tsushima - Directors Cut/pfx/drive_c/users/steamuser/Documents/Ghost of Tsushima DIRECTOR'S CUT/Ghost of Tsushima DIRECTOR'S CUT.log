@@ -1,205 +1,318 @@
-21:42:07:241 (00000336) > [Startup] Ghost of Tsushima DIRECTOR'S CUT
-21:42:07:241 (00000336) > [Startup] ==============
-21:42:07:241 (00000336) > [Startup] 
-21:42:07:241 (00000336) > [Startup] Build: v1053.6.0709.1130
-21:42:07:241 (00000336) > [Startup] Windows 10.0 (build 19043.0)
-21:42:07:241 (00000336) > [Startup] Distribution platform: Steam
-21:42:07:241 (00000336) > [Startup] Game directory: C:\users\<username>\Documents\Ghost of Tsushima DIRECTOR'S CUT\
-21:42:07:241 (00000336) > [Startup] Working directory: Z:\var\mnt\data\Games\Pirate\Ghost of Tsushima DIRECTOR'S CUT
-21:42:07:241 (00000336) > [Startup] Run ID: 6BC0-7F02-14D9-01D8
-21:42:07:241 (00000336) > [Startup] 
-21:42:07:241 (00000336) > [Startup] Memory statistics:
-21:42:07:241 (00000336) > [Startup]   Total RAM = 31.1 GB (31896 MB)
-21:42:07:241 (00000336) > [Startup]   Avail RAM = 24.9 GB (25489 MB)
-21:42:07:241 (00000336) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
-21:42:07:241 (00000336) > [Startup]   Avail virtual memory = 131071.9 GB (134217582 MB)
-21:42:07:241 (00000336) > [Startup]   Total page file = 38.9 GB (39870 MB)
-21:42:07:241 (00000336) > [Startup]   Avail page file = 32.7 GB (33463 MB)
-21:42:07:241 (00000336) > [Startup] 
-21:42:07:241 (00000336) > [Steam] Wine version: "Proton-GE-latest"
-21:42:07:241 (00000336) > [Steam] Initializing.
-21:42:07:241 (00000336) > [Steam] Successfully initialized.
-21:42:07:241 (00000336) > [Steam] Currently connected to 0 remote sessions
-21:42:07:241 (00000336) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
-21:42:07:241 (00000336) > [Steam] Steam beta branch: unknown
-21:42:07:421 (00000336) > [NxApp] PreInit
-21:42:07:421 (00000336) > [NxProcessorInfo] Processor info:
-21:42:07:421 (00000336) > [NxProcessorInfo] 	Description:             	13th Gen Intel(R) Core(TM) i5-13600KF
-21:42:07:421 (00000336) > [NxProcessorInfo] 	NumaNode Count:    	0
-21:42:07:421 (00000336) > [NxProcessorInfo] 	Group Count:       	1
-21:42:07:421 (00000336) > [NxProcessorInfo] 	Physical Core:     	14
-21:42:07:421 (00000336) > [NxProcessorInfo] 		Performance Core:   6
-21:42:07:421 (00000336) > [NxProcessorInfo] 		Efficiency  Core:   8
-21:42:07:421 (00000336) > [NxProcessorInfo] 	Logical  Core:     	20
-21:42:07:421 (00000336) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
-21:42:07:421 (00000336) > [NxProcessorInfo] 	Family:            	6
-21:42:07:421 (00000336) > [NxProcessorInfo] 	Model:             	183
-21:42:07:421 (00000336) > [NxProcessorInfo] 	Name:              	13th Gen Intel(R) Core(TM) i5-13600KF
-21:42:07:421 (00000336) > [NxProcessorInfo] 	AVX:               	1
-21:42:07:421 (00000336) > [NxProcessorInfo] 	F16C:              	1
-21:42:07:421 (00000336) > [NxProcessorInfo] 	AVX2:              	1
-21:42:07:421 (00000336) > [NxProcessorInfo] 	NormalAffinity(auto)
-21:42:07:421 (00000336) > [SwapChain] Initializing...
-21:42:07:421 (00000336) > [DXGI] Initializing...
-21:42:07:508 (00000336) > [NxApp] Streamline was successfully initialized.
-21:42:07:508 (00000336) > [DXGI] Successfully initialized.
-21:42:07:508 (00000336) > [Render] Enumerating adapters:
-21:42:07:508 (00000336) > [Render] 	Adapter 0:
-21:42:07:508 (00000336) > [Monitor] 		Description             : AMD Radeon RX 6800 XT (RADV NAVI21)
-21:42:07:508 (00000336) > [Monitor] 		Vendor                  : AMD (1002)
-21:42:07:508 (00000336) > [Monitor] 		Device                  : 73bf
-21:42:07:508 (00000336) > [Monitor] 		Sub system              : 0
-21:42:07:508 (00000336) > [Monitor] 		Revision                : 0
-21:42:07:508 (00000336) > [Monitor] 		Dedicated Video Memory  : 16368 MB
-21:42:07:508 (00000336) > [Monitor] 		Dedicated System Memory : 0000 MB
-21:42:07:508 (00000336) > [Monitor] 		Shared System Memory    : 15948 MB
-21:42:07:508 (00000336) > [Monitor] 
-21:42:07:508 (00000336) > [Render] Loading ADL...
-21:42:07:509 (00000336) > [Render] Failed to load ADL!
-21:42:07:509 (00000336) > [Render] Enumerating monitors:
-21:42:07:517 (00000336) > [Render] 	Monitor 0: handle = 0000000000000001, aspect = 1.78, rounded aspect = 1.78
-21:42:07:517 (00000336) > [Render] 
-21:42:07:518 (00000336) > [Render] 	Monitor handle = 0000000000000001, pixel aspect ratio = 1.00
-21:42:07:518 (00000336) > [SwapChain] Successfully initialized.
-21:42:07:518 (00000336) > [Render] Enumerating Display Modes:
-21:42:07:518 (00000336) > [Render] 	Monitor '1 (AMD Radeon RX 6800 XT (RADV NAVI21)(1))' (0000000000000001): rect(0 1920 0 1080)
-21:42:07:518 (00000336) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode  1 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode  2 :  960 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode  3 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode  4 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode  5 : 1152 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode  6 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode  7 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode  8 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode  9 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 10 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 11 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 12 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 13 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 14 : 1368 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 15 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 16 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 17 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 18 : 1440 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 19 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 20 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 21 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 22 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 23 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 24 : 1920 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 25 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] 		- Mode 26 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
-21:42:07:518 (00000336) > [Render] ***** Additional Monitor Output Info *****
-21:42:07:518 (00000336) > [Render] 		BitsPerColor: 10
-21:42:07:518 (00000336) > [Render] 		Primaries: R=0.6400;0.3300  G=0.3000;0.6000  B=0.1500;0.0600  White-Point=0.3127;0.3290
-21:42:07:518 (00000336) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
-21:42:07:518 (00000336) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
-21:42:07:518 (00000336) > [Render] ******************************************
-21:42:07:518 (00000336) > [Render] 
-21:42:07:800 (00000336) > [NxReflex] Reflex support result:Result::eOk
-21:42:07:800 (00000336) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
-21:42:07:800 (00000336) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
-21:42:07:800 (00000336) > [NxApp] Querying GPU Driver Info...
-21:42:07:800 (00000336) > [NxApp] Enumerating available display adapters:
-21:42:07:800 (00000336) > [NxApp] 		AMD Radeon RX 6800 XT (RADV NAVI21) (active)
-21:42:07:800 (00000336) > [NxApp] Successfully found GPU Driver Info
-21:42:07:800 (00000336) > [D3D] Max supported feature level: 11.0
-21:42:07:800 (00000336) > [Render] Disabled D3D12 experimentals
-21:42:07:842 (00000336) > [Render] VMEM Budget: 15314 MB
-21:42:07:842 (00000336) > [Render] VMEM Available: 15312 MB
-21:42:07:843 (00000336) > [Render] GPU node count: 1
-21:42:07:843 (00000336) > [NxReflex] Reflex support result:Result::eOk
-21:42:07:843 (00000336) > [NxReflex] Reflex GetState result:Result::eOk
-21:42:07:843 (00000336) > [NxApp] PreInit successful.
-21:42:07:845 (00000336) > [NxUpscaler] XeSS init, code = 0
-21:42:07:845 (00000336) > [NxReflex] Reflex support result:Result::eOk
-21:42:07:845 (00000336) > [NxReflex] Reflex GetState result:Result::eOk
-21:42:07:845 (00000336) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
-21:42:07:845 (00000336) > [NxApp] Driver Desc: AMD Radeon RX 6800 XT (RADV NAVI21)
-21:42:07:845 (00000336) > [NxApp] Driver Version: 
-21:42:07:845 (00000336) > [**************************************************Display + Graphics Settings**************************************************] 
-21:42:07:845 (00000336) > [Settings] DirectX Version: 12
-21:42:07:845 (00000336) > [Settings] Window mode: Fullscreen
-21:42:07:845 (00000336) > [Settings] Fullscreen display mode:
-21:42:07:845 (00000336) > [Settings] 	Displaying on monitor: 0
-21:42:07:845 (00000336) > [Settings] 	Resolution: 1920x1080
-21:42:07:845 (00000336) > [Settings] 	Forced Aspect Ratio: Auto
-21:42:07:845 (00000336) > [Settings] 	HDR: Off
-21:42:07:845 (00000336) > [Settings] 	OS reported Refresh rate: 144
-21:42:07:845 (00000336) > [Settings] 	VSync: Half refresh rate
-21:42:07:845 (00000336) > [Settings] 	Reflex: Off
-21:42:07:845 (00000336) > [Settings] 	Frame generation: None
-21:42:07:845 (00000336) > [Settings] 	Dynamic resolution FPS target: 60
-21:42:07:845 (00000336) > [Settings] Anti aliasing: TAA
-21:42:07:845 (00000336) > [Settings] Upscale method: None
-21:42:07:845 (00000336) > [Settings] Upscale quality: Quality
-21:42:07:845 (00000336) > [Settings] Graphics Options:
-21:42:07:845 (00000336) > [Settings] 	Texture Quality: High
-21:42:07:845 (00000336) > [Settings] 	Texture Filtering: Anisotropic4x
-21:42:07:845 (00000336) > [Settings] 	Shadow Quality: High
-21:42:07:845 (00000336) > [Settings] 	Depth of Field: High
-21:42:07:845 (00000336) > [Settings] 	Level of Detail: High
-21:42:07:845 (00000336) > [Settings] 	Terrain Detail: High
-21:42:07:845 (00000336) > [Settings] 	Ambient Occlusion: SSAO Quality
-21:42:07:845 (00000336) > [Settings] 	Screen Space Reflections: Half Res
-21:42:07:845 (00000336) > [Settings] 	Screen Space Shadows: High
-21:42:07:845 (00000336) > [Settings] 	Volumetric Fog: High
-21:42:07:845 (00000336) > [Settings] 	Bloom: On
-21:42:07:845 (00000336) > [Settings] 	Vignette: On
-21:42:07:845 (00000336) > [Settings] 	Caustics: On
-21:42:07:845 (00000336) > [Settings] 	Motion Blur: 1.000000
-21:42:07:845 (00000336) > [Settings] 	FOV Correction: 1.000000
-21:42:07:845 (00000336) > [**************************************************Display + Graphics Settings**************************************************] 
-21:42:07:845 (00000336) > [Startup] Creating compute command queue of type 2
-21:42:07:845 (00000336) > [Startup] Creating copy command queue of type 0
-21:42:07:846 (00000336) > [NxApp] Creating window...
-21:42:07:856 (00000448) > [GameWindow] UpdateState bVisible true
-21:42:07:860 (00000448) > [Input] Keyboard language: "English (India)" (id: 16393)
-21:42:07:863 (00000448) > [Input] Mouse               "Wine HID device"   id 1 buttons 5 sampleRate 0 horizontalWheel no
-21:42:07:863 (00000448) > [Input] Keyboard            "Wine HID device"   type 0 subType 0 mode 1 function 12 indicators 3 total 101
-21:42:07:863 (00000448) > [Input] Joystick            ""   product 16386 vendor 8406 version 257 usage 5 usagePage 1 xinput yes
-21:42:07:863 (00000448) > [Input] Failed to retrieve setup device 3.
-21:42:07:873 (00000448) > [Input] PsPc libScePad.dll not detected
-21:42:07:873 (00000448) > [Input] Using LibScePad
-21:42:07:876 (00000448) > [Input] Gamepads connected: 0 -> 2
-21:42:07:876 (00000448) > [Input] Gamepad for main player: 8
-21:42:07:877 (00000448) > [XInput] Enumerating available xusb hid devices:
+09:09:46:946 (00000328) > [Startup] Ghost of Tsushima DIRECTOR'S CUT
+09:09:46:946 (00000328) > [Startup] ==============
+09:09:46:946 (00000328) > [Startup] 
+09:09:46:946 (00000328) > [Startup] Build: v1053.6.0709.1130
+09:09:46:946 (00000328) > [Startup] Windows 10.0 (build 19043.0)
+09:09:46:946 (00000328) > [Startup] Distribution platform: Steam
+09:09:46:946 (00000328) > [Startup] Game directory: C:\users\<username>\Documents\Ghost of Tsushima DIRECTOR'S CUT\
+09:09:46:946 (00000328) > [Startup] Working directory: Z:\var\mnt\data\Games\Pirate\Ghost of Tsushima DIRECTOR'S CUT
+09:09:46:946 (00000328) > [Startup] Run ID: 8300-34CB-EEF7-01D6
+09:09:46:946 (00000328) > [Startup] 
+09:09:46:946 (00000328) > [Startup] Memory statistics:
+09:09:46:946 (00000328) > [Startup]   Total RAM = 31.1 GB (31896 MB)
+09:09:46:946 (00000328) > [Startup]   Avail RAM = 25.6 GB (26213 MB)
+09:09:46:946 (00000328) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+09:09:46:946 (00000328) > [Startup]   Avail virtual memory = 131071.9 GB (134217582 MB)
+09:09:46:946 (00000328) > [Startup]   Total page file = 38.9 GB (39870 MB)
+09:09:46:946 (00000328) > [Startup]   Avail page file = 33.4 GB (34187 MB)
+09:09:46:946 (00000328) > [Startup] 
+09:09:46:946 (00000328) > [Steam] Wine version: "Proton-GE-latest"
+09:09:46:946 (00000328) > [Steam] Initializing.
+09:09:46:946 (00000328) > [Steam] Successfully initialized.
+09:09:46:946 (00000328) > [Steam] Currently connected to 0 remote sessions
+09:09:46:946 (00000328) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
+09:09:46:946 (00000328) > [Steam] Steam beta branch: unknown
+09:09:47:063 (00000328) > [NxApp] PreInit
+09:09:47:063 (00000328) > [NxProcessorInfo] Processor info:
+09:09:47:063 (00000328) > [NxProcessorInfo] 	Description:             	13th Gen Intel(R) Core(TM) i5-13600KF
+09:09:47:063 (00000328) > [NxProcessorInfo] 	NumaNode Count:    	0
+09:09:47:063 (00000328) > [NxProcessorInfo] 	Group Count:       	1
+09:09:47:063 (00000328) > [NxProcessorInfo] 	Physical Core:     	14
+09:09:47:063 (00000328) > [NxProcessorInfo] 		Performance Core:   6
+09:09:47:063 (00000328) > [NxProcessorInfo] 		Efficiency  Core:   8
+09:09:47:063 (00000328) > [NxProcessorInfo] 	Logical  Core:     	20
+09:09:47:063 (00000328) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
+09:09:47:063 (00000328) > [NxProcessorInfo] 	Family:            	6
+09:09:47:063 (00000328) > [NxProcessorInfo] 	Model:             	183
+09:09:47:063 (00000328) > [NxProcessorInfo] 	Name:              	13th Gen Intel(R) Core(TM) i5-13600KF
+09:09:47:063 (00000328) > [NxProcessorInfo] 	AVX:               	1
+09:09:47:063 (00000328) > [NxProcessorInfo] 	F16C:              	1
+09:09:47:063 (00000328) > [NxProcessorInfo] 	AVX2:              	1
+09:09:47:063 (00000328) > [NxProcessorInfo] 	NormalAffinity(auto)
+09:09:47:063 (00000328) > [SwapChain] Initializing...
+09:09:47:063 (00000328) > [DXGI] Initializing...
+09:09:47:139 (00000328) > [NxApp] Streamline was successfully initialized.
+09:09:47:139 (00000328) > [DXGI] Successfully initialized.
+09:09:47:139 (00000328) > [Render] Enumerating adapters:
+09:09:47:139 (00000328) > [Render] 	Adapter 0:
+09:09:47:139 (00000328) > [Monitor] 		Description             : AMD Radeon RX 6800 XT (RADV NAVI21)
+09:09:47:139 (00000328) > [Monitor] 		Vendor                  : AMD (1002)
+09:09:47:139 (00000328) > [Monitor] 		Device                  : 73bf
+09:09:47:139 (00000328) > [Monitor] 		Sub system              : 0
+09:09:47:139 (00000328) > [Monitor] 		Revision                : 0
+09:09:47:139 (00000328) > [Monitor] 		Dedicated Video Memory  : 16368 MB
+09:09:47:139 (00000328) > [Monitor] 		Dedicated System Memory : 0000 MB
+09:09:47:139 (00000328) > [Monitor] 		Shared System Memory    : 15948 MB
+09:09:47:139 (00000328) > [Monitor] 
+09:09:47:139 (00000328) > [Render] Loading ADL...
+09:09:47:139 (00000328) > [Render] Failed to load ADL!
+09:09:47:139 (00000328) > [Render] Enumerating monitors:
+09:09:47:147 (00000328) > [Render] 	Monitor 0: handle = 0000000000000001, aspect = 1.78, rounded aspect = 1.78
+09:09:47:147 (00000328) > [Render] 
+09:09:47:148 (00000328) > [Render] 	Monitor handle = 0000000000000001, pixel aspect ratio = 1.00
+09:09:47:148 (00000328) > [SwapChain] Successfully initialized.
+09:09:47:148 (00000328) > [Render] Enumerating Display Modes:
+09:09:47:148 (00000328) > [Render] 	Monitor '1 (AMD Radeon RX 6800 XT (RADV NAVI21)(1))' (0000000000000001): rect(0 1920 0 1080)
+09:09:47:148 (00000328) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode  1 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode  2 :  960 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode  3 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode  4 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode  5 : 1152 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode  6 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode  7 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode  8 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode  9 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 10 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 11 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 12 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 13 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 14 : 1368 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 15 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 16 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 17 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 18 : 1440 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 19 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 20 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 21 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 22 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 23 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 24 : 1920 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 25 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] 		- Mode 26 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+09:09:47:148 (00000328) > [Render] ***** Additional Monitor Output Info *****
+09:09:47:148 (00000328) > [Render] 		BitsPerColor: 10
+09:09:47:148 (00000328) > [Render] 		Primaries: R=0.6400;0.3300  G=0.3000;0.6000  B=0.1500;0.0600  White-Point=0.3127;0.3290
+09:09:47:148 (00000328) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+09:09:47:148 (00000328) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+09:09:47:148 (00000328) > [Render] ******************************************
+09:09:47:148 (00000328) > [Render] 
+09:09:47:230 (00000328) > [NxReflex] Reflex support result:Result::eOk
+09:09:47:230 (00000328) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
+09:09:47:230 (00000328) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+09:09:47:231 (00000328) > [NxApp] Querying GPU Driver Info...
+09:09:47:231 (00000328) > [NxApp] Enumerating available display adapters:
+09:09:47:231 (00000328) > [NxApp] 		AMD Radeon RX 6800 XT (RADV NAVI21) (active)
+09:09:47:231 (00000328) > [NxApp] Successfully found GPU Driver Info
+09:09:47:231 (00000328) > [D3D] Max supported feature level: 11.0
+09:09:47:231 (00000328) > [Render] Disabled D3D12 experimentals
+09:09:47:302 (00000328) > [Render] VMEM Budget: 15458 MB
+09:09:47:302 (00000328) > [Render] VMEM Available: 15456 MB
+09:09:47:303 (00000328) > [Render] GPU node count: 1
+09:09:47:312 (00000328) > [NxReflex] Reflex support result:Result::eOk
+09:09:47:312 (00000328) > [NxReflex] Reflex GetState result:Result::eOk
+09:09:47:312 (00000328) > [NxApp] PreInit successful.
+09:09:47:313 (00000328) > [NxUpscaler] XeSS init, code = 0
+09:09:47:313 (00000328) > [NxReflex] Reflex support result:Result::eOk
+09:09:47:313 (00000328) > [NxReflex] Reflex GetState result:Result::eOk
+09:09:47:313 (00000328) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+09:09:47:314 (00000328) > [NxApp] Driver Desc: AMD Radeon RX 6800 XT (RADV NAVI21)
+09:09:47:314 (00000328) > [NxApp] Driver Version: 
+09:09:47:314 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+09:09:47:314 (00000328) > [Settings] DirectX Version: 12
+09:09:47:314 (00000328) > [Settings] Window mode: Fullscreen
+09:09:47:314 (00000328) > [Settings] Fullscreen display mode:
+09:09:47:314 (00000328) > [Settings] 	Displaying on monitor: 0
+09:09:47:314 (00000328) > [Settings] 	Resolution: 1920x1080
+09:09:47:314 (00000328) > [Settings] 	Forced Aspect Ratio: Auto
+09:09:47:314 (00000328) > [Settings] 	HDR: Off
+09:09:47:314 (00000328) > [Settings] 	OS reported Refresh rate: 144
+09:09:47:314 (00000328) > [Settings] 	VSync: Half refresh rate
+09:09:47:314 (00000328) > [Settings] 	Reflex: Off
+09:09:47:314 (00000328) > [Settings] 	Frame generation: None
+09:09:47:314 (00000328) > [Settings] 	Dynamic resolution FPS target: 60
+09:09:47:314 (00000328) > [Settings] Anti aliasing: TAA
+09:09:47:314 (00000328) > [Settings] Upscale method: None
+09:09:47:314 (00000328) > [Settings] Upscale quality: Quality
+09:09:47:314 (00000328) > [Settings] Graphics Options:
+09:09:47:314 (00000328) > [Settings] 	Texture Quality: High
+09:09:47:314 (00000328) > [Settings] 	Texture Filtering: Anisotropic4x
+09:09:47:314 (00000328) > [Settings] 	Shadow Quality: High
+09:09:47:314 (00000328) > [Settings] 	Depth of Field: High
+09:09:47:314 (00000328) > [Settings] 	Level of Detail: High
+09:09:47:314 (00000328) > [Settings] 	Terrain Detail: High
+09:09:47:314 (00000328) > [Settings] 	Ambient Occlusion: SSAO Quality
+09:09:47:314 (00000328) > [Settings] 	Screen Space Reflections: Half Res
+09:09:47:314 (00000328) > [Settings] 	Screen Space Shadows: High
+09:09:47:314 (00000328) > [Settings] 	Volumetric Fog: High
+09:09:47:314 (00000328) > [Settings] 	Bloom: On
+09:09:47:314 (00000328) > [Settings] 	Vignette: On
+09:09:47:314 (00000328) > [Settings] 	Caustics: On
+09:09:47:314 (00000328) > [Settings] 	Motion Blur: 1.000000
+09:09:47:314 (00000328) > [Settings] 	FOV Correction: 1.000000
+09:09:47:314 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+09:09:47:314 (00000328) > [Startup] Creating compute command queue of type 2
+09:09:47:314 (00000328) > [Startup] Creating copy command queue of type 0
+09:09:47:314 (00000328) > [NxApp] Creating window...
+09:09:47:324 (00000440) > [GameWindow] UpdateState bVisible true
+09:09:47:328 (00000440) > [Input] Keyboard language: "English (India)" (id: 16393)
+09:09:47:331 (00000440) > [Input] Mouse               "Wine HID device"   id 1 buttons 5 sampleRate 0 horizontalWheel no
+09:09:47:331 (00000440) > [Input] Keyboard            "Wine HID device"   type 0 subType 0 mode 1 function 12 indicators 3 total 101
+09:09:47:331 (00000440) > [Input] Failed to retrieve setup device 2.
+09:09:47:338 (00000440) > [Input] PsPc libScePad.dll not detected
+09:09:47:339 (00000440) > [Input] Using LibScePad
+09:09:47:341 (00000440) > [Input] Gamepads connected: 0 -> 1
+09:09:47:341 (00000440) > [Input] Gamepad for main player: 8
+09:09:47:341 (00000440) > [XInput] Enumerating available xusb hid devices:
 
-21:42:07:877 (00000336) > [NxApp] Window created.
-21:42:07:877 (00000336) > [NxApp] Initializing swapchain...
-21:42:07:877 (00000424) > [SwapChain] Creating...
-21:42:07:877 (00000424) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
-21:42:07:877 (00000424) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
-21:42:07:879 (00000424) > [DXGI] Created swapchain.
-21:42:07:883 (00000424) > [SwapChain] Gamma correction is enabled.
-21:42:07:883 (00000424) > [SwapChain] Successfully created.
-21:42:07:883 (00000424) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
-21:42:07:883 (00000424) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
-21:42:07:883 (00000336) > [NxApp] Swapchain initialized
-21:42:07:883 (00000336) > [NxApp] Initializing renderer...
-21:42:07:883 (00000336) > [NxApp] Renderer initialized
-21:42:07:884 (00000336) > [NxStorage] Could not determine device type at 'z:\var\mnt\data\games\pirate\ghost of tsushima director's cut'
-21:42:07:903 (00000336) > [NxStorage] DirectStorage initialization succeeded
-21:42:07:903 (00000336) > [CJobManager] Creating  10 worker threads, run on  11 cores
-21:42:07:958 (00000336) > [Render] Pipeline cache C:\users\<username>\AppData\Roaming\Sucker Punch Productions\Ghost of Tsushima DIRECTOR'S CUT\\user.pso read succesfully, read 9 pipelines, found 0 duplicates.
-21:42:07:967 (00000336) > [Render] Pipeline cache default.pso read succesfully, read 16192 pipelines, found 0 duplicates.
-21:42:08:360 (00000336) > [Steam] Stats received: 2
-21:42:10:533 (00000336) > [GameWindow] Window close requested
-21:42:10:539 (00000336) > [App] Quit request confirmed by user
-21:42:10:558 (00000336) > [NxApp] Destroying
-21:42:10:558 (00000336) > [DXGI] Destroyed swapchain.
-21:42:10:558 (00000336) > [SwapChain] Destroyed.
-21:42:10:558 (00000336) > [SwapChain] Released.
-21:42:10:562 (00000336) > [Render] Unloading ADL...
-21:42:10:562 (00000336) > [Render] Done unloading ADL
-21:42:10:562 (00000336) > [DXGI] Destroyed swapchain.
-21:42:10:562 (00000336) > [DXGI] Released.
-21:42:10:697 (00000448) > [Crash] Memory statistics:
-21:42:10:697 (00000448) > [Crash]   Total RAM = 31.1 GB (31896 MB)
-21:42:10:697 (00000448) > [Crash]   Avail RAM = 23.3 GB (23859 MB)
-21:42:10:697 (00000448) > [Crash]   Total virtual memory = 131072.0 GB (134217727 MB)
-21:42:10:697 (00000448) > [Crash]   Avail virtual memory = 131070.3 GB (134216029 MB)
-21:42:10:697 (00000448) > [Crash]   Total page file = 38.9 GB (39870 MB)
-21:42:10:697 (00000448) > [Crash]   Avail page file = 31.1 GB (31833 MB)
-21:42:10:697 (00000448) > [Crash] Unhandled exception at address 0x00000000ffffffff (code: 0xc0000005): "Access violation"
+09:09:47:341 (00000328) > [NxApp] Window created.
+09:09:47:341 (00000328) > [NxApp] Initializing swapchain...
+09:09:47:342 (00000416) > [SwapChain] Creating...
+09:09:47:342 (00000416) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+09:09:47:342 (00000416) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
+09:09:47:345 (00000416) > [DXGI] Created swapchain.
+09:09:47:349 (00000416) > [SwapChain] Gamma correction is enabled.
+09:09:47:349 (00000416) > [SwapChain] Successfully created.
+09:09:47:349 (00000416) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+09:09:47:349 (00000416) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
+09:09:47:349 (00000328) > [NxApp] Swapchain initialized
+09:09:47:349 (00000328) > [NxApp] Initializing renderer...
+09:09:47:349 (00000328) > [NxApp] Renderer initialized
+09:09:47:349 (00000328) > [NxStorage] Could not determine device type at 'z:\var\mnt\data\games\pirate\ghost of tsushima director's cut'
+09:09:47:367 (00000328) > [NxStorage] DirectStorage initialization succeeded
+09:09:47:367 (00000328) > [CJobManager] Creating  10 worker threads, run on  11 cores
+09:09:47:431 (00000328) > [Render] Pipeline cache C:\users\<username>\AppData\Roaming\Sucker Punch Productions\Ghost of Tsushima DIRECTOR'S CUT\\user.pso read succesfully, read 9 pipelines, found 0 duplicates.
+09:09:47:439 (00000328) > [Render] Pipeline cache default.pso read succesfully, read 16192 pipelines, found 0 duplicates.
+09:09:47:771 (00000328) > [Input] Gamepads connected: 1 -> 0
+09:09:47:771 (00000328) > [Input] Gamepad for main player: -1
+09:09:47:811 (00000328) > [Steam] Stats received: 2
+09:09:50:346 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:09:50:776 (00000328) > [Input] XInput controller connected. index: 0
+09:09:51:322 (00000416) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1440x810
+09:09:51:322 (00000416) > [Upscaler] ConvertScreenToRenderRes: wxh = 1440x810 | min = 720x405 | max =  1440x810
+09:09:51:331 (00000416) > [DXGI] Resized swapchain.
+09:09:51:345 (00000328) > [GameWindow] UpdateState bVisible true
+09:09:51:347 (00000328) > [GameWindow] Invalidating rects.
+09:09:51:348 (00000328) > [NxReflex] Reflex support result:Result::eOk
+09:09:51:348 (00000328) > [NxReflex] Reflex GetState result:Result::eOk
+09:09:51:348 (00000328) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+09:09:51:348 (00000328) > [Settings] New display settings are:
+09:09:51:348 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+09:09:51:348 (00000328) > [Settings] DirectX Version: 12
+09:09:51:348 (00000328) > [Settings] Window mode: Windowed
+09:09:51:348 (00000328) > [Settings] Window settings:
+09:09:51:348 (00000328) > [Settings] 	Window position: x: 240 y: 135 
+09:09:51:348 (00000328) > [Settings] 	Window size: width: 1440 height: 810 
+09:09:51:348 (00000328) > [Settings] 	Window maximized? No
+09:09:51:348 (00000328) > [Settings] 	OS reported Refresh rate: 144
+09:09:51:348 (00000328) > [Settings] 	VSync: Half refresh rate
+09:09:51:348 (00000328) > [Settings] 	Reflex: Off
+09:09:51:348 (00000328) > [Settings] 	Frame generation: None
+09:09:51:348 (00000328) > [Settings] 	Dynamic resolution FPS target: 60
+09:09:51:348 (00000328) > [Settings] Anti aliasing: TAA
+09:09:51:348 (00000328) > [Settings] Upscale method: None
+09:09:51:348 (00000328) > [Settings] Upscale quality: Quality
+09:09:51:348 (00000328) > [Settings] Graphics Options:
+09:09:51:348 (00000328) > [Settings] 	Texture Quality: High
+09:09:51:348 (00000328) > [Settings] 	Texture Filtering: Anisotropic4x
+09:09:51:348 (00000328) > [Settings] 	Shadow Quality: High
+09:09:51:348 (00000328) > [Settings] 	Depth of Field: High
+09:09:51:348 (00000328) > [Settings] 	Level of Detail: High
+09:09:51:348 (00000328) > [Settings] 	Terrain Detail: High
+09:09:51:348 (00000328) > [Settings] 	Ambient Occlusion: SSAO Quality
+09:09:51:348 (00000328) > [Settings] 	Screen Space Reflections: Half Res
+09:09:51:348 (00000328) > [Settings] 	Screen Space Shadows: High
+09:09:51:348 (00000328) > [Settings] 	Volumetric Fog: High
+09:09:51:348 (00000328) > [Settings] 	Bloom: On
+09:09:51:348 (00000328) > [Settings] 	Vignette: On
+09:09:51:348 (00000328) > [Settings] 	Caustics: On
+09:09:51:348 (00000328) > [Settings] 	Motion Blur: 1.000000
+09:09:51:348 (00000328) > [Settings] 	FOV Correction: 1.000000
+09:09:51:348 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+09:09:51:348 (00000328) > [Settings] End of settings.
+09:09:51:348 (00000328) > [NxApp (Render Thread)] Finished enforcing display settings
+09:09:51:351 (00000328) > [NxApp] Finished enforcing display settings
+09:09:51:360 (00000416) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1918x1051
+09:09:51:360 (00000416) > [Upscaler] ConvertScreenToRenderRes: wxh = 1918x1051 | min = 959x525 | max =  1918x1051
+09:09:51:387 (00000416) > [DXGI] Resized swapchain.
+09:09:51:398 (00000328) > [Settings] New display settings are:
+09:09:51:398 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+09:09:51:398 (00000328) > [Settings] DirectX Version: 12
+09:09:51:398 (00000328) > [Settings] Window mode: Windowed
+09:09:51:398 (00000328) > [Settings] Window settings:
+09:09:51:398 (00000328) > [Settings] 	Window position: x: 240 y: 135 
+09:09:51:398 (00000328) > [Settings] 	Window size: width: 1918 height: 1051 
+09:09:51:398 (00000328) > [Settings] 	Window maximized? No
+09:09:51:398 (00000328) > [Settings] 	OS reported Refresh rate: 144
+09:09:51:398 (00000328) > [Settings] 	VSync: Half refresh rate
+09:09:51:398 (00000328) > [Settings] 	Reflex: Off
+09:09:51:398 (00000328) > [Settings] 	Frame generation: None
+09:09:51:398 (00000328) > [Settings] 	Dynamic resolution FPS target: 60
+09:09:51:398 (00000328) > [Settings] Anti aliasing: TAA
+09:09:51:398 (00000328) > [Settings] Upscale method: None
+09:09:51:398 (00000328) > [Settings] Upscale quality: Quality
+09:09:51:398 (00000328) > [Settings] Graphics Options:
+09:09:51:398 (00000328) > [Settings] 	Texture Quality: High
+09:09:51:398 (00000328) > [Settings] 	Texture Filtering: Anisotropic4x
+09:09:51:398 (00000328) > [Settings] 	Shadow Quality: High
+09:09:51:398 (00000328) > [Settings] 	Depth of Field: High
+09:09:51:398 (00000328) > [Settings] 	Level of Detail: High
+09:09:51:398 (00000328) > [Settings] 	Terrain Detail: High
+09:09:51:398 (00000328) > [Settings] 	Ambient Occlusion: SSAO Quality
+09:09:51:398 (00000328) > [Settings] 	Screen Space Reflections: Half Res
+09:09:51:398 (00000328) > [Settings] 	Screen Space Shadows: High
+09:09:51:398 (00000328) > [Settings] 	Volumetric Fog: High
+09:09:51:398 (00000328) > [Settings] 	Bloom: On
+09:09:51:398 (00000328) > [Settings] 	Vignette: On
+09:09:51:398 (00000328) > [Settings] 	Caustics: On
+09:09:51:398 (00000328) > [Settings] 	Motion Blur: 1.000000
+09:09:51:398 (00000328) > [Settings] 	FOV Correction: 1.000000
+09:09:51:398 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+09:09:51:398 (00000328) > [Settings] End of settings.
+09:09:51:398 (00000328) > [NxApp (Render Thread)] Finished enforcing display settings
+09:09:51:400 (00000328) > [NxApp] Finished enforcing display settings
+09:09:51:402 (00000416) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1440x810
+09:09:51:402 (00000416) > [Upscaler] ConvertScreenToRenderRes: wxh = 1440x810 | min = 720x405 | max =  1440x810
+09:09:51:418 (00000416) > [DXGI] Resized swapchain.
+09:09:51:427 (00000328) > [Settings] New display settings are:
+09:09:51:427 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+09:09:51:427 (00000328) > [Settings] DirectX Version: 12
+09:09:51:427 (00000328) > [Settings] Window mode: Windowed
+09:09:51:427 (00000328) > [Settings] Window settings:
+09:09:51:427 (00000328) > [Settings] 	Window position: x: 240 y: 135 
+09:09:51:427 (00000328) > [Settings] 	Window size: width: 1440 height: 810 
+09:09:51:427 (00000328) > [Settings] 	Window maximized? No
+09:09:51:427 (00000328) > [Settings] 	OS reported Refresh rate: 144
+09:09:51:428 (00000328) > [Settings] 	VSync: Half refresh rate
+09:09:51:428 (00000328) > [Settings] 	Reflex: Off
+09:09:51:428 (00000328) > [Settings] 	Frame generation: None
+09:09:51:428 (00000328) > [Settings] 	Dynamic resolution FPS target: 60
+09:09:51:428 (00000328) > [Settings] Anti aliasing: TAA
+09:09:51:428 (00000328) > [Settings] Upscale method: None
+09:09:51:428 (00000328) > [Settings] Upscale quality: Quality
+09:09:51:428 (00000328) > [Settings] Graphics Options:
+09:09:51:428 (00000328) > [Settings] 	Texture Quality: High
+09:09:51:428 (00000328) > [Settings] 	Texture Filtering: Anisotropic4x
+09:09:51:428 (00000328) > [Settings] 	Shadow Quality: High
+09:09:51:428 (00000328) > [Settings] 	Depth of Field: High
+09:09:51:428 (00000328) > [Settings] 	Level of Detail: High
+09:09:51:428 (00000328) > [Settings] 	Terrain Detail: High
+09:09:51:428 (00000328) > [Settings] 	Ambient Occlusion: SSAO Quality
+09:09:51:428 (00000328) > [Settings] 	Screen Space Reflections: Half Res
+09:09:51:428 (00000328) > [Settings] 	Screen Space Shadows: High
+09:09:51:428 (00000328) > [Settings] 	Volumetric Fog: High
+09:09:51:428 (00000328) > [Settings] 	Bloom: On
+09:09:51:428 (00000328) > [Settings] 	Vignette: On
+09:09:51:428 (00000328) > [Settings] 	Caustics: On
+09:09:51:428 (00000328) > [Settings] 	Motion Blur: 1.000000
+09:09:51:428 (00000328) > [Settings] 	FOV Correction: 1.000000
+09:09:51:428 (00000328) > [**************************************************Display + Graphics Settings**************************************************] 
+09:09:51:428 (00000328) > [Settings] End of settings.
+09:09:51:428 (00000328) > [NxApp (Render Thread)] Finished enforcing display settings
+09:09:51:430 (00000328) > [NxApp] Finished enforcing display settings
+09:09:55:651 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:09:55:651 (00000328) > [Input] XInput controller connected. index: 0
+09:09:58:662 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:09:58:662 (00000328) > [Input] XInput controller connected. index: 0
+09:10:01:675 (00000328) > [Input] Windows.Gaming.Input controller connected. index: 0
+09:10:01:675 (00000328) > [Input] XInput controller connected. index: 0
