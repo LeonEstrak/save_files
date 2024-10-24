@@ -76,6 +76,7 @@
 		"citadel_hero_roster"		"13,1,15,17,25"
 		"citadel_invert_ping_type"		"false"
 		"citadel_item_used_text_height_offset"		"25.000000"
+		"citadel_last_ranked_interval_summary_shown"		"0"
 		"citadel_new_player_flow_visible"		"true"
 		"citadel_new_player_progress"		"0"
 		"citadel_observer_roaming_speed"		"600.000000"
