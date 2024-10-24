@@ -761,8 +761,8 @@ WINE REGISTRY Version 2
 "WindowTop"=dword:00000087
 "WindowWidth"=dword:000005a0
 
-[Software\\Sucker Punch Productions\\Ghost of Tsushima DIRECTOR'S CUT\\Input] 1716203107
-#time=1daaaa593582f5e
+[Software\\Sucker Punch Productions\\Ghost of Tsushima DIRECTOR'S CUT\\Input] 1729783375
+#time=1db2628996544be
 "EnableLibScePad"=dword:00000001
 "EnableMouseSmoothing"=dword:00000001
 "EnableWindowsGamingInput"=dword:00000001
@@ -891,6 +891,7 @@ WINE REGISTRY Version 2
 "u_action_stealth_2"=dword:000003e8
 "u_action_switchreticle_1"=dword:00000010
 "u_action_switchreticle_2"=dword:000003e8
+"VoiceChatMode"=dword:00000000
 
 [Software\\Valve\\Steam] 1727709522
 #time=1db134c0906c45e
@@ -1137,8 +1138,8 @@ WINE REGISTRY Version 2
 #time=1daba8cfdc9245a
 "guid"=hex:a4,12,12,25,06,2c,0c,47,ba,37,72,f2,a1,b7,38,ec
 
-[Software\\Wine\\Fonts] 1729655585
-#time=1db24ff10c2932a
+[Software\\Wine\\Fonts] 1729783239
+#time=1db2628489284c0
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
