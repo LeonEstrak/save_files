@@ -39,12 +39,12 @@ backup:
     key: status
     reversed: false
   retention:
-    full: 1
+    full: 5
     differential: 0
   format:
-    chosen: simple
+    chosen: zip
     zip:
-      compression: deflate
+      compression: zstd
     compression:
       deflate:
         level: 6
@@ -69,7 +69,7 @@ scan:
 cloud:
   remote: ~
   path: ludusavi-backup
-  synchronize: true
+  synchronize: false
 apps:
   rclone:
     path: /home/aniket/.local/bin/rclone

@@ -12,7 +12,7 @@ RCLONE_OK=false
 ERRORS=""
 
 # Ludusavi backup
-if /home/aniket/.local/bin/ludusavi backup --no-cloud-sync --force --path "$gameBackupsPath" --format zip --compression zstd --full-limit 5; then
+if /home/aniket/.local/bin/ludusavi backup --force; then
     LUDUSAVI_OK=true
 else
     ERRORS="ludusavi backup failed"
