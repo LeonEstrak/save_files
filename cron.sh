@@ -29,7 +29,7 @@ else
 fi
 
 # Write transparency files
-TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+TIMESTAMP=$(TZ="Asia/Kolkata" date +"%Y-%m-%dT%H:%M:%S IST")
 GAME_COUNT=$(find "$gameBackupsPath" -maxdepth 1 -mindepth 1 -type d | wc -l)
 TOTAL_SIZE=$(du -sh "$gameBackupsPath" 2>/dev/null | cut -f1)
 
