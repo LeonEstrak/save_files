@@ -1,0 +1,15 @@
+# By Aniket Chakraborty
+# Licensed under GPL V2
+#
+[Unit]
+Description=Runs the ludusavi backup once at boot, then every 30 minutes
+Requires=ludusavi.backup.service
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=30min
+Persistent=true
+Unit=ludusavi.backup.service
+
+[Install]
+WantedBy=timers.target

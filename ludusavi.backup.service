@@ -1,0 +1,14 @@
+# By Aniket Chakraborty
+# Licensed under GPL V2
+#
+
+[Unit]
+Description=Run the periodic game backup using Ludusavi
+Wants=ludusavi.backup.timer
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /home/aniket/save_files/cron.sh
+
+[Install]
+WantedBy=default.target
