@@ -1,8 +1,8 @@
 {
-  "last_run": null,
-  "games_backed_up": 0,
-  "total_size": "0",
-  "ludusavi_ok": false,
-  "rclone_synced": false,
+  "last_run": "2026-05-01T16:56:47Z",
+  "games_backed_up": 76,
+  "total_size": "498M",
+  "ludusavi_ok": true,
+  "rclone_synced": true,
   "errors": ""
 }
