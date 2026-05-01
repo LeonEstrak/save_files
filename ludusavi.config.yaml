@@ -1,0 +1,84 @@
+---
+runtime:
+  threads: ~
+  networkSecurity: safe
+release:
+  check: true
+manifest:
+  enable: true
+language: en-US
+theme: dark
+roots:
+  - store: steam
+    path: /var/home/aniket/.local/share/Steam
+  - store: heroic
+    path: /var/home/aniket/.var/app/com.heroicgameslauncher.hgl/config/heroic
+  - store: steam
+    path: /var/mnt/data/SteamLibrary
+redirects: []
+backup:
+  path: /home/aniket/save_files/game_backups
+  ignoredGames: []
+  filter:
+    excludeStoreScreenshots: false
+    cloud:
+      exclude: false
+      epic: false
+      gog: false
+      origin: false
+      steam: false
+      uplay: false
+    ignoredPaths:
+      - /var/home/aniket/.local/share/PrismLauncher/instances/*/minecraft/saves/*/data/DistantHorizons.sqlite*
+    ignoredRegistry: []
+  toggledPaths:
+    Minecraft PrismLauncher:
+      "/var/home/aniket/.local/share/PrismLauncher/instances/NeoForge 1.21.1/minecraft/saves/Let's Play !/data/DistantHorizons.sqlite": false
+  toggledRegistry: {}
+  sort:
+    key: status
+    reversed: false
+  retention:
+    full: 1
+    differential: 0
+  format:
+    chosen: simple
+    zip:
+      compression: deflate
+    compression:
+      deflate:
+        level: 6
+      bzip2:
+        level: 6
+      zstd:
+        level: 10
+  onlyConstructive: false
+restore:
+  path: /home/aniket/save_files/game_backups
+  ignoredGames: []
+  toggledPaths: {}
+  toggledRegistry: {}
+  sort:
+    key: status
+    reversed: false
+  reverseRedirects: false
+scan:
+  showDeselectedGames: true
+  showUnchangedGames: true
+  showUnscannedGames: true
+cloud:
+  remote: ~
+  path: ludusavi-backup
+  synchronize: true
+apps:
+  rclone:
+    path: /home/aniket/.local/bin/rclone
+    arguments: "--fast-list --ignore-checksum"
+customGames:
+  - name: Minecraft PrismLauncher
+    integration: extend
+    files:
+      - /home/aniket/.local/share/PrismLauncher/instances/*/minecraft/saves/*
+    registry: []
+    installDir: []
+    winePrefix: []

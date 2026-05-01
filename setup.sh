@@ -111,10 +111,12 @@ fi
 
 # Create the user's systemd directory if it doesn't exist.
 mkdir -p ~/.config/systemd/user/
+mkdir -p ~/.config/ludusavi/
 
-# Copy the files, not symlinks.
-cp -f "$SERVICE_FILE" ~/.config/systemd/user/ludusavi.backup.service
-cp -f "$TIMER_FILE" ~/.config/systemd/user/ludusavi.backup.timer
+# Hardlink service/timer and ludusavi config so edits in save_files/ are immediately reflected.
+ln -f "$SERVICE_FILE" ~/.config/systemd/user/ludusavi.backup.service
+ln -f "$TIMER_FILE" ~/.config/systemd/user/ludusavi.backup.timer
+ln -f "$(dirname "$SERVICE_FILE")/ludusavi.config.yaml" ~/.config/ludusavi/config.yaml
 
 # Reload the systemd user manager to recognize the new files.
 systemctl --user daemon-reload
