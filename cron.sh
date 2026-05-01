@@ -33,17 +33,6 @@ TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 GAME_COUNT=$(find "$gameBackupsPath" -maxdepth 1 -mindepth 1 -type d | wc -l)
 TOTAL_SIZE=$(du -sh "$gameBackupsPath" 2>/dev/null | cut -f1)
 
-cat > "$directoryPath/backup_status.json" << EOF
-{
-  "last_run": "$TIMESTAMP",
-  "games_backed_up": $GAME_COUNT,
-  "total_size": "$TOTAL_SIZE",
-  "ludusavi_ok": $LUDUSAVI_OK,
-  "rclone_synced": $RCLONE_OK,
-  "errors": "$ERRORS"
-}
-EOF
-
 echo "| $TIMESTAMP | $GAME_COUNT games | $TOTAL_SIZE | ludusavi: $LUDUSAVI_OK | rclone: $RCLONE_OK |" >> "$directoryPath/backup_log.md"
 
 # Git commit (tracks README, status files, scripts — game_backups/ is gitignored)
