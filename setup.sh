@@ -116,7 +116,8 @@ mkdir -p ~/.config/ludusavi/
 # Hardlink service/timer and ludusavi config so edits in save_files/ are immediately reflected.
 ln -f "$SERVICE_FILE" ~/.config/systemd/user/ludusavi.backup.service
 ln -f "$TIMER_FILE" ~/.config/systemd/user/ludusavi.backup.timer
-ln -f "$(dirname "$SERVICE_FILE")/ludusavi.config.yaml" ~/.config/ludusavi/config.yaml
+# Symlink (not hardlink) for config: survives inode changes when the file is rewritten
+ln -sf "$(realpath "$(dirname "$SERVICE_FILE")/ludusavi.config.yaml")" ~/.config/ludusavi/config.yaml
 
 # Reload the systemd user manager to recognize the new files.
 systemctl --user daemon-reload
