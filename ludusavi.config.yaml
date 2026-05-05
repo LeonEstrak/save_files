@@ -18,7 +18,8 @@ roots:
 redirects: []
 backup:
   path: /home/aniket/save_files/game_backups
-  ignoredGames: []
+  ignoredGames:
+    - Overwatch 2
   filter:
     excludeStoreScreenshots: false
     cloud:
