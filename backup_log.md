@@ -99,3 +99,4 @@
 | 2026-05-14T22:07:30 IST | 180 games | 1.2G | ludusavi: true | rclone: true |
 | 2026-05-14T22:38:19 IST | 180 games | 1.2G | ludusavi: true | rclone: true |
 | 2026-05-14T23:08:29 IST | 180 games | 1.2G | ludusavi: true | rclone: true |
+| 2026-05-15T21:26:54 IST | 180 games | 1.2G | ludusavi: false | rclone: false |
